@@ -1,11 +1,21 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "io.github.comficker/checklist-templates",
-  "description": "Ready-made checklist templates (moving, cleaning, packing, wedding, inspections…) with printable PDF links.",
-  "repository": { "url": "https://github.com/comficker/checklist-templates", "source": "github" },
+  "description": "410 checklist templates (moving, cleaning, packing, wedding, inspections) with printable PDF links.",
+  "repository": {
+    "url": "https://github.com/comficker/checklist-templates",
+    "source": "github"
+  },
   "websiteUrl": "https://checklistforge.com/checklists",
   "version": "0.1.0",
   "packages": [
-    { "registryType": "npm", "identifier": "checklist-templates", "version": "0.1.0", "transport": { "type": "stdio" } }
+    {
+      "registryType": "npm",
+      "identifier": "checklist-templates",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
   ]
 }
