@@ -1,0 +1,164 @@
+{
+  "id": "motorcycle-maintenance-checklist",
+  "name": "Motorcycle Maintenance Checklist",
+  "description": "Routine motorcycle upkeep grouped by interval — every ride, monthly, and at major service points — covering oil, chain, tires, brakes and filters.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "service",
+    "maintenance",
+    "vehicles",
+    "motorcycle"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Every Ride or Weekly",
+      "items": [
+        {
+          "text": "Check tire pressure when cold and inspect tread"
+        },
+        {
+          "text": "Confirm brakes feel firm and respond normally"
+        },
+        {
+          "text": "Test all lights and the horn"
+        },
+        {
+          "text": "Glance under the bike for leaks"
+        },
+        {
+          "text": "Check chain or belt tension and lubrication"
+        }
+      ]
+    },
+    {
+      "title": "Engine Oil & Filter",
+      "items": [
+        {
+          "text": "Check oil level and condition on level ground when warm"
+        },
+        {
+          "text": "Change engine oil at the manual's interval",
+          "note": "Use the grade and capacity specified for your model"
+        },
+        {
+          "text": "Replace the oil filter with each oil change"
+        },
+        {
+          "text": "Inspect for oil leaks around the drain plug and gaskets"
+        },
+        {
+          "text": "Reset the service reminder if your bike has one"
+        }
+      ]
+    },
+    {
+      "title": "Chain, Sprockets & Drive",
+      "items": [
+        {
+          "text": "Clean the chain with a suitable cleaner"
+        },
+        {
+          "text": "Lubricate the chain after cleaning and before storage"
+        },
+        {
+          "text": "Adjust chain slack to the spec in your manual"
+        },
+        {
+          "text": "Inspect sprockets for hooked or worn teeth"
+        },
+        {
+          "text": "Check the belt for cracks or shaft drive oil if fitted"
+        }
+      ]
+    },
+    {
+      "title": "Brakes & Tires",
+      "items": [
+        {
+          "text": "Measure brake pad thickness and replace before the wear limit"
+        },
+        {
+          "text": "Check brake fluid level and condition; flush per schedule"
+        },
+        {
+          "text": "Inspect rotors and brake lines for wear or damage"
+        },
+        {
+          "text": "Replace tires that are worn, cracked or aged"
+        },
+        {
+          "text": "Check wheel bearings and spoke tension"
+        }
+      ]
+    },
+    {
+      "title": "Filters & Fluids",
+      "items": [
+        {
+          "text": "Clean or replace the air filter per the schedule"
+        },
+        {
+          "text": "Check and top up coolant if liquid cooled"
+        },
+        {
+          "text": "Replace coolant at the recommended interval"
+        },
+        {
+          "text": "Inspect the fuel system and replace the fuel filter if specified"
+        },
+        {
+          "text": "Service the spark plugs at the recommended mileage"
+        }
+      ]
+    },
+    {
+      "title": "Chassis & Electrical",
+      "items": [
+        {
+          "text": "Check and torque key fasteners to spec"
+        },
+        {
+          "text": "Lubricate cables, levers and pivot points"
+        },
+        {
+          "text": "Inspect suspension for leaks and correct sag"
+        },
+        {
+          "text": "Test the battery and clean the terminals"
+        },
+        {
+          "text": "Adjust steering head and wheel bearings if needed"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I change motorcycle oil?",
+      "a": "Follow the interval in your owner's manual, which is typically based on mileage and time. Many bikes call for an oil and filter change every few thousand miles or at least once a season, and severe riding conditions shorten that interval."
+    },
+    {
+      "q": "How do I keep the chain in good shape?",
+      "a": "Clean and lubricate the chain regularly, check tension and adjust it to the spec in your manual, and inspect the chain and sprockets for wear. A well-kept chain runs smoother, lasts longer and improves safety."
+    },
+    {
+      "q": "What should I check every month?",
+      "a": "Tire pressure and condition, brake pad wear and fluid levels, lights, chain tension and lubrication, and any fresh leaks. Monthly attention catches slow problems before they leave you stranded or cause a failure on the road."
+    },
+    {
+      "q": "Should I follow the manual or this checklist?",
+      "a": "Always follow your owner's manual and the manufacturer's maintenance schedule first, since intervals and specs vary by model. Use this checklist as a general supplement and hand complex jobs to a qualified mechanic."
+    },
+    {
+      "q": "Can I print this motorcycle maintenance checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it with your tools and log the date and mileage each time you service the bike."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/motorcycle-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/motorcycle-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Motorcycle Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/motorcycle-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

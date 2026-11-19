@@ -1,0 +1,198 @@
+{
+  "id": "estate-planning-checklist",
+  "name": "Estate Planning Checklist",
+  "description": "A step-by-step estate planning checklist for US households, from writing a will to listing where every document is kept.",
+  "category": "recovery-senior-care",
+  "category_name": "Recovery & Senior Care",
+  "tags": [
+    "estate-planning",
+    "wills",
+    "trusts",
+    "power-of-attorney",
+    "personal-finance"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Take Stock",
+      "items": [
+        {
+          "text": "List your assets: home, bank accounts, retirement accounts, investments, insurance, vehicles and business interests"
+        },
+        {
+          "text": "List your debts, such as mortgage, loans and credit cards"
+        },
+        {
+          "text": "Note how each asset is titled: sole name, joint, or with a beneficiary",
+          "note": "Joint accounts with right of survivorship and payable-on-death accounts pass directly to the named person, outside your will."
+        },
+        {
+          "text": "Decide who should receive what, and who you trust to handle money and health decisions"
+        }
+      ]
+    },
+    {
+      "title": "Will",
+      "items": [
+        {
+          "text": "Write a will that names who inherits your property"
+        },
+        {
+          "text": "Name an executor and a backup executor"
+        },
+        {
+          "text": "Sign the will following your state's witness rules",
+          "note": "Most states require two witnesses. Many also allow a self-proving affidavit signed before a notary, which can speed up probate."
+        },
+        {
+          "text": "Store the original somewhere safe that your executor can reach"
+        }
+      ]
+    },
+    {
+      "title": "Living Trust",
+      "items": [
+        {
+          "text": "Decide whether a revocable living trust fits your situation"
+        },
+        {
+          "text": "Name a successor trustee to take over if you die or can't manage your affairs"
+        },
+        {
+          "text": "Retitle assets into the trust, such as your home and bank accounts",
+          "note": "An unfunded trust does little. Assets left in your own name may still go through probate."
+        },
+        {
+          "text": "Sign a pour-over will to catch assets left outside the trust"
+        }
+      ]
+    },
+    {
+      "title": "Beneficiaries",
+      "items": [
+        {
+          "text": "Check the primary and backup beneficiaries on every 401(k), IRA and pension"
+        },
+        {
+          "text": "Check the beneficiaries on every life insurance policy, including any through work"
+        },
+        {
+          "text": "Add payable-on-death or transfer-on-death beneficiaries to bank and brokerage accounts where offered"
+        },
+        {
+          "text": "Remove an ex-spouse from beneficiary forms after a divorce",
+          "note": "Don't assume a divorce removes them. Many employer retirement plans pay whoever is named on the form."
+        },
+        {
+          "text": "Avoid naming a minor child directly; ask about a trust or custodial account instead"
+        }
+      ]
+    },
+    {
+      "title": "If You Can't Decide for Yourself",
+      "items": [
+        {
+          "text": "Sign a durable financial power of attorney",
+          "note": "Durable means it stays in effect if you lose capacity. Without one, your family may have to go to court to manage your money."
+        },
+        {
+          "text": "Name a health care proxy, also called a health care power of attorney"
+        },
+        {
+          "text": "Complete an advance directive or living will that states your wishes for end-of-life care"
+        },
+        {
+          "text": "Sign a HIPAA authorization so your agents can talk to your doctors"
+        },
+        {
+          "text": "Give copies to your agents and your doctor"
+        }
+      ]
+    },
+    {
+      "title": "Children, Dependents and Pets",
+      "items": [
+        {
+          "text": "Name a guardian and a backup guardian for minor children in your will"
+        },
+        {
+          "text": "Decide who will manage money left to your children until they are adults"
+        },
+        {
+          "text": "Plan care for an adult dependent with special needs",
+          "note": "Leaving money directly to someone who gets SSI or Medicaid can affect their benefits. Ask an attorney about a special needs trust."
+        },
+        {
+          "text": "Name a caregiver for pets and set aside money for their care"
+        }
+      ]
+    },
+    {
+      "title": "Digital Assets and Document List",
+      "items": [
+        {
+          "text": "List your online accounts, including email, banking, social media and cloud storage"
+        },
+        {
+          "text": "Store passwords in a password manager and plan how a trusted person can get access"
+        },
+        {
+          "text": "Set up legacy contacts where offered, such as on Apple, Google and Facebook accounts"
+        },
+        {
+          "text": "Will and trust kept at: ____"
+        },
+        {
+          "text": "Power of attorney and health care documents kept at: ____"
+        },
+        {
+          "text": "Insurance policies, deeds and account statements kept at: ____"
+        },
+        {
+          "text": "Attorney, financial advisor and accountant contact: ____"
+        }
+      ]
+    },
+    {
+      "title": "Review Triggers",
+      "items": [
+        {
+          "text": "Review after marriage, divorce, a birth or an adoption"
+        },
+        {
+          "text": "Review after the death of a beneficiary, executor, guardian or agent"
+        },
+        {
+          "text": "Review after moving to another state",
+          "note": "Your documents usually stay valid, but power of attorney and health care forms may work more smoothly on your new state's forms."
+        },
+        {
+          "text": "Next scheduled review date: ____"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need a trust or is a will enough?",
+      "a": "A will is enough for many people. A revocable living trust can make sense if you own real estate in more than one state, want to avoid probate in a state where it is slow or costly, want privacy, or want someone to manage money for heirs over time. A trust only controls assets you retitle into it."
+    },
+    {
+      "q": "Does a will override a beneficiary designation?",
+      "a": "No. Accounts with a named beneficiary, such as a 401(k), IRA or life insurance policy, go to the person on the form, even if your will says something different. Check these forms after any major life change."
+    },
+    {
+      "q": "What happens if I die without a will in the US?",
+      "a": "Your state's intestacy laws decide who inherits, usually a spouse, children or other close relatives in a fixed order. A court appoints someone to manage the estate and, if you have minor children, decides who raises them."
+    },
+    {
+      "q": "How often should I update my estate plan?",
+      "a": "Review it every three to five years and after any major event: marriage, divorce, a birth or adoption, a death in the family, a move to another state, or a large change in what you own."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/estate-planning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/estate-planning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Estate Planning Checklist by ChecklistForge (https://checklistforge.com/checklist/estate-planning-checklist)",
+  "updated": "2026-10-18"
+}

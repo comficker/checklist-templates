@@ -1,0 +1,162 @@
+{
+  "id": "acne-skincare-checklist",
+  "name": "Acne Skincare Checklist",
+  "description": "A gentle, practical checklist for caring for acne-prone skin without over-washing, irritating or picking at it.",
+  "category": "personal-care",
+  "category_name": "Personal Care",
+  "tags": [
+    "personal-care",
+    "skincare",
+    "acne-care",
+    "beauty",
+    "wellness"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Gentle Daily Routine",
+      "items": [
+        {
+          "text": "Cleanse twice a day with a mild, non-stripping cleanser"
+        },
+        {
+          "text": "Use lukewarm water and your fingertips, not rough cloths"
+        },
+        {
+          "text": "Pat skin dry gently instead of rubbing"
+        },
+        {
+          "text": "Apply a lightweight, oil-free, non-comedogenic moisturizer",
+          "note": "Hydrated skin copes better with acne treatments."
+        },
+        {
+          "text": "Use a broad-spectrum sunscreen every morning"
+        },
+        {
+          "text": "Cleanse again after heavy sweating or workouts"
+        }
+      ]
+    },
+    {
+      "title": "Ingredients That Help",
+      "items": [
+        {
+          "text": "Try benzoyl peroxide to target acne-causing bacteria"
+        },
+        {
+          "text": "Consider salicylic acid to help unclog pores"
+        },
+        {
+          "text": "Look at adapalene, an over-the-counter retinoid, for breakouts"
+        },
+        {
+          "text": "Choose products labeled non-comedogenic or oil-free"
+        },
+        {
+          "text": "Introduce one active ingredient at a time",
+          "note": "This makes it easier to see what helps and avoid irritation."
+        },
+        {
+          "text": "Give any treatment several weeks before judging it"
+        }
+      ]
+    },
+    {
+      "title": "Avoid What Irritates Skin",
+      "items": [
+        {
+          "text": "Skip harsh scrubs and rough exfoliating tools"
+        },
+        {
+          "text": "Avoid stacking too many strong actives at once"
+        },
+        {
+          "text": "Steer clear of heavy, pore-clogging oils and creams"
+        },
+        {
+          "text": "Cut back on alcohol-heavy toners that over-dry skin"
+        },
+        {
+          "text": "Stop a product if it causes burning or persistent redness",
+          "note": "Some mild dryness is normal early on; severe irritation is not."
+        }
+      ]
+    },
+    {
+      "title": "Helpful Everyday Habits",
+      "items": [
+        {
+          "text": "Avoid picking, squeezing or popping spots",
+          "note": "Picking can worsen inflammation and lead to scarring."
+        },
+        {
+          "text": "Do not over-wash; twice a day plus after sweating is enough"
+        },
+        {
+          "text": "Keep hands away from your face during the day"
+        },
+        {
+          "text": "Clean your phone screen and change pillowcases often"
+        },
+        {
+          "text": "Remove makeup before bed and choose non-comedogenic products"
+        },
+        {
+          "text": "Wash hair regularly if it is oily and touches your face"
+        }
+      ]
+    },
+    {
+      "title": "When to See a Dermatologist",
+      "items": [
+        {
+          "text": "Book a visit for moderate to severe or widespread acne"
+        },
+        {
+          "text": "Seek help for painful, deep or cystic breakouts"
+        },
+        {
+          "text": "See a professional if acne is leaving scars or dark marks"
+        },
+        {
+          "text": "Get advice if there is no improvement after about two months of care",
+          "note": "A dermatologist can offer stronger, tailored prescription options."
+        },
+        {
+          "text": "Mention any acne affecting your confidence or mood"
+        },
+        {
+          "text": "Important: this is general information, not medical advice",
+          "note": "There is no guaranteed cure; see a dermatologist for persistent, severe or scarring acne."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I wash acne-prone skin?",
+      "a": "Cleanse gently twice a day, in the morning and at night, plus after heavy sweating. Washing more often or scrubbing hard does not clear acne faster and can irritate skin, damage its barrier and make breakouts worse."
+    },
+    {
+      "q": "Which ingredients help with acne?",
+      "a": "Common over-the-counter options include benzoyl peroxide, salicylic acid and adapalene, paired with a gentle cleanser and a non-comedogenic moisturizer. Introduce one active at a time and give it several weeks to work."
+    },
+    {
+      "q": "Should I avoid moisturizer if my skin is oily?",
+      "a": "No. Skipping moisturizer can leave skin dry and irritated, especially when using acne treatments. Choose a lightweight, oil-free, non-comedogenic moisturizer so skin stays balanced while treatments do their job."
+    },
+    {
+      "q": "Can I print this acne skincare checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off your gentle routine and habits each day to stay consistent while caring for acne-prone skin."
+    },
+    {
+      "q": "When should I see a dermatologist?",
+      "a": "See a dermatologist if acne is moderate or severe, painful, cystic, scarring, or not improving after a couple of months of consistent over-the-counter care. A professional can offer stronger, tailored treatment options safely."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/acne-skincare-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/acne-skincare-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Acne Skincare Checklist by ChecklistForge (https://checklistforge.com/checklist/acne-skincare-checklist)",
+  "updated": "2026-10-17"
+}

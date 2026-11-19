@@ -1,0 +1,206 @@
+{
+  "id": "ski-trip-packing-checklist",
+  "name": "Ski Trip Packing List",
+  "description": "What to pack for a week on the mountain, from the layering system to the papers the rental shop will ask for.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "winter",
+    "travel",
+    "skiing"
+  ],
+  "item_count": 41,
+  "sections": [
+    {
+      "title": "Base layer (next to skin)",
+      "items": [
+        {
+          "text": "3-4 merino or synthetic long-sleeve tops"
+        },
+        {
+          "text": "3-4 pairs of thermal leggings"
+        },
+        {
+          "text": "4-5 pairs of ski socks, tall enough to clear the boot cuff",
+          "note": "One pair per day. Two pairs at once makes boots tighter and feet colder, not warmer."
+        },
+        {
+          "text": "No cotton anywhere in this layer"
+        }
+      ]
+    },
+    {
+      "title": "Mid layer",
+      "items": [
+        {
+          "text": "2 fleeces or light down jackets"
+        },
+        {
+          "text": "1 heavier insulated layer for cold days"
+        },
+        {
+          "text": "Neck gaiter or buff"
+        }
+      ]
+    },
+    {
+      "title": "Outer layer",
+      "items": [
+        {
+          "text": "Waterproof ski jacket"
+        },
+        {
+          "text": "Waterproof salopettes or ski trousers"
+        },
+        {
+          "text": "Ski gloves or mittens"
+        },
+        {
+          "text": "A spare pair of gloves",
+          "note": "One wet pair ends a day faster than almost anything else on this list."
+        },
+        {
+          "text": "Waterproof over-trousers if your shell is light"
+        }
+      ]
+    },
+    {
+      "title": "Equipment",
+      "items": [
+        {
+          "text": "Helmet"
+        },
+        {
+          "text": "Goggles, plus a low-light lens"
+        },
+        {
+          "text": "Sunglasses for the walk and the terrace"
+        },
+        {
+          "text": "Skis, boots and poles, or a rental booking confirmation"
+        },
+        {
+          "text": "Back protector if you ski off-piste"
+        },
+        {
+          "text": "Small backpack for water, snacks and a spare layer"
+        },
+        {
+          "text": "Boot bag"
+        },
+        {
+          "text": "Ski lock"
+        }
+      ]
+    },
+    {
+      "title": "Sun and skin",
+      "items": [
+        {
+          "text": "High-factor sunscreen for face and neck",
+          "note": "Altitude and reflected snow burn skin far faster than the temperature suggests."
+        },
+        {
+          "text": "SPF lip balm"
+        },
+        {
+          "text": "Heavy moisturiser"
+        },
+        {
+          "text": "Hand cream"
+        }
+      ]
+    },
+    {
+      "title": "Off the slopes",
+      "items": [
+        {
+          "text": "Waterproof snow boots with grip"
+        },
+        {
+          "text": "Warm hat"
+        },
+        {
+          "text": "Casual clothes for evenings"
+        },
+        {
+          "text": "Swimwear for the hotel pool or spa"
+        },
+        {
+          "text": "Indoor shoes"
+        }
+      ]
+    },
+    {
+      "title": "Documents and admin",
+      "items": [
+        {
+          "text": "Passport and travel insurance covering winter sports",
+          "note": "Standard travel policies routinely exclude skiing; check the wording rather than assuming."
+        },
+        {
+          "text": "EHIC/GHIC or equivalent health cover for the country"
+        },
+        {
+          "text": "Lift pass booking or pass from a previous season"
+        },
+        {
+          "text": "Rental booking, with height, weight and boot size noted"
+        },
+        {
+          "text": "Lesson booking confirmation"
+        },
+        {
+          "text": "Resort and emergency numbers saved offline"
+        }
+      ]
+    },
+    {
+      "title": "Useful extras",
+      "items": [
+        {
+          "text": "Hand and toe warmers"
+        },
+        {
+          "text": "Reusable water bottle"
+        },
+        {
+          "text": "Snacks for the lift queue"
+        },
+        {
+          "text": "Painkillers and blister plasters"
+        },
+        {
+          "text": "Power bank — cold flattens phone batteries fast"
+        },
+        {
+          "text": "Small cash for mountain huts"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I wear skiing?",
+      "a": "Three layers: a wicking merino or synthetic base layer, a fleece or light down mid layer, and a waterproof shell jacket and trousers. Avoid cotton at every level, because once it is damp it stops insulating and makes you colder for the rest of the day."
+    },
+    {
+      "q": "Should I rent or bring my own skis?",
+      "a": "Rent, for most people. Ski carriage fees and the risk of damage in transit usually cost more than a week's rental, and rental shops service their skis between hires. Helmets and goggles are the exception — fit matters and they pack small."
+    },
+    {
+      "q": "How many ski socks do I need?",
+      "a": "One tall pair per day, so four or five for a week. They must reach above the boot cuff, and a single pair is warmer than two: doubling up compresses the boot lining and cuts circulation."
+    },
+    {
+      "q": "Does normal travel insurance cover skiing?",
+      "a": "Often not. Many standard policies exclude winter sports or charge extra for them, and off-piste skiing is usually excluded again on top. Read the policy wording before travelling rather than at the clinic."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/ski-trip-packing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/ski-trip-packing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Ski Trip Packing List by ChecklistForge (https://checklistforge.com/checklist/ski-trip-packing-checklist)",
+  "updated": "2026-11-17"
+}

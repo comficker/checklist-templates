@@ -1,0 +1,195 @@
+{
+  "id": "hiking-checklist",
+  "name": "Hiking Checklist",
+  "description": "A day hike checklist covering the ten essentials, clothing layers, food and water, navigation and trail safety.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "outdoors",
+    "beginners",
+    "travel",
+    "hiking",
+    "day-hike"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Navigation",
+      "items": [
+        {
+          "text": "Trail map and a guidebook or printout"
+        },
+        {
+          "text": "Compass and the knowledge to use it"
+        },
+        {
+          "text": "GPS device or a phone with offline maps",
+          "note": "Download the trail map in case you lose signal."
+        },
+        {
+          "text": "Fully charged phone and a power bank"
+        },
+        {
+          "text": "Note of trail name, distance, and elevation gain"
+        }
+      ]
+    },
+    {
+      "title": "Sun and Weather Protection",
+      "items": [
+        {
+          "text": "Sunscreen and lip balm with SPF"
+        },
+        {
+          "text": "Sunglasses with UV protection"
+        },
+        {
+          "text": "Brimmed hat or cap"
+        },
+        {
+          "text": "Insect repellent"
+        },
+        {
+          "text": "Lightweight rain jacket or shell"
+        }
+      ]
+    },
+    {
+      "title": "Clothing and Footwear",
+      "items": [
+        {
+          "text": "Broken-in hiking boots or trail shoes"
+        },
+        {
+          "text": "Moisture-wicking base layer"
+        },
+        {
+          "text": "Insulating layer such as a fleece"
+        },
+        {
+          "text": "Extra socks"
+        },
+        {
+          "text": "Warm hat and gloves for higher elevations"
+        },
+        {
+          "text": "Quick-dry hiking pants or shorts"
+        }
+      ]
+    },
+    {
+      "title": "Food and Water",
+      "items": [
+        {
+          "text": "Water bottles or a hydration reservoir"
+        },
+        {
+          "text": "Water filter or tablets if refilling on the trail"
+        },
+        {
+          "text": "Trail snacks: nuts, bars, dried fruit"
+        },
+        {
+          "text": "A packed lunch for longer hikes"
+        },
+        {
+          "text": "Electrolyte mix for hot days"
+        }
+      ]
+    },
+    {
+      "title": "Safety and First Aid",
+      "items": [
+        {
+          "text": "Compact first-aid kit with blister care"
+        },
+        {
+          "text": "Headlamp or flashlight with extra batteries"
+        },
+        {
+          "text": "Whistle for signaling"
+        },
+        {
+          "text": "Emergency shelter such as a space blanket"
+        },
+        {
+          "text": "Fire starter and waterproof matches"
+        },
+        {
+          "text": "Personal medications"
+        }
+      ]
+    },
+    {
+      "title": "Tools and Extras",
+      "items": [
+        {
+          "text": "Multi-tool or knife"
+        },
+        {
+          "text": "Repair tape and a few zip ties"
+        },
+        {
+          "text": "Trekking poles for steep terrain"
+        },
+        {
+          "text": "Small trash bag to pack out litter"
+        },
+        {
+          "text": "Hand sanitizer and tissues"
+        },
+        {
+          "text": "ID and emergency contact card"
+        }
+      ]
+    },
+    {
+      "title": "Before You Go",
+      "items": [
+        {
+          "text": "Check the weather and trail conditions"
+        },
+        {
+          "text": "Tell someone your route and return time",
+          "note": "Agree on when to raise the alarm if you are overdue."
+        },
+        {
+          "text": "Confirm parking, permits, and trail access"
+        },
+        {
+          "text": "Start early to finish before dark"
+        },
+        {
+          "text": "Know your turnaround time and stick to it"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the ten essentials for hiking?",
+      "a": "The ten essentials are navigation, sun protection, insulation, illumination, first-aid supplies, fire, a repair kit and tools, nutrition, hydration, and emergency shelter. Carrying all ten means you can handle an unexpected delay or emergency on the trail."
+    },
+    {
+      "q": "What should I pack for a day hike?",
+      "a": "Pack a daypack with water, snacks, a map or GPS, sun protection, extra layers, a first-aid kit, a headlamp, and a fully charged phone. Wear broken-in footwear and dress in layers you can add or remove as conditions change."
+    },
+    {
+      "q": "How much water should I bring hiking?",
+      "a": "Plan for about half a liter of water per hour of moderate hiking, and more in heat or at altitude. Carry enough for the full route plus a reserve, or bring a filter if reliable water sources are available along the way."
+    },
+    {
+      "q": "Can I print this hiking checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you load your daypack before the trail."
+    },
+    {
+      "q": "How do I stay safe on a day hike?",
+      "a": "Check the weather and trail conditions before you go, tell someone your route and expected return time, and stay on marked trails. Carry the ten essentials, turn back if conditions worsen, and know your limits."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hiking-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hiking-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hiking Checklist by ChecklistForge (https://checklistforge.com/checklist/hiking-checklist)",
+  "updated": "2026-10-18"
+}

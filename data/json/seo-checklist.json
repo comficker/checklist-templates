@@ -1,0 +1,195 @@
+{
+  "id": "seo-checklist",
+  "name": "SEO Checklist",
+  "description": "A comprehensive SEO checklist covering on-page, technical, content and off-page optimization.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "content",
+    "seo",
+    "technical-seo"
+  ],
+  "item_count": 39,
+  "sections": [
+    {
+      "title": "Setup and foundations",
+      "items": [
+        {
+          "text": "Verify your site in Google Search Console and Bing Webmaster Tools."
+        },
+        {
+          "text": "Install and confirm analytics is recording organic traffic."
+        },
+        {
+          "text": "Submit an up-to-date XML sitemap to search engines."
+        },
+        {
+          "text": "Check your robots.txt is not blocking important pages."
+        },
+        {
+          "text": "Confirm the site uses HTTPS with a valid certificate."
+        }
+      ]
+    },
+    {
+      "title": "Keyword research and intent",
+      "items": [
+        {
+          "text": "Build a keyword list around the questions your audience asks."
+        },
+        {
+          "text": "Assign one primary keyword and a few related terms to each page."
+        },
+        {
+          "text": "Match each keyword to the right search intent and page type."
+        },
+        {
+          "text": "Identify keyword gaps your competitors rank for and you do not."
+        },
+        {
+          "text": "Map keywords to pages so two pages do not compete for the same term."
+        }
+      ]
+    },
+    {
+      "title": "On-page SEO",
+      "items": [
+        {
+          "text": "Write a unique, compelling title tag under about 60 characters."
+        },
+        {
+          "text": "Write a meta description that earns clicks and includes the keyword."
+        },
+        {
+          "text": "Use one H1 and a logical heading structure on each page."
+        },
+        {
+          "text": "Place the primary keyword naturally in the title, intro and a heading."
+        },
+        {
+          "text": "Create a short, descriptive, keyword-rich URL slug."
+        },
+        {
+          "text": "Add descriptive alt text to every meaningful image."
+        },
+        {
+          "text": "Add internal links to and from related, relevant pages."
+        }
+      ]
+    },
+    {
+      "title": "Technical SEO",
+      "items": [
+        {
+          "text": "Test and improve Core Web Vitals and page load speed."
+        },
+        {
+          "text": "Confirm the site is mobile-friendly and responsive."
+        },
+        {
+          "text": "Find and fix broken links and redirect chains."
+        },
+        {
+          "text": "Set canonical tags to prevent duplicate content issues."
+        },
+        {
+          "text": "Add relevant structured data, such as article or product schema."
+        },
+        {
+          "text": "Check crawl errors in Search Console and resolve them."
+        }
+      ]
+    },
+    {
+      "title": "Content quality",
+      "items": [
+        {
+          "text": "Ensure each page fully answers the searcher's question."
+        },
+        {
+          "text": "Make content more thorough and useful than the top results."
+        },
+        {
+          "text": "Keep paragraphs short and use lists and subheadings for scanning."
+        },
+        {
+          "text": "Update outdated facts, statistics and screenshots."
+        },
+        {
+          "text": "Add original value such as examples, data or expert insight."
+        },
+        {
+          "text": "Refresh underperforming pages and improve or merge thin content."
+        }
+      ]
+    },
+    {
+      "title": "Off-page SEO",
+      "items": [
+        {
+          "text": "Build links from relevant, reputable websites in your niche."
+        },
+        {
+          "text": "Earn mentions through guest posts, partnerships or original research."
+        },
+        {
+          "text": "Claim and optimize your Google Business Profile if you serve locally."
+        },
+        {
+          "text": "Keep your name, address and phone consistent across directories."
+        },
+        {
+          "text": "Monitor your backlink profile and disavow toxic links if needed."
+        }
+      ]
+    },
+    {
+      "title": "Track and maintain",
+      "items": [
+        {
+          "text": "Track keyword rankings for your priority pages."
+        },
+        {
+          "text": "Monitor organic traffic and clicks in Search Console."
+        },
+        {
+          "text": "Watch for indexing issues and manual actions."
+        },
+        {
+          "text": "Review which pages gain or lose traffic each month."
+        },
+        {
+          "text": "Schedule a recurring audit using this checklist."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the main parts of an SEO checklist?",
+      "a": "A complete SEO checklist covers four pillars: technical SEO that makes a site crawlable and fast, on-page SEO that signals relevance, content that answers search intent, and off-page SEO that builds authority through links and mentions."
+    },
+    {
+      "q": "How often should I run an SEO audit?",
+      "a": "Do a full audit using this checklist once or twice a year, and run the on-page and content sections every time you publish or update an important page."
+    },
+    {
+      "q": "Can beginners use this SEO checklist?",
+      "a": "Yes. The tasks are written in plain language with concrete actions, so a small business owner or beginner can follow them without specialist tools, though a free search console account helps a lot."
+    },
+    {
+      "q": "Do I need paid tools to complete this SEO checklist?",
+      "a": "No. Most items can be done with free tools like Google Search Console, a free keyword tool and a browser. Paid tools speed up research and link analysis but are optional."
+    },
+    {
+      "q": "Can I download this SEO checklist as a PDF?",
+      "a": "Yes. You can print the SEO checklist or download it as a PDF to use as a repeatable audit template across your pages."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/seo-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/seo-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "SEO Checklist by ChecklistForge (https://checklistforge.com/checklist/seo-checklist)",
+  "updated": "2026-10-17"
+}

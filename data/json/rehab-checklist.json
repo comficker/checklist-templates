@@ -1,0 +1,174 @@
+{
+  "id": "rehab-checklist",
+  "name": "Rehab Checklist",
+  "description": "A step-by-step rehab checklist to help you recover safely after an injury, surgery, or illness and track your milestones.",
+  "category": "recovery-senior-care",
+  "category_name": "Recovery & Senior Care",
+  "tags": [
+    "caregiver",
+    "senior-care",
+    "recovery",
+    "rehab"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Follow Your Recovery Plan",
+      "items": [
+        {
+          "text": "Read and keep your discharge or recovery instructions where you can see them"
+        },
+        {
+          "text": "Schedule all follow-up appointments before you leave or get home"
+        },
+        {
+          "text": "Do prescribed exercises and wound care exactly as instructed"
+        },
+        {
+          "text": "Keep a list of your medications, doses, and timing",
+          "note": "A pill organizer and phone alarms reduce missed or doubled doses."
+        },
+        {
+          "text": "Confirm activity limits, such as no lifting, driving, or stairs, and for how long"
+        },
+        {
+          "text": "Arrange any equipment you need, like a walker, raised toilet seat, or shower chair"
+        }
+      ]
+    },
+    {
+      "title": "Rest and Recover",
+      "items": [
+        {
+          "text": "Plan regular rest periods and aim for consistent, quality sleep"
+        },
+        {
+          "text": "Set up a comfortable recovery space with essentials within reach"
+        },
+        {
+          "text": "Balance approved gentle movement with rest to avoid stiffness",
+          "note": "Short, frequent walks if cleared can help circulation and mood."
+        },
+        {
+          "text": "Avoid overdoing activity on days you feel suddenly better"
+        },
+        {
+          "text": "Accept help with chores, cooking, and errands while you heal"
+        }
+      ]
+    },
+    {
+      "title": "Eat Well for Healing",
+      "items": [
+        {
+          "text": "Include protein at each meal to support tissue repair"
+        },
+        {
+          "text": "Eat plenty of fruits, vegetables, and whole grains"
+        },
+        {
+          "text": "Drink enough fluids unless your doctor has limited them"
+        },
+        {
+          "text": "Add fiber and stay hydrated to ease constipation from pain medication"
+        },
+        {
+          "text": "Follow any specific dietary restrictions from your care team"
+        },
+        {
+          "text": "Ask before starting any new supplements or large diet changes"
+        }
+      ]
+    },
+    {
+      "title": "Manage Pain Safely",
+      "items": [
+        {
+          "text": "Take pain medication only as prescribed and never double up on missed doses"
+        },
+        {
+          "text": "Track pain levels and what helps or worsens them"
+        },
+        {
+          "text": "Use approved comfort measures like ice, heat, or elevation as directed"
+        },
+        {
+          "text": "Do not mix medications or alcohol without checking with your doctor"
+        },
+        {
+          "text": "Tell your care team if pain is not controlled by the current plan"
+        }
+      ]
+    },
+    {
+      "title": "Track Milestones and Progress",
+      "items": [
+        {
+          "text": "Note daily wins, such as walking farther or needing less pain medication"
+        },
+        {
+          "text": "Record range of motion, swelling, and energy levels over time"
+        },
+        {
+          "text": "Compare your progress to the recovery timeline your team gave you"
+        },
+        {
+          "text": "Keep this log handy to share at follow-up appointments"
+        },
+        {
+          "text": "Celebrate reaching each cleared milestone to stay motivated"
+        }
+      ]
+    },
+    {
+      "title": "Watch for Warning Signs",
+      "items": [
+        {
+          "text": "Check wounds for spreading redness, swelling, drainage, or a bad odor"
+        },
+        {
+          "text": "Monitor for fever, chills, or feeling generally unwell"
+        },
+        {
+          "text": "Watch for worsening or sudden severe pain that is not relieved"
+        },
+        {
+          "text": "Seek urgent care for chest pain, trouble breathing, or sudden leg swelling"
+        },
+        {
+          "text": "Keep emergency and care-team phone numbers visible at all times"
+        },
+        {
+          "text": "Important: this checklist is general information, not medical advice; always follow the discharge instructions and guidance of your doctor and care team"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I follow a rehab plan at home?",
+      "a": "Keep your written discharge or recovery instructions somewhere visible, do prescribed exercises and wound care on schedule, and log what you complete each day. Bring questions to follow-up visits and adjust only with your care team's approval."
+    },
+    {
+      "q": "How much rest do I need during recovery?",
+      "a": "Rest needs vary by procedure and condition, but quality sleep and planned daytime rest are part of healing. Balance gentle, approved activity with recovery time rather than pushing through fatigue or staying completely inactive."
+    },
+    {
+      "q": "What foods help recovery after surgery or injury?",
+      "a": "A balanced diet with enough protein, fruits, vegetables, fiber, and fluids supports tissue repair and energy. Follow any specific dietary limits your doctor sets, and ask before adding supplements."
+    },
+    {
+      "q": "When should I call my doctor during recovery?",
+      "a": "Contact your care team for fever, spreading redness or drainage from a wound, worsening or uncontrolled pain, chest pain, trouble breathing, or sudden swelling in a leg. When in doubt, call — these can be signs that need prompt attention."
+    },
+    {
+      "q": "Is this rehab checklist a substitute for medical advice?",
+      "a": "No. It is general guidance to help you stay organized while you heal. It is not medical advice — always follow the discharge instructions and recommendations of your doctor and care team."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/rehab-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/rehab-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Rehab Checklist by ChecklistForge (https://checklistforge.com/checklist/rehab-checklist)",
+  "updated": "2026-10-17"
+}

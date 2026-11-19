@@ -1,0 +1,207 @@
+{
+  "id": "family-vacation-checklist",
+  "name": "Family Vacation Checklist",
+  "description": "A complete family vacation checklist covering documents, kids' clothing and gear, entertainment, snacks, safety and travel-day essentials.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "family",
+    "travel",
+    "kids",
+    "vacation"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Documents and Planning",
+      "items": [
+        {
+          "text": "Passports or IDs for every family member"
+        },
+        {
+          "text": "Booking confirmations and tickets"
+        },
+        {
+          "text": "Travel insurance and health cards"
+        },
+        {
+          "text": "Copies of kids' birth certificates if traveling abroad"
+        },
+        {
+          "text": "Emergency contacts and pediatrician's number"
+        },
+        {
+          "text": "Check the weather at your destination",
+          "note": "Pack layers so kids stay comfortable in any conditions."
+        }
+      ]
+    },
+    {
+      "title": "Kids' Clothing",
+      "items": [
+        {
+          "text": "Outfits for each day plus extra changes"
+        },
+        {
+          "text": "Pajamas and underwear with spares"
+        },
+        {
+          "text": "Layers, a warm top, and a rain jacket"
+        },
+        {
+          "text": "Comfortable shoes and sandals"
+        },
+        {
+          "text": "Sun hats and swimwear if needed"
+        },
+        {
+          "text": "A change of clothes in the carry-on per child"
+        }
+      ]
+    },
+    {
+      "title": "Baby and Toddler Gear",
+      "items": [
+        {
+          "text": "Diapers, wipes, and a changing pad"
+        },
+        {
+          "text": "Stroller or carrier"
+        },
+        {
+          "text": "Car seat if required"
+        },
+        {
+          "text": "Bottles, formula, or baby food"
+        },
+        {
+          "text": "Bibs, burp cloths, and a sippy cup"
+        },
+        {
+          "text": "Portable crib or travel bed if needed"
+        }
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "items": [
+        {
+          "text": "Tablet with downloaded shows and movies"
+        },
+        {
+          "text": "Headphones for each child"
+        },
+        {
+          "text": "Coloring books, crayons, and sticker books"
+        },
+        {
+          "text": "Travel games and a deck of cards"
+        },
+        {
+          "text": "Favorite small toys and a comfort item"
+        },
+        {
+          "text": "Audiobooks and a kids' playlist"
+        }
+      ]
+    },
+    {
+      "title": "Snacks and Mealtime",
+      "items": [
+        {
+          "text": "Familiar, mess-free snacks for the journey"
+        },
+        {
+          "text": "Refillable water bottles for everyone"
+        },
+        {
+          "text": "Reusable snack containers and a spill-proof cup"
+        },
+        {
+          "text": "A few treats for long travel days"
+        },
+        {
+          "text": "Wet wipes and a small trash bag"
+        },
+        {
+          "text": "Cooler bag for perishables on road trips"
+        }
+      ]
+    },
+    {
+      "title": "Health and Safety",
+      "items": [
+        {
+          "text": "Family first-aid kit with kids' pain reliever"
+        },
+        {
+          "text": "Daily medications and a thermometer"
+        },
+        {
+          "text": "Sunscreen and insect repellent"
+        },
+        {
+          "text": "Hand sanitizer and tissues"
+        },
+        {
+          "text": "Motion-sickness remedy if needed"
+        },
+        {
+          "text": "ID bracelet or a card with parents' phone numbers",
+          "note": "Helpful in case a child gets separated in a crowd."
+        }
+      ]
+    },
+    {
+      "title": "Travel-Day Essentials",
+      "items": [
+        {
+          "text": "Carry-on with snacks, wipes, and spare clothes"
+        },
+        {
+          "text": "Phone, chargers, and a power bank"
+        },
+        {
+          "text": "Light blankets and travel pillows"
+        },
+        {
+          "text": "Reusable bags for laundry and wet items"
+        },
+        {
+          "text": "Cash and cards in an accessible spot"
+        },
+        {
+          "text": "A printed itinerary so everyone knows the plan"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack for a family vacation?",
+      "a": "Pack documents for everyone, weather-appropriate clothes with spares for kids, snacks, entertainment, and a stocked health kit. Keep a carry-on with essentials like wipes, a change of clothes, and chargers within reach for travel days."
+    },
+    {
+      "q": "How do I keep kids entertained while traveling?",
+      "a": "Bring downloaded shows, audiobooks, coloring books, small toys, and travel games, plus headphones for each child. Reveal a few new surprises during long stretches, and plan breaks so kids can move and burn off energy."
+    },
+    {
+      "q": "What snacks are good for traveling with kids?",
+      "a": "Pack mess-free, familiar snacks like crackers, fruit, cheese sticks, granola bars, and water. Bring more than you think you need, keep them within easy reach, and include a few treats for long travel days."
+    },
+    {
+      "q": "Can I print this family vacation checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you pack each family member's bag and before heading home."
+    },
+    {
+      "q": "What should be in a travel carry-on for kids?",
+      "a": "Keep a change of clothes per child, wipes, diapers if needed, snacks, water, medications, a comfort item, and entertainment in the carry-on. Having these within reach prevents stress if checked bags are delayed or accidents happen."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/family-vacation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/family-vacation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Family Vacation Checklist by ChecklistForge (https://checklistforge.com/checklist/family-vacation-checklist)",
+  "updated": "2026-10-17"
+}

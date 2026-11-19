@@ -1,0 +1,176 @@
+{
+  "id": "cat-medication-checklist",
+  "name": "Cat Medication Checklist",
+  "description": "A checklist to help cat owners give pills and liquids, hide medicine in food, and track every dose with their vet's guidance.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "medication",
+    "pets",
+    "cats",
+    "care"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Before You Start",
+      "items": [
+        {
+          "text": "Confirm the medicine, dose, and timing from your vet"
+        },
+        {
+          "text": "Check whether to give with or without food"
+        },
+        {
+          "text": "Read the label for special handling notes"
+        },
+        {
+          "text": "Gather a towel, treats, and any tools you need"
+        },
+        {
+          "text": "Pick a calm time and quiet space",
+          "note": "Follow your vet's instructions exactly; never change a dose yourself"
+        }
+      ]
+    },
+    {
+      "title": "Pilling Your Cat",
+      "items": [
+        {
+          "text": "Try a pill pocket or a tiny ball of favorite food"
+        },
+        {
+          "text": "If needed, gently tip the head back and open the mouth"
+        },
+        {
+          "text": "Place the pill at the back of the tongue"
+        },
+        {
+          "text": "Close the mouth and stroke the throat to prompt a swallow"
+        },
+        {
+          "text": "Offer water or a treat and confirm it went down",
+          "note": "Do not crush or split pills unless your vet says it is safe"
+        }
+      ]
+    },
+    {
+      "title": "Hiding Meds in Food",
+      "items": [
+        {
+          "text": "Use a small, irresistible portion your cat will finish"
+        },
+        {
+          "text": "Make sure the whole dose is eaten"
+        },
+        {
+          "text": "Watch that your cat does not eat around the pill"
+        },
+        {
+          "text": "Avoid mixing into a full meal that may be left"
+        },
+        {
+          "text": "Confirm with your vet that food is allowed for this medicine"
+        }
+      ]
+    },
+    {
+      "title": "Giving Liquids & Topicals",
+      "items": [
+        {
+          "text": "Measure the liquid exactly with the supplied syringe"
+        },
+        {
+          "text": "Aim into the cheek pouch and give slowly"
+        },
+        {
+          "text": "Let your cat swallow before giving more"
+        },
+        {
+          "text": "For topicals, part the fur and apply to skin if directed"
+        },
+        {
+          "text": "Prevent licking until the area is dry"
+        }
+      ]
+    },
+    {
+      "title": "Tracking Doses",
+      "items": [
+        {
+          "text": "Log the date, time, and dose for each medicine"
+        },
+        {
+          "text": "Note who gave it when sharing duties"
+        },
+        {
+          "text": "Mark any missed or refused dose"
+        },
+        {
+          "text": "Record side effects like vomiting, hiding, or low appetite"
+        },
+        {
+          "text": "Bring the log to recheck appointments",
+          "note": "Do not double a dose to make up a missed one without vet advice"
+        }
+      ]
+    },
+    {
+      "title": "Storage & Refills",
+      "items": [
+        {
+          "text": "Keep medicine in its original labeled container"
+        },
+        {
+          "text": "Store at the temperature the label requires"
+        },
+        {
+          "text": "Keep all products out of your cat's reach"
+        },
+        {
+          "text": "Order refills before you run out"
+        },
+        {
+          "text": "Dispose of expired or unused medicine safely"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; only your vet can set the right medicine and dose for your cat, so always consult a licensed veterinarian",
+          "note": "If your cat has a bad reaction or you suspect an overdose, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I give a cat a pill?",
+      "a": "Many owners use a pill pocket or hide the pill in a small amount of food, or gently place it at the back of the tongue and encourage a swallow. Stay calm, follow your vet's instructions, and confirm the pill went down."
+    },
+    {
+      "q": "Can I hide my cat's medicine in food?",
+      "a": "Often yes, but check first, since some medicines must be given without food or should not be crushed. Use a small treat your cat will finish so you know the full dose was eaten, and confirm with your vet."
+    },
+    {
+      "q": "What if my cat won't take the medicine?",
+      "a": "Note it in your log and do not force a struggle that could hurt either of you. Ask your veterinarian about alternatives like flavored formulas or different methods if dosing is consistently difficult."
+    },
+    {
+      "q": "How can I reduce stress when medicating my cat?",
+      "a": "Choose a quiet time, wrap your cat gently in a towel if needed, work quickly and calmly, and reward afterward. A steady routine helps your cat learn the process is brief and safe."
+    },
+    {
+      "q": "Is this cat medication checklist printable?",
+      "a": "Yes. Print it or download the PDF, log each dose and time, and use it to keep your cat's treatment on schedule."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cat-medication-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cat-medication-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cat Medication Checklist by ChecklistForge (https://checklistforge.com/checklist/cat-medication-checklist)",
+  "updated": "2026-10-17"
+}

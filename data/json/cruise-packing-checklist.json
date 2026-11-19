@@ -1,0 +1,188 @@
+{
+  "id": "cruise-packing-checklist",
+  "name": "Cruise Packing Checklist",
+  "description": "A complete cruise packing checklist covering documents, formal and casual attire, cabin essentials, shore-excursion gear and what not to bring.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "documents",
+    "vacation",
+    "cruise"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Documents and Money",
+      "items": [
+        {
+          "text": "Passport or required ID and any visas"
+        },
+        {
+          "text": "Cruise boarding pass and luggage tags"
+        },
+        {
+          "text": "Booking confirmation and shore-excursion tickets"
+        },
+        {
+          "text": "Travel insurance details"
+        },
+        {
+          "text": "Credit card and some cash for ports"
+        },
+        {
+          "text": "Printed copies of key documents as backup",
+          "note": "Store copies separately from the originals."
+        }
+      ]
+    },
+    {
+      "title": "Formal and Evening Wear",
+      "items": [
+        {
+          "text": "At least one formal outfit per formal night",
+          "note": "Check your cruise line's dress code before you pack."
+        },
+        {
+          "text": "Dress shoes or smart sandals"
+        },
+        {
+          "text": "Accessories: jewelry, tie, or a clutch"
+        },
+        {
+          "text": "A wrap or light jacket for cool dining rooms"
+        },
+        {
+          "text": "Smart-casual outfits for regular dinners"
+        }
+      ]
+    },
+    {
+      "title": "Casual and Daywear",
+      "items": [
+        {
+          "text": "T-shirts, shorts, and breathable daywear"
+        },
+        {
+          "text": "Two swimsuits and a cover-up"
+        },
+        {
+          "text": "Comfortable walking shoes for ports"
+        },
+        {
+          "text": "Flip-flops or pool sandals"
+        },
+        {
+          "text": "A light sweater for air-conditioned areas"
+        },
+        {
+          "text": "Workout clothes if you plan to use the gym"
+        }
+      ]
+    },
+    {
+      "title": "Cabin and Toiletry Essentials",
+      "items": [
+        {
+          "text": "Toiletries and travel-sized shampoo"
+        },
+        {
+          "text": "Sunscreen and after-sun lotion"
+        },
+        {
+          "text": "Daily medications and motion-sickness remedy"
+        },
+        {
+          "text": "Small first-aid kit and pain relievers"
+        },
+        {
+          "text": "A power bank and the right charging cables"
+        },
+        {
+          "text": "A magnetic hook or two for the metal cabin walls"
+        },
+        {
+          "text": "A nightlight and a lanyard for your cruise card"
+        }
+      ]
+    },
+    {
+      "title": "Shore Excursions and Day Bag",
+      "items": [
+        {
+          "text": "Small day pack for off-ship trips"
+        },
+        {
+          "text": "Reusable water bottle"
+        },
+        {
+          "text": "Hat, sunglasses, and sunscreen"
+        },
+        {
+          "text": "Waterproof phone pouch"
+        },
+        {
+          "text": "Snorkel gear if not provided"
+        },
+        {
+          "text": "Cash in local currency for ports"
+        },
+        {
+          "text": "Carry-on with day-one essentials for embarkation"
+        }
+      ]
+    },
+    {
+      "title": "What Not to Bring",
+      "items": [
+        {
+          "text": "Irons and steamers (usually banned)"
+        },
+        {
+          "text": "Candles or anything with an open flame"
+        },
+        {
+          "text": "Surge-protected power strips"
+        },
+        {
+          "text": "Drones unless explicitly allowed"
+        },
+        {
+          "text": "Large quantities of alcohol",
+          "note": "Most lines limit or prohibit bringing your own alcohol."
+        },
+        {
+          "text": "Anything on your cruise line's prohibited-items list"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack for a cruise?",
+      "a": "Pack your travel documents, casual daywear, swimwear, at least one formal outfit, comfortable shoes, and toiletries. Add a small carry-on with day-one essentials since checked bags may not reach your cabin for several hours."
+    },
+    {
+      "q": "What should I wear on formal night?",
+      "a": "Most lines suggest cocktail or semi-formal attire, such as a dress or a suit, for formal evenings. Check your cruise line's dress code in advance and pack at least one dressier outfit per formal night listed on your itinerary."
+    },
+    {
+      "q": "What can't you bring on a cruise?",
+      "a": "Cruise lines typically ban irons, candles, drones, and large amounts of alcohol, and they restrict power strips with surge protectors. Review your line's prohibited-items list before you pack to avoid having things confiscated at the terminal."
+    },
+    {
+      "q": "Can I print this cruise packing checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you pack and again when you disembark."
+    },
+    {
+      "q": "Do I need a carry-on for embarkation day?",
+      "a": "Yes. Pack a small carry-on with medications, swimwear, sunscreen, and a change of clothes because your checked luggage may take several hours to arrive at your cabin after boarding."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cruise-packing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cruise-packing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cruise Packing Checklist by ChecklistForge (https://checklistforge.com/checklist/cruise-packing-checklist)",
+  "updated": "2026-10-18"
+}

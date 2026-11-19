@@ -1,0 +1,146 @@
+{
+  "id": "first-apartment-checklist",
+  "name": "First Apartment Checklist",
+  "description": "Everything a first-time renter needs to buy and set up for a first apartment.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "renters",
+    "first-apartment",
+    "new-home",
+    "essentials",
+    "budget"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Before You Move In",
+      "items": [
+        {
+          "text": "Set up electricity, gas, water and internet accounts"
+        },
+        {
+          "text": "Buy renters insurance"
+        },
+        {
+          "text": "Get keys, mailbox key and a copy if allowed"
+        },
+        {
+          "text": "Take photos of any existing damage for your records"
+        },
+        {
+          "text": "Set up bill autopay and a simple monthly budget"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen Essentials",
+      "items": [
+        {
+          "text": "Pots, a frying pan and a baking sheet"
+        },
+        {
+          "text": "Chef's knife, cutting board and basic utensils"
+        },
+        {
+          "text": "Plates, bowls, cups and cutlery"
+        },
+        {
+          "text": "Can opener, measuring cups and a colander"
+        },
+        {
+          "text": "Dish soap, sponges, dish towels and trash bags"
+        },
+        {
+          "text": "Food storage containers and aluminum foil"
+        }
+      ]
+    },
+    {
+      "title": "Bedroom & Bathroom",
+      "items": [
+        {
+          "text": "Bed, mattress, pillows and two sets of sheets"
+        },
+        {
+          "text": "Towels, bath mat and a shower curtain with liner"
+        },
+        {
+          "text": "Toilet paper, hand soap and toiletries"
+        },
+        {
+          "text": "Toilet brush and plunger"
+        },
+        {
+          "text": "Hangers and a laundry basket"
+        }
+      ]
+    },
+    {
+      "title": "Cleaning Supplies",
+      "items": [
+        {
+          "text": "All-purpose cleaner and a bathroom cleaner"
+        },
+        {
+          "text": "Broom, dustpan and a mop or sweeper"
+        },
+        {
+          "text": "Vacuum or carpet sweeper"
+        },
+        {
+          "text": "Paper towels, microfiber cloths and trash cans"
+        },
+        {
+          "text": "Rubber gloves and a small bucket"
+        }
+      ]
+    },
+    {
+      "title": "Living Room & Essentials",
+      "items": [
+        {
+          "text": "Somewhere to sit — sofa, futon or chairs"
+        },
+        {
+          "text": "A small table or desk"
+        },
+        {
+          "text": "Lamps, light bulbs and an extension cord or power strip"
+        },
+        {
+          "text": "Curtains or blinds for privacy"
+        },
+        {
+          "text": "Basic toolkit: screwdriver, hammer, tape measure"
+        },
+        {
+          "text": "First-aid kit and a fire extinguisher"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I buy first for a first apartment?",
+      "a": "Buy the daily essentials first: a bed and bedding, basic kitchen gear to cook a meal, toilet paper and toiletries, cleaning supplies, and a place to sit. Add nice-to-haves once the basics are covered."
+    },
+    {
+      "q": "How much does it cost to furnish a first apartment?",
+      "a": "Budget a few hundred to a couple of thousand, depending on what you buy new. Save money with secondhand furniture, hand-me-downs, and by spreading non-essential purchases over your first few months."
+    },
+    {
+      "q": "What do people forget to buy for a first apartment?",
+      "a": "Commonly forgotten items include a plunger, a first-aid kit, a trash can and bags, light bulbs, an extension cord, basic tools, and a shower curtain. This checklist includes them so you don't get caught out."
+    },
+    {
+      "q": "Is this first apartment checklist printable?",
+      "a": "Yes. Print it or download the PDF and tick items off as you shop, so you only buy what you still need."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/first-apartment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/first-apartment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "First Apartment Checklist by ChecklistForge (https://checklistforge.com/checklist/first-apartment-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,210 @@
+{
+  "id": "go-bag-checklist",
+  "name": "Go Bag Checklist",
+  "description": "A grab-and-go evacuation bag, packed in advance for the moment there is no time to think.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "emergency",
+    "family",
+    "safety",
+    "evacuation"
+  ],
+  "item_count": 41,
+  "sections": [
+    {
+      "title": "Documents (copies, sealed in a waterproof bag)",
+      "items": [
+        {
+          "text": "Passports, driving licences and birth certificates"
+        },
+        {
+          "text": "Insurance policies: home, car, health, life"
+        },
+        {
+          "text": "Deeds, lease or mortgage papers"
+        },
+        {
+          "text": "Bank and credit card details"
+        },
+        {
+          "text": "A printed list of emergency contacts",
+          "note": "Written on paper, because a dead phone takes your contacts with it."
+        },
+        {
+          "text": "Medical records, allergies and prescriptions"
+        },
+        {
+          "text": "A USB drive with scans of everything above"
+        },
+        {
+          "text": "Recent photos of family members and pets",
+          "note": "Used to identify them if you are separated."
+        }
+      ]
+    },
+    {
+      "title": "Water and food",
+      "items": [
+        {
+          "text": "One litre of water per person, plus a filter or purification tablets"
+        },
+        {
+          "text": "Three days of food that needs no cooking"
+        },
+        {
+          "text": "A manual can opener if any of it is tinned"
+        },
+        {
+          "text": "Food for any dietary restriction in the household",
+          "note": "Shelters rarely cater for allergies or infant formula."
+        }
+      ]
+    },
+    {
+      "title": "Medication and first aid",
+      "items": [
+        {
+          "text": "Seven days of every prescription medicine"
+        },
+        {
+          "text": "A written list of medicines with doses and prescriber"
+        },
+        {
+          "text": "First aid kit with bandages, antiseptic and painkillers"
+        },
+        {
+          "text": "Spare glasses, contact lenses and solution"
+        },
+        {
+          "text": "Hearing aid batteries or other device spares"
+        },
+        {
+          "text": "Diary a date to rotate anything with an expiry",
+          "note": "Set a calendar reminder every six months; this is the step that gets skipped."
+        }
+      ]
+    },
+    {
+      "title": "Power and communication",
+      "items": [
+        {
+          "text": "Power bank, charged, plus cables for every device"
+        },
+        {
+          "text": "Hand-crank or battery radio"
+        },
+        {
+          "text": "Torch and spare batteries"
+        },
+        {
+          "text": "Whistle"
+        },
+        {
+          "text": "Paper map of the area with two routes out marked",
+          "note": "Phone navigation fails when the network is down or towers burn."
+        }
+      ]
+    },
+    {
+      "title": "Cash and keys",
+      "items": [
+        {
+          "text": "Cash in small notes",
+          "note": "Card readers need power and a network; neither is reliable in an evacuation."
+        },
+        {
+          "text": "Spare house and car keys"
+        },
+        {
+          "text": "A written note of where the household will meet"
+        }
+      ]
+    },
+    {
+      "title": "Clothing and shelter",
+      "items": [
+        {
+          "text": "One change of clothing per person"
+        },
+        {
+          "text": "Sturdy closed shoes"
+        },
+        {
+          "text": "Rain jacket or poncho"
+        },
+        {
+          "text": "Emergency blanket or sleeping bag"
+        },
+        {
+          "text": "Work gloves"
+        },
+        {
+          "text": "N95 masks",
+          "note": "Smoke and demolition dust are the common hazards after a fire or quake."
+        }
+      ]
+    },
+    {
+      "title": "People who need their own bag",
+      "items": [
+        {
+          "text": "Infants: formula, bottles, nappies, wipes"
+        },
+        {
+          "text": "Children: one comfort item each",
+          "note": "Small thing, large difference on the first night away."
+        },
+        {
+          "text": "Older adults: mobility aids, spare batteries, care plan"
+        },
+        {
+          "text": "Pets: carrier, lead, food, vaccination records"
+        }
+      ]
+    },
+    {
+      "title": "Keeping it ready",
+      "items": [
+        {
+          "text": "Store the bag where you can reach it without going upstairs"
+        },
+        {
+          "text": "Tell everyone in the house where it is"
+        },
+        {
+          "text": "Recharge the power bank every few months"
+        },
+        {
+          "text": "Review the whole bag twice a year"
+        },
+        {
+          "text": "Re-cut it as children grow or medication changes"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between a go bag and an emergency kit?",
+      "a": "A go bag is carried out of the house during an evacuation and holds what you need for the first 72 hours away. An emergency kit stays home and supports you sheltering in place. Many households keep both, with documents and medication duplicated in the go bag."
+    },
+    {
+      "q": "How much water should a go bag hold?",
+      "a": "About one litre per person is the practical limit before the bag becomes too heavy to carry, so pair it with a filter or purification tablets rather than trying to carry three days of drinking water."
+    },
+    {
+      "q": "Where should the go bag be kept?",
+      "a": "By the door you would actually leave through, or in the car if you are likely to drive out. Anywhere that needs stairs or a search is too far — the bag is useless if you cannot reach it in the minutes you have."
+    },
+    {
+      "q": "How often should it be checked?",
+      "a": "Twice a year is the usual rhythm, tied to something you already remember such as clock changes. Check expiry dates on food, water and medication, recharge the power bank, and swap children's clothing for the current size."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/go-bag-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/go-bag-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Go Bag Checklist by ChecklistForge (https://checklistforge.com/checklist/go-bag-checklist)",
+  "updated": "2026-11-17"
+}

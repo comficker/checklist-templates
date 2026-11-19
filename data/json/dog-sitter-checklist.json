@@ -1,0 +1,185 @@
+{
+  "id": "dog-sitter-checklist",
+  "name": "Dog Sitter Checklist",
+  "description": "A dog sitter checklist for owners covering walks, feeding, commands, vet info and emergencies.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "dogs",
+    "dog-sitter",
+    "walking"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Feeding instructions",
+      "items": [
+        {
+          "text": "List the food type, amount and exact feeding times."
+        },
+        {
+          "text": "Show where food, treats and bowls are stored."
+        },
+        {
+          "text": "Pre-portion meals to make feeding easy."
+        },
+        {
+          "text": "Note allergies and any unsafe foods."
+        },
+        {
+          "text": "Explain treat rules and training treats."
+        },
+        {
+          "text": "Describe how to refresh water throughout the day."
+        }
+      ]
+    },
+    {
+      "title": "Walks and exercise",
+      "items": [
+        {
+          "text": "Note walk times, length and the usual route."
+        },
+        {
+          "text": "Specify the harness, collar and leash to use."
+        },
+        {
+          "text": "Explain leash behavior, pulling or reactivity."
+        },
+        {
+          "text": "Describe recall reliability and off-leash rules."
+        },
+        {
+          "text": "List potty break times and habits."
+        },
+        {
+          "text": "Mention weather limits for walks.",
+          "note": "For leash or reactivity issues, a professional trainer can help long term."
+        }
+      ]
+    },
+    {
+      "title": "Commands and behavior",
+      "items": [
+        {
+          "text": "List commands your dog knows and the exact cue words."
+        },
+        {
+          "text": "Explain how your dog responds to sit, stay and come."
+        },
+        {
+          "text": "Note leave it and drop it for safety."
+        },
+        {
+          "text": "Describe house rules, like furniture or door manners."
+        },
+        {
+          "text": "Flag behaviors to avoid reinforcing."
+        },
+        {
+          "text": "Share how your dog signals stress or needs."
+        }
+      ]
+    },
+    {
+      "title": "Daily routine and comforts",
+      "items": [
+        {
+          "text": "Outline the typical day from morning to night."
+        },
+        {
+          "text": "Note crate or sleeping arrangements."
+        },
+        {
+          "text": "List favorite toys and comfort items."
+        },
+        {
+          "text": "Explain alone-time tolerance and limits."
+        },
+        {
+          "text": "Describe play, enrichment and downtime needs."
+        },
+        {
+          "text": "Mention any anxieties or fears."
+        }
+      ]
+    },
+    {
+      "title": "Vet and health info",
+      "items": [
+        {
+          "text": "Share your veterinarian's name and number."
+        },
+        {
+          "text": "List medications, doses and timing clearly."
+        },
+        {
+          "text": "Note any medical conditions or allergies."
+        },
+        {
+          "text": "Include microchip details and a recent photo."
+        },
+        {
+          "text": "Confirm vaccine and parasite prevention is current."
+        },
+        {
+          "text": "Verify medication instructions with your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Emergencies and contacts",
+      "items": [
+        {
+          "text": "Provide your phone number and travel dates."
+        },
+        {
+          "text": "List a local backup contact who can step in."
+        },
+        {
+          "text": "Note the nearest emergency vet clinic and address."
+        },
+        {
+          "text": "Authorize emergency care and note any cost limits."
+        },
+        {
+          "text": "Explain how to lock up and secure the home."
+        },
+        {
+          "text": "Confirm visit times and how to send you updates."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Confirm medication and health instructions with your veterinarian and consult a professional trainer for serious behavior concerns."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I tell a dog sitter about walks?",
+      "a": "Note walk times, length, the usual route and how your dog behaves on leash. Mention pulling, reactivity to other dogs, or recall reliability. Specify gear like harness or collar. For leash or reactivity problems, a professional trainer can offer longer-term help."
+    },
+    {
+      "q": "How do I explain feeding to a dog sitter?",
+      "a": "List the food type, amount and exact feeding times, plus treat rules and any allergies. Show where food and bowls are kept and how to refresh water. Pre-portioning meals makes it simple. Note any foods that are unsafe for your dog."
+    },
+    {
+      "q": "Which commands should I share?",
+      "a": "List the commands your dog reliably knows, such as sit, stay, come and leave it, and the exact cue words you use. Consistent words help the sitter manage your dog safely. Mention any behaviors to avoid reinforcing while you are away."
+    },
+    {
+      "q": "What vet and emergency info should I leave?",
+      "a": "Leave your veterinarian's name and number, the nearest emergency clinic, your contact details and a local backup contact. Include microchip information and any medical conditions. Authorize emergency care and note any cost limits so the sitter can act quickly."
+    },
+    {
+      "q": "Can I download this dog sitter checklist as a PDF?",
+      "a": "Yes. You can print it for the counter or download it as a PDF to share with your sitter, so owners can leave clear instructions for walks, feeding and care of their dog."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-sitter-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-sitter-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Sitter Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-sitter-checklist)",
+  "updated": "2026-10-17"
+}

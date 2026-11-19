@@ -1,0 +1,186 @@
+{
+  "id": "vegan-grocery-checklist",
+  "name": "Vegan Grocery Checklist",
+  "description": "A plant-based shopping list organized by category, from produce and legumes to whole grains, plant milks and nuts.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "groceries",
+    "family",
+    "nutrition",
+    "vegan",
+    "plant-based"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Fresh Produce",
+      "items": [
+        {
+          "text": "Leafy greens: spinach, kale, romaine"
+        },
+        {
+          "text": "Cruciferous veg: broccoli, cauliflower, cabbage"
+        },
+        {
+          "text": "Colorful veg: peppers, carrots, tomatoes"
+        },
+        {
+          "text": "Onions, garlic and fresh herbs"
+        },
+        {
+          "text": "Berries, apples, bananas and seasonal fruit"
+        },
+        {
+          "text": "Avocados and citrus",
+          "note": "Aim for a wide range of colors for varied nutrients."
+        }
+      ]
+    },
+    {
+      "title": "Legumes & Plant Proteins",
+      "items": [
+        {
+          "text": "Dried or low-sodium canned beans (black, kidney, cannellini)"
+        },
+        {
+          "text": "Lentils and split peas"
+        },
+        {
+          "text": "Chickpeas and hummus"
+        },
+        {
+          "text": "Firm and silken tofu"
+        },
+        {
+          "text": "Tempeh"
+        },
+        {
+          "text": "Edamame and seitan",
+          "note": "Include a protein source at most meals."
+        }
+      ]
+    },
+    {
+      "title": "Whole Grains & Starches",
+      "items": [
+        {
+          "text": "Rolled or steel-cut oats"
+        },
+        {
+          "text": "Brown rice and quinoa"
+        },
+        {
+          "text": "Whole-grain bread and wraps"
+        },
+        {
+          "text": "Whole-grain pasta"
+        },
+        {
+          "text": "Potatoes and sweet potatoes"
+        },
+        {
+          "text": "Barley, farro or buckwheat",
+          "note": "Whole grains add fiber and pair well with legumes."
+        }
+      ]
+    },
+    {
+      "title": "Plant Milks & Dairy Alternatives",
+      "items": [
+        {
+          "text": "Unsweetened soy, oat or almond milk"
+        },
+        {
+          "text": "Calcium-fortified plant milk",
+          "note": "Fortified options help replace dairy calcium."
+        },
+        {
+          "text": "Dairy-free yogurt, ideally fortified"
+        },
+        {
+          "text": "Vegan cheese for occasional use"
+        },
+        {
+          "text": "Plant-based butter or spread"
+        }
+      ]
+    },
+    {
+      "title": "Nuts, Seeds & Healthy Fats",
+      "items": [
+        {
+          "text": "Almonds, walnuts and cashews"
+        },
+        {
+          "text": "Natural peanut or almond butter"
+        },
+        {
+          "text": "Chia and ground flaxseed"
+        },
+        {
+          "text": "Pumpkin and sunflower seeds"
+        },
+        {
+          "text": "Tahini"
+        },
+        {
+          "text": "Extra-virgin olive oil",
+          "note": "Flax, chia and walnuts provide plant omega-3s."
+        }
+      ]
+    },
+    {
+      "title": "Pantry, Fortified Foods & Extras",
+      "items": [
+        {
+          "text": "Nutritional yeast for a cheesy, B-vitamin boost"
+        },
+        {
+          "text": "Vitamin B12 supplement or B12-fortified foods",
+          "note": "B12 is essential on a vegan diet and not reliable from plants alone."
+        },
+        {
+          "text": "No-salt-added canned tomatoes and coconut milk"
+        },
+        {
+          "text": "Low-sodium vegetable broth and spices"
+        },
+        {
+          "text": "Frozen vegetables and fruit"
+        },
+        {
+          "text": "Important: this is general information, not nutritional or medical advice",
+          "note": "For a balanced vegan diet and any supplements, consult a doctor or registered dietitian."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a vegan diet?",
+      "a": "A vegan diet excludes all animal products, including meat, fish, dairy, eggs and honey. It is built around vegetables, fruit, legumes, whole grains, nuts, seeds and plant-based alternatives. With a little planning it can cover your nutritional needs."
+    },
+    {
+      "q": "Where do vegans get protein?",
+      "a": "Plant protein comes from beans, lentils, chickpeas, tofu, tempeh, edamame, seitan, nuts, seeds and whole grains. Including a protein source at each meal and eating a variety of plants across the day helps you get enough."
+    },
+    {
+      "q": "Do I need any supplements on a vegan diet?",
+      "a": "Vitamin B12 is the key one, since it is not reliably found in plant foods, so a supplement or fortified foods are recommended. Many people also consider vitamin D, omega-3 and iodine. Ask a doctor or dietitian about what is right for you."
+    },
+    {
+      "q": "Can I print this vegan grocery checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF to take to the store, ticking off each plant-based staple by category as you shop."
+    },
+    {
+      "q": "Is this nutritional advice?",
+      "a": "No. This is general information, not medical or dietary advice. For a balanced vegan diet, especially for children, during pregnancy or with a health condition, consult your doctor or a registered dietitian."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/vegan-grocery-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/vegan-grocery-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Vegan Grocery Checklist by ChecklistForge (https://checklistforge.com/checklist/vegan-grocery-checklist)",
+  "updated": "2026-10-17"
+}

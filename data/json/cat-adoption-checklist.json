@@ -1,0 +1,182 @@
+{
+  "id": "cat-adoption-checklist",
+  "name": "Cat Adoption Checklist",
+  "description": "A cat adoption checklist guiding new owners through adopting a cat, from shelter visit to cat-proofing and first days home.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "adoption",
+    "new-cat"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Before you adopt a cat",
+      "items": [
+        {
+          "text": "Assess your space and whether your cat will be indoor or have safe access outside."
+        },
+        {
+          "text": "Decide on an age and temperament that fits your lifestyle."
+        },
+        {
+          "text": "Confirm housing rules, pet deposits, and any limits if you rent."
+        },
+        {
+          "text": "Budget for food, litter, vet care, and supplies."
+        },
+        {
+          "text": "Discuss responsibilities and a daily routine with your household."
+        },
+        {
+          "text": "Consider how a cat will fit with children or existing pets."
+        }
+      ]
+    },
+    {
+      "title": "Visiting the shelter or rescue",
+      "items": [
+        {
+          "text": "Research reputable shelters, humane societies, and cat rescues."
+        },
+        {
+          "text": "Confirm hours and whether you need an appointment.",
+          "note": "Call ahead to be sure a cat is still available."
+        },
+        {
+          "text": "Watch how cats respond to people and to gentle approach."
+        },
+        {
+          "text": "Ask staff about each cat's history, health, and personality."
+        },
+        {
+          "text": "Note which cats match your criteria for a follow-up meet."
+        },
+        {
+          "text": "Be patient if the right cat is not there on your first visit."
+        }
+      ]
+    },
+    {
+      "title": "Meeting and matching",
+      "items": [
+        {
+          "text": "Sit calmly and let the cat approach you on its own terms."
+        },
+        {
+          "text": "Watch body language for relaxation, fear, or overstimulation."
+        },
+        {
+          "text": "Note whether the cat seeks attention or prefers space."
+        },
+        {
+          "text": "Ask about litter habits and behavior with other animals."
+        },
+        {
+          "text": "Introduce household members gently during the meet."
+        },
+        {
+          "text": "Choose based on personality fit, not only looks."
+        }
+      ]
+    },
+    {
+      "title": "Adoption paperwork and fees",
+      "items": [
+        {
+          "text": "Confirm the adoption fee and what it includes."
+        },
+        {
+          "text": "Collect vaccination, spay or neuter, and microchip records."
+        },
+        {
+          "text": "Sign the adoption contract and keep your copy."
+        },
+        {
+          "text": "Update the microchip registration to your details."
+        },
+        {
+          "text": "Get the cat's current food and the litter type it knows."
+        },
+        {
+          "text": "Ask about any recommended follow-up vet care."
+        }
+      ]
+    },
+    {
+      "title": "Cat-proofing your home",
+      "items": [
+        {
+          "text": "Remove toxic plants, foods, and household chemicals."
+        },
+        {
+          "text": "Secure cords, blinds, and small swallowable objects."
+        },
+        {
+          "text": "Close off unsafe gaps, balconies, and tilting windows."
+        },
+        {
+          "text": "Set up a litter box in a quiet, low-traffic spot."
+        },
+        {
+          "text": "Provide food, water, a bed, and a scratching post."
+        },
+        {
+          "text": "Create a safe room where your cat can decompress at first."
+        }
+      ]
+    },
+    {
+      "title": "First days home",
+      "items": [
+        {
+          "text": "Start your cat in one quiet room before the whole house."
+        },
+        {
+          "text": "Keep noise, visitors, and changes to a minimum."
+        },
+        {
+          "text": "Show your cat the litter box, food, and water early."
+        },
+        {
+          "text": "Let your cat explore at its own pace without forcing contact."
+        },
+        {
+          "text": "Introduce existing pets slowly through scent and supervised meets."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Schedule a checkup and consult a veterinarian about vaccinations, parasite prevention, and your cat's health."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I choose the right cat to adopt?",
+      "a": "Consider age, temperament, and energy alongside whether you want a lap cat or an independent companion. Spend time with the cat, ask about its history, and think about how it will fit with children or other pets. A calm, honest assessment leads to a better match."
+    },
+    {
+      "q": "What should I ask the shelter about a cat?",
+      "a": "Ask about age, health, vaccination and spay or neuter status, litter habits, behavior with people and animals, and any special needs. Reputable shelters share what they know, which helps you prepare and plan your veterinarian visit."
+    },
+    {
+      "q": "How do I cat-proof my home before adoption?",
+      "a": "Secure or remove toxic plants and chemicals, tuck away cords and small swallowable items, close off unsafe gaps, and secure windows and balconies. Set up a litter box, food, water, and a quiet retreat before your cat arrives."
+    },
+    {
+      "q": "How is this different from the new kitten checklist?",
+      "a": "This cat adoption checklist covers adopting a cat of any age and the shelter process. If you are bringing home a young kitten, our New Kitten Checklist and Kitten Checklist add kitten-proofing, vaccinations, and first-year milestones."
+    },
+    {
+      "q": "Can I download this cat adoption checklist as a PDF?",
+      "a": "Yes. You can print it for shelter visits or download it as a PDF to your phone, so new cat owners can reference it while choosing and settling a cat."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cat-adoption-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cat-adoption-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cat Adoption Checklist by ChecklistForge (https://checklistforge.com/checklist/cat-adoption-checklist)",
+  "updated": "2026-10-17"
+}

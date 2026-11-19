@@ -1,0 +1,165 @@
+{
+  "id": "dental-care-checklist",
+  "name": "Dental Care Checklist",
+  "description": "A whole-picture checklist covering daily care, dental visits, diet and warning signs for healthy teeth and gums.",
+  "category": "personal-care",
+  "category_name": "Personal Care",
+  "tags": [
+    "family",
+    "personal-care",
+    "wellness",
+    "dental",
+    "oral-hygiene"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Daily Care at Home",
+      "items": [
+        {
+          "text": "Brush twice a day for two minutes with fluoride toothpaste"
+        },
+        {
+          "text": "Floss or use interdental cleaners once a day"
+        },
+        {
+          "text": "Clean your tongue to reduce bacteria and bad breath"
+        },
+        {
+          "text": "Use a soft-bristled brush and replace it every three to four months"
+        },
+        {
+          "text": "Spit out toothpaste but avoid heavy rinsing afterward",
+          "note": "Leaving a thin layer of fluoride helps protect enamel."
+        },
+        {
+          "text": "Drink water through the day to rinse away food and acid"
+        }
+      ]
+    },
+    {
+      "title": "Regular Checkups and Cleanings",
+      "items": [
+        {
+          "text": "Book a dental checkup, usually about every six months"
+        },
+        {
+          "text": "Get a professional cleaning to remove hardened tartar",
+          "note": "Tartar cannot be removed by brushing alone."
+        },
+        {
+          "text": "Keep a record of appointment dates for the whole family"
+        },
+        {
+          "text": "Ask about dental X-rays as your dentist recommends"
+        },
+        {
+          "text": "Discuss fluoride treatments or sealants if suggested"
+        },
+        {
+          "text": "Update your dentist on medications and health changes"
+        }
+      ]
+    },
+    {
+      "title": "Eat for Healthy Teeth",
+      "items": [
+        {
+          "text": "Limit sugary snacks and sticky sweets between meals"
+        },
+        {
+          "text": "Cut back on sugary and acidic drinks like soda and juice"
+        },
+        {
+          "text": "Avoid sipping sweet or acidic drinks slowly all day",
+          "note": "Constant sugar gives bacteria more chances to attack enamel."
+        },
+        {
+          "text": "Choose tooth-friendly snacks like cheese, nuts and crunchy vegetables"
+        },
+        {
+          "text": "Drink fluoridated tap water where available"
+        },
+        {
+          "text": "Chew sugar-free gum after meals if you cannot brush"
+        }
+      ]
+    },
+    {
+      "title": "Care for Children's Teeth",
+      "items": [
+        {
+          "text": "Wipe a baby's gums before teeth come in"
+        },
+        {
+          "text": "Brush with a smear of fluoride toothpaste from the first tooth"
+        },
+        {
+          "text": "Supervise brushing until kids can do it well on their own"
+        },
+        {
+          "text": "Book a first dental visit by age one or the first tooth"
+        },
+        {
+          "text": "Avoid putting a baby to bed with a bottle of milk or juice",
+          "note": "Pooling sugary liquid overnight causes early childhood cavities."
+        },
+        {
+          "text": "Encourage water over sugary drinks for everyday hydration"
+        }
+      ]
+    },
+    {
+      "title": "Know the Warning Signs",
+      "items": [
+        {
+          "text": "Watch for toothache or sensitivity to hot, cold or sweet"
+        },
+        {
+          "text": "Note gums that bleed, swell or pull away from teeth"
+        },
+        {
+          "text": "Check for persistent bad breath or a bad taste"
+        },
+        {
+          "text": "Look out for loose teeth, chips or a cracked filling"
+        },
+        {
+          "text": "See a dentist promptly for mouth sores or lumps lasting two weeks",
+          "note": "Persistent sores should always be checked by a professional."
+        },
+        {
+          "text": "Important: this is general information, not dental advice",
+          "note": "See a dentist for checkups and any persistent or painful dental problem."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I see a dentist?",
+      "a": "Most people benefit from a dental checkup and professional cleaning every six months, though your dentist may suggest more or less often based on your needs. Regular visits catch cavities, gum disease and other issues early."
+    },
+    {
+      "q": "What foods are bad for my teeth?",
+      "a": "Frequent sugary and starchy snacks, sticky sweets and acidic or sugary drinks feed the bacteria that cause cavities and erode enamel. Limiting them, and not sipping sweet drinks all day, protects your teeth."
+    },
+    {
+      "q": "When should children start dental care?",
+      "a": "Start cleaning a baby's gums before teeth appear, and brush with a smear of fluoride toothpaste once the first tooth comes in. A first dental visit is usually recommended by the first birthday or when the first tooth erupts."
+    },
+    {
+      "q": "Can I print this dental care checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then track daily habits, appointments and family dental care in one place to keep your routine on schedule."
+    },
+    {
+      "q": "Is this medical advice?",
+      "a": "No. This is general information about dental health, not medical or dental advice. See a dentist for checkups, cleanings, and any pain, bleeding, swelling or other problem that does not go away."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dental-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dental-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dental Care Checklist by ChecklistForge (https://checklistforge.com/checklist/dental-care-checklist)",
+  "updated": "2026-10-17"
+}

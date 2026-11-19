@@ -1,0 +1,176 @@
+{
+  "id": "pet-health-checklist",
+  "name": "Pet Health Checklist",
+  "description": "A complete checklist to help pet owners keep a dog or cat healthy with routine care, prevention, and early warning signs.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "pets",
+    "cats",
+    "care",
+    "dogs"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Routine Vet Care",
+      "items": [
+        {
+          "text": "Schedule a yearly wellness exam for healthy adult pets"
+        },
+        {
+          "text": "Book more frequent visits for puppies, kittens, and seniors"
+        },
+        {
+          "text": "Keep a record of each visit, diagnosis, and advice"
+        },
+        {
+          "text": "Bring your questions and a list of any changes you noticed"
+        },
+        {
+          "text": "Confirm when the next check-up or test is due",
+          "note": "Ask your vet how often your pet should be seen"
+        }
+      ]
+    },
+    {
+      "title": "Vaccines & Prevention",
+      "items": [
+        {
+          "text": "Keep core vaccines up to date per your vet's plan"
+        },
+        {
+          "text": "Ask about lifestyle vaccines based on risk and region"
+        },
+        {
+          "text": "Stay current on flea and tick prevention"
+        },
+        {
+          "text": "Keep heartworm and intestinal worm prevention on schedule"
+        },
+        {
+          "text": "Store proof of vaccination for boarding and travel",
+          "note": "Vaccine schedules vary by region and vet, so follow your vet's recommendations"
+        }
+      ]
+    },
+    {
+      "title": "Daily & Weekly Care",
+      "items": [
+        {
+          "text": "Feed a balanced diet suited to age and size"
+        },
+        {
+          "text": "Provide fresh water and clean bowls daily"
+        },
+        {
+          "text": "Give regular exercise and play for body and mind"
+        },
+        {
+          "text": "Brush teeth and check the mouth for problems"
+        },
+        {
+          "text": "Groom, check skin and coat, and trim nails as needed"
+        }
+      ]
+    },
+    {
+      "title": "Weight & Body Condition",
+      "items": [
+        {
+          "text": "Weigh your pet regularly and log the numbers"
+        },
+        {
+          "text": "Feel for ribs and check the waistline for body condition"
+        },
+        {
+          "text": "Measure meals instead of free-feeding when advised"
+        },
+        {
+          "text": "Limit treats to a small share of daily calories"
+        },
+        {
+          "text": "Discuss any quick weight gain or loss with your vet"
+        }
+      ]
+    },
+    {
+      "title": "Signs of Illness to Watch",
+      "items": [
+        {
+          "text": "Changes in appetite, thirst, or weight"
+        },
+        {
+          "text": "Vomiting, diarrhea, or trouble going to the bathroom"
+        },
+        {
+          "text": "Coughing, sneezing, or labored breathing"
+        },
+        {
+          "text": "Low energy, hiding, limping, or stiffness"
+        },
+        {
+          "text": "New lumps, sores, bad breath, or itchy skin",
+          "note": "Contact your vet if signs are severe or do not improve"
+        }
+      ]
+    },
+    {
+      "title": "Records & Emergencies",
+      "items": [
+        {
+          "text": "Keep an up-to-date file of vaccines and medications"
+        },
+        {
+          "text": "Note your pet's normal weight, diet, and habits"
+        },
+        {
+          "text": "Save your vet's number and the nearest emergency hospital"
+        },
+        {
+          "text": "Confirm microchip details are registered and current"
+        },
+        {
+          "text": "Review pet insurance or savings for unexpected care"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; your pet's needs depend on its age, breed, and health, so always consult a licensed veterinarian",
+          "note": "For any emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should my pet see a vet?",
+      "a": "Many healthy adult pets benefit from a wellness exam once a year, while puppies, kittens, and seniors often need more frequent visits. Ask your veterinarian what schedule fits your pet's age and health."
+    },
+    {
+      "q": "What are common signs my pet may be sick?",
+      "a": "Watch for changes in appetite, energy, weight, drinking, or bathroom habits, along with vomiting, coughing, limping, or new lumps. If something seems off or persists, contact your veterinarian."
+    },
+    {
+      "q": "Why does dental care matter for pets?",
+      "a": "Dental disease is very common and can be painful and affect overall health. Regular tooth brushing at home and professional dental checks help keep your pet's mouth comfortable and clean."
+    },
+    {
+      "q": "Do indoor pets still need parasite prevention?",
+      "a": "Often yes. Fleas, ticks, and worms can still reach indoor pets, and risk depends on your region and lifestyle. Ask your veterinarian which prevention plan is right for your pet."
+    },
+    {
+      "q": "Is this pet health checklist printable?",
+      "a": "Yes. Print it or download the PDF, fill it in for your pet, and use it to track vet visits, vaccines, prevention, and any symptoms you notice over time."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-health-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-health-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Health Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-health-checklist)",
+  "updated": "2026-10-17"
+}

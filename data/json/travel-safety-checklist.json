@@ -1,0 +1,153 @@
+{
+  "id": "travel-safety-checklist",
+  "name": "Travel Safety Checklist",
+  "description": "A travel safety checklist for staying safe while traveling, covering research, money safety, health, avoiding scams, and emergency contacts.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "safety",
+    "health",
+    "travel",
+    "trip-planning"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Research Before You Go",
+      "items": [
+        {
+          "text": "Read official travel advisories for your destination",
+          "note": "Safety conditions can change, so check close to departure"
+        },
+        {
+          "text": "Learn about safe and risky areas"
+        },
+        {
+          "text": "Note local laws and customs to respect"
+        },
+        {
+          "text": "Check health and vaccine guidance"
+        },
+        {
+          "text": "Save the local emergency numbers"
+        }
+      ]
+    },
+    {
+      "title": "Money and Valuables",
+      "items": [
+        {
+          "text": "Carry only the cash you need each day"
+        },
+        {
+          "text": "Split cash and cards across bags"
+        },
+        {
+          "text": "Use a money belt or hidden pouch"
+        },
+        {
+          "text": "Keep a backup card stored separately"
+        },
+        {
+          "text": "Use ATMs in secure, well-lit places"
+        },
+        {
+          "text": "Leave valuables you do not need at home"
+        }
+      ]
+    },
+    {
+      "title": "Health and Personal Safety",
+      "items": [
+        {
+          "text": "Arrange travel insurance with medical cover"
+        },
+        {
+          "text": "Pack medicines and a small first-aid kit"
+        },
+        {
+          "text": "Follow safe food and water practices"
+        },
+        {
+          "text": "Stay aware of your surroundings"
+        },
+        {
+          "text": "Avoid walking alone in unfamiliar areas at night"
+        },
+        {
+          "text": "Keep someone informed of your daily plans"
+        }
+      ]
+    },
+    {
+      "title": "Avoiding Scams",
+      "items": [
+        {
+          "text": "Research common scams at your destination"
+        },
+        {
+          "text": "Agree prices for taxis and services in advance"
+        },
+        {
+          "text": "Be cautious of unsolicited help or deals"
+        },
+        {
+          "text": "Protect your bag and pockets in crowds"
+        },
+        {
+          "text": "Use official transport and licensed operators"
+        }
+      ]
+    },
+    {
+      "title": "Emergency Preparedness",
+      "items": [
+        {
+          "text": "Save embassy or consulate contact details"
+        },
+        {
+          "text": "Keep insurance and emergency numbers handy"
+        },
+        {
+          "text": "Store copies of documents offline and online"
+        },
+        {
+          "text": "Share your itinerary with a trusted contact"
+        },
+        {
+          "text": "Know how to reach local emergency services"
+        },
+        {
+          "text": "Have a plan if you lose your phone or wallet"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I research safety for a destination?",
+      "a": "Read your government's official travel advisories, check recent local news, and learn about common risks and safe areas. Safety conditions can change, so review advisories close to your departure date rather than relying on old information."
+    },
+    {
+      "q": "How do I keep my money safe while traveling?",
+      "a": "Carry only what you need, split cash and cards across bags, use a money belt or hidden pouch, and keep a backup card separately. Be discreet with valuables and use ATMs in secure, well-lit locations."
+    },
+    {
+      "q": "How can I avoid common travel scams?",
+      "a": "Stay alert in crowded areas, be wary of unsolicited help or deals that seem too good, agree prices before services, and keep an eye on your belongings. Research scams common at your destination before you arrive."
+    },
+    {
+      "q": "What emergency information should I have ready?",
+      "a": "Save local emergency numbers, your accommodation address, embassy or consulate details, insurance contacts, and a trusted contact at home. Keep copies offline in case you lose phone access during a trip."
+    },
+    {
+      "q": "Is this travel safety checklist printable?",
+      "a": "Yes. Print it or download the PDF, review it before you go, and read official travel advisories for your destination, since safety conditions and local guidance can change quickly."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/travel-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/travel-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Travel Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/travel-safety-checklist)",
+  "updated": "2026-10-17"
+}

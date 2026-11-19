@@ -1,0 +1,145 @@
+{
+  "id": "distance-learning-checklist",
+  "name": "Distance Learning Checklist",
+  "description": "A distance learning checklist for setting up at-home remote school and supporting K-12 students.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "parents",
+    "students",
+    "study",
+    "distance-learning",
+    "remote-school"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "Set up the workspace",
+      "items": [
+        {
+          "text": "Pick a quiet, well-lit spot used only for schoolwork."
+        },
+        {
+          "text": "Set up the device, charger and reliable internet."
+        },
+        {
+          "text": "Add headphones to cut down on background noise."
+        },
+        {
+          "text": "Keep supplies like pens, paper and books within reach."
+        },
+        {
+          "text": "Remove toys, TV and other distractions from the area.",
+          "note": "A clear space helps signal that it is school time."
+        }
+      ]
+    },
+    {
+      "title": "Build a daily routine",
+      "items": [
+        {
+          "text": "Wake, dress and eat breakfast at a consistent time."
+        },
+        {
+          "text": "Post the day's class schedule where the child can see it."
+        },
+        {
+          "text": "Log in to each live class a few minutes early."
+        },
+        {
+          "text": "Schedule short breaks and a real lunch break."
+        },
+        {
+          "text": "End the day by tidying the workspace for tomorrow."
+        }
+      ]
+    },
+    {
+      "title": "Stay focused and engaged",
+      "items": [
+        {
+          "text": "Silence phones and notifications during lessons."
+        },
+        {
+          "text": "Encourage the child to take notes during class."
+        },
+        {
+          "text": "Have them ask questions in chat or by unmuting."
+        },
+        {
+          "text": "Add movement breaks between lessons to reset focus."
+        },
+        {
+          "text": "Keep a glass of water and healthy snacks nearby."
+        }
+      ]
+    },
+    {
+      "title": "Keep up with assignments",
+      "items": [
+        {
+          "text": "Check the school portal each morning for tasks."
+        },
+        {
+          "text": "Write assignments and due dates on a visible list."
+        },
+        {
+          "text": "Set aside time to complete homework each day."
+        },
+        {
+          "text": "Submit work online and confirm it uploaded."
+        },
+        {
+          "text": "Review returned work and teacher feedback."
+        }
+      ]
+    },
+    {
+      "title": "Parent support",
+      "items": [
+        {
+          "text": "Check in at the start and end of the school day."
+        },
+        {
+          "text": "Help troubleshoot tech and login problems."
+        },
+        {
+          "text": "Stay in contact with teachers about progress."
+        },
+        {
+          "text": "Praise effort and celebrate completed work."
+        },
+        {
+          "text": "Watch for signs of stress and adjust the routine as needed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I set up for distance learning at home?",
+      "a": "Create a quiet, consistent workspace with a charged device, reliable internet, headphones and supplies on hand. Keep the area free of toys and TV so it signals school time to the child."
+    },
+    {
+      "q": "How is this different from an online learning checklist?",
+      "a": "This distance learning checklist is built for at-home K-12 remote school and the parent support that comes with it. An online learning checklist targets college and self-paced virtual courses for independent learners."
+    },
+    {
+      "q": "How can parents support distance learning?",
+      "a": "Parents can set a daily routine, check the school portal for assignments, keep the workspace stocked, encourage breaks and movement, and stay in touch with teachers about progress and any struggles."
+    },
+    {
+      "q": "How do I keep a child focused during remote school?",
+      "a": "Use a set schedule with clear start and break times, remove distractions like phones and TV, follow live classes as if in person, and build in movement breaks to reset attention between lessons."
+    },
+    {
+      "q": "Can I download this distance learning checklist as a PDF?",
+      "a": "Yes. You can print it and post it at home or download it as a PDF and check off steps together as a family routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/distance-learning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/distance-learning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Distance Learning Checklist by ChecklistForge (https://checklistforge.com/checklist/distance-learning-checklist)",
+  "updated": "2026-10-17"
+}

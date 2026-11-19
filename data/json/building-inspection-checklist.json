@@ -1,0 +1,182 @@
+{
+  "id": "building-inspection-checklist",
+  "name": "Building Inspection Checklist",
+  "description": "A checklist for inspecting a building's overall condition.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "building-inspection",
+    "property",
+    "maintenance",
+    "inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Structure and foundation",
+      "items": [
+        {
+          "text": "Inspect the foundation for cracks, movement or water intrusion."
+        },
+        {
+          "text": "Check walls and ceilings for cracks, bowing or staining."
+        },
+        {
+          "text": "Verify load-bearing elements show no sagging or deflection.",
+          "note": "Suspected structural movement requires assessment by a qualified engineer."
+        },
+        {
+          "text": "Inspect floors for unevenness, soft spots or excessive deflection."
+        },
+        {
+          "text": "Check for signs of damp, rot or termite or pest damage."
+        },
+        {
+          "text": "Confirm expansion joints and supports are intact."
+        }
+      ]
+    },
+    {
+      "title": "Roof and exterior",
+      "items": [
+        {
+          "text": "Inspect the roof covering for missing, cracked or lifted materials."
+        },
+        {
+          "text": "Check flashing, gutters and downpipes for damage and blockages."
+        },
+        {
+          "text": "Verify drainage directs water away from the building."
+        },
+        {
+          "text": "Inspect exterior walls, cladding and render for cracks or deterioration."
+        },
+        {
+          "text": "Check windows and doors seal properly and operate freely."
+        },
+        {
+          "text": "Inspect parking, paths and steps for trip hazards and damage."
+        }
+      ]
+    },
+    {
+      "title": "Electrical systems",
+      "items": [
+        {
+          "text": "Check the main panel for proper labeling, no scorching and a clear front."
+        },
+        {
+          "text": "Verify breakers and GFCI/RCD protection operate correctly."
+        },
+        {
+          "text": "Inspect outlets, switches and fixtures for damage or overheating."
+        },
+        {
+          "text": "Confirm no exposed, frayed or temporary wiring is in use."
+        },
+        {
+          "text": "Check emergency and exit lighting functions on test."
+        },
+        {
+          "text": "Verify any electrical work appears compliant and certified."
+        }
+      ]
+    },
+    {
+      "title": "Plumbing and HVAC",
+      "items": [
+        {
+          "text": "Check for leaks, drips and water staining at fixtures and pipes."
+        },
+        {
+          "text": "Verify hot and cold water flow and adequate drainage."
+        },
+        {
+          "text": "Inspect the water heater for leaks, corrosion and a safety valve."
+        },
+        {
+          "text": "Confirm HVAC units run, with clean filters and clear vents."
+        },
+        {
+          "text": "Check for unusual noise, odor or poor airflow in the system."
+        },
+        {
+          "text": "Verify backflow prevention and shutoff valves are accessible."
+        }
+      ]
+    },
+    {
+      "title": "Fire and life safety",
+      "items": [
+        {
+          "text": "Confirm smoke and fire detectors are present and test correctly."
+        },
+        {
+          "text": "Check fire extinguishers are charged, tagged and accessible."
+        },
+        {
+          "text": "Verify fire exits are unobstructed and doors open freely."
+        },
+        {
+          "text": "Confirm exit and emergency signage is visible and lit."
+        },
+        {
+          "text": "Check sprinkler and alarm systems show current service records."
+        },
+        {
+          "text": "Verify fire-rated doors and barriers are intact and self-closing."
+        }
+      ]
+    },
+    {
+      "title": "Interior and documentation",
+      "items": [
+        {
+          "text": "Inspect interior finishes for damage, mold or water staining."
+        },
+        {
+          "text": "Check stairs, handrails and balustrades are secure and code-height."
+        },
+        {
+          "text": "Verify accessibility features and clearances are maintained."
+        },
+        {
+          "text": "Confirm ventilation is adequate in bathrooms and kitchens."
+        },
+        {
+          "text": "Record each defect with severity, location and recommended action."
+        },
+        {
+          "text": "Sign, date and file the completed inspection report."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a building inspection checklist?",
+      "a": "It's a standardized list used to evaluate a building's condition — structure, roof, exterior, interior and MEP systems — against pass or fail criteria. It helps inspectors and owners document defects and prioritize repairs."
+    },
+    {
+      "q": "How often should a building be inspected?",
+      "a": "Inspect at least annually for routine condition, and again before a sale, lease change or after severe weather or any reported defect. High-occupancy or older buildings may warrant more frequent checks."
+    },
+    {
+      "q": "Does this replace a licensed inspector's report?",
+      "a": "No. This checklist supports a thorough walkthrough but does not replace a licensed building inspector or engineer, especially where structural, electrical or code-compliance questions arise."
+    },
+    {
+      "q": "What should I do about a defect I can't assess?",
+      "a": "Document and photograph it, note that it needs specialist review, and refer it to the appropriate licensed trade or engineer. Do not occupy or use any area with a suspected serious structural or safety defect."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the building inspection checklist to carry through each area, or download the PDF to complete on a tablet and attach to your inspection report."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/building-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/building-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Building Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/building-inspection-checklist)",
+  "updated": "2026-10-20"
+}

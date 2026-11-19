@@ -1,0 +1,182 @@
+{
+  "id": "heavy-equipment-checklist",
+  "name": "Heavy Equipment Checklist",
+  "description": "A pre-use inspection checklist for heavy equipment.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "construction",
+    "heavy-equipment"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Walkaround inspection",
+      "items": [
+        {
+          "text": "Walk fully around the machine before starting the engine."
+        },
+        {
+          "text": "Check for new leaks, fluid puddles or stains underneath."
+        },
+        {
+          "text": "Inspect the frame, body and attachments for cracks or damage."
+        },
+        {
+          "text": "Confirm guards, covers and panels are in place and secure."
+        },
+        {
+          "text": "Check steps, grab rails and access points are sound and clean."
+        },
+        {
+          "text": "Verify no people or obstructions are in the work area."
+        }
+      ]
+    },
+    {
+      "title": "Fluids and engine",
+      "items": [
+        {
+          "text": "Check engine oil level and condition."
+        },
+        {
+          "text": "Verify coolant level and inspect for leaks."
+        },
+        {
+          "text": "Check hydraulic fluid level and look for hose leaks."
+        },
+        {
+          "text": "Confirm fuel level and inspect lines for damage."
+        },
+        {
+          "text": "Check belts and hoses for wear, cracks or looseness."
+        },
+        {
+          "text": "Inspect the air filter and battery condition."
+        }
+      ]
+    },
+    {
+      "title": "Tires, tracks and undercarriage",
+      "items": [
+        {
+          "text": "Inspect tires for cuts, wear and correct inflation."
+        },
+        {
+          "text": "Check tracks for tension, missing pads or damaged shoes.",
+          "note": "Track and tire issues should be assessed against the operator's manual specifications."
+        },
+        {
+          "text": "Verify wheel nuts and rims are intact and tight."
+        },
+        {
+          "text": "Inspect the undercarriage for damage and packed debris."
+        },
+        {
+          "text": "Check rollers, idlers and sprockets for wear and leaks."
+        },
+        {
+          "text": "Confirm attachment pins, locks and couplers are secure."
+        }
+      ]
+    },
+    {
+      "title": "Controls and instruments",
+      "items": [
+        {
+          "text": "Confirm seat, mirrors and seatbelt adjust and secure."
+        },
+        {
+          "text": "Start the engine and check for warning lights or codes."
+        },
+        {
+          "text": "Test steering, brakes and parking brake for response."
+        },
+        {
+          "text": "Verify hydraulic controls operate smoothly through full range."
+        },
+        {
+          "text": "Check gauges and instruments read within normal limits."
+        },
+        {
+          "text": "Listen for abnormal engine or hydraulic noise."
+        }
+      ]
+    },
+    {
+      "title": "Safety devices",
+      "items": [
+        {
+          "text": "Test the horn, backup alarm and travel alarm."
+        },
+        {
+          "text": "Confirm lights, beacons and signals work."
+        },
+        {
+          "text": "Check the fire extinguisher is charged and mounted."
+        },
+        {
+          "text": "Verify ROPS/FOPS cab structure is intact and unmodified."
+        },
+        {
+          "text": "Confirm the parking brake and hydraulic locks hold."
+        },
+        {
+          "text": "Check windows, wipers and visibility are clear."
+        }
+      ]
+    },
+    {
+      "title": "Documentation and follow-up",
+      "items": [
+        {
+          "text": "Record machine hours and the inspection date and time."
+        },
+        {
+          "text": "Confirm the operator is trained and authorized for the machine."
+        },
+        {
+          "text": "Note any defects with severity and recommended action."
+        },
+        {
+          "text": "Tag out and report any machine that fails the check."
+        },
+        {
+          "text": "Verify service records are current per the schedule."
+        },
+        {
+          "text": "Sign, date and file the completed pre-use record."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a heavy equipment checklist?",
+      "a": "It's a pre-use inspection list used to confirm heavy machinery is safe before it is operated, covering the walkaround, fluids, tires or tracks, controls and safety devices. Each item is marked pass or fail so faults are caught before startup."
+    },
+    {
+      "q": "How often should heavy equipment be inspected?",
+      "a": "Perform a pre-use inspection at the start of each shift before operating, plus scheduled service inspections at the hours or intervals set by the manufacturer. Inspect again after any incident or major repair."
+    },
+    {
+      "q": "Who should inspect heavy equipment?",
+      "a": "The trained, authorized operator performs the daily pre-use check, while a qualified mechanic or competent person handles detailed maintenance inspections. Always follow the operator's manual and site procedures."
+    },
+    {
+      "q": "What if the machine fails the pre-use check?",
+      "a": "Do not operate it. Tag the machine out of service, isolate it, and report the defect for repair by a qualified person. Return it to service only after the fault is fixed and re-inspected."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the heavy equipment checklist for the cab or logbook, or download the PDF to complete on a tablet and keep with your equipment records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/heavy-equipment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/heavy-equipment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Heavy Equipment Checklist by ChecklistForge (https://checklistforge.com/checklist/heavy-equipment-checklist)",
+  "updated": "2026-10-17"
+}

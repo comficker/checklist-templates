@@ -1,0 +1,183 @@
+{
+  "id": "kitten-checklist",
+  "name": "Kitten Checklist",
+  "description": "A kitten checklist covering first-year milestones, including vet care, vaccinations, growth, and development.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "pets",
+    "cats",
+    "kitten"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Vet care and vaccinations",
+      "items": [
+        {
+          "text": "Keep every scheduled vaccination and booster appointment."
+        },
+        {
+          "text": "Follow your vet's deworming and parasite-prevention plan."
+        },
+        {
+          "text": "Discuss spay or neuter timing for your kitten."
+        },
+        {
+          "text": "Confirm microchip registration is up to date."
+        },
+        {
+          "text": "Track weight and growth at each visit.",
+          "note": "Ask your veterinarian what is healthy for your kitten."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always follow your veterinarian's schedule for vaccinations and health care."
+        }
+      ]
+    },
+    {
+      "title": "Litter habits",
+      "items": [
+        {
+          "text": "Keep the litter box clean and easy for a kitten to reach."
+        },
+        {
+          "text": "Use a kitten-safe litter and a low-sided box."
+        },
+        {
+          "text": "Scoop daily and fully change litter regularly."
+        },
+        {
+          "text": "Add boxes as your kitten grows or in a multi-cat home."
+        },
+        {
+          "text": "Watch for any change in litter habits to mention to the vet."
+        },
+        {
+          "text": "Keep the box away from food and noisy areas."
+        }
+      ]
+    },
+    {
+      "title": "Socialization and handling",
+      "items": [
+        {
+          "text": "Introduce new people and gentle handling positively and gradually."
+        },
+        {
+          "text": "Get your kitten used to paw, ear, and mouth handling for care."
+        },
+        {
+          "text": "Expose your kitten to everyday sounds and the carrier calmly."
+        },
+        {
+          "text": "Arrange safe, supervised meetings with other pets."
+        },
+        {
+          "text": "Reward confidence and never force a nervous kitten."
+        },
+        {
+          "text": "Practice short, calm car rides for future vet trips."
+        }
+      ]
+    },
+    {
+      "title": "Play and enrichment",
+      "items": [
+        {
+          "text": "Schedule daily interactive play to burn energy and build trust."
+        },
+        {
+          "text": "Rotate toys to keep your kitten engaged."
+        },
+        {
+          "text": "Provide a scratching post to protect furniture and claws."
+        },
+        {
+          "text": "Offer perches and safe climbing for exploration."
+        },
+        {
+          "text": "Redirect biting and pouncing from hands to toys."
+        },
+        {
+          "text": "Add puzzle feeders to engage your kitten's mind."
+        }
+      ]
+    },
+    {
+      "title": "Nutrition and growth",
+      "items": [
+        {
+          "text": "Feed an age-appropriate kitten food in measured meals."
+        },
+        {
+          "text": "Transition foods gradually to avoid stomach upset."
+        },
+        {
+          "text": "Adjust portions as your kitten grows.",
+          "note": "Confirm amounts with your veterinarian."
+        },
+        {
+          "text": "Provide fresh water at all times."
+        },
+        {
+          "text": "Limit treats and avoid foods toxic to cats."
+        },
+        {
+          "text": "Plan the switch to adult food on your vet's timeline."
+        }
+      ]
+    },
+    {
+      "title": "Grooming and health habits",
+      "items": [
+        {
+          "text": "Brush the coat regularly to reduce hairballs and build tolerance."
+        },
+        {
+          "text": "Introduce nail trims and tooth care gently and early."
+        },
+        {
+          "text": "Check ears and eyes and keep them clean."
+        },
+        {
+          "text": "Inspect skin and coat for fleas and irritation."
+        },
+        {
+          "text": "Watch appetite, energy, and litter habits for changes."
+        },
+        {
+          "text": "Keep your kitten warm, hydrated, and well rested."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What milestones should I track in a kitten's first year?",
+      "a": "Track vaccination boosters, deworming, spay or neuter timing, growth and food transitions, litter habits, socialization, and grooming tolerance. This kitten checklist organizes these milestones so the first year stays on course."
+    },
+    {
+      "q": "When does a kitten finish its vaccinations?",
+      "a": "Kittens usually receive a series of vaccinations over several months, with the exact schedule set by your veterinarian based on age and lifestyle. Keep every appointment and follow your vet's guidance, since this protects your kitten during a vulnerable stage."
+    },
+    {
+      "q": "When should I socialize my kitten?",
+      "a": "Early, gentle socialization helps build a confident cat. Introduce new people, sounds, handling, and experiences positively while your kitten is young, going at its pace and never forcing interactions. Positive early exposure shapes a friendly adult cat."
+    },
+    {
+      "q": "How is this different from the kitten care checklist?",
+      "a": "This kitten checklist follows the whole first year of milestones. Our Kitten Care Checklist covers the everyday routine of feeding, litter, play, and health for a kitten day to day."
+    },
+    {
+      "q": "Can I download this kitten checklist as a PDF?",
+      "a": "Yes. You can print it to track progress month by month or download it as a PDF for vet visits, so new kitten owners stay on top of first-year milestones."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/kitten-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/kitten-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Kitten Checklist by ChecklistForge (https://checklistforge.com/checklist/kitten-checklist)",
+  "updated": "2026-10-17"
+}

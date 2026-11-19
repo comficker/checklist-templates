@@ -1,0 +1,169 @@
+{
+  "id": "change-of-address-checklist",
+  "name": "Change of Address Checklist",
+  "description": "Everyone you need to notify of your new address when you move, organized so nothing slips through.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "change-of-address",
+    "address-update",
+    "mail-forwarding"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Postal & Mail",
+      "items": [
+        {
+          "text": "Submit an official mail forwarding request with the postal service"
+        },
+        {
+          "text": "Set the start date a day or two before your move"
+        },
+        {
+          "text": "Update your address with any package lockers or P.O. box"
+        },
+        {
+          "text": "Tell regular senders, such as relatives and clubs, your new address"
+        }
+      ]
+    },
+    {
+      "title": "Government & Legal",
+      "items": [
+        {
+          "text": "Update your driver's license and state ID"
+        },
+        {
+          "text": "Change the address on your vehicle registration"
+        },
+        {
+          "text": "Update your voter registration"
+        },
+        {
+          "text": "Notify the tax authority of your new address"
+        },
+        {
+          "text": "Update any benefits, pension or social security records",
+          "note": "Some agencies require proof of your new address, so have a utility bill or lease ready"
+        }
+      ]
+    },
+    {
+      "title": "Banks & Finances",
+      "items": [
+        {
+          "text": "Update your address with every bank and checking account"
+        },
+        {
+          "text": "Change the billing address on all credit and debit cards"
+        },
+        {
+          "text": "Notify any loan, mortgage or lender accounts"
+        },
+        {
+          "text": "Update investment, retirement and brokerage accounts"
+        },
+        {
+          "text": "Tell payment apps and online wallets your new address"
+        }
+      ]
+    },
+    {
+      "title": "Insurance",
+      "items": [
+        {
+          "text": "Update or transfer your home or renters insurance"
+        },
+        {
+          "text": "Notify your auto insurer — premiums can change by location"
+        },
+        {
+          "text": "Update health, life and any other policies"
+        },
+        {
+          "text": "Confirm coverage starts at the new address on move day"
+        }
+      ]
+    },
+    {
+      "title": "Work, Utilities & Services",
+      "items": [
+        {
+          "text": "Give your employer or HR your new address for payroll and tax forms"
+        },
+        {
+          "text": "Set up or transfer electricity, gas and water accounts"
+        },
+        {
+          "text": "Transfer internet, cable and phone service"
+        },
+        {
+          "text": "Update trash and recycling service if billed separately"
+        }
+      ]
+    },
+    {
+      "title": "Subscriptions & Deliveries",
+      "items": [
+        {
+          "text": "Update online shopping accounts and saved addresses"
+        },
+        {
+          "text": "Change the address on meal kits and recurring deliveries"
+        },
+        {
+          "text": "Update streaming, magazine and box subscriptions"
+        },
+        {
+          "text": "Notify loyalty programs and memberships"
+        }
+      ]
+    },
+    {
+      "title": "Medical & Personal",
+      "items": [
+        {
+          "text": "Update your doctor, dentist and any specialists"
+        },
+        {
+          "text": "Transfer prescriptions to a pharmacy near the new home"
+        },
+        {
+          "text": "Update your veterinarian and pet microchip registry"
+        },
+        {
+          "text": "Notify your child's school and update records"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I submit a change of address?",
+      "a": "Submit your postal mail forward about two weeks before you move so it is active by moving day. Update banks, government records and insurance around the same time to avoid missed mail."
+    },
+    {
+      "q": "Does mail forwarding update my address everywhere?",
+      "a": "No. Forwarding only redirects mail temporarily — it does not change your address with senders. You still need to update each account directly so mail eventually arrives at the new address on its own."
+    },
+    {
+      "q": "What is the most important address to change?",
+      "a": "Prioritize anything tied to money or legal status: banks, credit cards, the tax authority, your driver's license, voter registration and insurance. Mistakes here can cause missed payments, fines or lost benefits."
+    },
+    {
+      "q": "How long should I keep mail forwarding active?",
+      "a": "Keep it active for several months to a year as a backup while you catch any accounts you forgot. Each time forwarded mail arrives, update that sender directly so you can let the forward expire."
+    },
+    {
+      "q": "Is this change of address checklist printable?",
+      "a": "Yes. Print it or download the PDF and tick off each company or agency once you have updated your address."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/change-of-address-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/change-of-address-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Change of Address Checklist by ChecklistForge (https://checklistforge.com/checklist/change-of-address-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,205 @@
+{
+  "id": "operations-checklist",
+  "name": "Operations Checklist",
+  "description": "A daily, weekly and monthly operations checklist for running a business smoothly.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "routine",
+    "daily",
+    "operations",
+    "management"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Opening routine",
+      "items": [
+        {
+          "text": "Unlock the premises and disarm the alarm safely."
+        },
+        {
+          "text": "Check the space is clean, stocked and ready for customers."
+        },
+        {
+          "text": "Power up equipment, lighting and point-of-sale systems."
+        },
+        {
+          "text": "Count and confirm the opening cash float.",
+          "note": "Record the starting amount before any sales."
+        },
+        {
+          "text": "Confirm staff have arrived and are ready for the shift."
+        },
+        {
+          "text": "Review the day's bookings, orders and priorities."
+        }
+      ]
+    },
+    {
+      "title": "Staffing and scheduling",
+      "items": [
+        {
+          "text": "Confirm the shift is covered against the rota."
+        },
+        {
+          "text": "Brief the team on the day's goals and any changes."
+        },
+        {
+          "text": "Assign roles and break times across the shift."
+        },
+        {
+          "text": "Arrange cover for any absences or no-shows."
+        },
+        {
+          "text": "Check the next week's schedule is published."
+        },
+        {
+          "text": "Record hours worked for payroll accuracy."
+        }
+      ]
+    },
+    {
+      "title": "Inventory and supplies",
+      "items": [
+        {
+          "text": "Check stock levels against par for key items."
+        },
+        {
+          "text": "Reorder supplies before they run out."
+        },
+        {
+          "text": "Receive and check deliveries against the order."
+        },
+        {
+          "text": "Rotate stock so older items are used first."
+        },
+        {
+          "text": "Record any waste, breakage or shrinkage."
+        },
+        {
+          "text": "Store goods correctly and at the right temperature."
+        }
+      ]
+    },
+    {
+      "title": "Finance and cash handling",
+      "items": [
+        {
+          "text": "Reconcile the till against recorded sales."
+        },
+        {
+          "text": "Record daily takings and method of payment."
+        },
+        {
+          "text": "Prepare the bank deposit and secure cash safely."
+        },
+        {
+          "text": "Approve and log any expenses or petty cash use."
+        },
+        {
+          "text": "Review outstanding invoices and payments due."
+        },
+        {
+          "text": "Compare sales to target and flag large variances."
+        }
+      ]
+    },
+    {
+      "title": "Customer service",
+      "items": [
+        {
+          "text": "Check the customer-facing area is tidy and welcoming."
+        },
+        {
+          "text": "Confirm staff know current offers and prices."
+        },
+        {
+          "text": "Respond to enquiries, bookings and messages."
+        },
+        {
+          "text": "Handle complaints promptly and log the outcome."
+        },
+        {
+          "text": "Collect and review customer feedback."
+        },
+        {
+          "text": "Ensure service standards are met during peak times."
+        }
+      ]
+    },
+    {
+      "title": "Compliance and safety",
+      "items": [
+        {
+          "text": "Complete required health and safety checks."
+        },
+        {
+          "text": "Confirm equipment is working and serviced on schedule."
+        },
+        {
+          "text": "Check licenses, permits and certificates are current."
+        },
+        {
+          "text": "Record temperatures or readings where regulations require."
+        },
+        {
+          "text": "Test fire exits, alarms and first aid supplies."
+        },
+        {
+          "text": "Log any incidents and the action taken."
+        }
+      ]
+    },
+    {
+      "title": "Closing and reporting",
+      "items": [
+        {
+          "text": "Cash up, reconcile the till and secure takings."
+        },
+        {
+          "text": "Clean down, restock and prepare for the next day."
+        },
+        {
+          "text": "Power down equipment and switch off non-essential systems."
+        },
+        {
+          "text": "Lock up and set the alarm on leaving."
+        },
+        {
+          "text": "Complete the daily report and note any issues."
+        },
+        {
+          "text": "Compile weekly and monthly summaries for review."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an operations checklist?",
+      "a": "It is a structured routine of recurring tasks that keep a business running — opening and closing, staffing, inventory, finance, customer service, compliance and reporting. It standardizes daily, weekly and monthly work so any team member can run a shift to the same level."
+    },
+    {
+      "q": "How often should you run each item?",
+      "a": "Match the cadence to the task. Run opening and closing items every day, staffing and inventory checks weekly, and finance and reporting items monthly. Group the checklist by frequency and adjust the timing to fit how your business actually operates."
+    },
+    {
+      "q": "What goes in an opening routine?",
+      "a": "Unlock and disarm the site safely, check the space is clean and ready, power up equipment and systems, count the opening float, confirm staffing for the shift, and review the day's bookings or priorities before the doors open to customers."
+    },
+    {
+      "q": "Who should use an operations checklist?",
+      "a": "Store and venue managers, restaurant operators, shift leads and small business owners. It is most useful where different people open and close, so the routine stays consistent regardless of who is on duty and managers can verify the basics were done."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print a fresh copy for each shift so staff can initial each item as it is completed, or download the PDF and keep finished checklists on file as a record of opening, closing and compliance tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/operations-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/operations-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Operations Checklist by ChecklistForge (https://checklistforge.com/checklist/operations-checklist)",
+  "updated": "2026-10-17"
+}

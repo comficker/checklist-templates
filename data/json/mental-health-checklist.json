@@ -1,0 +1,184 @@
+{
+  "id": "mental-health-checklist",
+  "name": "Mental Health Checklist",
+  "description": "Daily and weekly self-care habits to support and protect your mental wellbeing.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "mental-health",
+    "self-care"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Care for the Basics",
+      "items": [
+        {
+          "text": "Aim for a consistent sleep and wake time"
+        },
+        {
+          "text": "Eat regular, balanced meals and stay hydrated",
+          "note": "Skipping meals can quietly affect mood and concentration."
+        },
+        {
+          "text": "Move your body in a way that feels good for you"
+        },
+        {
+          "text": "Get outside for daylight and fresh air"
+        },
+        {
+          "text": "Limit alcohol and other things that can lower your mood"
+        },
+        {
+          "text": "Rest when you need it without guilt"
+        }
+      ]
+    },
+    {
+      "title": "Check in With Your Feelings",
+      "items": [
+        {
+          "text": "Pause and name how you are feeling today"
+        },
+        {
+          "text": "Notice your mood without judging it as good or bad"
+        },
+        {
+          "text": "Write down what is on your mind or weighing on you"
+        },
+        {
+          "text": "Acknowledge small wins and things that went okay"
+        },
+        {
+          "text": "Be kind to yourself on harder days",
+          "note": "Speak to yourself as you would to a friend."
+        },
+        {
+          "text": "Notice early warning signs that you may be struggling"
+        }
+      ]
+    },
+    {
+      "title": "Manage Stress",
+      "items": [
+        {
+          "text": "Take short breaks during a busy or demanding day"
+        },
+        {
+          "text": "Practice slow breathing or a brief grounding exercise"
+        },
+        {
+          "text": "Spend a few minutes on mindfulness or quiet time"
+        },
+        {
+          "text": "Break large worries or tasks into smaller steps"
+        },
+        {
+          "text": "Set realistic expectations and let go of perfection"
+        },
+        {
+          "text": "Limit news and social media when it feels overwhelming"
+        }
+      ]
+    },
+    {
+      "title": "Stay Connected",
+      "items": [
+        {
+          "text": "Reach out to someone you trust, even with a short message"
+        },
+        {
+          "text": "Spend time with people who make you feel supported"
+        },
+        {
+          "text": "Talk about how you are really doing with someone safe"
+        },
+        {
+          "text": "Ask for help when you need it",
+          "note": "Sharing how you feel can ease the weight of carrying it alone."
+        },
+        {
+          "text": "Set gentle boundaries to protect your energy"
+        },
+        {
+          "text": "Avoid isolating yourself when you are struggling"
+        }
+      ]
+    },
+    {
+      "title": "Do What Restores You",
+      "items": [
+        {
+          "text": "Make time for a hobby or activity you enjoy"
+        },
+        {
+          "text": "Spend a little time in nature when you can"
+        },
+        {
+          "text": "Do something creative, playful, or just for fun"
+        },
+        {
+          "text": "Listen to music or something that lifts your mood"
+        },
+        {
+          "text": "Allow yourself genuine downtime to recharge"
+        },
+        {
+          "text": "Plan something small to look forward to"
+        }
+      ]
+    },
+    {
+      "title": "Weekly Wellbeing Review",
+      "items": [
+        {
+          "text": "Reflect on how your mood has been over the week"
+        },
+        {
+          "text": "Notice what helped and what drained you"
+        },
+        {
+          "text": "Adjust one routine or boundary for next week"
+        },
+        {
+          "text": "Catch up with someone you care about"
+        },
+        {
+          "text": "Consider speaking to a professional if you have struggled for a while"
+        },
+        {
+          "text": "Important: This checklist is general self-care information, not medical advice. If you are struggling, please reach out to a doctor or a qualified mental-health professional."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What daily habits support good mental health?",
+      "a": "The basics make a big difference: regular sleep, balanced meals, water, some movement, daylight, and connecting with others. Adding brief moments of rest, mindfulness, and doing things you enjoy helps protect your mood and resilience over time."
+    },
+    {
+      "q": "Is this mental health checklist medical advice?",
+      "a": "No. This is general self-care information only and is not a substitute for professional advice, diagnosis, or treatment. If you are struggling with your mental health, please speak with a doctor or a qualified mental-health professional."
+    },
+    {
+      "q": "When should I reach out for professional help?",
+      "a": "Consider reaching out if low mood, anxiety, or stress lasts for weeks, gets worse, or affects your sleep, work, relationships, or daily life. A doctor or mental-health professional can listen, help you understand what is happening, and discuss options. Asking for help is a strength."
+    },
+    {
+      "q": "How is this different from therapy?",
+      "a": "A checklist supports everyday wellbeing and healthy routines, but it cannot replace personalized care. Therapy and other professional support offer tailored help for what you are going through. Use this alongside, not instead of, support from qualified professionals."
+    },
+    {
+      "q": "Can I print this mental health checklist?",
+      "a": "Yes. This checklist is free to print and download as a PDF. Keep it somewhere visible or on your phone so you can check in with yourself regularly and keep supportive habits front of mind."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/mental-health-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/mental-health-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Mental Health Checklist by ChecklistForge (https://checklistforge.com/checklist/mental-health-checklist)",
+  "updated": "2026-10-17"
+}

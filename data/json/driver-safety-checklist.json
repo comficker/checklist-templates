@@ -1,0 +1,184 @@
+{
+  "id": "driver-safety-checklist",
+  "name": "Driver Safety Checklist",
+  "description": "A checklist for safe driving habits and pre-drive checks.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "vehicles",
+    "cars",
+    "driver-safety"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Fitness to drive",
+      "items": [
+        {
+          "text": "Confirm you are well rested and not drowsy before driving.",
+          "note": "Drowsy driving impairs reactions much like alcohol — do not drive fatigued."
+        },
+        {
+          "text": "Never drive after alcohol or impairing drugs."
+        },
+        {
+          "text": "Check whether any medication warns against driving."
+        },
+        {
+          "text": "Ensure your vision aids, glasses or contacts, are with you."
+        },
+        {
+          "text": "Avoid driving when ill, in pain or highly stressed."
+        },
+        {
+          "text": "Plan rest breaks every two hours on long trips."
+        }
+      ]
+    },
+    {
+      "title": "Set up before you move",
+      "items": [
+        {
+          "text": "Adjust the seat, steering and headrest for a safe position."
+        },
+        {
+          "text": "Set all mirrors to minimize blind spots."
+        },
+        {
+          "text": "Fasten your seatbelt and confirm passengers do the same."
+        },
+        {
+          "text": "Secure children in correctly fitted car seats."
+        },
+        {
+          "text": "Stow loose items so they cannot become projectiles."
+        },
+        {
+          "text": "Set navigation, climate and music before driving off."
+        }
+      ]
+    },
+    {
+      "title": "Eliminate distractions",
+      "items": [
+        {
+          "text": "Put your phone out of reach or in do-not-disturb mode.",
+          "note": "Hands-free still distracts; avoid all phone use while driving where possible."
+        },
+        {
+          "text": "Avoid texting, scrolling or holding a phone while driving."
+        },
+        {
+          "text": "Do not eat, groom or do tasks that take hands off the wheel."
+        },
+        {
+          "text": "Pull over safely to handle anything that needs attention."
+        },
+        {
+          "text": "Keep conversations and passengers from breaking your focus."
+        },
+        {
+          "text": "Pre-program navigation so you are not entering it while driving."
+        }
+      ]
+    },
+    {
+      "title": "Awareness and defensive driving",
+      "items": [
+        {
+          "text": "Keep a safe following distance, increasing it in poor conditions."
+        },
+        {
+          "text": "Scan ahead, check mirrors and look for hazards continuously."
+        },
+        {
+          "text": "Check blind spots before changing lanes or turning."
+        },
+        {
+          "text": "Obey speed limits and adjust speed to conditions."
+        },
+        {
+          "text": "Signal early and clearly for every turn and lane change."
+        },
+        {
+          "text": "Anticipate the actions of other road users."
+        }
+      ]
+    },
+    {
+      "title": "Adapt to conditions",
+      "items": [
+        {
+          "text": "Check weather and traffic before setting out."
+        },
+        {
+          "text": "Slow down and increase distance in rain, fog, snow or ice.",
+          "note": "Stopping distances grow sharply on wet or icy roads."
+        },
+        {
+          "text": "Use headlights in low light, rain or fog."
+        },
+        {
+          "text": "Watch for pedestrians, cyclists and motorcycles."
+        },
+        {
+          "text": "Take extra care in work zones and school zones."
+        },
+        {
+          "text": "Delay or reroute if conditions become dangerous."
+        }
+      ]
+    },
+    {
+      "title": "Be prepared for emergencies",
+      "items": [
+        {
+          "text": "Know how to respond calmly to a skid, blowout or breakdown."
+        },
+        {
+          "text": "Keep emergency and roadside assistance numbers handy."
+        },
+        {
+          "text": "Know how to pull over and signal safely if a problem arises."
+        },
+        {
+          "text": "Carry your license, registration and insurance documents."
+        },
+        {
+          "text": "Know basic steps to take at the scene of a collision."
+        },
+        {
+          "text": "Keep an emergency kit and charged phone within reach."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a driver safety checklist?",
+      "a": "It's a set of habits and pre-drive checks focused on the driver — distraction, fatigue, mirror and seat setup, conditions and defensive driving — so the person behind the wheel is fit, prepared and focused before and during every trip."
+    },
+    {
+      "q": "How is this different from a vehicle safety checklist?",
+      "a": "A vehicle safety checklist covers the car's mechanical condition — tires, brakes, lights. This driver safety checklist covers the driver: alertness, distraction, impairment, setup and behavior, the human factors behind most crashes."
+    },
+    {
+      "q": "What are the biggest driving safety risks?",
+      "a": "Distraction, especially phone use, fatigue and drowsy driving, impairment from alcohol, drugs or some medications, speeding, and failing to adjust to weather, traffic and visibility. All are within the driver's control."
+    },
+    {
+      "q": "What should I check before every drive?",
+      "a": "Confirm you are alert and unimpaired, adjust the seat, mirrors and headrest, fasten your seatbelt, secure passengers and loads, set your route and climate before moving, and put your phone out of reach to avoid distraction."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the driver safety checklist as a habit reminder, or download the PDF to review on your phone before a trip."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/driver-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/driver-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Driver Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/driver-safety-checklist)",
+  "updated": "2026-10-17"
+}

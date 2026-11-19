@@ -1,0 +1,182 @@
+{
+  "id": "tool-inspection-checklist",
+  "name": "Tool Inspection Checklist",
+  "description": "A checklist for inspecting hand and power tools before use.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "tool-inspection",
+    "power-tools"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Hand tools",
+      "items": [
+        {
+          "text": "Inspect handles for cracks, splinters or looseness."
+        },
+        {
+          "text": "Check striking faces for mushrooming or chips."
+        },
+        {
+          "text": "Verify cutting edges are sharp and undamaged."
+        },
+        {
+          "text": "Confirm jaws, pivots and adjustments work smoothly."
+        },
+        {
+          "text": "Check that tools are clean and free of grease or oil."
+        },
+        {
+          "text": "Confirm the right tool is used for the task, not improvised."
+        }
+      ]
+    },
+    {
+      "title": "Power tool body",
+      "items": [
+        {
+          "text": "Inspect the housing for cracks, melting or impact damage."
+        },
+        {
+          "text": "Check switches and triggers operate and do not stick."
+        },
+        {
+          "text": "Verify bits, blades and accessories are sharp and secure."
+        },
+        {
+          "text": "Confirm air vents are clear of dust and debris."
+        },
+        {
+          "text": "Check for unusual noise, vibration or burning smell on test."
+        },
+        {
+          "text": "Verify the data plate and ratings are legible."
+        }
+      ]
+    },
+    {
+      "title": "Cords and plugs",
+      "items": [
+        {
+          "text": "Inspect the cord for cuts, fraying or exposed wires.",
+          "note": "Tools with damaged cords must be removed from service, not taped over."
+        },
+        {
+          "text": "Check the plug for bent, missing or damaged pins."
+        },
+        {
+          "text": "Verify the grounding pin is intact on grounded tools."
+        },
+        {
+          "text": "Confirm strain reliefs at the plug and tool are secure."
+        },
+        {
+          "text": "Check extension cords are rated and undamaged."
+        },
+        {
+          "text": "Verify cords are kept clear of water, heat and traffic."
+        }
+      ]
+    },
+    {
+      "title": "Guards and safety devices",
+      "items": [
+        {
+          "text": "Confirm blade and rotating-part guards are fitted and move freely."
+        },
+        {
+          "text": "Check that guards have not been removed or wedged open."
+        },
+        {
+          "text": "Verify safety triggers, locks and dead-man switches work."
+        },
+        {
+          "text": "Confirm anti-kickback and riving knives are in place where fitted."
+        },
+        {
+          "text": "Check warning labels are present and legible."
+        },
+        {
+          "text": "Verify required PPE such as eye and hearing protection is available."
+        }
+      ]
+    },
+    {
+      "title": "Electrical and GFCI",
+      "items": [
+        {
+          "text": "Confirm power tools are used with GFCI protection."
+        },
+        {
+          "text": "Test the GFCI device trips and resets correctly."
+        },
+        {
+          "text": "Verify double-insulated tools show the marking and are intact."
+        },
+        {
+          "text": "Check outlets and connections show no signs of overheating."
+        },
+        {
+          "text": "Confirm tools are unplugged before changing bits or blades."
+        },
+        {
+          "text": "Verify damp or wet conditions are controlled before use."
+        }
+      ]
+    },
+    {
+      "title": "Pneumatic, cordless and records",
+      "items": [
+        {
+          "text": "Inspect air hoses, couplings and fittings for leaks and damage."
+        },
+        {
+          "text": "Confirm air tools have safety clips or whip checks on connections."
+        },
+        {
+          "text": "Check battery packs and chargers for damage or swelling."
+        },
+        {
+          "text": "Verify batteries seat securely and hold a charge."
+        },
+        {
+          "text": "Tag out and remove any defective tool from service."
+        },
+        {
+          "text": "Record defects and replacements, then sign, date and file."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a tool inspection checklist?",
+      "a": "It's a list used to verify hand and power tools are safe before use, covering damage, cords, guards, GFCI protection and function. Each item is marked pass or fail so defective tools are removed from service."
+    },
+    {
+      "q": "How often should tools be inspected?",
+      "a": "Inspect tools visually before each use, and run a more thorough periodic audit of shared and power tools on a regular schedule. Inspect again after any drop, overload or sign of damage."
+    },
+    {
+      "q": "Why is GFCI protection important for power tools?",
+      "a": "A ground-fault circuit interrupter cuts power quickly if current leaks to ground, protecting against electric shock. OSHA requires GFCI protection or an assured grounding program for power tools on construction sites."
+    },
+    {
+      "q": "What should I do with a damaged tool?",
+      "a": "Remove it from service immediately, tag it out, and either repair it through a qualified person or destroy and replace it. Never use a tool with a damaged cord, cracked housing or missing guard."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the tool inspection checklist for the toolroom or job box, or download the PDF to complete on a phone or tablet and keep with your tool records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/tool-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/tool-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Tool Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/tool-inspection-checklist)",
+  "updated": "2026-10-20"
+}

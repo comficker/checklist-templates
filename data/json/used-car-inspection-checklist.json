@@ -1,0 +1,186 @@
+{
+  "id": "used-car-inspection-checklist",
+  "name": "Used Car Inspection Checklist",
+  "description": "A checklist for inspecting a used car before you buy it.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "inspection",
+    "vehicles",
+    "car-buying",
+    "cars",
+    "used-car-inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Documents and history",
+      "items": [
+        {
+          "text": "Confirm the VIN on the dash, door and engine bay all match each other."
+        },
+        {
+          "text": "Check the VIN matches the title and registration documents."
+        },
+        {
+          "text": "Run a vehicle history report for accidents, title and odometer data.",
+          "note": "A salvage, rebuilt or flood title can drastically reduce value and safety."
+        },
+        {
+          "text": "Verify the title is clean and clear of outstanding finance or liens."
+        },
+        {
+          "text": "Review service records for consistent, on-schedule maintenance."
+        },
+        {
+          "text": "Confirm the seller's name matches the title and ID."
+        }
+      ]
+    },
+    {
+      "title": "Exterior and body",
+      "items": [
+        {
+          "text": "Inspect every panel in daylight for dents, rust and repaint."
+        },
+        {
+          "text": "Check panel gaps and alignment for signs of accident repair.",
+          "note": "Uneven gaps or mismatched paint can indicate prior collision damage."
+        },
+        {
+          "text": "Look for overspray, mismatched bolts or fresh underseal on the frame."
+        },
+        {
+          "text": "Examine the windshield and glass for cracks and chips."
+        },
+        {
+          "text": "Check tires for even wear and matching brands and dates."
+        },
+        {
+          "text": "Inspect under the car for rust, leaks or frame damage."
+        }
+      ]
+    },
+    {
+      "title": "Interior and electronics",
+      "items": [
+        {
+          "text": "Check seats, carpets and trim for wear consistent with the mileage."
+        },
+        {
+          "text": "Smell for damp, mold or strong air fresheners masking flood damage."
+        },
+        {
+          "text": "Test all windows, locks, mirrors and the sunroof."
+        },
+        {
+          "text": "Verify the air conditioning, heater and infotainment work."
+        },
+        {
+          "text": "Confirm all warning lights illuminate then clear at start-up."
+        },
+        {
+          "text": "Check the odometer reading against pedal, seat and tire wear."
+        }
+      ]
+    },
+    {
+      "title": "Engine and under the hood",
+      "items": [
+        {
+          "text": "Inspect the cold engine for leaks, corrosion and frayed belts."
+        },
+        {
+          "text": "Check oil on the dipstick for level, color and a milky film.",
+          "note": "A milky film can signal a head gasket or coolant problem — investigate further."
+        },
+        {
+          "text": "Check coolant, brake and transmission fluids for level and condition."
+        },
+        {
+          "text": "Look for fresh sealant or repairs hiding a leak."
+        },
+        {
+          "text": "Watch the exhaust at start-up for blue, white or black smoke."
+        },
+        {
+          "text": "Listen for knocking, ticking or rough idle once running."
+        }
+      ]
+    },
+    {
+      "title": "Test drive",
+      "items": [
+        {
+          "text": "Start cold and note any hesitation, smoke or warning lights."
+        },
+        {
+          "text": "Test acceleration, smooth shifting and the clutch or transmission."
+        },
+        {
+          "text": "Brake firmly to check for pulling, vibration or noise."
+        },
+        {
+          "text": "Drive at highway speed to feel for vibration or wandering."
+        },
+        {
+          "text": "Test steering for play, pulling and a centered wheel."
+        },
+        {
+          "text": "Listen for clunks over bumps and on turns at low speed."
+        }
+      ]
+    },
+    {
+      "title": "Final checks before buying",
+      "items": [
+        {
+          "text": "Arrange a professional pre-purchase inspection by an independent mechanic.",
+          "note": "An independent inspection is the single best protection against a costly used car."
+        },
+        {
+          "text": "Get any agreed repairs or terms in writing before paying."
+        },
+        {
+          "text": "Confirm all keys, the owner's manual and accessories are included."
+        },
+        {
+          "text": "Verify the registration is current and transferable."
+        },
+        {
+          "text": "Use your findings to negotiate the price down."
+        },
+        {
+          "text": "Complete a written bill of sale and proper title transfer."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a used car inspection checklist?",
+      "a": "It's a pre-purchase guide for buyers to evaluate a used car — exterior, interior, engine, test drive, VIN and history — against pass or fail criteria, so hidden faults and accident damage surface before you buy."
+    },
+    {
+      "q": "Should I still get a professional inspection?",
+      "a": "Yes. This checklist helps you screen and shortlist cars, but you should still pay for a professional pre-purchase inspection by an independent mechanic before buying — it can reveal issues a buyer cannot see."
+    },
+    {
+      "q": "What are the biggest red flags in a used car?",
+      "a": "Mismatched paint or panel gaps, frame or flood damage, a mismatched or unreadable VIN, an odometer that disagrees with wear or records, leaks, warning lights, and a seller who refuses an inspection or test drive."
+    },
+    {
+      "q": "How do I check a used car's history?",
+      "a": "Run a vehicle history report using the VIN, confirm the title is clean and not salvage or rebuilt, check for outstanding finance or liens, and match service records and the odometer reading to the car's apparent condition."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the used car inspection checklist to take to each viewing and score cars, or download the PDF to complete on your phone before you negotiate."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/used-car-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/used-car-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Used Car Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/used-car-inspection-checklist)",
+  "updated": "2026-10-18"
+}

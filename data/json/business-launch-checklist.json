@@ -1,0 +1,184 @@
+{
+  "id": "business-launch-checklist",
+  "name": "Business Launch Checklist",
+  "description": "A launch-week checklist of everything to do when opening a new business.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "business",
+    "marketing",
+    "launch",
+    "founders"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Pre-launch preparation",
+      "items": [
+        {
+          "text": "Confirm your launch date and create a day-by-day timeline."
+        },
+        {
+          "text": "Assign clear owners to each launch task."
+        },
+        {
+          "text": "Run a soft launch or dry run with a small audience."
+        },
+        {
+          "text": "Test your website, checkout and booking flow end to end."
+        },
+        {
+          "text": "Prepare answers to likely customer questions."
+        },
+        {
+          "text": "Brief your team on roles, hours and responsibilities."
+        }
+      ]
+    },
+    {
+      "title": "Announcement and messaging",
+      "items": [
+        {
+          "text": "Write a clear launch announcement and key message."
+        },
+        {
+          "text": "Prepare graphics, photos and video for your channels."
+        },
+        {
+          "text": "Draft an email to your existing list and contacts."
+        },
+        {
+          "text": "Schedule social media posts across launch week."
+        },
+        {
+          "text": "Reach out to local media, partners or relevant communities."
+        },
+        {
+          "text": "Ask friends, family and supporters to share the news."
+        }
+      ]
+    },
+    {
+      "title": "Marketing channels",
+      "items": [
+        {
+          "text": "Publish your launch on every channel you use."
+        },
+        {
+          "text": "Update your website homepage to feature the launch."
+        },
+        {
+          "text": "Confirm your business listings and maps profile are live."
+        },
+        {
+          "text": "Set up any paid ads with budget and targeting."
+        },
+        {
+          "text": "Add launch banners or pop-ups where customers will see them."
+        },
+        {
+          "text": "Track which channels are driving the most interest."
+        }
+      ]
+    },
+    {
+      "title": "Launch offers and incentives",
+      "items": [
+        {
+          "text": "Decide on a clear opening offer or promotion."
+        },
+        {
+          "text": "Set start and end dates so the offer feels urgent."
+        },
+        {
+          "text": "Confirm the offer is profitable and easy to fulfill."
+        },
+        {
+          "text": "Create a referral incentive for early customers."
+        },
+        {
+          "text": "Prepare any coupon codes or promo links."
+        },
+        {
+          "text": "Train staff to apply and explain the offer correctly."
+        }
+      ]
+    },
+    {
+      "title": "Operations ready",
+      "items": [
+        {
+          "text": "Confirm inventory, stock or capacity for the rush."
+        },
+        {
+          "text": "Test that payments process correctly."
+        },
+        {
+          "text": "Make sure fulfillment or delivery is ready to scale."
+        },
+        {
+          "text": "Set up customer support channels and response times."
+        },
+        {
+          "text": "Check that staffing matches expected demand."
+        },
+        {
+          "text": "Have a backup plan for technical or supply issues."
+        }
+      ]
+    },
+    {
+      "title": "Launch day and measure",
+      "items": [
+        {
+          "text": "Go live and confirm everything is working."
+        },
+        {
+          "text": "Monitor sales, traffic and sign-ups in real time."
+        },
+        {
+          "text": "Respond quickly to customer questions and issues."
+        },
+        {
+          "text": "Capture feedback and testimonials from early customers."
+        },
+        {
+          "text": "Fix any problems that surface on the day."
+        },
+        {
+          "text": "Thank customers and your team for the support."
+        },
+        {
+          "text": "Review results and plan your follow-up marketing."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start preparing for launch week?",
+      "a": "Begin two to four weeks ahead so you can build anticipation, line up your channels and pressure-test operations. Use this checklist to sequence the final days and avoid last-minute surprises."
+    },
+    {
+      "q": "Should I do a soft launch first?",
+      "a": "A soft launch to a small audience is a smart way to catch problems before the public opening. It lets you fix issues quietly, then go bigger with confidence during your main launch."
+    },
+    {
+      "q": "What makes a launch offer effective?",
+      "a": "A clear, time-limited incentive that's easy to understand and act on — such as a discount, bundle or bonus for early customers. Make sure it's profitable and easy for your team to honor."
+    },
+    {
+      "q": "What should I measure on launch day?",
+      "a": "Track sales, traffic, sign-ups and customer feedback, plus any operational hiccups. These early numbers tell you what's working and where to adjust quickly."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the launch checklist or download the PDF to coordinate your team and check off tasks throughout launch week."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/business-launch-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/business-launch-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Business Launch Checklist by ChecklistForge (https://checklistforge.com/checklist/business-launch-checklist)",
+  "updated": "2026-10-17"
+}

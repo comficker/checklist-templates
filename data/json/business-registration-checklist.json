@@ -1,0 +1,186 @@
+{
+  "id": "business-registration-checklist",
+  "name": "Business Registration Checklist",
+  "description": "A general checklist to legally register a new business step by step.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "business",
+    "small-business",
+    "startup",
+    "registration"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Choose a legal structure",
+      "items": [
+        {
+          "text": "Compare common structures such as sole trader, partnership and company."
+        },
+        {
+          "text": "Weigh liability protection against complexity and cost."
+        },
+        {
+          "text": "Consider how each structure is taxed.",
+          "note": "Tax treatment varies by country and state — confirm with your official authority."
+        },
+        {
+          "text": "Decide on ownership shares if you have co-founders."
+        },
+        {
+          "text": "Confirm the structure suits your growth and funding plans."
+        },
+        {
+          "text": "Get professional advice if the choice is unclear.",
+          "note": "This is general guidance, not legal or tax advice."
+        }
+      ]
+    },
+    {
+      "title": "Choose and check your name",
+      "items": [
+        {
+          "text": "Brainstorm names that fit your brand and are easy to recall."
+        },
+        {
+          "text": "Search the official business registry for name availability.",
+          "note": "Naming rules and registries differ by jurisdiction."
+        },
+        {
+          "text": "Check trademark databases for conflicts."
+        },
+        {
+          "text": "Confirm a matching domain name is available."
+        },
+        {
+          "text": "Check social media handle availability."
+        },
+        {
+          "text": "Reserve the name if your jurisdiction allows it."
+        }
+      ]
+    },
+    {
+      "title": "Register the business",
+      "items": [
+        {
+          "text": "Identify the correct authority to register with for your location."
+        },
+        {
+          "text": "Gather the required documents and owner details."
+        },
+        {
+          "text": "Complete and submit the registration application."
+        },
+        {
+          "text": "Pay any registration fees."
+        },
+        {
+          "text": "Register a trading or doing-business-as name if needed."
+        },
+        {
+          "text": "Save your registration confirmation and reference numbers."
+        }
+      ]
+    },
+    {
+      "title": "Get your tax ID",
+      "items": [
+        {
+          "text": "Apply for a federal or national tax identification number such as an EIN.",
+          "note": "The name and process vary by jurisdiction — check your official tax authority."
+        },
+        {
+          "text": "Register for any regional or state tax accounts that apply."
+        },
+        {
+          "text": "Register for sales tax or VAT if your sales require it."
+        },
+        {
+          "text": "Register as an employer if you plan to hire staff."
+        },
+        {
+          "text": "Note your filing deadlines and obligations."
+        },
+        {
+          "text": "Store your tax registration details securely."
+        }
+      ]
+    },
+    {
+      "title": "Licenses and permits",
+      "items": [
+        {
+          "text": "List the licenses your industry typically requires."
+        },
+        {
+          "text": "Check local, regional and national permit rules.",
+          "note": "Requirements vary widely by location and sector — verify with each authority."
+        },
+        {
+          "text": "Apply for any general business operating license."
+        },
+        {
+          "text": "Apply for specialized permits such as food, health or signage."
+        },
+        {
+          "text": "Confirm zoning rules allow your activity at your location."
+        },
+        {
+          "text": "Note renewal dates so licenses don't lapse."
+        }
+      ]
+    },
+    {
+      "title": "Bank account and finishing up",
+      "items": [
+        {
+          "text": "Gather the documents your bank requires to open an account."
+        },
+        {
+          "text": "Open a dedicated business bank account."
+        },
+        {
+          "text": "Set up a payment processor to accept customer payments."
+        },
+        {
+          "text": "Arrange any required business insurance."
+        },
+        {
+          "text": "Set up bookkeeping or accounting from the start."
+        },
+        {
+          "text": "File copies of all registration documents in one place."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What's the first step to register a business?",
+      "a": "Choose your legal structure first, because it shapes how you register, how you're taxed and what paperwork you file. Once the structure is set, the name, tax ID and licenses follow more easily."
+    },
+    {
+      "q": "Do I need a tax ID or EIN?",
+      "a": "Most businesses need a tax identification number to hire staff, open a bank account or file taxes. The exact name and process differ by country and state, so confirm with your official tax authority."
+    },
+    {
+      "q": "How do I know which licenses and permits I need?",
+      "a": "It depends on your industry and location. Check with your local, regional and national authorities, since requirements vary widely. Some sectors like food, health and finance carry extra rules."
+    },
+    {
+      "q": "Can I register a business myself or do I need a lawyer?",
+      "a": "Many small businesses register themselves using official online portals. A lawyer or accountant helps when the structure is complex or money is at stake. This checklist is general guidance, not legal or tax advice — verify with your official authority."
+    },
+    {
+      "q": "Is there a printable PDF version?",
+      "a": "Yes. Print the registration checklist or download the PDF to track each step and share it with your accountant or co-founder."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/business-registration-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/business-registration-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Business Registration Checklist by ChecklistForge (https://checklistforge.com/checklist/business-registration-checklist)",
+  "updated": "2026-10-17"
+}

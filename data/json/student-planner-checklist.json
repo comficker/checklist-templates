@@ -1,0 +1,165 @@
+{
+  "id": "student-planner-checklist",
+  "name": "Student Planner Checklist",
+  "description": "A student planner checklist for setting up and actually using a planner to stay on top of schoolwork.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "organization",
+    "students",
+    "study",
+    "planner",
+    "time-management"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Choose and set up your planner",
+      "items": [
+        {
+          "text": "Pick a paper planner or a planner app you will check daily."
+        },
+        {
+          "text": "Add your weekly class schedule with times and locations."
+        },
+        {
+          "text": "Mark the current term's start and end dates."
+        },
+        {
+          "text": "Note recurring commitments like clubs, work or sports."
+        },
+        {
+          "text": "Set up a simple color or symbol code for subjects.",
+          "note": "For example, one color per class makes the week easy to scan."
+        }
+      ]
+    },
+    {
+      "title": "Capture all assignments",
+      "items": [
+        {
+          "text": "Go through each class syllabus and list every assignment."
+        },
+        {
+          "text": "Write each task on its due date."
+        },
+        {
+          "text": "Add exams, quizzes and project milestones."
+        },
+        {
+          "text": "Break large projects into smaller steps with their own dates."
+        },
+        {
+          "text": "Record reading and homework as you receive it in class."
+        }
+      ]
+    },
+    {
+      "title": "Track deadlines",
+      "items": [
+        {
+          "text": "Highlight upcoming due dates so they stand out."
+        },
+        {
+          "text": "Add reminder dates a few days before big deadlines."
+        },
+        {
+          "text": "Note submission details like format or platform."
+        },
+        {
+          "text": "Flag any overlapping deadlines to plan around them."
+        },
+        {
+          "text": "Update the planner the moment a deadline changes."
+        }
+      ]
+    },
+    {
+      "title": "Build a weekly schedule",
+      "items": [
+        {
+          "text": "Block dedicated study time for each subject."
+        },
+        {
+          "text": "Schedule harder tasks when your energy is highest."
+        },
+        {
+          "text": "Leave buffer time for unexpected work."
+        },
+        {
+          "text": "Plan breaks, meals and sleep so the week is realistic."
+        },
+        {
+          "text": "Balance schoolwork with activities and downtime."
+        }
+      ]
+    },
+    {
+      "title": "Use it daily",
+      "items": [
+        {
+          "text": "Check the planner first thing each morning."
+        },
+        {
+          "text": "Cross off tasks as you finish them."
+        },
+        {
+          "text": "Add any new assignments before you leave class."
+        },
+        {
+          "text": "Review the next day's plan each evening."
+        },
+        {
+          "text": "Move any unfinished tasks to a new day."
+        }
+      ]
+    },
+    {
+      "title": "Review and adjust",
+      "items": [
+        {
+          "text": "Do a full review at the end of each week."
+        },
+        {
+          "text": "Look ahead to next week's deadlines and events."
+        },
+        {
+          "text": "Reschedule anything you missed or fell behind on."
+        },
+        {
+          "text": "Note what worked and what to change."
+        },
+        {
+          "text": "Reset your color codes and highlights for the week ahead."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I set up a student planner?",
+      "a": "Set it up by adding your class schedule, recording every assignment and due date from each syllabus, marking exam and project dates, then blocking regular study time so the planner reflects your whole term."
+    },
+    {
+      "q": "How often should I check my planner?",
+      "a": "Check it at the start and end of each day to see what is due and plan the next day, then do a longer review once a week to look ahead and reschedule anything you missed."
+    },
+    {
+      "q": "Paper planner or an app?",
+      "a": "Both work. A paper planner is simple and distraction-free, while an app sends reminders and syncs across devices. Pick whichever you will actually open every day and use it consistently."
+    },
+    {
+      "q": "Why do students stop using their planners?",
+      "a": "Usually because they set it up once but never built a checking habit. Pairing a quick daily check with a weekly review, as this checklist does, keeps the planner part of your routine."
+    },
+    {
+      "q": "Can I download this student planner checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and keep it inside your planner as a setup and review routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/student-planner-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/student-planner-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Student Planner Checklist by ChecklistForge (https://checklistforge.com/checklist/student-planner-checklist)",
+  "updated": "2026-10-17"
+}

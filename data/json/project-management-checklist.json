@@ -1,0 +1,176 @@
+{
+  "id": "project-management-checklist",
+  "name": "Project Management Checklist",
+  "description": "A methodical checklist that walks a project through all five management phases.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "productivity",
+    "project-management",
+    "team",
+    "planning"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Initiation",
+      "items": [
+        {
+          "text": "Define the business case and the problem the project solves"
+        },
+        {
+          "text": "Identify the sponsor and confirm executive support"
+        },
+        {
+          "text": "Draft a project charter with goals and high-level scope"
+        },
+        {
+          "text": "Map the key stakeholders and their interests"
+        },
+        {
+          "text": "Get formal approval to proceed before any planning starts",
+          "note": "Written authorization protects the project later."
+        }
+      ]
+    },
+    {
+      "title": "Planning",
+      "items": [
+        {
+          "text": "Break the scope into a work breakdown structure"
+        },
+        {
+          "text": "Build a schedule with milestones and dependencies"
+        },
+        {
+          "text": "Estimate the budget and confirm funding"
+        },
+        {
+          "text": "Define roles with a responsibility assignment matrix"
+        },
+        {
+          "text": "Create a risk register with mitigation plans"
+        },
+        {
+          "text": "Agree a communication plan and reporting cadence"
+        }
+      ]
+    },
+    {
+      "title": "Execution",
+      "items": [
+        {
+          "text": "Kick off the project with the full team"
+        },
+        {
+          "text": "Assign tasks and confirm everyone understands their work"
+        },
+        {
+          "text": "Produce the deliverables to the agreed quality standard"
+        },
+        {
+          "text": "Coordinate vendors, contractors, and dependencies"
+        },
+        {
+          "text": "Keep stakeholders updated against the communication plan",
+          "note": "Consistent updates build trust and prevent surprises."
+        }
+      ]
+    },
+    {
+      "title": "Monitoring and Control",
+      "items": [
+        {
+          "text": "Track progress against schedule, scope, and budget"
+        },
+        {
+          "text": "Compare planned versus actual performance regularly"
+        },
+        {
+          "text": "Review and update the risk register at each checkpoint"
+        },
+        {
+          "text": "Run change requests through a formal approval process",
+          "note": "Document every scope change and its impact."
+        },
+        {
+          "text": "Adjust the plan and resources when variances appear"
+        },
+        {
+          "text": "Verify quality before accepting any deliverable"
+        }
+      ]
+    },
+    {
+      "title": "Stakeholder and Risk Management",
+      "items": [
+        {
+          "text": "Re-check stakeholder needs as the project evolves"
+        },
+        {
+          "text": "Escalate critical issues to the sponsor promptly"
+        },
+        {
+          "text": "Hold regular risk reviews with the core team"
+        },
+        {
+          "text": "Keep a decision log so choices are traceable"
+        },
+        {
+          "text": "Manage expectations on timing and trade-offs"
+        }
+      ]
+    },
+    {
+      "title": "Closing",
+      "items": [
+        {
+          "text": "Confirm all deliverables are complete and accepted"
+        },
+        {
+          "text": "Obtain formal sign-off from the sponsor or client"
+        },
+        {
+          "text": "Release resources, contracts, and licenses"
+        },
+        {
+          "text": "Archive documents, data, and final reports"
+        },
+        {
+          "text": "Run a lessons-learned review with the team",
+          "note": "Capture improvements while memories are fresh."
+        },
+        {
+          "text": "Hand over to operations and close the project formally"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the five phases of project management?",
+      "a": "Initiation, planning, execution, monitoring and control, and closing. Each phase has its own goals and deliverables, and this checklist gives you the key tasks for every one."
+    },
+    {
+      "q": "Who is this project management checklist for?",
+      "a": "Project managers, team leads, and PMO staff who run structured projects. It works whether you follow a waterfall, hybrid, or lightweight agile approach."
+    },
+    {
+      "q": "How is this different from a basic project checklist?",
+      "a": "It is organized around formal lifecycle phases and adds governance, risk, and control steps. Use it when you need a more methodical, repeatable management process."
+    },
+    {
+      "q": "Does this checklist work with agile projects?",
+      "a": "Yes. Treat planning and execution as iterative sprints, and use the monitoring section for each review. The closing phase still applies at release or project end."
+    },
+    {
+      "q": "Can I print this project management checklist?",
+      "a": "Yes. Download the printable PDF, share it with your team, and tick off each control as you complete every phase from initiation to closing."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/project-management-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/project-management-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Project Management Checklist by ChecklistForge (https://checklistforge.com/checklist/project-management-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,153 @@
+{
+  "id": "utilities-transfer-checklist",
+  "name": "Utilities Transfer Checklist",
+  "description": "How to set up, transfer, or cancel every utility for a move, with the right timing for each.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "utilities",
+    "utilities-transfer",
+    "meter-readings"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Plan & Time the Switch",
+      "items": [
+        {
+          "text": "List every utility account at your current address"
+        },
+        {
+          "text": "Confirm which utilities the new home needs and who provides them"
+        },
+        {
+          "text": "Contact each provider about two weeks before moving"
+        },
+        {
+          "text": "Schedule new-home service to start the day before you arrive"
+        },
+        {
+          "text": "Schedule old-home service to end the day after you leave",
+          "note": "A small overlap means you keep power and water during the move itself"
+        }
+      ]
+    },
+    {
+      "title": "Electricity",
+      "items": [
+        {
+          "text": "Transfer or set up the electric account in your name"
+        },
+        {
+          "text": "Confirm the activation date at the new address"
+        },
+        {
+          "text": "Ask whether a deposit or new connection fee applies"
+        },
+        {
+          "text": "Record the final electric meter reading at the old home"
+        }
+      ]
+    },
+    {
+      "title": "Gas & Water",
+      "items": [
+        {
+          "text": "Arrange gas service and confirm the start date"
+        },
+        {
+          "text": "Book any required safety check or pilot-light relight"
+        },
+        {
+          "text": "Transfer or open the water and sewer account"
+        },
+        {
+          "text": "Photograph final gas and water meter readings before you leave"
+        }
+      ]
+    },
+    {
+      "title": "Internet, Cable & Phone",
+      "items": [
+        {
+          "text": "Book the internet installation appointment early"
+        },
+        {
+          "text": "Check whether your current plan is available at the new address"
+        },
+        {
+          "text": "Arrange return or transfer of any rented modem or set-top box"
+        },
+        {
+          "text": "Confirm the cable and phone service start date"
+        },
+        {
+          "text": "Have a backup hotspot for the first day in case install is delayed"
+        }
+      ]
+    },
+    {
+      "title": "Trash, Recycling & Other",
+      "items": [
+        {
+          "text": "Set up or transfer trash and recycling collection"
+        },
+        {
+          "text": "Find out collection days and any bin rental at the new home"
+        },
+        {
+          "text": "Arrange propane, oil or any specialty service if needed"
+        },
+        {
+          "text": "Transfer or cancel a home security monitoring contract"
+        }
+      ]
+    },
+    {
+      "title": "Close Out the Old Address",
+      "items": [
+        {
+          "text": "Confirm cancellation dates and final bills for every account"
+        },
+        {
+          "text": "Return any equipment and keep the receipts"
+        },
+        {
+          "text": "Provide a forwarding address for closing statements"
+        },
+        {
+          "text": "Save photos of all final meter readings with dates",
+          "note": "Keep them until each final bill is confirmed correct"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I transfer utilities when moving?",
+      "a": "Contact providers about two weeks ahead. Schedule service to start at the new home the day before you move in and to end at the old home the day after you move out, so you are never left without power, water or internet."
+    },
+    {
+      "q": "Should I transfer or cancel and restart utilities?",
+      "a": "If your current provider serves the new address, a transfer is usually faster and avoids new deposits. If you are moving outside their area, cancel the old account and set up fresh service with a local provider."
+    },
+    {
+      "q": "Why should I record final meter readings?",
+      "a": "A photographed meter reading on the day you leave proves exactly how much you used, so your final bill is accurate and you are not charged for the next occupant's usage."
+    },
+    {
+      "q": "Which utility should I arrange first?",
+      "a": "Book internet and cable first — installation appointments fill up quickly and may require a technician visit. Power, gas and water can usually be switched on remotely with less notice."
+    },
+    {
+      "q": "Is this utilities transfer checklist printable?",
+      "a": "Yes. Print it or download the PDF and check off each service for both your old and new address."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/utilities-transfer-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/utilities-transfer-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Utilities Transfer Checklist by ChecklistForge (https://checklistforge.com/checklist/utilities-transfer-checklist)",
+  "updated": "2026-10-17"
+}

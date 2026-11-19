@@ -1,0 +1,173 @@
+{
+  "id": "moving-checklist",
+  "name": "Moving Checklist",
+  "description": "A complete week-by-week moving checklist covering packing, utilities and moving day.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "packing",
+    "moving-day",
+    "moving-timeline",
+    "utilities"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "8 Weeks Before",
+      "items": [
+        {
+          "text": "Create a moving folder for quotes, receipts and contracts"
+        },
+        {
+          "text": "Set a realistic moving budget",
+          "note": "Include movers, supplies, deposits and a buffer for surprises"
+        },
+        {
+          "text": "Get quotes and book a moving company or rental truck"
+        },
+        {
+          "text": "Declutter room by room — sell, donate or bin what you won't take"
+        },
+        {
+          "text": "Make an inventory of valuables and large furniture"
+        }
+      ]
+    },
+    {
+      "title": "6 Weeks Before",
+      "items": [
+        {
+          "text": "Order packing supplies: boxes, tape, bubble wrap and markers"
+        },
+        {
+          "text": "Start using up freezer food and pantry items"
+        },
+        {
+          "text": "Measure doorways and large furniture for the new home"
+        },
+        {
+          "text": "Request time off work for moving day"
+        }
+      ]
+    },
+    {
+      "title": "4 Weeks Before",
+      "items": [
+        {
+          "text": "Pack rarely used rooms first (attic, garage, guest room)"
+        },
+        {
+          "text": "Label every box by room and contents",
+          "note": "Number boxes and keep a master list"
+        },
+        {
+          "text": "Give notice to your landlord or list your home"
+        },
+        {
+          "text": "Arrange childcare and pet care for moving day"
+        }
+      ]
+    },
+    {
+      "title": "2 Weeks Before",
+      "items": [
+        {
+          "text": "Confirm the date, time and address with your movers"
+        },
+        {
+          "text": "Set up or transfer utilities: electricity, gas, water and internet"
+        },
+        {
+          "text": "Change your address with the post office and key accounts"
+        },
+        {
+          "text": "Refill prescriptions and gather important documents"
+        }
+      ]
+    },
+    {
+      "title": "Moving Week",
+      "items": [
+        {
+          "text": "Pack a first-night essentials box and keep it with you"
+        },
+        {
+          "text": "Defrost and clean the refrigerator and freezer"
+        },
+        {
+          "text": "Disassemble large furniture and bag the screws"
+        },
+        {
+          "text": "Confirm parking for the moving truck"
+        },
+        {
+          "text": "Back up your computer and important files"
+        }
+      ]
+    },
+    {
+      "title": "Moving Day",
+      "items": [
+        {
+          "text": "Do a final walkthrough of every room, closet and cupboard"
+        },
+        {
+          "text": "Take meter readings and photos of the empty home"
+        },
+        {
+          "text": "Keep valuables, documents and chargers with you, not on the truck"
+        },
+        {
+          "text": "Check items off your inventory as they are loaded and unloaded"
+        },
+        {
+          "text": "Hand over keys and leave a forwarding address"
+        }
+      ]
+    },
+    {
+      "title": "After the Move",
+      "items": [
+        {
+          "text": "Unpack the essentials box and make the beds first"
+        },
+        {
+          "text": "Test smoke and carbon-monoxide alarms"
+        },
+        {
+          "text": "Update your driver's license and vehicle registration"
+        },
+        {
+          "text": "Register with a local doctor, dentist and pharmacy"
+        },
+        {
+          "text": "Introduce yourself to the neighbors"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start a moving checklist?",
+      "a": "Start about eight weeks before moving day for a relaxed timeline. With less notice, work backward from your move date and prioritize booking movers, packing, and switching utilities first."
+    },
+    {
+      "q": "Can I download this moving checklist as a PDF?",
+      "a": "Yes. You can print this checklist or download it as a PDF, so you can tick off tasks offline or share it with family and friends helping you move."
+    },
+    {
+      "q": "What should go in a first-night box?",
+      "a": "Pack a change of clothes, toiletries, medications, phone chargers, basic tools, bedding, and snacks — anything you will need before you unpack, like a kettle and coffee."
+    },
+    {
+      "q": "How far in advance should I book movers?",
+      "a": "Book a moving company four to eight weeks ahead, and earlier for peak times such as summer, weekends, and month-end, when reputable movers fill up fast."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/moving-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/moving-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Moving Checklist by ChecklistForge (https://checklistforge.com/checklist/moving-checklist)",
+  "updated": "2026-10-17"
+}

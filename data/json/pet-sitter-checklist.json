@@ -1,0 +1,185 @@
+{
+  "id": "pet-sitter-checklist",
+  "name": "Pet Sitter Checklist",
+  "description": "A pet sitter checklist for owners covering feeding, meds, routine, emergencies and contacts.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "dogs",
+    "pet-sitter"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Feeding instructions",
+      "items": [
+        {
+          "text": "List each pet's food type, amount and feeding times."
+        },
+        {
+          "text": "Show where food, treats and bowls are stored."
+        },
+        {
+          "text": "Note any dietary restrictions or allergies."
+        },
+        {
+          "text": "Explain how much and when treats are allowed."
+        },
+        {
+          "text": "Describe how to refresh water and clean bowls."
+        },
+        {
+          "text": "Mention any foods that are off-limits."
+        }
+      ]
+    },
+    {
+      "title": "Medications and health",
+      "items": [
+        {
+          "text": "List each medication, dose and timing clearly."
+        },
+        {
+          "text": "Explain how to give each medication step by step."
+        },
+        {
+          "text": "Note where medications are stored."
+        },
+        {
+          "text": "Describe what to do if a dose is missed."
+        },
+        {
+          "text": "Flag any symptoms that need attention."
+        },
+        {
+          "text": "Confirm all medication details with your veterinarian.",
+          "note": "Demonstrate dosing in person before you leave if possible."
+        }
+      ]
+    },
+    {
+      "title": "Daily routine",
+      "items": [
+        {
+          "text": "Outline the typical day from morning to night."
+        },
+        {
+          "text": "Note walk, play or outdoor times and lengths."
+        },
+        {
+          "text": "Explain litter, potty or cage cleaning steps."
+        },
+        {
+          "text": "Describe sleeping spots and bedtime routine."
+        },
+        {
+          "text": "Mention favorite toys, comforts and quirks."
+        },
+        {
+          "text": "Share how your pet signals needs or stress."
+        }
+      ]
+    },
+    {
+      "title": "Home and supplies",
+      "items": [
+        {
+          "text": "Show where leashes, carriers and supplies are kept."
+        },
+        {
+          "text": "Explain how to lock up and use any alarm."
+        },
+        {
+          "text": "Point out cleaning supplies for accidents."
+        },
+        {
+          "text": "Note where to find a backup key if needed."
+        },
+        {
+          "text": "Explain trash, recycling and waste disposal."
+        },
+        {
+          "text": "Flag any household hazards to keep away from pets."
+        }
+      ]
+    },
+    {
+      "title": "Emergencies",
+      "items": [
+        {
+          "text": "Provide your phone number and travel dates."
+        },
+        {
+          "text": "List a local backup contact who can step in."
+        },
+        {
+          "text": "Share your veterinarian's name and number."
+        },
+        {
+          "text": "Note the nearest emergency vet clinic and address."
+        },
+        {
+          "text": "Authorize emergency care and note any cost limits."
+        },
+        {
+          "text": "Include microchip details and a recent photo."
+        }
+      ]
+    },
+    {
+      "title": "Contacts and notes",
+      "items": [
+        {
+          "text": "List all key contacts in one easy place."
+        },
+        {
+          "text": "Note neighbors who can help in a pinch."
+        },
+        {
+          "text": "Add Wi-Fi, thermostat and basic home notes."
+        },
+        {
+          "text": "Explain how and when to send you updates."
+        },
+        {
+          "text": "Leave any building or gate access details."
+        },
+        {
+          "text": "Confirm visit times and the schedule with your sitter."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Confirm medication and health instructions with your veterinarian before leaving your pet with a sitter."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What information should I leave a pet sitter?",
+      "a": "Leave clear feeding amounts and times, medication details, your pet's routine, house rules, and emergency contacts including your veterinarian. Add quirks and comfort items so the sitter understands your pet. The more specific the notes, the better your pet is cared for."
+    },
+    {
+      "q": "How do I explain medications to a sitter?",
+      "a": "Write the medication name, dose, timing and how to give it, and demonstrate in person if possible. Note where the medication is stored and what to do if a dose is missed. Confirm all medication instructions with your veterinarian before you leave."
+    },
+    {
+      "q": "What should I cover before I leave?",
+      "a": "Walk the sitter through feeding, the daily routine, where supplies are kept, and how to lock up. Share emergency steps and contacts, and confirm visit times. A short trial visit while you are home can help the sitter and pet get acquainted."
+    },
+    {
+      "q": "What emergency details matter most?",
+      "a": "Include your contact number, a local backup contact, your veterinarian's details and a nearby emergency clinic. Note your pet's microchip information and any medical conditions. Make sure the sitter knows where to find a leash, carrier and records quickly."
+    },
+    {
+      "q": "Can I download this pet sitter checklist as a PDF?",
+      "a": "Yes. You can print it for the counter or download it as a PDF to share with your sitter, so owners can leave clear, complete care instructions for any pet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-sitter-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-sitter-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Sitter Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-sitter-checklist)",
+  "updated": "2026-10-17"
+}

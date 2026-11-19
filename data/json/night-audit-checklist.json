@@ -1,0 +1,191 @@
+{
+  "id": "night-audit-checklist",
+  "name": "Hotel Night Audit Checklist",
+  "description": "A shift checklist for the hotel night auditor, from the evening handover to the system date roll and the morning report.",
+  "category": "office-management",
+  "category_name": "Office Management",
+  "tags": [
+    "hospitality",
+    "hotel",
+    "front-desk",
+    "accounting",
+    "night-shift"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Start of Shift",
+      "items": [
+        {
+          "text": "Get a handover from the evening shift on open issues and VIPs"
+        },
+        {
+          "text": "Count the cash drawer with the outgoing clerk and both sign the count",
+          "note": "Never accept a drawer you have not counted yourself."
+        },
+        {
+          "text": "Review today's arrivals still due and any late check-in notes"
+        },
+        {
+          "text": "Read the log book for guest requests, complaints and wake-up calls"
+        }
+      ]
+    },
+    {
+      "title": "Check Accounts",
+      "items": [
+        {
+          "text": "Post any outlet charges not yet on guest folios, such as restaurant or bar"
+        },
+        {
+          "text": "Check rates on in-house folios match the reservation"
+        },
+        {
+          "text": "Check that discounts, packages and comp rooms are approved and coded right"
+        },
+        {
+          "text": "Review the high balance report and flag guests over their authorization"
+        },
+        {
+          "text": "Check that departures due today are checked out or extended"
+        }
+      ]
+    },
+    {
+      "title": "Room Status",
+      "items": [
+        {
+          "text": "Compare the PMS room status with the housekeeping report"
+        },
+        {
+          "text": "Investigate rooms the PMS shows vacant but housekeeping found occupied",
+          "note": "A room that is occupied but shown vacant in the PMS can be a guest staying without paying, or a check-in the desk missed. Check it before you post room charges."
+        },
+        {
+          "text": "Investigate rooms shown occupied but found vacant (possible skips)"
+        },
+        {
+          "text": "Correct room status in the PMS and note each change in the log"
+        }
+      ]
+    },
+    {
+      "title": "No-Shows and Reservations",
+      "items": [
+        {
+          "text": "Run the list of arrivals that did not check in"
+        },
+        {
+          "text": "Charge guaranteed no-shows per the hotel's no-show policy",
+          "note": "Check for a cancellation number or a message from the guest before you charge."
+        },
+        {
+          "text": "Cancel non-guaranteed reservations that did not arrive"
+        },
+        {
+          "text": "Check tomorrow's arrivals for guarantees, deposits and special requests"
+        }
+      ]
+    },
+    {
+      "title": "Cash and Card Balancing",
+      "items": [
+        {
+          "text": "Balance the cash drawer against the PMS cashier report"
+        },
+        {
+          "text": "Match card payments in the PMS to the card terminal totals"
+        },
+        {
+          "text": "Settle the credit card batch and keep the settlement report",
+          "note": "If the PMS and the terminal do not match, find the difference before you settle. Common causes are a duplicate swipe or a payment posted to the wrong room."
+        },
+        {
+          "text": "Prepare the deposit and drop it in the safe per hotel policy"
+        }
+      ]
+    },
+    {
+      "title": "Post Charges and Close the Day",
+      "items": [
+        {
+          "text": "Post room and tax charges to all in-house folios"
+        },
+        {
+          "text": "Review the posting report for missing or doubled charges"
+        },
+        {
+          "text": "Print or save the backup reports before the roll",
+          "note": "Keep the in-house guest list, room status, arrivals and guest ledger on paper in case the PMS goes down."
+        },
+        {
+          "text": "Run the end-of-day roll to change the system date",
+          "note": "Make sure no other user is posting at the desk while the roll runs."
+        }
+      ]
+    },
+    {
+      "title": "Reports and Morning Handover",
+      "items": [
+        {
+          "text": "Run the daily revenue report and check room, tax and other revenue"
+        },
+        {
+          "text": "Record occupancy, ADR and RevPAR for the day"
+        },
+        {
+          "text": "Run the guest ledger and city ledger balance reports"
+        },
+        {
+          "text": "Send or file the audit pack for the general manager and accounting"
+        },
+        {
+          "text": "Count the drawer with the morning clerk and both sign the count"
+        },
+        {
+          "text": "Brief the morning shift on issues, high balances and early departures"
+        }
+      ]
+    },
+    {
+      "title": "Audit Sign-Off",
+      "items": [
+        {
+          "text": "Business date: ____  Auditor: ____"
+        },
+        {
+          "text": "Rooms sold: ____  Occupancy: ____  ADR: ____  RevPAR: ____"
+        },
+        {
+          "text": "Cash over / short: ____  Card batch total: ____"
+        },
+        {
+          "text": "Issues for the manager: ____"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a hotel night auditor do?",
+      "a": "A night auditor runs the front desk overnight and closes the hotel's business day. They post room and tax charges, balance cash and card payments, check that every account is correct, process no-shows, run the daily reports, and roll the PMS to the next day. At small hotels they also check in late arrivals and handle guest calls."
+    },
+    {
+      "q": "How do you calculate ADR, occupancy and RevPAR?",
+      "a": "Occupancy is rooms sold divided by rooms available. ADR (average daily rate) is room revenue divided by rooms sold. RevPAR (revenue per available room) is room revenue divided by rooms available, which is the same as ADR times occupancy. Check whether your hotel counts comp and house-use rooms in these figures."
+    },
+    {
+      "q": "What is a high balance report?",
+      "a": "It lists in-house guests whose charges are close to or above the amount authorized on their card or their credit limit. The night auditor flags these accounts so the day shift can get a new authorization or payment before the guest runs up more charges."
+    },
+    {
+      "q": "What happens if the night audit is not done?",
+      "a": "The PMS stays on the old business date. Room charges are not posted, reports are wrong, and new check-ins and payments can land on the wrong day. Many systems will not let staff work normally until the audit is run, so it must be done every night."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/night-audit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/night-audit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hotel Night Audit Checklist by ChecklistForge (https://checklistforge.com/checklist/night-audit-checklist)",
+  "updated": "2026-10-18"
+}

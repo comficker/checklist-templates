@@ -1,0 +1,140 @@
+{
+  "id": "office-moving-checklist",
+  "name": "Office Moving Checklist",
+  "description": "A business office moving checklist covering IT, vendors, staff communication and downtime.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "office",
+    "business",
+    "it-relocation"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "3 Months Before",
+      "items": [
+        {
+          "text": "Confirm the new lease, move-in date and building access rules"
+        },
+        {
+          "text": "Appoint a move lead and assign section owners"
+        },
+        {
+          "text": "Set the moving budget and get quotes from commercial movers"
+        },
+        {
+          "text": "Create a floor plan with desk, meeting-room and server locations"
+        },
+        {
+          "text": "Order internet and phone circuits for the new site",
+          "note": "Circuit installation can take 30–90 days"
+        }
+      ]
+    },
+    {
+      "title": "1 Month Before",
+      "items": [
+        {
+          "text": "Notify staff of the move date, new address and parking details"
+        },
+        {
+          "text": "Order new furniture and signage with delivery before move day"
+        },
+        {
+          "text": "Plan the IT migration: servers, network, printers and workstations"
+        },
+        {
+          "text": "Update the address on your website, Google Business Profile and stationery"
+        },
+        {
+          "text": "Notify clients, vendors and service providers of the new address"
+        }
+      ]
+    },
+    {
+      "title": "2 Weeks Before",
+      "items": [
+        {
+          "text": "Label and number every desk, box and piece of equipment"
+        },
+        {
+          "text": "Confirm move-day logistics with movers, building and security"
+        },
+        {
+          "text": "Arrange disposal or donation of old furniture and e-waste"
+        },
+        {
+          "text": "Back up all servers and critical data"
+        },
+        {
+          "text": "Distribute packing materials and personal-item guidelines to staff"
+        }
+      ]
+    },
+    {
+      "title": "Moving Weekend",
+      "items": [
+        {
+          "text": "Power down and disconnect IT equipment safely"
+        },
+        {
+          "text": "Supervise loading and confirm the inventory"
+        },
+        {
+          "text": "Set up and test the network, servers, phones and printers"
+        },
+        {
+          "text": "Verify internet and Wi-Fi work at every workstation"
+        },
+        {
+          "text": "Place furniture and equipment per the floor plan"
+        }
+      ]
+    },
+    {
+      "title": "After the Move",
+      "items": [
+        {
+          "text": "Walk the new office to confirm everything works on day one"
+        },
+        {
+          "text": "Update emergency exits, evacuation plans and first-aid stations"
+        },
+        {
+          "text": "Collect feedback and fix outstanding IT or facilities issues"
+        },
+        {
+          "text": "Return access cards and keys for the old office"
+        },
+        {
+          "text": "Confirm the old space is cleaned and the lease is closed out"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How early should we plan an office move?",
+      "a": "Start three to six months ahead for a small office and six to twelve months for a large one. IT circuits, furniture orders, and building permits all have long lead times."
+    },
+    {
+      "q": "How do we avoid downtime during an office move?",
+      "a": "Move over a weekend or holiday, set up and test IT at the new site before the move, and keep a temporary remote-work plan ready in case anything slips."
+    },
+    {
+      "q": "Who should be on the office move team?",
+      "a": "Assign a move lead plus owners for IT, facilities, HR/communications, and finance. Give each a section of the checklist and a clear deadline."
+    },
+    {
+      "q": "Can I download this office moving checklist as a PDF?",
+      "a": "Yes. Download the PDF or print it for your move committee so everyone works from the same plan and deadlines."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/office-moving-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/office-moving-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Office Moving Checklist by ChecklistForge (https://checklistforge.com/checklist/office-moving-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,230 @@
+{
+  "id": "home-inspection-checklist",
+  "name": "Home Inspection Checklist",
+  "description": "A room-by-room and system-by-system home inspection checklist for buyers and homeowners.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "home-inspection",
+    "real-estate",
+    "home-buying"
+  ],
+  "item_count": 49,
+  "sections": [
+    {
+      "title": "Exterior and Roof",
+      "items": [
+        {
+          "text": "Walk the full perimeter and look for cracked, missing, or rotting siding, trim, and fascia."
+        },
+        {
+          "text": "Inspect the roof from the ground with binoculars for curled, missing, or damaged shingles."
+        },
+        {
+          "text": "Check gutters and downspouts for clogs, rust, sagging, and that water drains away from the house."
+        },
+        {
+          "text": "Examine chimneys, flashing, and vents for cracks, missing mortar, or loose seals."
+        },
+        {
+          "text": "Note the grading: soil should slope away from the foundation, not toward it."
+        },
+        {
+          "text": "Inspect decks, porches, railings, and steps for rot, wobble, and secure fasteners."
+        },
+        {
+          "text": "Test exterior faucets, look at the driveway and walkways for heaving cracks, and check fences and gates."
+        }
+      ]
+    },
+    {
+      "title": "Foundation and Structure",
+      "items": [
+        {
+          "text": "Look for cracks in the foundation wider than a quarter inch, especially horizontal or stair-step patterns."
+        },
+        {
+          "text": "Check basement and crawlspace walls for water stains, efflorescence, or active moisture."
+        },
+        {
+          "text": "Note any musty smells that may signal mold or chronic dampness."
+        },
+        {
+          "text": "Set a marble or ball on floors to spot sloping or uneven settling."
+        },
+        {
+          "text": "Inspect support posts, beams, and joists for rot, sagging, or insect damage."
+        },
+        {
+          "text": "Look for sticking doors and windows, which can indicate structural movement.",
+          "note": "Persistent sticking across many openings is more concerning than one door."
+        },
+        {
+          "text": "Check sump pumps and drainage systems for proper operation and recent water marks."
+        }
+      ]
+    },
+    {
+      "title": "Plumbing",
+      "items": [
+        {
+          "text": "Run every faucet, shower, and tub, checking water pressure and how quickly drains clear."
+        },
+        {
+          "text": "Look under sinks for leaks, water stains, corrosion, and signs of past repairs."
+        },
+        {
+          "text": "Flush all toilets and confirm they refill and shut off without running or rocking."
+        },
+        {
+          "text": "Identify the water heater's age, capacity, and any rust, leaks, or corrosion at fittings."
+        },
+        {
+          "text": "Note the pipe material; older galvanized steel or polybutylene may need replacement.",
+          "note": "Lead pipes or solder are a health concern—flag for professional testing."
+        },
+        {
+          "text": "Locate the main water shutoff valve and confirm it is accessible and operable."
+        },
+        {
+          "text": "Check for water stains on ceilings below bathrooms, which often reveal hidden leaks."
+        }
+      ]
+    },
+    {
+      "title": "Electrical",
+      "items": [
+        {
+          "text": "Open the electrical panel cover and check for scorch marks, rust, double-tapped breakers, or a recalled brand."
+        },
+        {
+          "text": "Test a sample of outlets in each room with an outlet tester for proper wiring and grounding."
+        },
+        {
+          "text": "Confirm GFCI outlets in kitchens, baths, garages, and exteriors trip and reset correctly."
+        },
+        {
+          "text": "Verify that light switches operate fixtures and that no bulbs flicker."
+        },
+        {
+          "text": "Look for exposed wiring, overloaded extension cords, or amateur splices.",
+          "note": "Knob-and-tube or aluminum branch wiring warrants an electrician's review."
+        },
+        {
+          "text": "Check that smoke and carbon monoxide detectors are present, correctly placed, and functional."
+        },
+        {
+          "text": "Confirm the panel has adequate capacity and clear labeling of circuits."
+        }
+      ]
+    },
+    {
+      "title": "Heating, Cooling, and Ventilation",
+      "items": [
+        {
+          "text": "Turn on the heat and air conditioning to confirm both cycle on and produce conditioned air."
+        },
+        {
+          "text": "Check the furnace and AC unit ages, looking for rust, corrosion, or deferred maintenance."
+        },
+        {
+          "text": "Inspect and replace dirty air filters, and note when the system was last serviced."
+        },
+        {
+          "text": "Examine visible ductwork for disconnects, leaks, or missing insulation."
+        },
+        {
+          "text": "Feel airflow at several supply registers to confirm balanced delivery."
+        },
+        {
+          "text": "Verify that bathroom and kitchen exhaust fans vent outside, not into the attic.",
+          "note": "Improperly vented fans cause moisture buildup and mold."
+        },
+        {
+          "text": "Check the thermostat operation and any heat pump or boiler for unusual noises."
+        }
+      ]
+    },
+    {
+      "title": "Interior, Kitchen, and Baths",
+      "items": [
+        {
+          "text": "Scan walls and ceilings in every room for cracks, water stains, and patched repairs."
+        },
+        {
+          "text": "Open and close all windows and doors, checking locks, screens, and seals."
+        },
+        {
+          "text": "Walk floors listening for squeaks and feeling for soft, sloping, or springy spots."
+        },
+        {
+          "text": "Test kitchen appliances—range, oven, dishwasher, disposal, and vent—for basic operation."
+        },
+        {
+          "text": "Inspect countertops, cabinets, and backsplashes for water damage and loose fittings."
+        },
+        {
+          "text": "Check bathrooms for caulk gaps, loose tiles, soft subflooring, and proper ventilation."
+        },
+        {
+          "text": "Look for signs of pests such as droppings, nests, or chewed materials in corners and cabinets."
+        }
+      ]
+    },
+    {
+      "title": "Attic, Insulation, and Safety",
+      "items": [
+        {
+          "text": "Access the attic and inspect for daylight, roof leaks, water stains, and adequate insulation depth."
+        },
+        {
+          "text": "Confirm attic ventilation is unobstructed and free of mold or rotted sheathing."
+        },
+        {
+          "text": "Check that insulation is present and even in the attic, walls, and any crawlspace."
+        },
+        {
+          "text": "Test garage doors, auto-reverse safety sensors, and the fire-rated door to the living space."
+        },
+        {
+          "text": "Verify stair railings, deck rails, and balusters are secure and at safe heights."
+        },
+        {
+          "text": "Locate fire extinguishers, confirm detector battery dates, and plan two exit routes.",
+          "note": "Replace smoke and CO detectors older than ten years."
+        },
+        {
+          "text": "Compile your notes and photos, then schedule a licensed inspector for anything you flagged as unsure."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a home inspection checklist?",
+      "a": "It is a structured list that guides you through a property's systems and rooms—roof, foundation, plumbing, electrical, HVAC, and interiors. You use it to document defects, safety issues, and maintenance needs so a walkthrough becomes a thorough, repeatable record you can act on."
+    },
+    {
+      "q": "Does this replace a professional home inspection?",
+      "a": "No. This checklist helps you spot obvious issues and ask better questions, but it does not replace a licensed inspector. A certified professional has tools and training to find hidden problems. Always schedule a professional inspection before buying, and call specialists for major concerns."
+    },
+    {
+      "q": "How long does a home inspection take?",
+      "a": "A careful self-walkthrough of an average home takes one to three hours, depending on size and condition. Professional inspections often run two to four hours. Larger homes, older properties, and outbuildings add time. Never rush; the most expensive problems are often the easiest to overlook."
+    },
+    {
+      "q": "What are the biggest red flags during an inspection?",
+      "a": "Watch for foundation cracks, roof damage, water stains, mold odors, sloped or soft floors, and outdated or hazardous wiring. Standing water near the foundation and signs of pests also matter. Any of these warrants a closer look from a qualified specialist before you commit."
+    },
+    {
+      "q": "What tools do I need for a home inspection?",
+      "a": "Bring a bright flashlight, a phone or camera for photos, a notepad, and an outlet tester. A moisture meter, ladder, and binoculars for the roof help too. Wear sturdy shoes and gloves. Keep your hands free for opening doors, valves, and access panels safely."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/home-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/home-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Home Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/home-inspection-checklist)",
+  "updated": "2026-11-13"
+}

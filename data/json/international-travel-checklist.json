@@ -1,0 +1,170 @@
+{
+  "id": "international-travel-checklist",
+  "name": "International Travel Checklist",
+  "description": "An international travel checklist for going abroad, covering passport and visa, currency, health requirements, adapters, and embassy information.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "travel",
+    "trip-planning",
+    "international-travel",
+    "passport"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Passport and Documents",
+      "items": [
+        {
+          "text": "Check your passport is valid and has enough blank pages"
+        },
+        {
+          "text": "Confirm validity meets the destination's minimum"
+        },
+        {
+          "text": "Renew your passport early if needed",
+          "note": "Some countries require six months' validity beyond travel"
+        },
+        {
+          "text": "Make copies of your passport, kept separately"
+        },
+        {
+          "text": "Save digital copies in the cloud"
+        }
+      ]
+    },
+    {
+      "title": "Visa and Entry Requirements",
+      "items": [
+        {
+          "text": "Research visa requirements for your nationality"
+        },
+        {
+          "text": "Apply for any visa or entry permit early"
+        },
+        {
+          "text": "Check passenger forms or arrival declarations"
+        },
+        {
+          "text": "Note any onward or return ticket rules"
+        },
+        {
+          "text": "Verify rules with the destination's embassy",
+          "note": "Visa and entry rules vary by country and change often"
+        }
+      ]
+    },
+    {
+      "title": "Health and Insurance",
+      "items": [
+        {
+          "text": "Check required and recommended vaccines early"
+        },
+        {
+          "text": "Arrange travel insurance with overseas medical cover"
+        },
+        {
+          "text": "Pack medicines with copies of prescriptions"
+        },
+        {
+          "text": "Carry your vaccination and health records"
+        },
+        {
+          "text": "Confirm health requirements via official sources",
+          "note": "Health entry rules vary by country, so verify officially"
+        }
+      ]
+    },
+    {
+      "title": "Money and Connectivity",
+      "items": [
+        {
+          "text": "Notify your bank of travel dates and countries"
+        },
+        {
+          "text": "Arrange foreign currency or a travel card"
+        },
+        {
+          "text": "Check card and ATM fees abroad"
+        },
+        {
+          "text": "Set up an eSIM, local SIM, or roaming plan"
+        },
+        {
+          "text": "Download offline maps and a translation app"
+        }
+      ]
+    },
+    {
+      "title": "Electronics and Packing",
+      "items": [
+        {
+          "text": "Pack the right power adapters for the region"
+        },
+        {
+          "text": "Add a voltage converter if devices need it"
+        },
+        {
+          "text": "Bring a power bank for long travel days"
+        },
+        {
+          "text": "Pack clothing suited to the climate and customs"
+        },
+        {
+          "text": "Keep documents and electronics in your carry-on"
+        }
+      ]
+    },
+    {
+      "title": "Embassy and Safety",
+      "items": [
+        {
+          "text": "Note the location of your country's embassy or consulate"
+        },
+        {
+          "text": "Register with any traveler program your country offers"
+        },
+        {
+          "text": "Save local emergency numbers"
+        },
+        {
+          "text": "Share your itinerary with someone at home"
+        },
+        {
+          "text": "Read official travel advisories for the destination"
+        },
+        {
+          "text": "Confirm all entry rules before relying on this list",
+          "note": "Passport, visa, and health rules vary by country and change without notice; verify with official government sources and the destination's embassy"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is international travel different from domestic travel?",
+      "a": "International trips add passports, visas, foreign currency, different power plugs, and varied health and entry rules. A domestic travel checklist skips most of this. Use this list for going abroad and a domestic one for trips at home."
+    },
+    {
+      "q": "How early should I prepare for international travel?",
+      "a": "Start two to three months ahead so there is time for passport renewals, visa applications, and any vaccines. Some countries require a passport valid for six months beyond your travel dates, so check early."
+    },
+    {
+      "q": "How do I find out the entry requirements for a country?",
+      "a": "Entry and visa rules vary by country and change often. Check your own government's travel advice and the destination country's embassy or official immigration site rather than relying on unofficial sources."
+    },
+    {
+      "q": "Do I need different power adapters abroad?",
+      "a": "Often yes. Plug types and voltage vary by region, so check your destination and pack the right adapter, plus a voltage converter if your devices need one. A universal adapter covers most trips."
+    },
+    {
+      "q": "Is this international travel checklist printable?",
+      "a": "Yes. Print it or download the PDF, start well ahead of departure, and verify visa, entry, and health requirements with official government sources and the destination's embassy."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/international-travel-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/international-travel-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "International Travel Checklist by ChecklistForge (https://checklistforge.com/checklist/international-travel-checklist)",
+  "updated": "2026-10-17"
+}

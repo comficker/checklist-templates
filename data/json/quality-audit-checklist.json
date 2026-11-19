@@ -1,0 +1,182 @@
+{
+  "id": "quality-audit-checklist",
+  "name": "Quality Audit Checklist",
+  "description": "A quality audit checklist for auditing a quality management system (QMS).",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "quality",
+    "audit",
+    "iso-9001",
+    "quality-audit"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Plan the audit",
+      "items": [
+        {
+          "text": "Define the audit scope, objectives and processes to cover."
+        },
+        {
+          "text": "Confirm the standard and criteria to audit against.",
+          "note": "Use the applicable standard such as ISO 9001 and your QMS documents."
+        },
+        {
+          "text": "Review previous audit reports and open corrective actions."
+        },
+        {
+          "text": "Prepare the audit plan and schedule with the auditee."
+        },
+        {
+          "text": "Assign auditors who are independent of the area audited."
+        },
+        {
+          "text": "Notify the relevant staff and confirm availability."
+        }
+      ]
+    },
+    {
+      "title": "Quality system and documents",
+      "items": [
+        {
+          "text": "Confirm the quality policy and objectives are defined and communicated."
+        },
+        {
+          "text": "Verify documented procedures exist for key processes."
+        },
+        {
+          "text": "Check documents are controlled, current and approved."
+        },
+        {
+          "text": "Confirm obsolete documents are removed from use."
+        },
+        {
+          "text": "Verify roles, responsibilities and authority are defined."
+        },
+        {
+          "text": "Check the scope of the QMS matches the standard's requirements."
+        }
+      ]
+    },
+    {
+      "title": "Process conformity",
+      "items": [
+        {
+          "text": "Confirm processes are carried out as documented."
+        },
+        {
+          "text": "Verify acceptance criteria and process controls are applied."
+        },
+        {
+          "text": "Check measuring and monitoring equipment is calibrated."
+        },
+        {
+          "text": "Confirm suppliers are approved and controlled."
+        },
+        {
+          "text": "Verify nonconforming product is identified and controlled."
+        },
+        {
+          "text": "Check staff are trained and competent for their tasks."
+        }
+      ]
+    },
+    {
+      "title": "Records and evidence",
+      "items": [
+        {
+          "text": "Sample records to confirm requirements are met in practice."
+        },
+        {
+          "text": "Check records are complete, legible and retained as required."
+        },
+        {
+          "text": "Verify traceability of materials, lots and inspections."
+        },
+        {
+          "text": "Confirm calibration and training records are current."
+        },
+        {
+          "text": "Review management review and internal audit records."
+        },
+        {
+          "text": "Document objective evidence for each audit finding."
+        }
+      ]
+    },
+    {
+      "title": "Findings and nonconformities",
+      "items": [
+        {
+          "text": "Record each finding against the relevant requirement or clause."
+        },
+        {
+          "text": "Classify nonconformities as major or minor."
+        },
+        {
+          "text": "Note observations and opportunities for improvement."
+        },
+        {
+          "text": "Confirm findings with the auditee to agree the facts."
+        },
+        {
+          "text": "Summarize positive findings and areas of strength."
+        },
+        {
+          "text": "Prepare a clear, evidence-based audit conclusion."
+        }
+      ]
+    },
+    {
+      "title": "Report and follow-up",
+      "items": [
+        {
+          "text": "Issue the audit report to the relevant stakeholders."
+        },
+        {
+          "text": "Agree corrective actions with owners and due dates."
+        },
+        {
+          "text": "Require root cause analysis for nonconformities."
+        },
+        {
+          "text": "Verify corrective actions are implemented and effective."
+        },
+        {
+          "text": "Close out findings once evidence confirms resolution."
+        },
+        {
+          "text": "Feed results into the management review and next audit plan."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a quality audit?",
+      "a": "A quality audit is a systematic, independent examination of a quality management system to verify it meets a standard such as ISO 9001 and is being followed in practice, using objective evidence to confirm conformity and identify gaps."
+    },
+    {
+      "q": "What is the difference between this and a general audit?",
+      "a": "A quality audit specifically examines a quality management system against quality standards and clauses. A general audit checklist covers the broader process of planning, gathering evidence and reporting for any type of audit."
+    },
+    {
+      "q": "What is a nonconformity?",
+      "a": "A nonconformity is a failure to meet a requirement of the standard, the documented procedures or the customer. Audits classify them, often as major or minor, and require corrective action to address the cause and prevent recurrence."
+    },
+    {
+      "q": "Who should carry out a quality audit?",
+      "a": "Trained internal auditors or lead auditors who are independent of the area being audited. They should understand the standard, the processes and how to gather and evaluate objective evidence."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the quality audit checklist for the audit, or download the PDF so auditors can record evidence, findings and nonconformities on site and keep records on file to track corrective actions."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/quality-audit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/quality-audit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Quality Audit Checklist by ChecklistForge (https://checklistforge.com/checklist/quality-audit-checklist)",
+  "updated": "2026-10-18"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "study-abroad-checklist",
+  "name": "Study Abroad Checklist",
+  "description": "A complete study abroad checklist covering student visas, university enrollment, housing, finances, health and packing.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "students",
+    "visa",
+    "study-abroad"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Visas and Documents",
+      "items": [
+        {
+          "text": "Confirm the student visa required for your program",
+          "note": "Requirements vary by country and change often — check official embassy and government sources."
+        },
+        {
+          "text": "Ensure your passport is valid beyond your program dates"
+        },
+        {
+          "text": "Gather your acceptance and enrollment letters"
+        },
+        {
+          "text": "Collect academic transcripts and certificates"
+        },
+        {
+          "text": "Prepare proof of finances for the visa application"
+        },
+        {
+          "text": "Make copies of all documents, stored separately"
+        }
+      ]
+    },
+    {
+      "title": "University and Enrollment",
+      "items": [
+        {
+          "text": "Accept your offer and complete registration"
+        },
+        {
+          "text": "Register for courses or confirm your study plan"
+        },
+        {
+          "text": "Arrange transfer of credits with your home school"
+        },
+        {
+          "text": "Connect with the international student office"
+        },
+        {
+          "text": "Note orientation dates and the academic calendar"
+        },
+        {
+          "text": "Apply for any scholarships or grants available"
+        }
+      ]
+    },
+    {
+      "title": "Housing and Logistics",
+      "items": [
+        {
+          "text": "Apply for university dorms or research rentals"
+        },
+        {
+          "text": "Arrange temporary accommodation for arrival if needed"
+        },
+        {
+          "text": "Confirm what your housing provides and what to bring"
+        },
+        {
+          "text": "Plan airport transport to your accommodation"
+        },
+        {
+          "text": "Research local transport and student passes"
+        },
+        {
+          "text": "Book flights and check baggage allowances"
+        }
+      ]
+    },
+    {
+      "title": "Finances",
+      "items": [
+        {
+          "text": "Budget for tuition, rent, food, and travel"
+        },
+        {
+          "text": "Set up a way to access money abroad"
+        },
+        {
+          "text": "Research opening a local student bank account"
+        },
+        {
+          "text": "Notify your bank of your travel dates"
+        },
+        {
+          "text": "Confirm how scholarship or loan funds are paid"
+        },
+        {
+          "text": "Set aside an emergency fund"
+        }
+      ]
+    },
+    {
+      "title": "Health and Insurance",
+      "items": [
+        {
+          "text": "Arrange the health insurance your program requires"
+        },
+        {
+          "text": "Check required and recommended vaccinations"
+        },
+        {
+          "text": "Refill and pack essential medications"
+        },
+        {
+          "text": "Collect your medical and vaccination records"
+        },
+        {
+          "text": "Find out how to access local healthcare as a student"
+        },
+        {
+          "text": "Note emergency contacts and embassy details"
+        }
+      ]
+    },
+    {
+      "title": "Packing for Students",
+      "items": [
+        {
+          "text": "Season-appropriate clothing and a versatile wardrobe"
+        },
+        {
+          "text": "Laptop, phone, chargers, and a plug adapter"
+        },
+        {
+          "text": "Important documents in a secure folder"
+        },
+        {
+          "text": "Toiletries and a small first-aid kit"
+        },
+        {
+          "text": "Study supplies and any required textbooks"
+        },
+        {
+          "text": "A few comforts from home",
+          "note": "Pack light — most basics can be bought on arrival."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need to study abroad?",
+      "a": "You need an acceptance from your host university, a student visa, a valid passport, proof of finances, and health insurance. You will also arrange housing and enrollment, so confirm the exact requirements with your university and the country's official embassy."
+    },
+    {
+      "q": "How do I get a student visa?",
+      "a": "Apply through the destination country's embassy or consulate once you have an acceptance letter, providing proof of enrollment, finances, and insurance. Processing times vary, so start early and follow the official embassy instructions for your specific program and nationality."
+    },
+    {
+      "q": "How early should I prepare to study abroad?",
+      "a": "Begin as soon as you are accepted, ideally three to six months ahead. Visa applications, housing, course registration, and financial arrangements all take time, so early preparation prevents last-minute stress before your departure date."
+    },
+    {
+      "q": "Can I print this study abroad checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each task across the months leading up to your program and after you arrive."
+    },
+    {
+      "q": "What should I pack for studying abroad?",
+      "a": "Pack documents, season-appropriate clothing, electronics with the right adapters, essential medications, and a few comforts from home. Pack light since you can buy basics on arrival, and check your airline's baggage limits and your housing's furnishings first."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/study-abroad-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/study-abroad-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Study Abroad Checklist by ChecklistForge (https://checklistforge.com/checklist/study-abroad-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,168 @@
+{
+  "id": "home-office-checklist",
+  "name": "Home Office Checklist",
+  "description": "A complete plan to set up and organize a productive, ergonomic home office.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "organization",
+    "storage",
+    "home-office",
+    "productivity"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Choose and Set Up the Desk",
+      "items": [
+        {
+          "text": "Pick a desk sized to your space and tasks"
+        },
+        {
+          "text": "Place it near a window for natural light if possible",
+          "note": "Avoid glare on your screen by angling the desk."
+        },
+        {
+          "text": "Clear the surface to only what you use daily"
+        },
+        {
+          "text": "Position the desk away from high-traffic household noise"
+        },
+        {
+          "text": "Add a small plant or item that makes the space inviting"
+        }
+      ]
+    },
+    {
+      "title": "Set Up Technology",
+      "items": [
+        {
+          "text": "Test internet speed and add a wired connection if needed"
+        },
+        {
+          "text": "Position the monitor at eye level on a riser or stand"
+        },
+        {
+          "text": "Connect and tidy a separate keyboard and mouse"
+        },
+        {
+          "text": "Set up a webcam and microphone for video calls"
+        },
+        {
+          "text": "Add a power strip with surge protection for all devices",
+          "note": "A strip with USB ports cuts down on adapters."
+        }
+      ]
+    },
+    {
+      "title": "Organize Supplies",
+      "items": [
+        {
+          "text": "Stock only the supplies you use weekly within reach"
+        },
+        {
+          "text": "Sort pens, clips, and notes into a drawer organizer"
+        },
+        {
+          "text": "Store extra supplies in a labeled bin or nearby shelf"
+        },
+        {
+          "text": "Add a notepad or whiteboard for quick capture"
+        },
+        {
+          "text": "Keep a small bin for paper to recycle at the desk"
+        }
+      ]
+    },
+    {
+      "title": "Manage Cables",
+      "items": [
+        {
+          "text": "Unplug everything and route cables along one path"
+        },
+        {
+          "text": "Bundle cables with clips, sleeves, or velcro ties"
+        },
+        {
+          "text": "Mount a power strip or tray under the desk",
+          "note": "Lifting cables off the floor makes cleaning easier."
+        },
+        {
+          "text": "Label both ends of each cable for quick swaps"
+        },
+        {
+          "text": "Set up a dedicated charging spot for phone and earbuds"
+        }
+      ]
+    },
+    {
+      "title": "Dial In Ergonomics",
+      "items": [
+        {
+          "text": "Adjust the chair so feet rest flat and knees sit at ninety degrees"
+        },
+        {
+          "text": "Support your lower back with the chair or a small cushion"
+        },
+        {
+          "text": "Set the monitor an arm's length away at eye level"
+        },
+        {
+          "text": "Keep elbows close to the body at about a right angle"
+        },
+        {
+          "text": "Add a task lamp to reduce eye strain in dim light",
+          "note": "Aim for layered lighting, not a single harsh source."
+        }
+      ]
+    },
+    {
+      "title": "Build a Filing System",
+      "items": [
+        {
+          "text": "Sort existing paper into keep, scan, shred, and recycle"
+        },
+        {
+          "text": "Set up labeled folders for active and reference documents"
+        },
+        {
+          "text": "Scan important papers and back up the files securely"
+        },
+        {
+          "text": "Create a simple naming system for digital files"
+        },
+        {
+          "text": "Schedule a weekly reset to clear and refile the desk",
+          "note": "Five minutes on Friday keeps Monday calm."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need to set up a home office?",
+      "a": "Start with a desk, a supportive chair, reliable internet, and good lighting, then add the tech and supplies your work requires. Build from those essentials before adding extras."
+    },
+    {
+      "q": "How do I make my home office ergonomic?",
+      "a": "Position the monitor at eye level an arm's length away, keep elbows and knees at roughly ninety degrees, and support your lower back. Good posture prevents strain over long workdays."
+    },
+    {
+      "q": "How can I set up a home office in a small space?",
+      "a": "Use a compact or wall-mounted desk, go vertical with shelves, and pick a chair that tucks away. A corner or closet nook can become a full workspace with smart storage."
+    },
+    {
+      "q": "How do I keep my home office organized?",
+      "a": "Give every item a home, manage cables, and clear your desk at the end of each day. A simple filing system and a weekly reset keep paper and clutter from piling up."
+    },
+    {
+      "q": "Can I print this home office checklist?",
+      "a": "Yes. Download the printable PDF, keep it at your desk, and check off each task as you set up and organize your workspace from desk to filing."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/home-office-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/home-office-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Home Office Checklist by ChecklistForge (https://checklistforge.com/checklist/home-office-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,205 @@
+{
+  "id": "business-process-checklist",
+  "name": "Business Process Checklist",
+  "description": "A business process checklist for mapping, documenting and improving any recurring workflow.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "workflow",
+    "operations",
+    "process",
+    "improvement"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Define goals and scope",
+      "items": [
+        {
+          "text": "Name the process and the outcome it should deliver."
+        },
+        {
+          "text": "State the problem or opportunity prompting the review."
+        },
+        {
+          "text": "Set clear goals such as faster cycle time or fewer errors."
+        },
+        {
+          "text": "Define where the process starts and ends.",
+          "note": "Pick the trigger event and the final deliverable."
+        },
+        {
+          "text": "Identify the customer of the process and what they expect."
+        },
+        {
+          "text": "Agree how you will measure success before you begin."
+        }
+      ]
+    },
+    {
+      "title": "Map the current steps",
+      "items": [
+        {
+          "text": "Walk through the process with the people who run it."
+        },
+        {
+          "text": "Record every step, decision and handoff in order."
+        },
+        {
+          "text": "Capture how the work flows today, not the ideal version."
+        },
+        {
+          "text": "Note the time each step takes and any waiting between them."
+        },
+        {
+          "text": "Mark the systems, forms and data used at each step."
+        },
+        {
+          "text": "Draw the flow as a simple diagram everyone can read."
+        }
+      ]
+    },
+    {
+      "title": "Identify owners and inputs",
+      "items": [
+        {
+          "text": "Assign one accountable owner for the whole process."
+        },
+        {
+          "text": "Name who performs each individual step."
+        },
+        {
+          "text": "List the inputs each step needs to start."
+        },
+        {
+          "text": "Identify suppliers or teams that feed into the process."
+        },
+        {
+          "text": "Flag steps with unclear or shared responsibility."
+        },
+        {
+          "text": "Confirm everyone agrees the map reflects reality."
+        }
+      ]
+    },
+    {
+      "title": "Find bottlenecks and waste",
+      "items": [
+        {
+          "text": "Locate steps where work waits or piles up."
+        },
+        {
+          "text": "Spot duplicate, redundant or unnecessary steps."
+        },
+        {
+          "text": "Identify manual handoffs prone to delay or error."
+        },
+        {
+          "text": "Find rework loops caused by mistakes upstream."
+        },
+        {
+          "text": "Ask why each questionable step exists and what it adds."
+        },
+        {
+          "text": "Rank the issues by impact on speed, cost and quality."
+        }
+      ]
+    },
+    {
+      "title": "Redesign and document",
+      "items": [
+        {
+          "text": "Redesign the flow to remove waste and shorten handoffs."
+        },
+        {
+          "text": "Combine, reorder or eliminate steps where it is safe to."
+        },
+        {
+          "text": "Standardize the inputs and decisions for the new flow."
+        },
+        {
+          "text": "Write clear instructions for the improved process."
+        },
+        {
+          "text": "Validate the redesign with the people who will run it."
+        },
+        {
+          "text": "Plan the change so the switch causes minimal disruption."
+        }
+      ]
+    },
+    {
+      "title": "Automate where it helps",
+      "items": [
+        {
+          "text": "List repetitive, rule-based steps suited to automation."
+        },
+        {
+          "text": "Choose tools that fit the volume and your existing stack."
+        },
+        {
+          "text": "Automate notifications, routing and data entry first."
+        },
+        {
+          "text": "Keep judgment-heavy steps with the right people."
+        },
+        {
+          "text": "Test the automation on a small batch before full rollout."
+        },
+        {
+          "text": "Add a fallback for when an automated step fails."
+        }
+      ]
+    },
+    {
+      "title": "Set KPIs and review",
+      "items": [
+        {
+          "text": "Choose a few metrics tied to your original goals."
+        },
+        {
+          "text": "Measure cycle time, throughput and error rate."
+        },
+        {
+          "text": "Capture a baseline before changes go live."
+        },
+        {
+          "text": "Set targets and assign who tracks each metric."
+        },
+        {
+          "text": "Schedule regular reviews of the process performance."
+        },
+        {
+          "text": "Refine the process when the numbers reveal new issues."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a business process checklist?",
+      "a": "It is a structured guide for mapping and improving a workflow. It covers defining the goal, mapping current steps, assigning owners, spotting bottlenecks, documenting the redesigned process, automating where it helps and tracking KPIs so the work gets faster and more reliable."
+    },
+    {
+      "q": "How do you map a business process?",
+      "a": "Start at the trigger and follow the work step by step to the outcome, recording each action, decision and handoff. Talk to the people who actually do the task, capture the real flow rather than the ideal, and note where time, rework or waiting builds up."
+    },
+    {
+      "q": "What is a process bottleneck?",
+      "a": "A bottleneck is the step that limits the speed of the whole process — work piles up before it and the rest waits. It often appears at approvals, manual handoffs or a single overloaded person or tool. Fixing it usually delivers the biggest improvement."
+    },
+    {
+      "q": "Which processes are worth automating?",
+      "a": "Automate steps that are repetitive, rule-based and high volume, such as data entry, notifications and routing. Leave judgment-heavy or rare steps to people. Map the process first so you automate a clean workflow rather than baking existing waste into a tool."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the business process checklist to run a review session, or download the PDF and keep it alongside your process map, owners and KPIs so the team can track progress and revisit the workflow on a regular cycle."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/business-process-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/business-process-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Business Process Checklist by ChecklistForge (https://checklistforge.com/checklist/business-process-checklist)",
+  "updated": "2026-10-17"
+}

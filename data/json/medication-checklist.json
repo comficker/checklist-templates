@@ -1,0 +1,153 @@
+{
+  "id": "medication-checklist",
+  "name": "Medication Checklist",
+  "description": "A checklist for keeping a current medication list and managing schedules, refills, storage, and adherence safely.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "caregiver",
+    "medication"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Build Your Current List",
+      "items": [
+        {
+          "text": "Write down every prescription medicine you take"
+        },
+        {
+          "text": "Add all over-the-counter medicines, vitamins, and supplements"
+        },
+        {
+          "text": "Record the dose and how often you take each one"
+        },
+        {
+          "text": "Note the reason for each medicine"
+        },
+        {
+          "text": "List the prescribing doctor and your pharmacy for each",
+          "note": "A complete list makes it easy to verify and update"
+        }
+      ]
+    },
+    {
+      "title": "Set Your Schedule",
+      "items": [
+        {
+          "text": "Note the time of day for each dose"
+        },
+        {
+          "text": "Mark which medicines are taken with or without food"
+        },
+        {
+          "text": "Use a pill organizer for the week if it helps"
+        },
+        {
+          "text": "Set phone alarms or reminders for each dose"
+        },
+        {
+          "text": "Tie doses to daily routines like meals or bedtime"
+        }
+      ]
+    },
+    {
+      "title": "Refills and Supply",
+      "items": [
+        {
+          "text": "Track how many days of each medicine you have left"
+        },
+        {
+          "text": "Note refill dates and request them before you run out"
+        },
+        {
+          "text": "Sign up for pharmacy refill reminders if available"
+        },
+        {
+          "text": "Plan extra supply before holidays or travel"
+        },
+        {
+          "text": "Keep your pharmacy phone number handy"
+        }
+      ]
+    },
+    {
+      "title": "Safe Storage and Disposal",
+      "items": [
+        {
+          "text": "Store medicines in a cool, dry place per the label"
+        },
+        {
+          "text": "Keep all medicines out of reach of children and pets"
+        },
+        {
+          "text": "Keep medicines in their original labeled containers"
+        },
+        {
+          "text": "Check expiry dates and remove expired medicines"
+        },
+        {
+          "text": "Ask your pharmacist how to dispose of unused medicine safely"
+        }
+      ]
+    },
+    {
+      "title": "Ask Your Doctor and Pharmacist",
+      "items": [
+        {
+          "text": "Ask whether any of your medicines or supplements interact"
+        },
+        {
+          "text": "Confirm what to do if you miss a dose"
+        },
+        {
+          "text": "Ask about common side effects to watch for"
+        },
+        {
+          "text": "Review the full list at each appointment for changes"
+        },
+        {
+          "text": "Confirm before starting any new supplement or remedy"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; never start, stop, or change a medicine without your doctor's guidance, and follow the instructions from your doctor and pharmacist",
+          "note": "Call your doctor or pharmacist with any medication question"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a medication list include?",
+      "a": "List every prescription, over-the-counter product, vitamin, and supplement, with the dose, how often you take it, and the reason. Include the prescribing doctor and pharmacy so the list is complete and easy to verify."
+    },
+    {
+      "q": "How can I remember to take my medications?",
+      "a": "Use a pill organizer, set phone or alarm reminders, and tie doses to daily routines like meals. A simple log or app to check off each dose helps you and any caregiver track adherence."
+    },
+    {
+      "q": "Why ask about drug interactions?",
+      "a": "Some medicines, foods, and supplements can affect how others work. Sharing your full list with your doctor and pharmacist lets them check for interactions and adjust your plan if needed."
+    },
+    {
+      "q": "How do I store medications safely?",
+      "a": "Keep medicines in a cool, dry place away from heat and humidity unless told otherwise, and out of reach of children and pets. Follow the label, and ask your pharmacist about any that need refrigeration."
+    },
+    {
+      "q": "Is this medication checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep a current copy in your wallet or on your fridge, and update it whenever a medicine changes."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/medication-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/medication-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Medication Checklist by ChecklistForge (https://checklistforge.com/checklist/medication-checklist)",
+  "updated": "2026-11-13"
+}

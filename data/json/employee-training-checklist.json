@@ -1,0 +1,186 @@
+{
+  "id": "employee-training-checklist",
+  "name": "Employee Training Checklist",
+  "description": "A role training plan covering modules, shadowing, certifications, and evaluation for new employees.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "onboarding",
+    "hr",
+    "managers",
+    "training"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Plan the Training",
+      "items": [
+        {
+          "text": "Define the skills and knowledge the role requires"
+        },
+        {
+          "text": "Break the requirements into clear training modules"
+        },
+        {
+          "text": "Set learning objectives and success criteria for each module"
+        },
+        {
+          "text": "Sequence topics from foundational to advanced",
+          "note": "Build later skills on earlier ones."
+        },
+        {
+          "text": "Assign a trainer or mentor responsible for each area"
+        },
+        {
+          "text": "Create a realistic timeline with milestones"
+        }
+      ]
+    },
+    {
+      "title": "Deliver Core Modules",
+      "items": [
+        {
+          "text": "Cover company tools, systems, and core processes"
+        },
+        {
+          "text": "Teach role-specific procedures step by step"
+        },
+        {
+          "text": "Provide reference guides and documentation to revisit"
+        },
+        {
+          "text": "Mix instruction with hands-on practice tasks"
+        },
+        {
+          "text": "Check understanding after each module before moving on"
+        },
+        {
+          "text": "Adjust pace based on the employee's progress",
+          "note": "Slow down on tough topics rather than rushing."
+        }
+      ]
+    },
+    {
+      "title": "Arrange Job Shadowing",
+      "items": [
+        {
+          "text": "Pair the employee with an experienced colleague"
+        },
+        {
+          "text": "Schedule shadowing sessions across key tasks"
+        },
+        {
+          "text": "Encourage questions and note-taking during observation"
+        },
+        {
+          "text": "Gradually let the employee perform tasks with support"
+        },
+        {
+          "text": "Have the mentor give immediate, specific feedback"
+        },
+        {
+          "text": "Move toward independent work as confidence grows",
+          "note": "Reduce supervision step by step."
+        }
+      ]
+    },
+    {
+      "title": "Complete Certifications",
+      "items": [
+        {
+          "text": "Identify certifications or compliance training the role needs"
+        },
+        {
+          "text": "Enroll the employee in required courses or programs"
+        },
+        {
+          "text": "Schedule any safety or regulatory training on time",
+          "note": "Required training varies by role and region; follow local laws."
+        },
+        {
+          "text": "Track completion dates and renewal deadlines"
+        },
+        {
+          "text": "Store certificates and records in the employee file"
+        },
+        {
+          "text": "Set reminders for recertification before expiry"
+        }
+      ]
+    },
+    {
+      "title": "Evaluate Competency",
+      "items": [
+        {
+          "text": "Assess knowledge with a quiz, test, or review"
+        },
+        {
+          "text": "Have the employee demonstrate core tasks unassisted"
+        },
+        {
+          "text": "Compare performance against the defined success criteria"
+        },
+        {
+          "text": "Gather feedback from the trainer and the employee"
+        },
+        {
+          "text": "Identify remaining gaps and assign follow-up practice"
+        },
+        {
+          "text": "Confirm the employee is ready to work independently"
+        }
+      ]
+    },
+    {
+      "title": "Follow Up and Reinforce",
+      "items": [
+        {
+          "text": "Schedule check-ins in the weeks after training ends"
+        },
+        {
+          "text": "Provide refresher materials for complex tasks"
+        },
+        {
+          "text": "Offer ongoing coaching as new situations arise"
+        },
+        {
+          "text": "Update the training plan based on what worked"
+        },
+        {
+          "text": "Recognize the employee for completing the program"
+        },
+        {
+          "text": "Document final training outcomes in the employee record",
+          "note": "Keep a clear record of skills signed off."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an employee training checklist?",
+      "a": "It is a structured plan that lays out the modules, shadowing, certifications, and evaluation a new employee needs to learn their role. It turns training into a deliberate, trackable process instead of guesswork."
+    },
+    {
+      "q": "How do I build an effective training plan?",
+      "a": "Start from the role's required skills, break them into modules, mix instruction with hands-on shadowing, set milestones, and evaluate at the end. Order topics from foundational to advanced so learning builds logically."
+    },
+    {
+      "q": "What is job shadowing in training?",
+      "a": "Shadowing pairs a new employee with an experienced colleague to observe real work, ask questions, and gradually take over tasks. It bridges the gap between classroom learning and doing the job independently."
+    },
+    {
+      "q": "How do I know training was successful?",
+      "a": "Evaluate against clear criteria: assessments, a skills demonstration, and a manager review. When the employee can perform core tasks unassisted and meets the standard, the training has done its job."
+    },
+    {
+      "q": "Can I print this employee training checklist?",
+      "a": "Yes. Download the printable PDF, tailor the modules to the role, and check off each step from orientation through evaluation to keep training consistent and well documented."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/employee-training-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/employee-training-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Employee Training Checklist by ChecklistForge (https://checklistforge.com/checklist/employee-training-checklist)",
+  "updated": "2026-10-18"
+}

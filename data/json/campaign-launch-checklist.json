@@ -1,0 +1,195 @@
+{
+  "id": "campaign-launch-checklist",
+  "name": "Campaign Launch Checklist",
+  "description": "A campaign launch checklist covering goals, audience, budget, creative, channels, tracking, QA, and review.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "campaign-launch",
+    "marketing-campaign",
+    "advertising"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Goals and KPIs",
+      "items": [
+        {
+          "text": "Define the single primary objective the campaign must achieve."
+        },
+        {
+          "text": "Choose one primary KPI that proves success, plus supporting metrics."
+        },
+        {
+          "text": "Set a realistic target value and the timeframe for judging it."
+        },
+        {
+          "text": "Establish baseline numbers so you can measure lift accurately.",
+          "note": "Without a baseline you cannot tell whether the campaign caused a change or coincided with one."
+        },
+        {
+          "text": "Align stakeholders on what a win and a fail look like."
+        }
+      ]
+    },
+    {
+      "title": "Audience and Offer",
+      "items": [
+        {
+          "text": "Define the exact target audience and any exclusions."
+        },
+        {
+          "text": "Build or confirm the targeting segments in each platform."
+        },
+        {
+          "text": "Craft a clear, specific offer with a compelling reason to act now."
+        },
+        {
+          "text": "Confirm the offer is deliverable and inventory or capacity can meet demand."
+        },
+        {
+          "text": "Validate the offer and message with a small test or internal review."
+        }
+      ]
+    },
+    {
+      "title": "Budget and Bidding",
+      "items": [
+        {
+          "text": "Set the total budget and how it splits across channels and dates."
+        },
+        {
+          "text": "Choose a bidding or pacing strategy aligned to the primary KPI."
+        },
+        {
+          "text": "Define a maximum acceptable cost per result before you launch."
+        },
+        {
+          "text": "Reserve a contingency portion for scaling what works."
+        },
+        {
+          "text": "Confirm billing, payment methods, and account limits are in order."
+        }
+      ]
+    },
+    {
+      "title": "Creative and Messaging",
+      "items": [
+        {
+          "text": "Write headlines and copy that lead with the core benefit and offer."
+        },
+        {
+          "text": "Produce creative in every required size and format per channel."
+        },
+        {
+          "text": "Prepare multiple variations to test messaging and visuals.",
+          "note": "Two or three strong variants give the platform room to find a winner without spreading budget too thin."
+        },
+        {
+          "text": "Ensure visuals, tone, and claims stay consistent and on-brand."
+        },
+        {
+          "text": "Check that all creative meets each platform's policies and specs."
+        },
+        {
+          "text": "Proofread every asset for spelling, pricing, and legal accuracy."
+        }
+      ]
+    },
+    {
+      "title": "Channels and Scheduling",
+      "items": [
+        {
+          "text": "Select the channels that best reach the target audience for this goal."
+        },
+        {
+          "text": "Map the launch sequence and timing across each channel."
+        },
+        {
+          "text": "Coordinate dependent assets such as emails and social posts to the same date."
+        },
+        {
+          "text": "Set start and end dates, dayparting, and frequency caps where relevant."
+        },
+        {
+          "text": "Confirm any partners or influencers are briefed and scheduled."
+        }
+      ]
+    },
+    {
+      "title": "Landing Page and Tracking",
+      "items": [
+        {
+          "text": "Build a landing page whose message matches the ad and offer."
+        },
+        {
+          "text": "Confirm the page loads fast and works correctly on mobile."
+        },
+        {
+          "text": "Install and test that conversion tracking fires on the goal action."
+        },
+        {
+          "text": "Add consistent campaign parameters to every destination URL."
+        },
+        {
+          "text": "Verify analytics, tags, and pixels load without errors.",
+          "note": "Test a real conversion end to end so you know the event actually records before spending."
+        },
+        {
+          "text": "Set up the dashboard or report you will watch during the campaign."
+        }
+      ]
+    },
+    {
+      "title": "Quality Assurance, Launch, and Review",
+      "items": [
+        {
+          "text": "Click every link and complete the full conversion path as a real user would."
+        },
+        {
+          "text": "Preview each ad and email across devices and email clients."
+        },
+        {
+          "text": "Confirm budgets, targeting, dates, and tracking one final time before going live."
+        },
+        {
+          "text": "Launch and monitor delivery, spend pacing, and early conversions closely."
+        },
+        {
+          "text": "Shift budget toward winning channels and creative as data arrives."
+        },
+        {
+          "text": "Document results against KPIs and capture lessons for the next campaign."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a campaign launch checklist?",
+      "a": "A campaign launch checklist is a structured list that confirms every element of a marketing campaign is ready before it goes live. It spans goals, audience, budget, creative, channels, landing pages, and tracking. The purpose is to catch broken links, missing pixels, and unclear offers before they waste spend on launch day."
+    },
+    {
+      "q": "What should I do before launching a campaign?",
+      "a": "Lock your goal and KPIs, confirm the audience and offer, set the budget, finalize creative and messaging, and prepare the landing page. Then verify tracking fires correctly and run a full quality-assurance pass. Only launch once every dependency is confirmed, because fixing a live campaign mid-flight costs time and budget."
+    },
+    {
+      "q": "How do I set KPIs for a campaign?",
+      "a": "Start from the campaign goal, then choose one primary KPI that proves success, such as cost per lead or return on ad spend. Add a few supporting metrics for diagnosis. Set realistic targets from past performance or benchmarks, and define the time window over which you will judge results."
+    },
+    {
+      "q": "Why is tracking setup so important?",
+      "a": "Without working tracking you cannot tell which channels, ads, or pages drive results, so you optimize blind. Confirm conversion events fire, tags load, and campaign URLs carry consistent parameters before launch. A single missing pixel can erase your ability to measure an entire campaign, no matter how strong the creative is."
+    },
+    {
+      "q": "What should I review after a campaign launches?",
+      "a": "In the first hours, confirm delivery, spend pacing, and that conversions are recording. Over the run, compare results to KPIs by channel and creative, then shift budget toward winners. After it ends, document what worked, what failed, and the key takeaways to apply to the next campaign."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/campaign-launch-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/campaign-launch-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Campaign Launch Checklist by ChecklistForge (https://checklistforge.com/checklist/campaign-launch-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,207 @@
+{
+  "id": "destination-wedding-checklist",
+  "name": "Destination Wedding Checklist",
+  "description": "A planning checklist for a destination wedding covering travel, legal requirements abroad, guest logistics, vendors, packing, and timeline.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "planning",
+    "travel",
+    "wedding",
+    "destination"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Choose the Destination",
+      "items": [
+        {
+          "text": "Pick a location that fits your budget, season, and travel reach."
+        },
+        {
+          "text": "Research the weather and avoid storm or monsoon seasons."
+        },
+        {
+          "text": "Estimate the total cost for you and a realistic guest count."
+        },
+        {
+          "text": "Check entry requirements and visa rules for you and your guests.",
+          "note": "Some countries require passports valid for at least six months beyond travel."
+        },
+        {
+          "text": "Visit in person or hire a local planner before committing."
+        },
+        {
+          "text": "Confirm a venue and lock the date."
+        }
+      ]
+    },
+    {
+      "title": "Legal and Marriage Requirements",
+      "items": [
+        {
+          "text": "Research the destination's marriage laws and residency rules."
+        },
+        {
+          "text": "List every required document, such as birth certificates and passports."
+        },
+        {
+          "text": "Arrange certified translations and legalization or apostille if needed."
+        },
+        {
+          "text": "Confirm any waiting period or in-country days required before the ceremony."
+        },
+        {
+          "text": "Decide whether to marry legally abroad or sign paperwork at home.",
+          "note": "A symbolic ceremony abroad plus a legal signing at home avoids most red tape."
+        },
+        {
+          "text": "Verify how to register the marriage back home afterward."
+        }
+      ]
+    },
+    {
+      "title": "Travel and Lodging",
+      "items": [
+        {
+          "text": "Book your own flights early for the best fares."
+        },
+        {
+          "text": "Reserve a hotel room block at a group rate for guests."
+        },
+        {
+          "text": "Arrange airport transfers and local transportation."
+        },
+        {
+          "text": "Build in extra days before the wedding as a buffer."
+        },
+        {
+          "text": "Confirm travel insurance for you and recommend it to guests."
+        },
+        {
+          "text": "Research local currency, tipping customs, and SIM or data options."
+        }
+      ]
+    },
+    {
+      "title": "Guest Logistics",
+      "items": [
+        {
+          "text": "Send save-the-dates much earlier than a local wedding."
+        },
+        {
+          "text": "Build a wedding website with travel, lodging, and schedule details."
+        },
+        {
+          "text": "Share cost estimates so guests can budget for the trip."
+        },
+        {
+          "text": "Provide lodging options at several price points."
+        },
+        {
+          "text": "Assemble welcome bags with local maps and essentials."
+        },
+        {
+          "text": "Plan a group activity or welcome dinner to gather everyone.",
+          "note": "A welcome event helps guests who traveled far meet before the big day."
+        }
+      ]
+    },
+    {
+      "title": "Vendors From Afar",
+      "items": [
+        {
+          "text": "Hire a local planner or rely on the venue coordinator."
+        },
+        {
+          "text": "Book photography, florals, music, and catering early."
+        },
+        {
+          "text": "Review portfolios and read reviews from international clients."
+        },
+        {
+          "text": "Confirm contracts, currency, and payment methods in writing."
+        },
+        {
+          "text": "Schedule video calls to align on the vision and timeline."
+        },
+        {
+          "text": "Ask vendors about local marriage officiant options."
+        }
+      ]
+    },
+    {
+      "title": "Packing Essentials",
+      "items": [
+        {
+          "text": "Carry attire, rings, and vows in your carry-on, never checked."
+        },
+        {
+          "text": "Pack all legal documents and printed confirmations together."
+        },
+        {
+          "text": "Bring a steamer, sewing kit, and stain remover for attire."
+        },
+        {
+          "text": "Pack comfortable shoes and weather-appropriate clothing."
+        },
+        {
+          "text": "Include a small first-aid and emergency kit."
+        },
+        {
+          "text": "Carry adapters, chargers, and backup power banks."
+        }
+      ]
+    },
+    {
+      "title": "Final Timeline",
+      "items": [
+        {
+          "text": "Confirm all vendor details and payments before you travel."
+        },
+        {
+          "text": "Reconfirm flights, transfers, and lodging for you and the party."
+        },
+        {
+          "text": "Arrive early to recover from travel and complete any paperwork."
+        },
+        {
+          "text": "Do a venue walkthrough and rehearsal once on site."
+        },
+        {
+          "text": "Distribute the timeline to vendors and the wedding party."
+        },
+        {
+          "text": "Plan how to bring gifts and personal items home afterward."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How far in advance should I plan a destination wedding?",
+      "a": "Begin twelve to eighteen months out. International venues, travel, and legal paperwork take longer to arrange than a local wedding, and guests need lead time to book flights and time off. Send save-the-dates eight months ahead, and confirm legal document requirements early since some take weeks to process."
+    },
+    {
+      "q": "Is a destination wedding legally binding?",
+      "a": "It can be, but rules vary by country. Some require residency periods, blood tests, or documents translated and legally certified before the ceremony counts. Many couples handle the legal marriage at home and hold a symbolic ceremony abroad to avoid red tape. Research your destination's exact requirements before committing to a date."
+    },
+    {
+      "q": "Who pays for a destination wedding?",
+      "a": "The couple typically covers the ceremony, reception, and their own travel, while guests pay their own airfare and lodging. Some couples cover a welcome dinner or group activity as a thank-you. Be clear in your invitations about what is and is not included so guests can budget for the trip."
+    },
+    {
+      "q": "How do I help guests plan for a destination wedding?",
+      "a": "Send save-the-dates early, share a wedding website with travel details, and reserve a hotel room block at a group rate. Provide airport, transport, and weather guidance, plus a rough cost estimate. Suggest nearby lodging at different price points so guests can choose what fits their budget comfortably."
+    },
+    {
+      "q": "What should I pack for a destination wedding?",
+      "a": "Carry your attire, rings, vows, and all legal documents in your carry-on, never checked luggage. Pack a steamer, comfortable shoes, and a small emergency kit. Bring printed copies of contracts and confirmations. Check the destination's climate and any dress-code needs for ceremony sites such as churches or temples."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/destination-wedding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/destination-wedding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Destination Wedding Checklist by ChecklistForge (https://checklistforge.com/checklist/destination-wedding-checklist)",
+  "updated": "2026-10-17"
+}

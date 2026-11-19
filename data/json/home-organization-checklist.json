@@ -1,0 +1,167 @@
+{
+  "id": "home-organization-checklist",
+  "name": "Home Organization Checklist",
+  "description": "A room-by-room plan to declutter and organize every space in your home.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "home",
+    "cleaning",
+    "decluttering",
+    "organization"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Plan Your Whole-Home Reset",
+      "items": [
+        {
+          "text": "Walk through every room and note the top problem area in each",
+          "note": "Snap photos so you can compare before-and-after progress."
+        },
+        {
+          "text": "Gather supplies: trash bags, donation bins, labels, and a marker"
+        },
+        {
+          "text": "Set a realistic timeline and assign one zone per session"
+        },
+        {
+          "text": "Designate a staging spot for keep, donate, sell, and toss piles"
+        },
+        {
+          "text": "Block time on the calendar so the project actually happens"
+        }
+      ]
+    },
+    {
+      "title": "Entryway and Living Room",
+      "items": [
+        {
+          "text": "Clear the entry floor and add hooks or a tray for keys and mail"
+        },
+        {
+          "text": "Sort shoes and coats, keeping only current-season items at hand"
+        },
+        {
+          "text": "Declutter coffee table and shelf surfaces down to essentials"
+        },
+        {
+          "text": "Corral remotes, chargers, and cables in a labeled basket"
+        },
+        {
+          "text": "Tidy media and books, donating anything you no longer use",
+          "note": "Group by category so items are easy to find later."
+        }
+      ]
+    },
+    {
+      "title": "Kitchen and Pantry",
+      "items": [
+        {
+          "text": "Empty one cabinet at a time and wipe shelves before refilling"
+        },
+        {
+          "text": "Toss expired food and chipped or unused dishware"
+        },
+        {
+          "text": "Create zones for cooking, prep, baking, and storage"
+        },
+        {
+          "text": "Group pantry staples and store them in clear, labeled containers"
+        },
+        {
+          "text": "Clear counters so only daily-use appliances remain out"
+        }
+      ]
+    },
+    {
+      "title": "Bedrooms and Closets",
+      "items": [
+        {
+          "text": "Sort clothing into keep, donate, and repair piles"
+        },
+        {
+          "text": "Fold or hang remaining clothes using a consistent system"
+        },
+        {
+          "text": "Clear nightstands and store small items in shallow drawers"
+        },
+        {
+          "text": "Use under-bed bins for off-season clothing and spare linens",
+          "note": "Vacuum-seal bulky bedding to save space in small homes."
+        },
+        {
+          "text": "Make the bed daily to anchor a tidy room"
+        }
+      ]
+    },
+    {
+      "title": "Bathrooms",
+      "items": [
+        {
+          "text": "Discard expired medicine, makeup, and dried-out products"
+        },
+        {
+          "text": "Group toiletries by type in drawer dividers or caddies"
+        },
+        {
+          "text": "Add over-toilet or wall shelving to free up counter space"
+        },
+        {
+          "text": "Keep only fresh towels in the cabinet and donate the rest"
+        },
+        {
+          "text": "Restock essentials and note what is running low"
+        }
+      ]
+    },
+    {
+      "title": "Storage, Garage, and Maintenance",
+      "items": [
+        {
+          "text": "Label every storage bin clearly on more than one side"
+        },
+        {
+          "text": "Rotate seasonal gear so current items stay accessible"
+        },
+        {
+          "text": "Hang tools and sports equipment on wall hooks or pegboard"
+        },
+        {
+          "text": "Schedule a weekly fifteen-minute reset for one zone",
+          "note": "Pick the same day each week to build the habit."
+        },
+        {
+          "text": "Apply a one-in, one-out rule to keep clutter from returning"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Where should I start when organizing my whole home?",
+      "a": "Start with the room that bothers you most or the one you use daily, like the kitchen or bedroom. Finishing a high-traffic space gives an immediate sense of progress that fuels the rest of the project."
+    },
+    {
+      "q": "How long does it take to organize an entire home?",
+      "a": "Most homes take one to three weekends of focused work, depending on size and clutter level. Spreading tasks across short daily sessions over two weeks is just as effective and far less tiring."
+    },
+    {
+      "q": "How do I keep my home organized after the initial cleanup?",
+      "a": "Adopt a one-in, one-out rule for new items, do a five-minute nightly tidy, and reset one zone each week. Maintenance is far easier than a full overhaul, so small habits keep clutter from returning."
+    },
+    {
+      "q": "Is this checklist suitable for small homes and apartments?",
+      "a": "Yes. The room-by-room steps scale to any footprint, and the storage tips emphasize vertical space and dual-purpose furniture that work especially well in compact homes and apartments."
+    },
+    {
+      "q": "Can I print this home organization checklist?",
+      "a": "Absolutely. Download the printable PDF, hang it where the whole household can see it, and tick off each task as you complete it to track progress across every room."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/home-organization-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/home-organization-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Home Organization Checklist by ChecklistForge (https://checklistforge.com/checklist/home-organization-checklist)",
+  "updated": "2026-10-17"
+}

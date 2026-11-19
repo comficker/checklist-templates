@@ -1,0 +1,159 @@
+{
+  "id": "skin-care-routine-checklist",
+  "name": "Skin Care Routine Checklist",
+  "description": "A step-by-step morning and evening skincare routine, with simple notes to adapt it to your skin type.",
+  "category": "personal-care",
+  "category_name": "Personal Care",
+  "tags": [
+    "personal-care",
+    "skincare",
+    "beauty",
+    "wellness",
+    "daily-routine"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Morning Routine (AM)",
+      "items": [
+        {
+          "text": "Cleanse with a gentle face wash to remove overnight oil"
+        },
+        {
+          "text": "Apply any morning treatment or antioxidant serum",
+          "note": "Vitamin C is a common morning option; introduce actives slowly."
+        },
+        {
+          "text": "Apply moisturizer suited to your skin type"
+        },
+        {
+          "text": "Finish with broad-spectrum sunscreen, SPF 30 or higher",
+          "note": "Sunscreen always goes on as the last skincare step in the morning."
+        },
+        {
+          "text": "Let each layer absorb for a moment before the next"
+        },
+        {
+          "text": "Reapply sunscreen during the day if outdoors a lot"
+        }
+      ]
+    },
+    {
+      "title": "Evening Routine (PM)",
+      "items": [
+        {
+          "text": "Remove makeup and sunscreen before cleansing"
+        },
+        {
+          "text": "Cleanse to wash away the day's dirt, oil and pollution"
+        },
+        {
+          "text": "Apply any night treatment such as a retinoid, as directed",
+          "note": "Start a couple of nights a week and build up to avoid irritation."
+        },
+        {
+          "text": "Apply a moisturizer, slightly richer than your daytime one"
+        },
+        {
+          "text": "Add eye cream or facial oil last if you use them"
+        },
+        {
+          "text": "Skip sunscreen at night; it is only needed by day"
+        }
+      ]
+    },
+    {
+      "title": "Cleanse the Right Way",
+      "items": [
+        {
+          "text": "Use lukewarm water rather than hot, which can dry skin"
+        },
+        {
+          "text": "Choose a gentle, non-stripping cleanser"
+        },
+        {
+          "text": "Massage cleanser in for around 30 seconds"
+        },
+        {
+          "text": "Pat your face dry with a clean towel instead of rubbing"
+        },
+        {
+          "text": "Avoid harsh scrubbing, which can irritate and inflame skin",
+          "note": "Limit physical exfoliation to once or twice a week if you use it."
+        }
+      ]
+    },
+    {
+      "title": "Notes by Skin Type",
+      "items": [
+        {
+          "text": "Oily skin: pick lightweight, oil-free or gel moisturizers"
+        },
+        {
+          "text": "Dry skin: use a richer cream and look for hydrating ingredients"
+        },
+        {
+          "text": "Combination skin: balance lighter and richer products by area"
+        },
+        {
+          "text": "Sensitive skin: choose fragrance-free, gentle formulas",
+          "note": "Patch test new products and add them one at a time."
+        },
+        {
+          "text": "All types: still cleanse, moisturize and wear sunscreen daily"
+        }
+      ]
+    },
+    {
+      "title": "Healthy Skin Habits",
+      "items": [
+        {
+          "text": "Patch test new products before using them on your face"
+        },
+        {
+          "text": "Introduce one active ingredient at a time"
+        },
+        {
+          "text": "Drink water and aim for regular, restful sleep"
+        },
+        {
+          "text": "Wash pillowcases and clean phone screens regularly"
+        },
+        {
+          "text": "Avoid picking or popping spots, which can scar"
+        },
+        {
+          "text": "Important: this is general information, not medical advice",
+          "note": "See a dermatologist for persistent or worsening skin concerns."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What order should I apply skincare products?",
+      "a": "A simple rule is thinnest to thickest. In the morning: cleanse, apply any treatment or serum, moisturize, then finish with sunscreen. At night, swap sunscreen for a slightly richer moisturizer and use treatments as directed."
+    },
+    {
+      "q": "Do I really need sunscreen every day?",
+      "a": "Yes. Daily broad-spectrum sunscreen of SPF 30 or higher is one of the most effective steps for protecting skin from sun damage and premature aging, even on cloudy days and when indoors near windows."
+    },
+    {
+      "q": "How do I adjust the routine for my skin type?",
+      "a": "Choose a gentle cleanser for all types, a lighter moisturizer for oily skin and a richer one for dry skin, and fragrance-free products for sensitive skin. Introduce active ingredients slowly and patch test new products first."
+    },
+    {
+      "q": "Can I print this skin care routine checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off your cleanse, treat, moisturize and SPF steps each morning and night to keep your routine consistent."
+    },
+    {
+      "q": "Is this medical advice?",
+      "a": "No. This is general information about everyday skincare, not medical advice. See a dermatologist for persistent acne, rashes, changing moles or any skin concern that does not improve."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/skin-care-routine-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/skin-care-routine-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Skin Care Routine Checklist by ChecklistForge (https://checklistforge.com/checklist/skin-care-routine-checklist)",
+  "updated": "2026-10-17"
+}

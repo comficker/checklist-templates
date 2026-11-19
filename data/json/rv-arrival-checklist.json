@@ -1,0 +1,167 @@
+{
+  "id": "rv-arrival-checklist",
+  "name": "RV Arrival Checklist",
+  "description": "A step-by-step routine for setting up at a campsite — leveling, chocking, hooking up power, water and waste, extending slide-outs and stabilizing.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "camping",
+    "travel",
+    "vehicles",
+    "rv"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Position & Survey the Site",
+      "items": [
+        {
+          "text": "Check the site for low branches, slopes and obstacles"
+        },
+        {
+          "text": "Confirm the hookup locations for power, water and sewer"
+        },
+        {
+          "text": "Spot the rig so doors, slides and awning have clearance"
+        },
+        {
+          "text": "Note the most level area to park"
+        },
+        {
+          "text": "Have a spotter guide you into position"
+        }
+      ]
+    },
+    {
+      "title": "Level & Chock",
+      "items": [
+        {
+          "text": "Check level side to side and add leveling blocks as needed"
+        },
+        {
+          "text": "Level front to back using jacks or the tongue jack"
+        },
+        {
+          "text": "Confirm the rig is level before extending slides"
+        },
+        {
+          "text": "Place wheel chocks snugly on both sides",
+          "note": "Chock before unhitching so the rig cannot roll"
+        },
+        {
+          "text": "Unhitch the trailer if towable"
+        }
+      ]
+    },
+    {
+      "title": "Stabilize",
+      "items": [
+        {
+          "text": "Lower stabilizer jacks until firm, not lifting"
+        },
+        {
+          "text": "Use jack pads on soft or uneven ground"
+        },
+        {
+          "text": "Confirm the rig feels solid with no rocking"
+        },
+        {
+          "text": "Set the parking brake on a motorhome"
+        },
+        {
+          "text": "Recheck chocks after stabilizing"
+        }
+      ]
+    },
+    {
+      "title": "Connect Hookups",
+      "items": [
+        {
+          "text": "Turn off the pedestal breaker, then plug in via a surge protector"
+        },
+        {
+          "text": "Switch the breaker on and confirm correct voltage and polarity"
+        },
+        {
+          "text": "Connect the fresh water hose with a pressure regulator"
+        },
+        {
+          "text": "Attach the sewer hose to the dump connection with gloves"
+        },
+        {
+          "text": "Open the gray valve only, keeping black closed until full"
+        },
+        {
+          "text": "Turn on propane if needed for appliances"
+        }
+      ]
+    },
+    {
+      "title": "Extend & Open Up",
+      "items": [
+        {
+          "text": "Extend slide-outs once the rig is level and stable"
+        },
+        {
+          "text": "Confirm slides are fully out and seals seated"
+        },
+        {
+          "text": "Deploy the awning and secure it against wind"
+        },
+        {
+          "text": "Lower the entry steps"
+        },
+        {
+          "text": "Raise the TV antenna or set up the satellite dish"
+        }
+      ]
+    },
+    {
+      "title": "Final Setup Checks",
+      "items": [
+        {
+          "text": "Turn on the refrigerator and confirm it is cooling"
+        },
+        {
+          "text": "Check water flows and the water heater works"
+        },
+        {
+          "text": "Confirm lights, outlets and air conditioning work"
+        },
+        {
+          "text": "Test the carbon monoxide and propane detectors"
+        },
+        {
+          "text": "Set up outdoor mats, chairs and the campsite"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What order should I set up an RV at a campsite?",
+      "a": "A common sequence is to position the rig, level it side to side and front to back, chock the wheels, stabilize, then connect power, water and waste, and finally extend slide-outs. Leveling before extending slides protects the mechanism and the door."
+    },
+    {
+      "q": "Why level the RV before extending slides?",
+      "a": "Slide-outs are heavy and can bind or be damaged if the RV is not level, and an unlevel rig can also affect the refrigerator and your comfort. Get the rig level on its leveling blocks or jacks first, then extend the slides."
+    },
+    {
+      "q": "How do I connect to shore power safely?",
+      "a": "Check the pedestal breaker is off, plug in through a surge protector, then switch the breaker on. Confirm the surge protector reports correct voltage and polarity before relying on the power, and use the right adapter for your service."
+    },
+    {
+      "q": "When should I chock the wheels?",
+      "a": "Chock the wheels before unhitching a towable and before raising stabilizer jacks, so the rig cannot roll. Place chocks snugly on both sides of the wheels, especially on any slope, as a basic safety step at every site."
+    },
+    {
+      "q": "Can I print this RV arrival checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it in the RV and tick off leveling, chocking, hookups, slides and stabilizing each time you arrive at a campsite."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/rv-arrival-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/rv-arrival-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "RV Arrival Checklist by ChecklistForge (https://checklistforge.com/checklist/rv-arrival-checklist)",
+  "updated": "2026-10-17"
+}

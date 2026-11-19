@@ -1,0 +1,200 @@
+{
+  "id": "business-travel-checklist",
+  "name": "Business Travel Checklist",
+  "description": "A complete business travel checklist covering documents, work tech, professional attire, expenses and pre-trip tasks.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "business-travel",
+    "work-trip",
+    "carry-on"
+  ],
+  "item_count": 40,
+  "sections": [
+    {
+      "title": "Documents and Itinerary",
+      "items": [
+        {
+          "text": "ID or passport and any required visas"
+        },
+        {
+          "text": "Flight, hotel, and transport confirmations"
+        },
+        {
+          "text": "Printed and digital copies of your itinerary"
+        },
+        {
+          "text": "Meeting agenda and contact details"
+        },
+        {
+          "text": "Business cards"
+        },
+        {
+          "text": "Company travel policy and approval documents"
+        }
+      ]
+    },
+    {
+      "title": "Tech and Work Gear",
+      "items": [
+        {
+          "text": "Laptop and charger"
+        },
+        {
+          "text": "Phone, charging cable, and a power bank"
+        },
+        {
+          "text": "Universal travel adapter for international trips",
+          "note": "Check the plug type and voltage for your destination."
+        },
+        {
+          "text": "Noise-canceling headphones"
+        },
+        {
+          "text": "Presentation clicker, dongles, and adapters"
+        },
+        {
+          "text": "External drive or notebook for backups"
+        },
+        {
+          "text": "Spare pens and a slim folder for documents"
+        }
+      ]
+    },
+    {
+      "title": "Professional Attire",
+      "items": [
+        {
+          "text": "Outfits for each meeting day plus one spare"
+        },
+        {
+          "text": "Wrinkle-resistant suit, blazer, or dress"
+        },
+        {
+          "text": "Dress shirts or blouses"
+        },
+        {
+          "text": "Dress shoes and matching belt"
+        },
+        {
+          "text": "Accessories: tie, scarf, or jewelry"
+        },
+        {
+          "text": "A garment bag to keep attire crisp"
+        }
+      ]
+    },
+    {
+      "title": "Casual and Downtime",
+      "items": [
+        {
+          "text": "Comfortable travel-day outfit"
+        },
+        {
+          "text": "Casual evening wear for dinners"
+        },
+        {
+          "text": "Workout clothes and shoes if you use the gym"
+        },
+        {
+          "text": "Sleepwear"
+        },
+        {
+          "text": "Underwear and socks for the trip plus spares"
+        }
+      ]
+    },
+    {
+      "title": "Toiletries and Health",
+      "items": [
+        {
+          "text": "Travel-sized toiletries within carry-on limits"
+        },
+        {
+          "text": "Toothbrush, toothpaste, and deodorant"
+        },
+        {
+          "text": "Daily medications and a small first-aid kit"
+        },
+        {
+          "text": "Razor and grooming kit"
+        },
+        {
+          "text": "Hand sanitizer and a face mask"
+        }
+      ]
+    },
+    {
+      "title": "Expenses and Finance",
+      "items": [
+        {
+          "text": "Corporate or personal card and some cash"
+        },
+        {
+          "text": "Envelope or app to collect receipts"
+        },
+        {
+          "text": "Per diem details and expense policy"
+        },
+        {
+          "text": "Local currency for international trips"
+        },
+        {
+          "text": "Note of reimbursable categories and limits"
+        }
+      ]
+    },
+    {
+      "title": "Before You Leave",
+      "items": [
+        {
+          "text": "Set an out-of-office reply and delegate tasks"
+        },
+        {
+          "text": "Confirm meeting times across time zones"
+        },
+        {
+          "text": "Charge all devices fully"
+        },
+        {
+          "text": "Download files, slides, and offline maps"
+        },
+        {
+          "text": "Check in for your flight and save boarding passes"
+        },
+        {
+          "text": "Arrange airport transport at both ends"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack for a business trip?",
+      "a": "Pack professional attire suited to your meetings, a laptop and chargers, travel documents, toiletries, and expense materials. Aim for a carry-on with wrinkle-resistant clothes so you avoid checked bags and arrive ready to work."
+    },
+    {
+      "q": "How do I pack a suit without wrinkles?",
+      "a": "Roll or fold your suit in a garment bag or around tissue paper, pack it on top, and hang it as soon as you arrive. Choose wrinkle-resistant fabrics, and a quick steam in a hot shower bathroom can release any remaining creases."
+    },
+    {
+      "q": "What tech should I bring for business travel?",
+      "a": "Bring your laptop, phone, all charging cables, a power bank, and a universal adapter for international trips. Add noise-canceling headphones, a presentation clicker or adapter if you are presenting, and any hardware your work requires."
+    },
+    {
+      "q": "Can I print this business travel checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you pack and prepare for your work trip."
+    },
+    {
+      "q": "How do I track expenses while traveling for work?",
+      "a": "Keep all receipts in one envelope or photograph them with an expense app as you go, and note the date, purpose, and amount. Review your company's travel policy beforehand and log expenses daily so nothing is missed when you file."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/business-travel-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/business-travel-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Business Travel Checklist by ChecklistForge (https://checklistforge.com/checklist/business-travel-checklist)",
+  "updated": "2026-10-17"
+}

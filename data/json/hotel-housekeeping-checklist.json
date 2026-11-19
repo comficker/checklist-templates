@@ -1,0 +1,185 @@
+{
+  "id": "hotel-housekeeping-checklist",
+  "name": "Hotel Housekeeping Checklist",
+  "description": "A room attendant's housekeeping checklist for cleaning a hotel, guesthouse or B&B room from check-out to guest-ready.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "commercial",
+    "training",
+    "hospitality",
+    "housekeeping"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Cart and Entry",
+      "items": [
+        {
+          "text": "Stock the cart with linen, towels, amenities and cleaning supplies"
+        },
+        {
+          "text": "Knock, announce \"Housekeeping\" and wait before entering"
+        },
+        {
+          "text": "Prop the door open and park the cart across the doorway"
+        },
+        {
+          "text": "Open curtains and windows, and switch on all lights to check bulbs"
+        }
+      ]
+    },
+    {
+      "title": "Strip and Clear",
+      "items": [
+        {
+          "text": "Check the room for guest property before removing anything",
+          "note": "Look under the bed, in drawers, the safe, the wardrobe and behind the bathroom door."
+        },
+        {
+          "text": "Strip the bed and check the mattress protector for stains"
+        },
+        {
+          "text": "Remove used towels, bath mat and robes"
+        },
+        {
+          "text": "Empty all bins and replace liners"
+        },
+        {
+          "text": "Remove used cups and glasses for washing or replacement"
+        }
+      ]
+    },
+    {
+      "title": "Bathroom",
+      "items": [
+        {
+          "text": "Apply cleaner to the toilet, shower, bath and sink and leave it to work"
+        },
+        {
+          "text": "Clean the shower, glass screen, tiles and tub"
+        },
+        {
+          "text": "Clean the toilet inside and out, including the base and behind the seat"
+        },
+        {
+          "text": "Clean the sink, counter, taps and mirror"
+        },
+        {
+          "text": "Wipe down and polish the chrome fittings"
+        },
+        {
+          "text": "Check for hair in the drain, shower and floor corners",
+          "note": "Hair is the most common complaint in guest reviews of bathroom cleanliness."
+        },
+        {
+          "text": "Mop the floor and hang fresh towels and bath mat"
+        }
+      ]
+    },
+    {
+      "title": "Bed Making",
+      "items": [
+        {
+          "text": "Fit a fresh bottom sheet or check the mattress protector is clean"
+        },
+        {
+          "text": "Put on the top sheet or duvet with fresh cover, smooth and square"
+        },
+        {
+          "text": "Put fresh cases on all pillows and arrange them to the property standard"
+        },
+        {
+          "text": "Place the bed runner or throw, if used"
+        }
+      ]
+    },
+    {
+      "title": "Dust and Surfaces",
+      "items": [
+        {
+          "text": "Dust from high to low: lights, frames, headboard, shelves"
+        },
+        {
+          "text": "Wipe the desk, bedside tables and wardrobe shelves"
+        },
+        {
+          "text": "Disinfect high-touch items: remote, phone, light switches, door handles"
+        },
+        {
+          "text": "Clean the mirror and any glass surfaces"
+        },
+        {
+          "text": "Check that the TV, lamps, kettle, safe and air conditioning work"
+        }
+      ]
+    },
+    {
+      "title": "Restock Amenities",
+      "items": [
+        {
+          "text": "Replace toiletries, toilet paper and tissues"
+        },
+        {
+          "text": "Restock tea, coffee, sugar, cups and water"
+        },
+        {
+          "text": "Refill the minibar and record what was used, if applicable"
+        },
+        {
+          "text": "Replace the notepad, pen and guest information"
+        },
+        {
+          "text": "Check hangers, the iron and the hairdryer are in place"
+        }
+      ]
+    },
+    {
+      "title": "Floors and Final Inspection",
+      "items": [
+        {
+          "text": "Vacuum from the far corner, backing out toward the door"
+        },
+        {
+          "text": "Look at the room from the doorway as a guest would"
+        },
+        {
+          "text": "Set curtains, lights and air conditioning to the property standard"
+        },
+        {
+          "text": "Log lost property with room number, date and description"
+        },
+        {
+          "text": "Report maintenance faults such as bulbs, leaks or broken fittings"
+        },
+        {
+          "text": "Lock the door and mark the room clean in the system"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the correct order to clean a hotel room?",
+      "a": "Air the room, strip the bed and remove rubbish, then clean the bathroom, make the bed, dust from top to bottom, restock amenities, and vacuum last while backing out of the room. Starting the bathroom early lets cleaner work on the fixtures while you do the rest."
+    },
+    {
+      "q": "What is the difference between a check-out clean and a stayover clean?",
+      "a": "A check-out clean resets the room completely, with full linen change, all amenities replaced and every surface cleaned. A stayover clean is lighter: make the bed, tidy, empty bins, refresh towels and amenities, and leave the guest's belongings untouched."
+    },
+    {
+      "q": "What should housekeeping do with items guests leave behind?",
+      "a": "Log each item with the room number, date, description and finder's name, then hand it to the front desk or lost-property store. Never keep or throw away guest property, and follow your property's rules for how long items are held."
+    },
+    {
+      "q": "How long should it take to clean a hotel room?",
+      "a": "A standard check-out room usually takes around 25 to 40 minutes, depending on room size, layout and the property's standards. A stayover clean is typically faster. A consistent checklist is the quickest way to bring times down without missing steps."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hotel-housekeeping-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hotel-housekeeping-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hotel Housekeeping Checklist by ChecklistForge (https://checklistforge.com/checklist/hotel-housekeeping-checklist)",
+  "updated": "2026-10-18"
+}

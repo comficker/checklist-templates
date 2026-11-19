@@ -1,0 +1,186 @@
+{
+  "id": "5s-checklist",
+  "name": "5S Audit Checklist",
+  "description": "A printable 5S audit for walking one work area and scoring Sort, Set in Order, Shine, Standardize and Sustain.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "audit",
+    "manufacturing",
+    "lean",
+    "workplace-organization",
+    "continuous-improvement"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Sort (Seiri)",
+      "items": [
+        {
+          "text": "Remove items not used in this area in the last month"
+        },
+        {
+          "text": "Red-tag any item whose need is unclear",
+          "note": "Write the item, date, name of the person tagging it and the reason on the tag."
+        },
+        {
+          "text": "Move red-tagged items to the marked red-tag holding area"
+        },
+        {
+          "text": "Set a holding period, such as 30 days, and dispose of unclaimed items"
+        },
+        {
+          "text": "Clear broken tools, scrap and expired materials from the area"
+        },
+        {
+          "text": "Keep only the stock needed for the current shift or job"
+        }
+      ]
+    },
+    {
+      "title": "Set in Order (Seiton)",
+      "items": [
+        {
+          "text": "Give every tool and item one fixed home"
+        },
+        {
+          "text": "Store the most-used items closest to the point of use"
+        },
+        {
+          "text": "Mount hand tools on shadow boards with an outline for each tool",
+          "note": "An empty outline shows at a glance what is missing or not put back."
+        },
+        {
+          "text": "Label shelves, bins, drawers and cabinets with their contents"
+        },
+        {
+          "text": "Mark walkways, work cells and storage spots with floor tape or paint"
+        },
+        {
+          "text": "Set min/max levels on stock locations so shortages show"
+        }
+      ]
+    },
+    {
+      "title": "Shine (Seiso)",
+      "items": [
+        {
+          "text": "Clean floors, benches and machines, including under and behind them"
+        },
+        {
+          "text": "Check for leaks, loose parts and wear while cleaning",
+          "note": "Cleaning is also an inspection. Note oil drips, frayed cables and loose guards."
+        },
+        {
+          "text": "Find the sources of dirt, dust and spills and fix them"
+        },
+        {
+          "text": "Keep cleaning supplies stocked in a labeled spot in the area"
+        },
+        {
+          "text": "Post a cleaning schedule that names who cleans what and when"
+        }
+      ]
+    },
+    {
+      "title": "Standardize (Seiketsu)",
+      "items": [
+        {
+          "text": "Take a photo of the area at its best and post it as the standard"
+        },
+        {
+          "text": "Use the same label style, colors and floor markings across all areas",
+          "note": "One color code site-wide, such as yellow for walkways, avoids confusion when staff move between areas."
+        },
+        {
+          "text": "Write short one-page instructions for daily 5S tasks"
+        },
+        {
+          "text": "Add 5S tasks to shift start-up or shutdown routines"
+        },
+        {
+          "text": "Make sure everyone in the area can explain the standard"
+        }
+      ]
+    },
+    {
+      "title": "Sustain (Shitsuke)",
+      "items": [
+        {
+          "text": "Schedule regular audits and post the dates"
+        },
+        {
+          "text": "Post audit scores where the team can see them"
+        },
+        {
+          "text": "Assign an owner and due date to every finding",
+          "note": "A finding with no name next to it rarely gets fixed. Check last audit's actions first."
+        },
+        {
+          "text": "Train new staff in the area standard during their first week"
+        },
+        {
+          "text": "Review results with the team and agree on the next fix"
+        }
+      ]
+    },
+    {
+      "title": "Safety (6th S, Optional)",
+      "items": [
+        {
+          "text": "Check that exits, fire extinguishers and electrical panels are clear"
+        },
+        {
+          "text": "Look for trip hazards, missing guards and damaged equipment"
+        },
+        {
+          "text": "Confirm required PPE is available and in use"
+        }
+      ]
+    },
+    {
+      "title": "Audit Score and Sign-Off",
+      "items": [
+        {
+          "text": "Area: ____  Date: ____"
+        },
+        {
+          "text": "Score (0–5) per S: Sort ____  Set ____  Shine ____  Standardize ____  Sustain ____",
+          "note": "0 = not started, 3 = in place but not consistent, 5 = fully in place and maintained."
+        },
+        {
+          "text": "Total score (out of 25): ____  Previous score: ____"
+        },
+        {
+          "text": "Top three actions, owner and due date: ____"
+        },
+        {
+          "text": "Auditor: ____  Area owner: ____  Next audit date: ____"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the 5S's in order?",
+      "a": "Sort (Seiri), Set in Order (Seiton), Shine (Seiso), Standardize (Seiketsu) and Sustain (Shitsuke). Do them in that order. There is no point labeling a shelf for items you are about to throw out, or cleaning around clutter."
+    },
+    {
+      "q": "What is 6S?",
+      "a": "6S adds Safety to the five S's. Some sites treat it as a separate step, checking for trip hazards, blocked exits, missing guards and PPE. Others fold safety checks into each S. If your site uses 6S, add a Safety row to the score sheet."
+    },
+    {
+      "q": "How often should you do a 5S audit?",
+      "a": "Many sites audit each area weekly while 5S is new, then monthly once scores are steady. Short daily checks by the people who work in the area, plus a monthly audit by someone from outside it, catch more than either one alone."
+    },
+    {
+      "q": "What is a red tag in 5S?",
+      "a": "A red tag marks an item whose need is in doubt during Sort. The tag records what the item is, who tagged it, the date and why. Tagged items go to a holding area for a set time. If no one claims them, they are moved, sold, recycled or scrapped."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/5s-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/5s-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "5S Audit Checklist by ChecklistForge (https://checklistforge.com/checklist/5s-checklist)",
+  "updated": "2026-11-13"
+}

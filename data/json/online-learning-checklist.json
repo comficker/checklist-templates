@@ -1,0 +1,145 @@
+{
+  "id": "online-learning-checklist",
+  "name": "Online Learning Checklist",
+  "description": "An online learning checklist that helps students succeed in online and virtual classes.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "study",
+    "online-learning",
+    "virtual-class",
+    "focus"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "Set up your tech",
+      "items": [
+        {
+          "text": "Confirm your computer and internet connection are reliable."
+        },
+        {
+          "text": "Test your webcam, microphone and speakers."
+        },
+        {
+          "text": "Install the required learning platform and apps."
+        },
+        {
+          "text": "Bookmark the course site, syllabus and login pages."
+        },
+        {
+          "text": "Have a backup plan if your connection drops.",
+          "note": "Know a nearby Wi-Fi spot or keep mobile data ready."
+        }
+      ]
+    },
+    {
+      "title": "Organize your schedule",
+      "items": [
+        {
+          "text": "Add all live sessions and class times to your calendar."
+        },
+        {
+          "text": "Note when recorded lectures and materials are released."
+        },
+        {
+          "text": "Block regular study time for each course."
+        },
+        {
+          "text": "Set reminders for assignments and exams."
+        },
+        {
+          "text": "Plan around any time-zone differences."
+        }
+      ]
+    },
+    {
+      "title": "Create a focus space",
+      "items": [
+        {
+          "text": "Choose a quiet, dedicated spot for studying."
+        },
+        {
+          "text": "Keep your materials and charger within reach."
+        },
+        {
+          "text": "Silence phone notifications during class and study."
+        },
+        {
+          "text": "Close unrelated tabs and apps while you work."
+        },
+        {
+          "text": "Use focused work blocks with short breaks."
+        }
+      ]
+    },
+    {
+      "title": "Participate actively",
+      "items": [
+        {
+          "text": "Join live sessions on time and stay engaged."
+        },
+        {
+          "text": "Take notes just as you would in person."
+        },
+        {
+          "text": "Ask questions in chat or by unmuting."
+        },
+        {
+          "text": "Post in discussion boards and reply to classmates."
+        },
+        {
+          "text": "Attend office hours when you need help."
+        }
+      ]
+    },
+    {
+      "title": "Track deadlines and progress",
+      "items": [
+        {
+          "text": "Check the course site regularly for updates."
+        },
+        {
+          "text": "Submit assignments before each deadline."
+        },
+        {
+          "text": "Confirm each upload went through successfully."
+        },
+        {
+          "text": "Review feedback and grades as they post."
+        },
+        {
+          "text": "Back up your work in the cloud or on a drive."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I succeed in online classes?",
+      "a": "Set up reliable tech, build a consistent weekly schedule, claim a distraction-free study space, participate actively in discussions and live sessions, and track every deadline so nothing slips by unnoticed."
+    },
+    {
+      "q": "How do I stay focused during online learning?",
+      "a": "Study in a dedicated space, close unrelated tabs and silence notifications, work in focused blocks with short breaks, and treat live sessions like in-person class by taking notes and engaging."
+    },
+    {
+      "q": "What tech do I need for an online class?",
+      "a": "A reliable computer and internet connection, a working webcam and microphone, the required apps or learning platform installed, and a backup plan such as mobile data in case your connection drops."
+    },
+    {
+      "q": "How is this different from a distance learning checklist?",
+      "a": "This online learning checklist targets college and self-paced virtual courses. A distance learning checklist focuses on at-home K-12 remote schooling and the parent support that goes with it."
+    },
+    {
+      "q": "Can I download this online learning checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and keep it by your workspace as a setup and weekly routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/online-learning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/online-learning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Online Learning Checklist by ChecklistForge (https://checklistforge.com/checklist/online-learning-checklist)",
+  "updated": "2026-10-17"
+}

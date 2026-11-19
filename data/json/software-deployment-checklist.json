@@ -1,0 +1,185 @@
+{
+  "id": "software-deployment-checklist",
+  "name": "Software Deployment Checklist",
+  "description": "A step-by-step checklist for deploying software to production safely.",
+  "category": "it-software",
+  "category_name": "IT & Software",
+  "tags": [
+    "it",
+    "software",
+    "devops",
+    "deployment"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Pre-deployment checks",
+      "items": [
+        {
+          "text": "Confirm the code is reviewed, approved and merged to the release branch."
+        },
+        {
+          "text": "Verify all automated tests and the build pass in the pipeline."
+        },
+        {
+          "text": "Check that database migrations are written and reversible where possible."
+        },
+        {
+          "text": "Confirm environment variables, secrets and config are set for production."
+        },
+        {
+          "text": "Review and update dependencies, and check for known vulnerabilities."
+        },
+        {
+          "text": "Schedule the deploy window and notify the team and stakeholders."
+        },
+        {
+          "text": "Freeze unrelated changes to keep the release scope clear."
+        }
+      ]
+    },
+    {
+      "title": "Prepare and back up",
+      "items": [
+        {
+          "text": "Take a fresh backup of the production database before deploying.",
+          "note": "Verify the backup completed and is restorable."
+        },
+        {
+          "text": "Snapshot or back up critical files and current configuration."
+        },
+        {
+          "text": "Record the currently deployed version and commit hash."
+        },
+        {
+          "text": "Confirm rollback artifacts, such as the previous build, are available."
+        },
+        {
+          "text": "Put up a maintenance page if downtime is expected."
+        },
+        {
+          "text": "Verify monitoring and alerting are active before you begin."
+        }
+      ]
+    },
+    {
+      "title": "Execute the deployment",
+      "items": [
+        {
+          "text": "Deploy to a staging or canary environment first if available."
+        },
+        {
+          "text": "Run database migrations and confirm they complete successfully."
+        },
+        {
+          "text": "Deploy the new application version to production."
+        },
+        {
+          "text": "Apply configuration and feature-flag changes as planned."
+        },
+        {
+          "text": "Clear or warm caches and CDN content as needed."
+        },
+        {
+          "text": "Restart or reload services and confirm they come back healthy."
+        }
+      ]
+    },
+    {
+      "title": "Smoke test and verify",
+      "items": [
+        {
+          "text": "Confirm the application loads and the correct version is live."
+        },
+        {
+          "text": "Test critical user paths such as login, checkout or core workflows."
+        },
+        {
+          "text": "Verify integrations and third-party services respond correctly."
+        },
+        {
+          "text": "Check error rates, response times and resource usage."
+        },
+        {
+          "text": "Validate that the database changes behave as expected."
+        },
+        {
+          "text": "Confirm background jobs and scheduled tasks are running."
+        }
+      ]
+    },
+    {
+      "title": "Rollback plan",
+      "items": [
+        {
+          "text": "Define clear criteria for when to roll back versus fix forward."
+        },
+        {
+          "text": "Document the exact steps to revert code, config and migrations."
+        },
+        {
+          "text": "Know how to restore the database backup if data is affected."
+        },
+        {
+          "text": "Assign who has authority to trigger a rollback during the window."
+        },
+        {
+          "text": "Test that the rollback path works before relying on it."
+        },
+        {
+          "text": "Communicate immediately if a rollback is performed."
+        }
+      ]
+    },
+    {
+      "title": "Post-deployment monitoring",
+      "items": [
+        {
+          "text": "Watch dashboards, logs and alerts closely for the first period after deploy."
+        },
+        {
+          "text": "Compare key metrics against the pre-deploy baseline."
+        },
+        {
+          "text": "Remove the maintenance page and confirm full availability."
+        },
+        {
+          "text": "Notify stakeholders that the deployment is complete and stable."
+        },
+        {
+          "text": "Close out the release and update deployment records and tickets."
+        },
+        {
+          "text": "Log any issues and follow up with a retrospective if needed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I check before deploying to production?",
+      "a": "Confirm the build passed all tests, the change is reviewed and approved, migrations and config are ready, and you have a recent backup and a rollback plan. The pre-deploy section covers each of these so nothing critical is missed."
+    },
+    {
+      "q": "Why is a rollback plan so important?",
+      "a": "Even well-tested deploys can fail in production due to data, load or environment differences. A clear rollback plan — knowing how to revert code, config and migrations quickly — turns a potential outage into a brief blip."
+    },
+    {
+      "q": "What is a smoke test after deployment?",
+      "a": "A smoke test is a quick check of critical paths right after deploy, such as logging in, loading key pages and a core transaction. It confirms the deployment is healthy before you consider the release done."
+    },
+    {
+      "q": "Does this work for CI/CD pipelines?",
+      "a": "Yes. Many of these steps can be automated in a CI/CD pipeline, but the checklist still helps you confirm each gate is in place. Use it to design your pipeline and as a manual fallback for hotfixes and manual deploys."
+    },
+    {
+      "q": "Can I download this deployment checklist as a PDF?",
+      "a": "Yes. You can print it or save it as a PDF for your team to follow during every release window, ticking off each step as the deployment progresses."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/software-deployment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/software-deployment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Software Deployment Checklist by ChecklistForge (https://checklistforge.com/checklist/software-deployment-checklist)",
+  "updated": "2026-10-17"
+}

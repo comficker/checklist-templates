@@ -1,0 +1,208 @@
+{
+  "id": "first-baby-checklist",
+  "name": "First Baby Checklist",
+  "description": "Everything first-time parents need to prepare before and after their baby arrives, organized into clear, manageable steps.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "newborn",
+    "pregnancy",
+    "new-parents",
+    "baby-gear"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Prepare Your Home",
+      "items": [
+        {
+          "text": "Set up a safe sleep space with a firm, flat mattress and fitted sheet."
+        },
+        {
+          "text": "Choose and prepare a diaper-changing area with supplies within reach."
+        },
+        {
+          "text": "Wash baby clothes, blankets, and bedding in a gentle detergent."
+        },
+        {
+          "text": "Babyproof basics like outlet covers, cabinet latches, and cord safety."
+        },
+        {
+          "text": "Stock a small first-aid kit and a digital thermometer.",
+          "note": "Ask your pediatrician which items they recommend keeping on hand."
+        },
+        {
+          "text": "Create a comfortable spot for feeding with good back support and a side table."
+        }
+      ]
+    },
+    {
+      "title": "Baby Gear and Travel",
+      "items": [
+        {
+          "text": "Install an infant car seat and have it inspected before the due date."
+        },
+        {
+          "text": "Choose a stroller or carrier that fits your daily routine."
+        },
+        {
+          "text": "Set up a crib, bassinet, or co-sleeper that meets current safety standards."
+        },
+        {
+          "text": "Get a baby monitor if your sleep space is in another room."
+        },
+        {
+          "text": "Prepare a diaper bag stocked with the basics for outings."
+        },
+        {
+          "text": "Add a portable changing pad and a few spare outfits to your bag."
+        }
+      ]
+    },
+    {
+      "title": "Feeding Supplies",
+      "items": [
+        {
+          "text": "Decide on your feeding approach and gather the matching supplies."
+        },
+        {
+          "text": "Stock bottles, nipples, and a bottle brush if you plan to bottle-feed."
+        },
+        {
+          "text": "Set up a breast pump and storage bags if you plan to pump."
+        },
+        {
+          "text": "Have burp cloths and bibs ready for spills and spit-up."
+        },
+        {
+          "text": "Keep a comfortable feeding pillow nearby for support."
+        },
+        {
+          "text": "Talk to your provider about feeding questions and concerns.",
+          "note": "A lactation consultant can help if breastfeeding feels difficult early on."
+        }
+      ]
+    },
+    {
+      "title": "Clothing and Diapering",
+      "items": [
+        {
+          "text": "Stock newborn and next-size bodysuits, sleepers, and socks."
+        },
+        {
+          "text": "Keep a few packs of diapers in the smallest size and the next size up."
+        },
+        {
+          "text": "Have plenty of wipes and a gentle diaper cream on hand."
+        },
+        {
+          "text": "Add swaddles or sleep sacks suited to the season."
+        },
+        {
+          "text": "Prepare hats, mittens, and weather-appropriate layers."
+        },
+        {
+          "text": "Set up a small laundry routine for frequent outfit changes."
+        }
+      ]
+    },
+    {
+      "title": "Health and Safety",
+      "items": [
+        {
+          "text": "Choose a pediatrician and schedule the first newborn visit."
+        },
+        {
+          "text": "Gather baby bath supplies, soft towels, and a gentle wash."
+        },
+        {
+          "text": "Keep a nasal aspirator and infant nail file or clippers ready."
+        },
+        {
+          "text": "Learn the basics of safe sleep and follow them every time."
+        },
+        {
+          "text": "Save key phone numbers for your provider and nearest urgent care.",
+          "note": "Consider a basic infant CPR class before your due date."
+        },
+        {
+          "text": "Review any health guidance from your provider for the first weeks."
+        }
+      ]
+    },
+    {
+      "title": "Paperwork and Finances",
+      "items": [
+        {
+          "text": "Confirm the process for the birth certificate and Social Security number."
+        },
+        {
+          "text": "Add your baby to your health insurance within the enrollment window."
+        },
+        {
+          "text": "Review and arrange parental leave with your employer."
+        },
+        {
+          "text": "Update beneficiaries and consider a basic will or guardianship plan."
+        },
+        {
+          "text": "Set a simple budget for new baby-related expenses."
+        },
+        {
+          "text": "Keep all important documents together in one labeled folder."
+        }
+      ]
+    },
+    {
+      "title": "Line Up Support",
+      "items": [
+        {
+          "text": "Identify who can help in the first weeks home."
+        },
+        {
+          "text": "Prepare and freeze a few easy meals ahead of time."
+        },
+        {
+          "text": "Set boundaries and a plan for early visitors."
+        },
+        {
+          "text": "Save contacts for support lines, classes, or new-parent groups."
+        },
+        {
+          "text": "Arrange backup transportation in case you need it."
+        },
+        {
+          "text": "Plan small moments of rest and recovery for both parents.",
+          "note": "Accept offers of help with chores, meals, and errands."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start buying things for my first baby?",
+      "a": "Many parents start shopping in the second trimester, once they feel settled. Begin with bigger items like a crib and car seat so they can be set up early. Save smaller supplies for later, and buy in stages to spread out the cost and avoid clutter you do not need yet."
+    },
+    {
+      "q": "What do I actually need before the baby comes home?",
+      "a": "Focus on the basics: a safe place to sleep, a properly installed car seat, diapers, a few outfits, feeding supplies, and a way to bathe your baby. Many other items can wait. Keep the essentials stocked and ready, then add extras once you learn what works for your family."
+    },
+    {
+      "q": "Do I need to install the car seat before birth?",
+      "a": "Yes. Install and inspect the car seat in the final weeks so you are not rushing later. Follow the manufacturer instructions and your vehicle manual closely, since correct installation is essential for safety. Many communities offer free car seat checks to confirm it is fitted correctly before your first ride home."
+    },
+    {
+      "q": "How many diapers and outfits should I have ready?",
+      "a": "Start with a modest supply rather than stockpiling one size. Newborns grow quickly, so keep a few packs of the smallest size and some in the next size up. Have several easy-change outfits and plenty of bodysuits on hand, then restock as you learn your baby's pace and size."
+    },
+    {
+      "q": "What paperwork do I need to handle for a new baby?",
+      "a": "Plan ahead for the birth certificate, a Social Security number, and adding your baby to your health insurance. Check your insurer's enrollment window, since it is often tight. Also review parental leave with your employer and update beneficiaries. Keep important documents together in one folder for easy access."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/first-baby-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/first-baby-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "First Baby Checklist by ChecklistForge (https://checklistforge.com/checklist/first-baby-checklist)",
+  "updated": "2026-10-17"
+}

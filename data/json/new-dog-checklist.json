@@ -1,0 +1,182 @@
+{
+  "id": "new-dog-checklist",
+  "name": "New Dog Checklist",
+  "description": "A new dog checklist for bringing home an adult or any dog, covering supplies, settling in, and building a routine.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "pet-care",
+    "dogs",
+    "new-dog"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Supplies to have ready",
+      "items": [
+        {
+          "text": "Stock the food your dog already eats to avoid stomach upset."
+        },
+        {
+          "text": "Get sturdy food and water bowls."
+        },
+        {
+          "text": "Buy a collar with an ID tag, plus a leash and harness."
+        },
+        {
+          "text": "Provide a comfortable bed and a crate or quiet safe space."
+        },
+        {
+          "text": "Choose a few durable toys and chews."
+        },
+        {
+          "text": "Keep cleanup supplies and enzyme cleaner on hand."
+        }
+      ]
+    },
+    {
+      "title": "Preparing your home",
+      "items": [
+        {
+          "text": "Dog-proof rooms by securing trash, cords, and hazards."
+        },
+        {
+          "text": "Set up a calm, defined space where your dog can decompress."
+        },
+        {
+          "text": "Check that fences, gates, and doors are secure with no gaps."
+        },
+        {
+          "text": "Remove or store anything you do not want chewed early on."
+        },
+        {
+          "text": "Decide house rules and share them with everyone at home."
+        },
+        {
+          "text": "Plan to be home for the first days to ease the transition."
+        }
+      ]
+    },
+    {
+      "title": "First vet visit",
+      "items": [
+        {
+          "text": "Schedule a wellness exam soon after bringing your dog home."
+        },
+        {
+          "text": "Bring any records and a stool sample if requested."
+        },
+        {
+          "text": "Confirm vaccination status and any boosters needed."
+        },
+        {
+          "text": "Discuss flea, tick, and worm prevention."
+        },
+        {
+          "text": "Ask about the right food and amounts for your dog's size and age."
+        },
+        {
+          "text": "Update microchip details and ask about spay or neuter if not done."
+        }
+      ]
+    },
+    {
+      "title": "Settling in calmly",
+      "items": [
+        {
+          "text": "Keep the homecoming low-key and the dog leashed at first."
+        },
+        {
+          "text": "Introduce one room before opening up the whole house."
+        },
+        {
+          "text": "Limit visitors and loud activity for the first days.",
+          "note": "Give your dog time and space to decompress."
+        },
+        {
+          "text": "Let your dog approach you rather than crowding them."
+        },
+        {
+          "text": "Provide a quiet retreat your dog can return to."
+        },
+        {
+          "text": "Watch for stress signals and give space when needed."
+        }
+      ]
+    },
+    {
+      "title": "Building a routine",
+      "items": [
+        {
+          "text": "Set consistent feeding times right away."
+        },
+        {
+          "text": "Establish a regular potty and walk schedule."
+        },
+        {
+          "text": "Add daily exercise suited to your dog's energy."
+        },
+        {
+          "text": "Reinforce basic cues gently and positively."
+        },
+        {
+          "text": "Keep rest, play, and downtime predictable."
+        },
+        {
+          "text": "Introduce alone-time gradually to prevent anxiety."
+        }
+      ]
+    },
+    {
+      "title": "Introductions and safety",
+      "items": [
+        {
+          "text": "Introduce existing pets slowly and under supervision."
+        },
+        {
+          "text": "Supervise all interactions with children and teach gentle handling."
+        },
+        {
+          "text": "Keep ID and a recent photo in case your dog gets out."
+        },
+        {
+          "text": "Avoid off-leash areas until you know your dog's recall."
+        },
+        {
+          "text": "Save your vet and nearest emergency clinic numbers."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your dog's vaccinations, diet, and health."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need for a new adult dog?",
+      "a": "Have food and bowls, a collar with ID, a leash and harness, a bed, a crate or safe space, toys, and cleanup supplies ready before arrival. This new dog checklist groups the essentials so you can focus on helping your dog settle."
+    },
+    {
+      "q": "How long does it take a new dog to settle in?",
+      "a": "Many dogs need days to weeks to relax in a new home, and some follow a gradual pattern as they decompress and gain confidence. Keep routines predictable, expectations low, and let your dog adjust at its own pace."
+    },
+    {
+      "q": "How should I handle the first days with a new dog?",
+      "a": "Keep things calm, establish a feeding and potty routine, limit visitors and new experiences, and give your dog a quiet retreat. Use a leash indoors at first if needed and introduce existing pets slowly and supervised."
+    },
+    {
+      "q": "How is this different from the new puppy checklist?",
+      "a": "This new dog checklist focuses on settling an adult or older dog whose habits are largely formed. Our New Puppy Checklist covers the first week with a young puppy, including crate training, potty setup, and the puppy vaccination start."
+    },
+    {
+      "q": "Can I download this new dog checklist as a PDF?",
+      "a": "Yes. You can print it for the fridge or download it as a PDF for shopping and vet trips, so new dog owners have the settling-in essentials on hand."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-dog-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-dog-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Dog Checklist by ChecklistForge (https://checklistforge.com/checklist/new-dog-checklist)",
+  "updated": "2026-10-17"
+}

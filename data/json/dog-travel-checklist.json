@@ -1,0 +1,185 @@
+{
+  "id": "dog-travel-checklist",
+  "name": "Dog Travel Checklist",
+  "description": "A dog travel checklist for owners covering restraint, supplies, breaks, documents and safety.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "travel",
+    "pets",
+    "dogs",
+    "road-trip"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Before you go",
+      "items": [
+        {
+          "text": "Confirm your dog is healthy enough for the trip."
+        },
+        {
+          "text": "Update ID tags and microchip contact details."
+        },
+        {
+          "text": "Research pet-friendly stops and accommodations."
+        },
+        {
+          "text": "Check destination rules and any health requirements."
+        },
+        {
+          "text": "Pack a recent photo of your dog in case of separation."
+        },
+        {
+          "text": "Plan the route with rest stops in mind."
+        }
+      ]
+    },
+    {
+      "title": "Car safety and restraint",
+      "items": [
+        {
+          "text": "Use a crash-tested harness, secured crate or barrier."
+        },
+        {
+          "text": "Keep your dog in the back seat, away from airbags."
+        },
+        {
+          "text": "Never let your dog ride in your lap while driving."
+        },
+        {
+          "text": "Crack windows safely but avoid heads far outside."
+        },
+        {
+          "text": "Keep the cabin cool and well-ventilated."
+        },
+        {
+          "text": "Never leave your dog alone in a parked car.",
+          "note": "Cars heat dangerously fast, even on mild days."
+        }
+      ]
+    },
+    {
+      "title": "Supplies to pack",
+      "items": [
+        {
+          "text": "Bring enough food for the trip plus a little extra."
+        },
+        {
+          "text": "Pack water and a travel bowl for the road."
+        },
+        {
+          "text": "Bring a leash, collar or harness, and waste bags."
+        },
+        {
+          "text": "Add a familiar bed, blanket or toy for comfort."
+        },
+        {
+          "text": "Carry any medications with clear dosing instructions."
+        },
+        {
+          "text": "Include a basic pet first-aid kit and towels."
+        }
+      ]
+    },
+    {
+      "title": "Rest and potty breaks",
+      "items": [
+        {
+          "text": "Plan breaks roughly every 2 to 4 hours."
+        },
+        {
+          "text": "Keep your dog leashed at rest areas and stops."
+        },
+        {
+          "text": "Offer water and a potty break at each stop."
+        },
+        {
+          "text": "Let your dog stretch and walk to release energy."
+        },
+        {
+          "text": "Adjust break frequency for puppies and seniors."
+        },
+        {
+          "text": "Clean up after your dog at every stop."
+        }
+      ]
+    },
+    {
+      "title": "Documents and contacts",
+      "items": [
+        {
+          "text": "Carry vaccination records, especially rabies."
+        },
+        {
+          "text": "Bring any required health certificate for travel."
+        },
+        {
+          "text": "Save your veterinarian's contact information."
+        },
+        {
+          "text": "Look up a vet or emergency clinic near your destination."
+        },
+        {
+          "text": "Keep microchip registration details accessible."
+        },
+        {
+          "text": "Note the address and contacts for your accommodation."
+        }
+      ]
+    },
+    {
+      "title": "Comfort and safety on the road",
+      "items": [
+        {
+          "text": "Feed lighter before travel to reduce carsickness."
+        },
+        {
+          "text": "Help your dog settle with a familiar item."
+        },
+        {
+          "text": "Watch for signs of stress, panting or nausea."
+        },
+        {
+          "text": "Keep routines for meals and walks where possible."
+        },
+        {
+          "text": "Avoid feeding large meals right before driving."
+        },
+        {
+          "text": "Stay calm to help your dog feel secure."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult your veterinarian about travel safety, motion sickness, medications and any health needs before your trip."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How should my dog ride in the car?",
+      "a": "Secure your dog with a crash-tested harness and seatbelt, a secured crate, or a back-seat barrier so they cannot roam or distract the driver. Avoid letting dogs ride in laps or with heads far out the window. Ask your veterinarian for advice on the safest setup."
+    },
+    {
+      "q": "How often should I stop on a road trip?",
+      "a": "Plan a break roughly every 2 to 4 hours for water, a potty stop and a short walk to stretch. Keep your dog leashed at rest areas. Adjust timing for puppies, seniors and dogs that need to go more often, and never leave your dog in a hot car."
+    },
+    {
+      "q": "What documents should I bring?",
+      "a": "Carry your dog's vaccination records, especially rabies, ID and microchip details, and any required health certificate, particularly for crossing borders. A recent photo helps if your dog gets lost. Check destination requirements and confirm specifics with your veterinarian beforehand."
+    },
+    {
+      "q": "What if my dog gets carsick?",
+      "a": "Travel on a lighter stomach, keep the car cool and well-ventilated, and build up to longer rides gradually. Some dogs settle in a secured crate. If motion sickness or anxiety persists, ask your veterinarian about safe options before your trip."
+    },
+    {
+      "q": "Can I download this dog travel checklist as a PDF?",
+      "a": "Yes. You can print it for trip day or download it as a PDF for your phone, so owners can pack and travel with confidence on every journey with their dog."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-travel-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-travel-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Travel Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-travel-checklist)",
+  "updated": "2026-10-17"
+}

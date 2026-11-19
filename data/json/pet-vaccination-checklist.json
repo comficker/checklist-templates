@@ -1,0 +1,176 @@
+{
+  "id": "pet-vaccination-checklist",
+  "name": "Pet Vaccination Checklist",
+  "description": "A checklist to help pet owners understand core vaccines, track records, and stay on schedule with their veterinarian's guidance.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "vaccination",
+    "pets",
+    "cats",
+    "dogs"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Before Vaccinating",
+      "items": [
+        {
+          "text": "Confirm your pet's age, weight, and health status"
+        },
+        {
+          "text": "Gather any prior vaccination records you have"
+        },
+        {
+          "text": "Ask your vet which vaccines are due now"
+        },
+        {
+          "text": "Note any past reactions to vaccines or medicines"
+        },
+        {
+          "text": "Schedule the visit and plan any needed boosters",
+          "note": "Ask your vet to confirm the right plan for your pet"
+        }
+      ]
+    },
+    {
+      "title": "Core Vaccines to Discuss",
+      "items": [
+        {
+          "text": "Rabies vaccine, often required by law"
+        },
+        {
+          "text": "Distemper protection for your pet's species"
+        },
+        {
+          "text": "Parvovirus for dogs as part of core care"
+        },
+        {
+          "text": "Adenovirus and parainfluenza for dogs as advised"
+        },
+        {
+          "text": "Feline panleukopenia and respiratory viruses for cats",
+          "note": "Core recommendations vary by region and vet, so confirm with your vet"
+        }
+      ]
+    },
+    {
+      "title": "Lifestyle Vaccines to Consider",
+      "items": [
+        {
+          "text": "Bordetella for dogs that board or socialize"
+        },
+        {
+          "text": "Leptospirosis based on local risk and exposure"
+        },
+        {
+          "text": "Canine influenza for higher-contact dogs"
+        },
+        {
+          "text": "Lyme disease where ticks are common"
+        },
+        {
+          "text": "Feline leukemia for cats with outdoor access"
+        }
+      ]
+    },
+    {
+      "title": "Information to Record",
+      "items": [
+        {
+          "text": "Vaccine name and what it protects against"
+        },
+        {
+          "text": "Date given and the clinic or vet who administered it"
+        },
+        {
+          "text": "Lot or batch number when provided"
+        },
+        {
+          "text": "Next due date for the booster"
+        },
+        {
+          "text": "Any reaction noted in the hours after the shot"
+        }
+      ]
+    },
+    {
+      "title": "After Each Vaccine",
+      "items": [
+        {
+          "text": "Watch for mild soreness, tiredness, or low appetite"
+        },
+        {
+          "text": "Note any swelling, vomiting, or distress to report"
+        },
+        {
+          "text": "Give your pet a calm space to rest"
+        },
+        {
+          "text": "Update your records and set the next reminder"
+        },
+        {
+          "text": "Keep a copy ready for boarding or travel",
+          "note": "Contact your vet promptly if you see a strong or lasting reaction"
+        }
+      ]
+    },
+    {
+      "title": "Staying on Schedule",
+      "items": [
+        {
+          "text": "Set calendar reminders for upcoming boosters"
+        },
+        {
+          "text": "Review the plan at each wellness visit"
+        },
+        {
+          "text": "Update records when you change vets or move"
+        },
+        {
+          "text": "Keep a digital backup of the vaccination history"
+        },
+        {
+          "text": "Ask about combining due vaccines into one visit"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; vaccine schedules vary by region and vet and by your pet's needs, so always consult a licensed veterinarian",
+          "note": "For any reaction or emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between core and non-core vaccines?",
+      "a": "Core vaccines are recommended for most pets because they protect against serious, widespread diseases. Non-core, or lifestyle, vaccines are given based on risk factors like travel or contact with other animals. Your vet decides which apply."
+    },
+    {
+      "q": "How do I know which vaccines my pet needs?",
+      "a": "Your veterinarian recommends vaccines based on your pet's species, age, lifestyle, and where you live. Bring your pet's history to each visit so the plan can be updated as needed."
+    },
+    {
+      "q": "How often do pets need booster shots?",
+      "a": "Boosters keep protection up to date, but intervals vary by vaccine, age, and local guidelines. Some are given yearly and others less often. Follow the schedule your veterinarian sets for your pet."
+    },
+    {
+      "q": "Why should I keep vaccination records?",
+      "a": "Records prove your pet is protected and are often required for boarding, grooming, daycare, and travel. They also help any vet quickly see what is current and what is due."
+    },
+    {
+      "q": "Is this pet vaccination checklist printable?",
+      "a": "Yes. Print it or download the PDF, record each vaccine and date, and bring it to appointments to keep your pet's schedule on track."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-vaccination-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-vaccination-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Vaccination Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-vaccination-checklist)",
+  "updated": "2026-10-17"
+}

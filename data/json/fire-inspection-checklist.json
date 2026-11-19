@@ -1,0 +1,173 @@
+{
+  "id": "fire-inspection-checklist",
+  "name": "Fire Inspection Checklist",
+  "description": "A fire-safety inspection of a building or workplace covering equipment, exits and hazards.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "fire-inspection",
+    "fire-safety",
+    "building-safety"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Fire Extinguishers and Equipment",
+      "items": [
+        {
+          "text": "Confirm extinguishers are present, charged and within their service date."
+        },
+        {
+          "text": "Check the pressure gauge, pin and tamper seal on each unit."
+        },
+        {
+          "text": "Verify extinguishers are mounted, signed and unobstructed.",
+          "note": "Note the inspection tag date for each extinguisher."
+        },
+        {
+          "text": "Confirm fire blankets and hose reels, where fitted, are accessible."
+        },
+        {
+          "text": "Check that monthly and annual inspection records are current."
+        }
+      ]
+    },
+    {
+      "title": "Exits, Doors and Lighting",
+      "items": [
+        {
+          "text": "Walk every exit route and confirm it is clear and unobstructed."
+        },
+        {
+          "text": "Check exit doors open freely and are not locked or blocked."
+        },
+        {
+          "text": "Confirm fire doors close and latch and are not propped open."
+        },
+        {
+          "text": "Verify exit and directional signs are visible and illuminated.",
+          "note": "Report any propped fire door or failed exit sign immediately."
+        },
+        {
+          "text": "Test emergency and backup lighting along escape routes."
+        },
+        {
+          "text": "Confirm stairwells are clear and self-closing doors function."
+        }
+      ]
+    },
+    {
+      "title": "Alarms and Detection Systems",
+      "items": [
+        {
+          "text": "Confirm smoke and heat detectors are in place and not painted over."
+        },
+        {
+          "text": "Verify the fire alarm panel shows no faults and is monitored."
+        },
+        {
+          "text": "Test that alarm signals are audible and visible throughout."
+        },
+        {
+          "text": "Check manual call points are accessible and unobstructed."
+        },
+        {
+          "text": "Confirm the last alarm service and test dates are recorded."
+        }
+      ]
+    },
+    {
+      "title": "Sprinklers and Suppression",
+      "items": [
+        {
+          "text": "Confirm sprinkler heads are unobstructed and undamaged."
+        },
+        {
+          "text": "Verify at least the required clearance below each sprinkler head.",
+          "note": "Keep storage well below sprinkler heads to maintain coverage."
+        },
+        {
+          "text": "Check control valves are open, accessible and supervised."
+        },
+        {
+          "text": "Confirm kitchen or specialty suppression systems are serviced."
+        },
+        {
+          "text": "Verify the last sprinkler inspection and service dates are recorded."
+        }
+      ]
+    },
+    {
+      "title": "Hazards and Storage",
+      "items": [
+        {
+          "text": "Check electrical panels are accessible with required clearance."
+        },
+        {
+          "text": "Inspect wiring, cords and sockets for damage or overloading."
+        },
+        {
+          "text": "Confirm flammable liquids are stored in approved cabinets."
+        },
+        {
+          "text": "Verify combustible waste and materials are kept away from ignition sources."
+        },
+        {
+          "text": "Check that aisles, exits and equipment access remain clear."
+        }
+      ]
+    },
+    {
+      "title": "Documentation and Follow-Up",
+      "items": [
+        {
+          "text": "Record the date, inspector and areas covered."
+        },
+        {
+          "text": "Document each deficiency with a clear location and description."
+        },
+        {
+          "text": "Assign corrective actions with owners and target dates."
+        },
+        {
+          "text": "Track deficiencies to closure and verify completed repairs."
+        },
+        {
+          "text": "Confirm inspection records are retained and accessible."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, local fire codes, formal training or inspection by a qualified person or the authority having jurisdiction; confirm requirements for your building."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is a fire inspection different from a fire safety program?",
+      "a": "A fire safety program sets prevention rules, training and procedures, while a fire inspection is a point-in-time walkthrough that verifies the building physically meets those requirements and documents any deficiencies for correction."
+    },
+    {
+      "q": "How often should a building fire inspection be done?",
+      "a": "Conduct internal inspections at least monthly for extinguishers and quarterly for a broader walk, with annual professional servicing of alarms, sprinklers and suppression systems. Your local fire code may require specific intervals."
+    },
+    {
+      "q": "What are common fire inspection failures?",
+      "a": "Frequent findings include blocked or locked exits, obstructed extinguishers or sprinkler heads, expired equipment, failed emergency lighting, propped fire doors and improperly stored combustibles or flammable liquids."
+    },
+    {
+      "q": "Who can carry out a fire inspection?",
+      "a": "Trained facility staff or safety officers can run routine internal inspections, while the authority having jurisdiction conducts official inspections. Alarm and sprinkler systems generally require servicing by qualified contractors."
+    },
+    {
+      "q": "Does this checklist replace an official inspection?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, local fire codes, formal training, your employer's fire program, or inspection by a qualified person or the authority having jurisdiction. Always confirm the rules for your building."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fire-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fire-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fire Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/fire-inspection-checklist)",
+  "updated": "2026-10-20"
+}

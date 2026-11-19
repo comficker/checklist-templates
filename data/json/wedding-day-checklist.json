@@ -1,0 +1,187 @@
+{
+  "id": "wedding-day-checklist",
+  "name": "Wedding Day Checklist",
+  "description": "An hour-by-hour wedding day checklist covering morning prep, the ceremony, the reception, and the emergency kit.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "ceremony",
+    "wedding-day",
+    "reception",
+    "emergency-kit"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Night Before and Early Morning",
+      "items": [
+        {
+          "text": "Lay out attire, shoes, and accessories for everyone getting ready together."
+        },
+        {
+          "text": "Charge all phones, cameras, and speakers fully."
+        },
+        {
+          "text": "Confirm the morning timeline with the wedding party."
+        },
+        {
+          "text": "Set out the rings, vows, and marriage license in one safe spot."
+        },
+        {
+          "text": "Eat a real breakfast and stay hydrated.",
+          "note": "Meals often run late on a wedding day, so fuel up early."
+        },
+        {
+          "text": "Steam or press any garments that wrinkled overnight."
+        }
+      ]
+    },
+    {
+      "title": "Getting Ready",
+      "items": [
+        {
+          "text": "Start hair and makeup on schedule, finishing with the couple."
+        },
+        {
+          "text": "Play music and keep the mood relaxed in the getting-ready space."
+        },
+        {
+          "text": "Capture detail shots of the dress, rings, and invitations."
+        },
+        {
+          "text": "Help the couple into attire with time to spare."
+        },
+        {
+          "text": "Pin boutonnieres and hand out bouquets before photos."
+        },
+        {
+          "text": "Do a final mirror check and touch up before heading out."
+        }
+      ]
+    },
+    {
+      "title": "Pre-Ceremony Logistics",
+      "items": [
+        {
+          "text": "Confirm all vendors have arrived and are set up."
+        },
+        {
+          "text": "Seat any guests who need early assistance or special seating."
+        },
+        {
+          "text": "Hand the rings and license to the officiant or designated holder."
+        },
+        {
+          "text": "Line up the processional and review the cue order."
+        },
+        {
+          "text": "Distribute programs and direct guests to their seats."
+        },
+        {
+          "text": "Take a quiet moment alone before walking down the aisle."
+        }
+      ]
+    },
+    {
+      "title": "The Ceremony",
+      "items": [
+        {
+          "text": "Start the processional on the agreed cue."
+        },
+        {
+          "text": "Exchange vows and rings as planned."
+        },
+        {
+          "text": "Sign the marriage license with your witnesses."
+        },
+        {
+          "text": "Lead the recessional and gather the party for the exit."
+        },
+        {
+          "text": "Move into family and couple portraits during cocktail hour.",
+          "note": "A shot list keeps group photos quick and complete."
+        },
+        {
+          "text": "Send guests toward the reception with clear directions."
+        }
+      ]
+    },
+    {
+      "title": "The Reception",
+      "items": [
+        {
+          "text": "Coordinate the grand entrance with the DJ or band."
+        },
+        {
+          "text": "Share the first dance and any parent dances."
+        },
+        {
+          "text": "Cue toasts and confirm who is speaking and when."
+        },
+        {
+          "text": "Open the meal service and make sure the couple actually eats."
+        },
+        {
+          "text": "Cut the cake and start open dancing."
+        },
+        {
+          "text": "Toss the bouquet or run any chosen traditions."
+        },
+        {
+          "text": "Coordinate the send-off and gather personal items before leaving."
+        }
+      ]
+    },
+    {
+      "title": "Emergency Kit and Essentials",
+      "items": [
+        {
+          "text": "Pack safety pins, a sewing kit, and double-sided fashion tape."
+        },
+        {
+          "text": "Include stain remover, blotting papers, and a lint roller."
+        },
+        {
+          "text": "Carry pain relievers, bandages, and antacids."
+        },
+        {
+          "text": "Add deodorant, breath mints, and extra makeup for touch-ups."
+        },
+        {
+          "text": "Bring a phone charger, snacks, and bottled water."
+        },
+        {
+          "text": "Tuck in flat shoes for dancing and a small cash reserve.",
+          "note": "Assign one person to carry the kit so it is always nearby."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be in a wedding day emergency kit?",
+      "a": "Pack safety pins, a sewing kit, stain remover, bandages, pain relievers, deodorant, breath mints, blotting papers, extra makeup, hair pins, double-sided tape, a phone charger, snacks, and water. Keep it in one easy-to-grab bag and assign someone to carry it so it is always within reach during the day."
+    },
+    {
+      "q": "Who should hold the wedding rings and important items?",
+      "a": "Assign a reliable person, often the best man or maid of honor, to hold the rings, the marriage license, vendor payments, and the couple's phones. Designating one point person prevents the panic of searching for a missing item minutes before the ceremony and keeps essentials safe throughout the day."
+    },
+    {
+      "q": "How early should the couple start getting ready?",
+      "a": "Begin hair and makeup four to five hours before the ceremony, starting with anyone in the party and finishing with the person whose look should stay freshest. Build in buffer time for photos and unexpected delays. Eat a real breakfast, since the day is long and meals often come late."
+    },
+    {
+      "q": "What is the best way to keep the day on schedule?",
+      "a": "Create a detailed timeline with arrival times for every vendor and party member, then share it ahead of time and put one person in charge of running it. Build cushions between segments so a small delay does not cascade. The couple should hand off timekeeping entirely and simply follow the plan."
+    },
+    {
+      "q": "What gets forgotten most often on the wedding day?",
+      "a": "The small essentials: the marriage license, vendor payment envelopes, the couple's vows, comfortable shoes for the reception, and a meal for the couple. A day-of checklist and a designated point person catch these easily, turning potential stress into a smooth, well-run celebration."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-day-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-day-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Day Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-day-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "storage-checklist",
+  "name": "Storage Checklist",
+  "description": "A smart storage plan to declutter, label, rotate, and protect everything you keep.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "home",
+    "decluttering",
+    "organization",
+    "storage"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Declutter Before You Store",
+      "items": [
+        {
+          "text": "Sort items into keep, donate, sell, and toss before storing"
+        },
+        {
+          "text": "Keep only what you use, need, or genuinely value",
+          "note": "Storing clutter just postpones the decision."
+        },
+        {
+          "text": "Repair or clean items before they go into storage"
+        },
+        {
+          "text": "Remove anything broken, expired, or duplicated"
+        },
+        {
+          "text": "Group remaining items by category for easy planning"
+        }
+      ]
+    },
+    {
+      "title": "Choose Containers and Spaces",
+      "items": [
+        {
+          "text": "Match container size to the items and the available space"
+        },
+        {
+          "text": "Pick clear bins for items you need to see quickly"
+        },
+        {
+          "text": "Use airtight containers for textiles and food-related items"
+        },
+        {
+          "text": "Reserve sturdy, lidded boxes for long-term storage"
+        },
+        {
+          "text": "Make use of under-bed, over-door, and high-shelf space",
+          "note": "Vertical and hidden space is gold in small homes."
+        }
+      ]
+    },
+    {
+      "title": "Label Everything Clearly",
+      "items": [
+        {
+          "text": "Label each container on more than one side"
+        },
+        {
+          "text": "List the main contents so you avoid digging"
+        },
+        {
+          "text": "Use a consistent color or number system by category"
+        },
+        {
+          "text": "Keep a master list of what is stored where"
+        },
+        {
+          "text": "Update labels whenever the contents change"
+        }
+      ]
+    },
+    {
+      "title": "Decide What to Store Where",
+      "items": [
+        {
+          "text": "Keep frequently used items in easy-to-reach spots"
+        },
+        {
+          "text": "Move rarely used items to high shelves or the attic"
+        },
+        {
+          "text": "Store heavy items low and light items up high",
+          "note": "This prevents strain and tipping hazards."
+        },
+        {
+          "text": "Place moisture-sensitive items away from basements and garages"
+        },
+        {
+          "text": "Group items by the room or activity where you use them"
+        }
+      ]
+    },
+    {
+      "title": "Plan Seasonal Rotation",
+      "items": [
+        {
+          "text": "Keep current-season clothing and gear at the front"
+        },
+        {
+          "text": "Box off-season items and store them out of the way"
+        },
+        {
+          "text": "Swap seasonal storage twice a year on a set date"
+        },
+        {
+          "text": "Refresh the inventory list during each rotation"
+        },
+        {
+          "text": "Donate anything you skipped over for a full year"
+        }
+      ]
+    },
+    {
+      "title": "Protect Stored Items",
+      "items": [
+        {
+          "text": "Clean and fully dry items before sealing them away"
+        },
+        {
+          "text": "Add moisture absorbers in damp-prone storage areas"
+        },
+        {
+          "text": "Wrap fragile items in padding and mark boxes as fragile"
+        },
+        {
+          "text": "Use cedar or sachets to protect stored fabrics from moths",
+          "note": "Avoid plastic bags for long-term fabric storage."
+        },
+        {
+          "text": "Keep boxes off the floor to guard against leaks and pests"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Should I declutter before setting up storage?",
+      "a": "Yes, always declutter first. Storing items you do not need just wastes containers and space. Once the excess is gone, the things worth keeping are far easier to store well."
+    },
+    {
+      "q": "What is the best way to label storage bins?",
+      "a": "Use clear, readable labels on more than one side, or choose clear bins so contents are visible. Listing the main items inside saves you from opening every box to find one thing."
+    },
+    {
+      "q": "How do I store seasonal items?",
+      "a": "Keep current-season items front and accessible, and rotate off-season gear to harder-to-reach spots. Swapping twice a year keeps daily-use items handy and storage areas efficient."
+    },
+    {
+      "q": "How can I add storage in a small home?",
+      "a": "Use vertical and hidden space: under-bed bins, over-door racks, high shelves, and dual-purpose furniture. Making the most of unused height is the key win in compact homes."
+    },
+    {
+      "q": "Can I print this storage checklist?",
+      "a": "Yes. Download the printable PDF, use it to plan your zones and labels, and check off each task so your storage stays organized and protected year-round."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/storage-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/storage-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Storage Checklist by ChecklistForge (https://checklistforge.com/checklist/storage-checklist)",
+  "updated": "2026-10-17"
+}

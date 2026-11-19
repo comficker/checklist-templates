@@ -1,0 +1,182 @@
+{
+  "id": "quality-assurance-checklist",
+  "name": "Quality Assurance Checklist",
+  "description": "A quality assurance (QA) checklist for building quality into the process.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "quality",
+    "audit",
+    "quality-assurance",
+    "iso-9001"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Quality system and policy",
+      "items": [
+        {
+          "text": "Define a clear quality policy and objectives."
+        },
+        {
+          "text": "Identify the standards and regulations that apply.",
+          "note": "Align with applicable standards such as ISO 9001 and your procedures."
+        },
+        {
+          "text": "Map the key processes that affect quality."
+        },
+        {
+          "text": "Assign quality roles, responsibilities and authority."
+        },
+        {
+          "text": "Communicate the policy and objectives to all staff."
+        },
+        {
+          "text": "Set measurable quality targets to track performance."
+        }
+      ]
+    },
+    {
+      "title": "Procedures and documentation",
+      "items": [
+        {
+          "text": "Document procedures and work instructions for key processes."
+        },
+        {
+          "text": "Ensure documents are clear, current and version controlled."
+        },
+        {
+          "text": "Make approved documents available where work is done."
+        },
+        {
+          "text": "Control changes and remove obsolete documents."
+        },
+        {
+          "text": "Define which records must be created and retained."
+        },
+        {
+          "text": "Review documents regularly and update as processes change."
+        }
+      ]
+    },
+    {
+      "title": "Training and competence",
+      "items": [
+        {
+          "text": "Define the skills and qualifications each role requires."
+        },
+        {
+          "text": "Assess staff competence against those requirements."
+        },
+        {
+          "text": "Provide training on procedures, standards and equipment."
+        },
+        {
+          "text": "Keep training records and certifications up to date."
+        },
+        {
+          "text": "Verify training is effective before staff work unsupervised."
+        },
+        {
+          "text": "Plan refresher training and cover for skills gaps."
+        }
+      ]
+    },
+    {
+      "title": "Supplier and material control",
+      "items": [
+        {
+          "text": "Maintain a list of approved suppliers."
+        },
+        {
+          "text": "Assess and qualify new suppliers before use."
+        },
+        {
+          "text": "Define quality requirements in purchase orders."
+        },
+        {
+          "text": "Require certificates of conformity for key materials."
+        },
+        {
+          "text": "Monitor supplier performance and quality over time."
+        },
+        {
+          "text": "Address supplier nonconformances and corrective actions."
+        }
+      ]
+    },
+    {
+      "title": "Process control and prevention",
+      "items": [
+        {
+          "text": "Define acceptance criteria and process parameters."
+        },
+        {
+          "text": "Control equipment, calibration and process settings."
+        },
+        {
+          "text": "Use error-proofing to prevent common mistakes."
+        },
+        {
+          "text": "Monitor processes for variation and trends."
+        },
+        {
+          "text": "Standardize how work is set up and handed over."
+        },
+        {
+          "text": "Capture and act on improvement opportunities."
+        }
+      ]
+    },
+    {
+      "title": "Internal audits and improvement",
+      "items": [
+        {
+          "text": "Plan a schedule of internal audits across processes."
+        },
+        {
+          "text": "Use trained, independent auditors where possible."
+        },
+        {
+          "text": "Record findings, observations and nonconformities."
+        },
+        {
+          "text": "Assign corrective actions with owners and due dates."
+        },
+        {
+          "text": "Verify corrective actions are effective."
+        },
+        {
+          "text": "Review quality performance and drive continuous improvement."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is quality assurance?",
+      "a": "Quality assurance is the proactive, process side of quality — defining procedures and standards, training staff, controlling suppliers and auditing the system so work is done right the first time and defects are prevented."
+    },
+    {
+      "q": "How is QA different from quality control?",
+      "a": "QA builds quality into the process to prevent defects; quality control inspects the product to detect them. QA is about how work is done, QC is about checking the output. Most quality systems need both."
+    },
+    {
+      "q": "How does this relate to ISO 9001?",
+      "a": "ISO 9001 is the widely recognized standard for quality management systems and reflects the same QA principles in this checklist. Use this as a general guide and follow the specific requirements of ISO 9001 and your own procedures."
+    },
+    {
+      "q": "Is this checklist for software QA?",
+      "a": "No. This is a general and manufacturing quality assurance checklist covering procedures, standards, training, supplier control and audits. Software testing and release processes are different and not the focus here."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the quality assurance checklist for your quality manual or team review, or download the PDF to record actions, owners and review dates and keep them on file as audit evidence."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/quality-assurance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/quality-assurance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Quality Assurance Checklist by ChecklistForge (https://checklistforge.com/checklist/quality-assurance-checklist)",
+  "updated": "2026-10-17"
+}

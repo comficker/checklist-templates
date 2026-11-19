@@ -1,0 +1,185 @@
+{
+  "id": "toiletries-packing-checklist",
+  "name": "Toiletries Packing List",
+  "description": "Everything that goes in the wash bag, sorted by what fits a carry-on and what the hotel supplies anyway.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "carry-on",
+    "toiletries"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Liquids (100 ml / 3.4 oz each, one clear bag)",
+      "items": [
+        {
+          "text": "Shampoo and conditioner, decanted into travel bottles"
+        },
+        {
+          "text": "Shower gel or a solid soap bar",
+          "note": "A solid bar is not a liquid, so it does not count against the bag."
+        },
+        {
+          "text": "Toothpaste"
+        },
+        {
+          "text": "Moisturiser and sunscreen"
+        },
+        {
+          "text": "Deodorant — stick and roll-on are exempt, spray is not"
+        },
+        {
+          "text": "Contact lens solution",
+          "note": "Usually allowed above 100 ml as a medical liquid, but declare it at the checkpoint."
+        },
+        {
+          "text": "Liquid make-up, foundation and remover"
+        },
+        {
+          "text": "Perfume decant"
+        }
+      ]
+    },
+    {
+      "title": "Daily basics",
+      "items": [
+        {
+          "text": "Toothbrush and cover"
+        },
+        {
+          "text": "Floss or interdental brushes"
+        },
+        {
+          "text": "Hairbrush or comb"
+        },
+        {
+          "text": "Hair ties and clips"
+        },
+        {
+          "text": "Razor and spare blades",
+          "note": "Safety and disposable razors are fine in a carry-on; straight razors are not."
+        },
+        {
+          "text": "Nail clippers and file"
+        },
+        {
+          "text": "Tweezers"
+        },
+        {
+          "text": "Cotton buds and pads"
+        }
+      ]
+    },
+    {
+      "title": "Medication and health",
+      "items": [
+        {
+          "text": "Prescription medicine in the original labelled packaging"
+        },
+        {
+          "text": "Painkillers"
+        },
+        {
+          "text": "Antihistamines"
+        },
+        {
+          "text": "Motion sickness tablets"
+        },
+        {
+          "text": "Plasters and blister pads"
+        },
+        {
+          "text": "Rehydration sachets"
+        },
+        {
+          "text": "Any medicine you take occasionally but would struggle to buy abroad",
+          "note": "Names and strengths differ between countries, and some over-the-counter drugs at home are prescription-only elsewhere."
+        }
+      ]
+    },
+    {
+      "title": "Personal care",
+      "items": [
+        {
+          "text": "Period products"
+        },
+        {
+          "text": "Contraception"
+        },
+        {
+          "text": "Contact lenses and a spare pair of glasses"
+        },
+        {
+          "text": "Skincare you will not skip"
+        },
+        {
+          "text": "Make-up, cut back to one look"
+        }
+      ]
+    },
+    {
+      "title": "Usually supplied — check before packing",
+      "items": [
+        {
+          "text": "Hairdryer"
+        },
+        {
+          "text": "Soap and shampoo"
+        },
+        {
+          "text": "Body lotion"
+        },
+        {
+          "text": "Shower cap"
+        },
+        {
+          "text": "Towels",
+          "note": "Not supplied by most hostels, campsites or short-term rentals."
+        }
+      ]
+    },
+    {
+      "title": "The bag itself",
+      "items": [
+        {
+          "text": "Clear quart-sized bag for the liquids"
+        },
+        {
+          "text": "A wash bag that hangs"
+        },
+        {
+          "text": "Seal each liquid in a small zip bag against pressure leaks"
+        },
+        {
+          "text": "A laundry bag for what comes back dirty"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the carry-on liquid limit?",
+      "a": "Each container must hold 100 ml (3.4 oz) or less, and all of them together must fit in one clear resealable bag of about one quart or litre. The limit is the printed size of the container, so a half-empty 200 ml bottle is still refused."
+    },
+    {
+      "q": "Do solid toiletries count as liquids?",
+      "a": "No. Soap bars, shampoo bars, solid deodorant sticks and toothpaste tablets fall outside the liquid rule entirely, which is the simplest way to free up space in the clear bag."
+    },
+    {
+      "q": "Can I take medication over 100 ml in hand luggage?",
+      "a": "Prescription and essential medical liquids are generally allowed above the limit, including contact lens solution and baby milk. Carry them separately, declare them at the checkpoint, and keep the original labelled packaging."
+    },
+    {
+      "q": "What do hotels usually provide?",
+      "a": "Mid-range and upmarket hotels almost always supply soap, shampoo, body lotion and a hairdryer. Hostels, campsites and short-term rentals often supply none of it and may not provide towels either, so check the listing before deciding what to leave behind."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/toiletries-packing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/toiletries-packing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Toiletries Packing List by ChecklistForge (https://checklistforge.com/checklist/toiletries-packing-checklist)",
+  "updated": "2026-11-17"
+}

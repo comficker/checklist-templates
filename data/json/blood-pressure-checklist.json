@@ -1,0 +1,160 @@
+{
+  "id": "blood-pressure-checklist",
+  "name": "Blood Pressure Checklist",
+  "description": "A checklist for measuring blood pressure correctly at home, supporting healthy habits, and logging your readings.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "blood-pressure",
+    "heart"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Set Up Your Monitor",
+      "items": [
+        {
+          "text": "Use a validated home blood pressure monitor"
+        },
+        {
+          "text": "Choose the correct cuff size for your arm"
+        },
+        {
+          "text": "Read the device instructions before first use"
+        },
+        {
+          "text": "Check the monitor against your doctor's device if possible"
+        },
+        {
+          "text": "Keep the monitor and a log somewhere easy to reach",
+          "note": "Ask your pharmacist if you need help choosing a cuff size"
+        }
+      ]
+    },
+    {
+      "title": "Correct Measurement Technique",
+      "items": [
+        {
+          "text": "Sit quietly for about five minutes before measuring"
+        },
+        {
+          "text": "Keep your back supported and feet flat on the floor"
+        },
+        {
+          "text": "Rest your arm on a table at heart level"
+        },
+        {
+          "text": "Avoid caffeine, exercise, and smoking beforehand"
+        },
+        {
+          "text": "Stay still and do not talk during the reading"
+        },
+        {
+          "text": "Take two readings a minute apart and record both"
+        }
+      ]
+    },
+    {
+      "title": "Lifestyle Habits to Support",
+      "items": [
+        {
+          "text": "Aim for a balanced diet with plenty of vegetables"
+        },
+        {
+          "text": "Limit salt and highly processed foods"
+        },
+        {
+          "text": "Be physically active most days as your doctor allows"
+        },
+        {
+          "text": "Maintain a healthy weight"
+        },
+        {
+          "text": "Limit alcohol and avoid smoking"
+        },
+        {
+          "text": "Manage stress and aim for good sleep"
+        }
+      ]
+    },
+    {
+      "title": "Log Your Readings",
+      "items": [
+        {
+          "text": "Record the date and time of each reading"
+        },
+        {
+          "text": "Note both the top and bottom numbers"
+        },
+        {
+          "text": "Take readings at the same times each day"
+        },
+        {
+          "text": "Note anything unusual, like stress or missed sleep"
+        },
+        {
+          "text": "Bring your log to every appointment"
+        }
+      ]
+    },
+    {
+      "title": "When to Contact Your Doctor",
+      "items": [
+        {
+          "text": "Readings consistently outside your usual range"
+        },
+        {
+          "text": "A sudden large change in your numbers"
+        },
+        {
+          "text": "New symptoms such as headaches or dizziness"
+        },
+        {
+          "text": "Questions about your target numbers or medicines"
+        },
+        {
+          "text": "Severe symptoms like chest pain — call emergency services",
+          "note": "For emergencies, call your local emergency number such as 911"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; ask your doctor about your numbers, your target range, and any changes to diet, activity, or medicines, and follow their guidance",
+          "note": "Home readings support but do not replace care from your doctor"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I measure blood pressure correctly at home?",
+      "a": "Sit quietly for about five minutes, keep your back supported and feet flat, rest your arm at heart level, and avoid talking. Use a properly sized cuff and take readings at the same times each day."
+    },
+    {
+      "q": "What is a healthy blood pressure range?",
+      "a": "In general terms, lower readings within a normal range are healthier, while higher readings may need attention. Targets vary by person, so ask your doctor about your numbers and what range is right for you."
+    },
+    {
+      "q": "When should I take my readings?",
+      "a": "Many people take readings in the morning and evening, before medicines or food and before caffeine or exercise. Follow any specific timing your doctor suggests and record each reading consistently."
+    },
+    {
+      "q": "When should I call my doctor about blood pressure?",
+      "a": "Call if your readings are consistently higher or lower than your usual range, or if you have symptoms. For severe symptoms like chest pain or trouble breathing, call your local emergency number right away."
+    },
+    {
+      "q": "Is this blood pressure checklist printable?",
+      "a": "Yes. Print it or download the PDF, use it to set up correct technique, and keep a running log of readings to bring to your appointments."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/blood-pressure-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/blood-pressure-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Blood Pressure Checklist by ChecklistForge (https://checklistforge.com/checklist/blood-pressure-checklist)",
+  "updated": "2026-10-17"
+}

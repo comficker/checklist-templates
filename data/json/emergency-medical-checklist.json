@@ -1,0 +1,157 @@
+{
+  "id": "emergency-medical-checklist",
+  "name": "Emergency Medical Checklist",
+  "description": "A checklist to prepare for a medical emergency with an information sheet, contacts, medicines, and basic steps.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "emergency",
+    "safety",
+    "health",
+    "medical"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Build an Information Sheet",
+      "items": [
+        {
+          "text": "Full name, date of birth, and address"
+        },
+        {
+          "text": "Emergency contacts with phone numbers"
+        },
+        {
+          "text": "Doctors and preferred hospital"
+        },
+        {
+          "text": "Allergies to medicines and other things"
+        },
+        {
+          "text": "Medical conditions and recent surgeries"
+        },
+        {
+          "text": "Insurance details and ID information",
+          "note": "Keep this sheet current and easy to find"
+        }
+      ]
+    },
+    {
+      "title": "Medicines and Supplies",
+      "items": [
+        {
+          "text": "A current list of all medicines and doses"
+        },
+        {
+          "text": "Note any emergency medicines and where they are kept"
+        },
+        {
+          "text": "Keep a stocked first aid kit accessible"
+        },
+        {
+          "text": "Note any medical devices or equipment in use"
+        },
+        {
+          "text": "Keep a few days of essential medicine ready"
+        }
+      ]
+    },
+    {
+      "title": "Contacts and Access",
+      "items": [
+        {
+          "text": "Save emergency contacts in every phone at home"
+        },
+        {
+          "text": "Post your local emergency number where it is visible"
+        },
+        {
+          "text": "Make sure family knows where information is kept"
+        },
+        {
+          "text": "Keep a spare key or access plan for responders"
+        },
+        {
+          "text": "List your address clearly for callers to relay"
+        }
+      ]
+    },
+    {
+      "title": "Know When to Call for Help",
+      "items": [
+        {
+          "text": "Chest pain or pressure"
+        },
+        {
+          "text": "Trouble breathing"
+        },
+        {
+          "text": "Signs of stroke such as face drooping or slurred speech"
+        },
+        {
+          "text": "Severe bleeding or a serious injury"
+        },
+        {
+          "text": "Loss of consciousness or a severe allergic reaction",
+          "note": "For any of these, call your local emergency number such as 911"
+        }
+      ]
+    },
+    {
+      "title": "Basic Steps While Waiting",
+      "items": [
+        {
+          "text": "Call for help first and stay on the line"
+        },
+        {
+          "text": "Keep the person calm, safe, and still"
+        },
+        {
+          "text": "Follow the dispatcher's instructions"
+        },
+        {
+          "text": "Provide care only within your training"
+        },
+        {
+          "text": "Have the information sheet ready to share"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; in a real emergency call your local emergency number immediately and follow the instructions of emergency professionals",
+          "note": "Consider taking a recognized first aid and CPR course"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I call emergency services?",
+      "a": "Call your local emergency number for severe or sudden symptoms such as chest pain, trouble breathing, signs of stroke, severe bleeding, or loss of consciousness. When in doubt about a serious situation, call for help."
+    },
+    {
+      "q": "What should an emergency information sheet include?",
+      "a": "Include the person's name, emergency contacts, doctors, allergies, medical conditions, current medicines, and insurance details. Keep it current and place copies where responders or family can find them quickly."
+    },
+    {
+      "q": "Where should I keep emergency information?",
+      "a": "Keep copies on the fridge, in your wallet, in your car, and as a note on your phone. Make sure family members and caregivers know where to find it during an emergency."
+    },
+    {
+      "q": "Can I treat an emergency myself?",
+      "a": "Your role is to call for help, keep the person safe, and provide care only within your training while waiting. Do not attempt treatments beyond your ability, and follow instructions from emergency dispatchers."
+    },
+    {
+      "q": "Is this emergency medical checklist printable?",
+      "a": "Yes. Print it or download the PDF, complete your information sheet, and keep copies in easy-to-find places at home and on the go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/emergency-medical-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/emergency-medical-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Emergency Medical Checklist by ChecklistForge (https://checklistforge.com/checklist/emergency-medical-checklist)",
+  "updated": "2026-10-17"
+}

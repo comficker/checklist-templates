@@ -1,0 +1,167 @@
+{
+  "id": "client-onboarding-checklist",
+  "name": "Client Onboarding Checklist",
+  "description": "A checklist for onboarding a new agency or service client from signed contract to project kickoff.",
+  "category": "sales-customer",
+  "category_name": "Sales & Customer",
+  "tags": [
+    "client",
+    "onboarding",
+    "agency",
+    "kickoff"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Contract and Invoice",
+      "items": [
+        {
+          "text": "Confirm the signed contract or statement of work is fully executed."
+        },
+        {
+          "text": "Verify scope, deliverables and timeline match what was sold.",
+          "note": "Catch scope gaps now, before work starts."
+        },
+        {
+          "text": "Send the first invoice or deposit request and confirm payment terms."
+        },
+        {
+          "text": "Collect billing contact and any purchase order or vendor setup details."
+        },
+        {
+          "text": "File the agreement and key terms where the project team can find them."
+        }
+      ]
+    },
+    {
+      "title": "Welcome and Internal Setup",
+      "items": [
+        {
+          "text": "Send a warm welcome email introducing the team and next steps."
+        },
+        {
+          "text": "Assign the account manager and project lead and name a primary contact."
+        },
+        {
+          "text": "Create the client's project space, folders and task board."
+        },
+        {
+          "text": "Brief the internal team on the client, goals and any sales context."
+        },
+        {
+          "text": "Prepare a welcome packet outlining how the engagement will work."
+        }
+      ]
+    },
+    {
+      "title": "Kickoff Meeting",
+      "items": [
+        {
+          "text": "Schedule the kickoff and send an agenda in advance."
+        },
+        {
+          "text": "Introduce both teams and confirm everyone's role and responsibility."
+        },
+        {
+          "text": "Align on objectives, success metrics and what good looks like."
+        },
+        {
+          "text": "Walk through the project timeline and key milestones together."
+        },
+        {
+          "text": "Capture decisions and action items, then share notes after the call.",
+          "note": "Written recap prevents 'that's not what we agreed' later."
+        }
+      ]
+    },
+    {
+      "title": "Gather Access and Assets",
+      "items": [
+        {
+          "text": "Request logins and access to all required platforms and tools."
+        },
+        {
+          "text": "Collect brand assets — logos, fonts, guidelines and templates."
+        },
+        {
+          "text": "Gather existing content, data and reference materials."
+        },
+        {
+          "text": "Confirm access levels are correct and security requirements are met."
+        },
+        {
+          "text": "Track every requested item so nothing blocks the team mid-project.",
+          "note": "A simple access tracker saves days of waiting."
+        }
+      ]
+    },
+    {
+      "title": "Set Expectations and Communication",
+      "items": [
+        {
+          "text": "Agree on communication channels and response-time expectations."
+        },
+        {
+          "text": "Set the cadence and format for status updates and reports."
+        },
+        {
+          "text": "Define the approval and feedback process and who signs off."
+        },
+        {
+          "text": "Clarify the change-request process so scope stays controlled."
+        },
+        {
+          "text": "Confirm key contacts on both sides and their availability."
+        }
+      ]
+    },
+    {
+      "title": "Project Plan and First Deliverable",
+      "items": [
+        {
+          "text": "Build the project plan with phases, owners and due dates."
+        },
+        {
+          "text": "Share the plan with the client and confirm their agreement."
+        },
+        {
+          "text": "Set up reporting or a shared dashboard for visible progress."
+        },
+        {
+          "text": "Deliver an early quick win to build momentum and trust."
+        },
+        {
+          "text": "Schedule the first review and a 30-day onboarding check-in.",
+          "note": "An early check-in catches misalignment while it's cheap to fix."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a client onboarding checklist?",
+      "a": "It is a step-by-step list a service business follows to bring on a new client — covering the contract and invoice, kickoff meeting, access and assets, expectations and communication, and the project plan."
+    },
+    {
+      "q": "How is client onboarding different from customer onboarding?",
+      "a": "Client onboarding sets up a B2B service engagement with contracts, a kickoff meeting and a project plan. Customer onboarding gets an individual user successful with a product, often in-app and at scale."
+    },
+    {
+      "q": "When should client onboarding begin?",
+      "a": "The moment the contract is signed. Sending the welcome, invoice and access requests immediately keeps momentum from the sale and signals that the agency is organized and ready to deliver."
+    },
+    {
+      "q": "Can I print this checklist or download it as a PDF?",
+      "a": "Yes. The checklist prints cleanly on one page and downloads as a PDF, so account managers can keep it in a kickoff folder and share a consistent version with each new client."
+    },
+    {
+      "q": "How do agencies customize this onboarding checklist?",
+      "a": "Tailor the access and assets section to your service, add the deliverables your project plan needs, and adjust the communication cadence to the client, then save the result as a reusable PDF."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/client-onboarding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/client-onboarding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Client Onboarding Checklist by ChecklistForge (https://checklistforge.com/checklist/client-onboarding-checklist)",
+  "updated": "2026-10-17"
+}

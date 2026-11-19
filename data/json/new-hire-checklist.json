@@ -1,0 +1,186 @@
+{
+  "id": "new-hire-checklist",
+  "name": "New Hire Checklist",
+  "description": "A setup checklist covering the forms, accounts, equipment, and access a new employee needs to start work.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "onboarding",
+    "hr",
+    "new-hire",
+    "it-setup"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Complete New Hire Paperwork",
+      "items": [
+        {
+          "text": "Collect the signed offer letter and employment agreement"
+        },
+        {
+          "text": "Gather tax and payroll forms required for your region",
+          "note": "Requirements vary by location; follow local laws and confirm with HR."
+        },
+        {
+          "text": "Set up direct deposit with verified bank details"
+        },
+        {
+          "text": "Record emergency contact and personal information"
+        },
+        {
+          "text": "Have the new hire sign policy and handbook acknowledgments"
+        },
+        {
+          "text": "File all completed documents in the employee record securely"
+        }
+      ]
+    },
+    {
+      "title": "Create System Accounts",
+      "items": [
+        {
+          "text": "Create the company email account and mailbox"
+        },
+        {
+          "text": "Set up a network or single sign-on login"
+        },
+        {
+          "text": "Add the new hire to relevant team distribution lists"
+        },
+        {
+          "text": "Provision accounts in core software and the HR system"
+        },
+        {
+          "text": "Set a temporary password and require a reset at first login",
+          "note": "Enforce multi-factor authentication from the start."
+        },
+        {
+          "text": "Add the employee to the company directory and org chart"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Equipment",
+      "items": [
+        {
+          "text": "Order a laptop or desktop sized to the role's needs"
+        },
+        {
+          "text": "Install and update required software and security tools"
+        },
+        {
+          "text": "Provide a monitor, keyboard, mouse, and headset as needed"
+        },
+        {
+          "text": "Issue a phone or SIM if the role requires one"
+        },
+        {
+          "text": "Label and log all assigned equipment by serial number",
+          "note": "An asset log makes future returns simple."
+        },
+        {
+          "text": "Test that all hardware powers on and connects before day one"
+        }
+      ]
+    },
+    {
+      "title": "Grant Access and Credentials",
+      "items": [
+        {
+          "text": "Assign role-based permissions to shared drives and folders"
+        },
+        {
+          "text": "Grant access to project tools, dashboards, and databases"
+        },
+        {
+          "text": "Issue building badges, keys, or door access codes"
+        },
+        {
+          "text": "Set up parking, elevator, or facility access if needed"
+        },
+        {
+          "text": "Add the new hire to required security and VPN groups"
+        },
+        {
+          "text": "Document granted access for future audits and offboarding",
+          "note": "Track access so it can be revoked cleanly later."
+        }
+      ]
+    },
+    {
+      "title": "Set Up the Workspace",
+      "items": [
+        {
+          "text": "Assign a desk, office, or remote workspace stipend"
+        },
+        {
+          "text": "Stock basic supplies like notebooks, pens, and chargers"
+        },
+        {
+          "text": "Set up the chair, monitor, and ergonomics for comfort"
+        },
+        {
+          "text": "Place a welcome note or starter kit at the desk"
+        },
+        {
+          "text": "Confirm the workspace connects to network and printers"
+        },
+        {
+          "text": "Provide a quick reference card for logins and IT support"
+        }
+      ]
+    },
+    {
+      "title": "Confirm First-Day Readiness",
+      "items": [
+        {
+          "text": "Verify all accounts, passwords, and access actually work"
+        },
+        {
+          "text": "Run a test login on the new hire's primary device"
+        },
+        {
+          "text": "Confirm payroll and benefits enrollment is in progress"
+        },
+        {
+          "text": "Share the IT help desk contact and support hours"
+        },
+        {
+          "text": "Notify HR, IT, and the manager that setup is complete"
+        },
+        {
+          "text": "Do a final walkthrough of the desk and equipment",
+          "note": "A quick check prevents day-one surprises."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What paperwork does a new hire need to complete?",
+      "a": "Typically a signed offer letter, tax and payroll forms, direct deposit details, emergency contacts, and policy acknowledgments. Required forms vary by location, so follow your local laws and confirm with HR."
+    },
+    {
+      "q": "What should IT set up for a new employee?",
+      "a": "Email, network login, a configured laptop or desktop, access to core software, shared drives, and any role-specific tools. Group access by role so permissions stay consistent and easy to audit."
+    },
+    {
+      "q": "When should new hire setup be finished?",
+      "a": "Aim to have paperwork, accounts, equipment, and access ready before the first day. A new hire who can log in and badge in immediately starts contributing faster and feels welcomed."
+    },
+    {
+      "q": "How is a new hire checklist different from onboarding?",
+      "a": "This checklist covers the forms, accounts, equipment, and access setup. Onboarding is the broader program of training, introductions, and check-ins that follows once the basics are in place."
+    },
+    {
+      "q": "Can I print this new hire checklist?",
+      "a": "Yes. Download the printable PDF, assign owners across HR, IT, and facilities, and check off each setup task so the new employee arrives to a ready workspace."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-hire-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-hire-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Hire Checklist by ChecklistForge (https://checklistforge.com/checklist/new-hire-checklist)",
+  "updated": "2026-10-17"
+}

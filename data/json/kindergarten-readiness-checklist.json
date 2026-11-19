@@ -1,0 +1,154 @@
+{
+  "id": "kindergarten-readiness-checklist",
+  "name": "Kindergarten Readiness Checklist",
+  "description": "A skills checklist to help parents prepare a child for kindergarten.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "parents",
+    "kindergarten",
+    "readiness",
+    "early-learning",
+    "child-development"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Academic basics",
+      "items": [
+        {
+          "text": "Recognizes and can say most letters of the alphabet."
+        },
+        {
+          "text": "Recognizes and writes their own first name."
+        },
+        {
+          "text": "Counts to at least 10 or 20 aloud."
+        },
+        {
+          "text": "Identifies basic shapes and primary colors."
+        },
+        {
+          "text": "Holds a crayon or pencil with a workable grip."
+        },
+        {
+          "text": "Enjoys being read to and looks at books."
+        }
+      ]
+    },
+    {
+      "title": "Social and emotional",
+      "items": [
+        {
+          "text": "Separates from a parent without lasting distress."
+        },
+        {
+          "text": "Takes turns and shares during play."
+        },
+        {
+          "text": "Plays cooperatively with other children."
+        },
+        {
+          "text": "Follows simple rules and routines."
+        },
+        {
+          "text": "Manages big feelings with some support.",
+          "note": "Calming skills grow with practice and patience."
+        },
+        {
+          "text": "Asks an adult for help when needed."
+        }
+      ]
+    },
+    {
+      "title": "Language and communication",
+      "items": [
+        {
+          "text": "Speaks in full sentences others can understand."
+        },
+        {
+          "text": "Follows two-step spoken instructions."
+        },
+        {
+          "text": "Answers simple questions about themselves."
+        },
+        {
+          "text": "Listens during a short story or group time."
+        },
+        {
+          "text": "Uses words to express needs and wants."
+        }
+      ]
+    },
+    {
+      "title": "Self-care and independence",
+      "items": [
+        {
+          "text": "Uses the bathroom independently."
+        },
+        {
+          "text": "Washes and dries their hands on their own."
+        },
+        {
+          "text": "Puts on a coat and shoes with little help."
+        },
+        {
+          "text": "Opens lunch containers and feeds themselves."
+        },
+        {
+          "text": "Cleans up toys and personal items."
+        },
+        {
+          "text": "Recognizes their own belongings."
+        }
+      ]
+    },
+    {
+      "title": "Physical development",
+      "items": [
+        {
+          "text": "Runs, jumps and climbs with coordination."
+        },
+        {
+          "text": "Uses scissors to cut along a line."
+        },
+        {
+          "text": "Draws simple shapes and figures."
+        },
+        {
+          "text": "Stacks blocks and completes simple puzzles."
+        },
+        {
+          "text": "Has the stamina for a full school day."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What skills matter most for kindergarten readiness?",
+      "a": "Independence and social skills often matter more than academics. Children who can follow simple directions, share and take turns, manage basics like the bathroom and putting on a coat, and separate from a parent calmly tend to settle in fastest."
+    },
+    {
+      "q": "Does my child need to read before kindergarten?",
+      "a": "No. Kindergarten teaches reading from the ground up. It helps if your child knows some letters, can recognize their name, and enjoys being read to, but formal reading is not expected before the year begins."
+    },
+    {
+      "q": "What if my child is behind in some areas?",
+      "a": "That is completely normal, since children develop at very different rates. Use this checklist as a gentle guide, practice weaker skills through everyday play, and talk with your child's teacher or doctor if you have specific concerns."
+    },
+    {
+      "q": "How can I build readiness skills at home?",
+      "a": "Weave practice into daily life: read together, count objects, encourage dressing and tidying up, set up playdates for sharing, and give simple multi-step instructions. Short, playful practice works far better than formal lessons at this age."
+    },
+    {
+      "q": "Is this kindergarten readiness checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to keep at hand for parents, revisit across the year, and tick off skills as your child grows more confident and ready."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/kindergarten-readiness-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/kindergarten-readiness-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Kindergarten Readiness Checklist by ChecklistForge (https://checklistforge.com/checklist/kindergarten-readiness-checklist)",
+  "updated": "2026-10-17"
+}

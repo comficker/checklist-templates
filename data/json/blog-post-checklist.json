@@ -1,0 +1,143 @@
+{
+  "id": "blog-post-checklist",
+  "name": "Blog Post Checklist",
+  "description": "A blog post checklist for finalizing and publishing one post the right way.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "content",
+    "seo",
+    "blogging"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "Title and metadata",
+      "items": [
+        {
+          "text": "Write a clear, compelling headline that includes the keyword."
+        },
+        {
+          "text": "Set an SEO title under about 60 characters."
+        },
+        {
+          "text": "Write a meta description that summarizes the post and invites clicks."
+        },
+        {
+          "text": "Create a short, readable, keyword-rich URL slug."
+        },
+        {
+          "text": "Choose a category and relevant tags."
+        }
+      ]
+    },
+    {
+      "title": "Formatting and readability",
+      "items": [
+        {
+          "text": "Use one H1 and logical H2 and H3 subheadings."
+        },
+        {
+          "text": "Keep paragraphs short and break up long blocks of text."
+        },
+        {
+          "text": "Use bullet or numbered lists where they aid clarity."
+        },
+        {
+          "text": "Bold key points and add white space for easy scanning."
+        },
+        {
+          "text": "Add a short intro that states the value up front."
+        }
+      ]
+    },
+    {
+      "title": "Images and media",
+      "items": [
+        {
+          "text": "Add a relevant, high-quality featured image."
+        },
+        {
+          "text": "Compress images so they load quickly."
+        },
+        {
+          "text": "Write descriptive alt text for every image."
+        },
+        {
+          "text": "Use clear, keyword-aware image file names."
+        },
+        {
+          "text": "Confirm any embedded video or media displays correctly."
+        }
+      ]
+    },
+    {
+      "title": "Links and calls to action",
+      "items": [
+        {
+          "text": "Add internal links to 2 to 4 related posts or pages."
+        },
+        {
+          "text": "Link to credible external sources where helpful."
+        },
+        {
+          "text": "Set external links to open appropriately and check they work."
+        },
+        {
+          "text": "Include one clear call to action for the reader's next step."
+        },
+        {
+          "text": "Add or check the author bio and any related-post block."
+        }
+      ]
+    },
+    {
+      "title": "Final review and publish",
+      "items": [
+        {
+          "text": "Proofread for spelling, grammar and tone."
+        },
+        {
+          "text": "Preview the post on mobile and desktop."
+        },
+        {
+          "text": "Confirm every link and button works."
+        },
+        {
+          "text": "Check the publish date, category and visibility settings."
+        },
+        {
+          "text": "Publish, then share the post to your channels."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I check before publishing a blog post?",
+      "a": "Before publishing, confirm the title and meta description, clean formatting and headings, optimized images with alt text, internal and external links, a clear call to action, and a final proofread."
+    },
+    {
+      "q": "How is this different from a content checklist?",
+      "a": "This blog post checklist focuses on finalizing and publishing one post. A content checklist covers the broader workflow from research through promotion across formats."
+    },
+    {
+      "q": "Why does alt text matter on a blog post?",
+      "a": "Alt text describes images for screen readers and helps search engines understand them. Adding descriptive alt text improves accessibility and gives your images a chance to rank in image search."
+    },
+    {
+      "q": "Is this blog post checklist good for beginners?",
+      "a": "Yes. It lists each pre-publish step in plain language, so a beginner or small business blogger can publish complete, search-friendly posts every time."
+    },
+    {
+      "q": "Can I download this blog post checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and keep it beside you as a pre-publish routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/blog-post-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/blog-post-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Blog Post Checklist by ChecklistForge (https://checklistforge.com/checklist/blog-post-checklist)",
+  "updated": "2026-10-17"
+}

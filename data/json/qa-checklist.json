@@ -1,0 +1,184 @@
+{
+  "id": "qa-checklist",
+  "name": "QA Checklist",
+  "description": "A process-level quality-assurance checklist for managing a software release.",
+  "category": "it-software",
+  "category_name": "IT & Software",
+  "tags": [
+    "it",
+    "software",
+    "qa",
+    "testing"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Plan the QA cycle",
+      "items": [
+        {
+          "text": "Confirm the scope of the release and what is in and out of testing."
+        },
+        {
+          "text": "Review requirements, designs and acceptance criteria with the team."
+        },
+        {
+          "text": "Write a test plan covering test types, schedule and responsibilities."
+        },
+        {
+          "text": "Define entry criteria for when testing can begin."
+        },
+        {
+          "text": "Define exit and sign-off criteria for when testing is complete."
+        },
+        {
+          "text": "Identify risks and prioritize areas that need the most coverage."
+        },
+        {
+          "text": "Estimate effort and confirm resourcing for the cycle."
+        }
+      ]
+    },
+    {
+      "title": "Prepare environments and data",
+      "items": [
+        {
+          "text": "Set up a stable test environment that mirrors production closely."
+        },
+        {
+          "text": "Deploy the correct build and confirm the version under test."
+        },
+        {
+          "text": "Prepare realistic test data covering common and edge scenarios."
+        },
+        {
+          "text": "Configure required integrations, accounts and feature flags."
+        },
+        {
+          "text": "Verify access for all testers and the tools they need."
+        },
+        {
+          "text": "Confirm the test management and bug tracking tools are ready."
+        }
+      ]
+    },
+    {
+      "title": "Author test cases",
+      "items": [
+        {
+          "text": "Write clear test cases mapped to requirements and acceptance criteria."
+        },
+        {
+          "text": "Cover positive, negative and boundary scenarios for each feature."
+        },
+        {
+          "text": "Mark which cases are candidates for automation."
+        },
+        {
+          "text": "Prepare a regression suite for previously released functionality."
+        },
+        {
+          "text": "Peer review test cases for coverage and clarity."
+        },
+        {
+          "text": "Link test cases to the stories or tickets they verify."
+        }
+      ]
+    },
+    {
+      "title": "Execute tests",
+      "items": [
+        {
+          "text": "Run smoke tests first to confirm the build is testable."
+        },
+        {
+          "text": "Execute planned test cases and record actual results."
+        },
+        {
+          "text": "Run the regression suite to catch unintended side effects."
+        },
+        {
+          "text": "Log defects with clear steps, expected and actual results."
+        },
+        {
+          "text": "Capture evidence such as screenshots, logs and recordings."
+        },
+        {
+          "text": "Track test execution progress and coverage against the plan."
+        }
+      ]
+    },
+    {
+      "title": "Triage and manage defects",
+      "items": [
+        {
+          "text": "Triage each defect by severity, priority and impact."
+        },
+        {
+          "text": "Assign defects to owners with clear reproduction steps."
+        },
+        {
+          "text": "Agree which defects block the release and which can be deferred."
+        },
+        {
+          "text": "Verify fixes and confirm they don't introduce regressions."
+        },
+        {
+          "text": "Re-test resolved issues and close them when verified."
+        },
+        {
+          "text": "Maintain a current list of open issues and their status."
+        }
+      ]
+    },
+    {
+      "title": "Sign-off and reporting",
+      "items": [
+        {
+          "text": "Confirm exit criteria are met, including critical tests passing."
+        },
+        {
+          "text": "Verify there are no open blocker or critical defects."
+        },
+        {
+          "text": "Summarize results in a test report with coverage and known issues."
+        },
+        {
+          "text": "Document any agreed risks or workarounds for remaining issues."
+        },
+        {
+          "text": "Obtain formal sign-off from QA and stakeholders."
+        },
+        {
+          "text": "Capture lessons learned to improve the next QA cycle."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between QA and testing?",
+      "a": "Testing is the act of running checks to find defects. QA is the broader process that ensures quality throughout a release — planning, environments, execution, triage and sign-off. This checklist covers the QA process; a software testing checklist covers the specific tests to run."
+    },
+    {
+      "q": "What goes into a test plan?",
+      "a": "A test plan defines scope, what's in and out, the test types you'll run, environments and data needed, roles, schedule, and entry and exit criteria. It gives the whole team a shared definition of what 'tested' means for the release."
+    },
+    {
+      "q": "How should we prioritize bugs during QA?",
+      "a": "Triage each defect by severity and impact, then agree which must be fixed before release and which can wait. Clear priorities prevent low-impact issues from blocking a release while ensuring critical bugs are never shipped."
+    },
+    {
+      "q": "What are sign-off criteria?",
+      "a": "Sign-off criteria are the conditions that must be met to approve a release, such as all critical tests passing, no open blockers, and stakeholders' approval. Defining them up front avoids subjective last-minute decisions."
+    },
+    {
+      "q": "Is this QA checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download the PDF to run your QA cycles consistently and share it with testers, developers and product owners for each release."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/qa-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/qa-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "QA Checklist by ChecklistForge (https://checklistforge.com/checklist/qa-checklist)",
+  "updated": "2026-10-17"
+}

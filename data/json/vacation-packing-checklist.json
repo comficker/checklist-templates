@@ -1,0 +1,179 @@
+{
+  "id": "vacation-packing-checklist",
+  "name": "Vacation Packing Checklist",
+  "description": "A vacation packing checklist for a leisure getaway, covering clothes, beach and pool gear, toiletries, tech, and relaxation essentials.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "vacation",
+    "holiday"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Vacation Clothing",
+      "items": [
+        {
+          "text": "Casual tops and t-shirts"
+        },
+        {
+          "text": "Shorts, skirts, or light trousers"
+        },
+        {
+          "text": "A relaxed dress or evening outfit"
+        },
+        {
+          "text": "Underwear and socks for the trip"
+        },
+        {
+          "text": "Sleepwear and a light layer for evenings"
+        },
+        {
+          "text": "A sweater or jacket for cooler moments",
+          "note": "Pack layers even for warm destinations"
+        }
+      ]
+    },
+    {
+      "title": "Beach and Pool",
+      "items": [
+        {
+          "text": "Swimwear, plus a spare"
+        },
+        {
+          "text": "Beach towel or quick-dry travel towel"
+        },
+        {
+          "text": "Cover-up or sarong"
+        },
+        {
+          "text": "Flip-flops or sandals"
+        },
+        {
+          "text": "Sun hat and sunglasses"
+        },
+        {
+          "text": "Goggles or snorkel gear if relevant"
+        }
+      ]
+    },
+    {
+      "title": "Toiletries and Sun Care",
+      "items": [
+        {
+          "text": "Sunscreen and after-sun lotion"
+        },
+        {
+          "text": "Toothbrush, toothpaste, and deodorant"
+        },
+        {
+          "text": "Shampoo and soap in travel sizes"
+        },
+        {
+          "text": "Skincare and lip balm with SPF"
+        },
+        {
+          "text": "Insect repellent if needed"
+        },
+        {
+          "text": "Medicines and a small first-aid kit"
+        }
+      ]
+    },
+    {
+      "title": "Tech and Entertainment",
+      "items": [
+        {
+          "text": "Phone, charger, and power bank"
+        },
+        {
+          "text": "Travel adapter for the destination"
+        },
+        {
+          "text": "Headphones"
+        },
+        {
+          "text": "Camera for photos"
+        },
+        {
+          "text": "A book, e-reader, or downloaded shows"
+        },
+        {
+          "text": "Waterproof phone pouch for the beach"
+        }
+      ]
+    },
+    {
+      "title": "Documents and Money",
+      "items": [
+        {
+          "text": "Passport or ID and any visas"
+        },
+        {
+          "text": "Booking confirmations, printed and digital"
+        },
+        {
+          "text": "Travel insurance details"
+        },
+        {
+          "text": "Cash, cards, and a travel card"
+        },
+        {
+          "text": "Copies of key documents stored separately"
+        }
+      ]
+    },
+    {
+      "title": "Relaxation Extras",
+      "items": [
+        {
+          "text": "Reusable water bottle"
+        },
+        {
+          "text": "Day bag for excursions"
+        },
+        {
+          "text": "Snacks for travel days"
+        },
+        {
+          "text": "Neck pillow and eye mask"
+        },
+        {
+          "text": "Packing cubes and a laundry bag"
+        },
+        {
+          "text": "Wipes, tissues, and hand sanitizer"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is this different from a travel packing checklist?",
+      "a": "A vacation packing checklist leans toward leisure — swimwear, sun gear, and relaxation items — while a general travel packing list is more neutral. Use this one for getaways and the broader list for work or mixed trips."
+    },
+    {
+      "q": "Should I pack for the activities I plan to do?",
+      "a": "Yes. Match your packing to your itinerary, whether that means hiking shoes, beach gear, or a nicer outfit for dining out. Planning outfits around activities helps you pack light without missing anything."
+    },
+    {
+      "q": "How do I pack light for a vacation?",
+      "a": "Choose a neutral palette so pieces mix and match, limit shoes, and use packing cubes. Plan to do a small laundry on longer trips rather than packing a fresh outfit for every single day."
+    },
+    {
+      "q": "What should stay in my carry-on?",
+      "a": "Keep documents, money, medicines, electronics, and a change of clothes in your carry-on. If checked bags are delayed, you can still start your vacation comfortably with the essentials on hand."
+    },
+    {
+      "q": "Is this vacation packing checklist printable?",
+      "a": "Yes. Print it or download the PDF, tick off each section as you pack, and reuse it for future getaways by adjusting items to the season and destination."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/vacation-packing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/vacation-packing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Vacation Packing Checklist by ChecklistForge (https://checklistforge.com/checklist/vacation-packing-checklist)",
+  "updated": "2026-10-17"
+}

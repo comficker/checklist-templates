@@ -1,0 +1,186 @@
+{
+  "id": "performance-review-checklist",
+  "name": "Performance Review Checklist",
+  "description": "A checklist for preparing, conducting, and following up on a performance review meeting.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "performance-review",
+    "managers",
+    "feedback"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prepare for the Review",
+      "items": [
+        {
+          "text": "Review the employee's goals from the previous cycle"
+        },
+        {
+          "text": "Gather specific examples of work and outcomes"
+        },
+        {
+          "text": "Collect peer or stakeholder feedback if used"
+        },
+        {
+          "text": "Note key strengths and clear growth areas"
+        },
+        {
+          "text": "Draft an agenda and main talking points"
+        },
+        {
+          "text": "Send the employee the agenda and a self-review prompt",
+          "note": "Advance notice leads to a richer conversation."
+        }
+      ]
+    },
+    {
+      "title": "Set Up the Meeting",
+      "items": [
+        {
+          "text": "Schedule enough uninterrupted time for the discussion"
+        },
+        {
+          "text": "Book a private, comfortable space or video room"
+        },
+        {
+          "text": "Confirm the time and format with the employee"
+        },
+        {
+          "text": "Have notes, examples, and the form ready to reference"
+        },
+        {
+          "text": "Silence notifications and remove distractions"
+        },
+        {
+          "text": "Plan an open, calm tone for the conversation",
+          "note": "Your demeanor sets the tone for honesty."
+        }
+      ]
+    },
+    {
+      "title": "Open the Conversation",
+      "items": [
+        {
+          "text": "Start by putting the employee at ease"
+        },
+        {
+          "text": "Explain the purpose and flow of the meeting"
+        },
+        {
+          "text": "Invite the employee to share their self-assessment first"
+        },
+        {
+          "text": "Acknowledge their overall contributions early"
+        },
+        {
+          "text": "Confirm this is a two-way discussion, not a lecture"
+        },
+        {
+          "text": "Listen actively before offering your view"
+        }
+      ]
+    },
+    {
+      "title": "Discuss Performance",
+      "items": [
+        {
+          "text": "Review achievements against the agreed goals"
+        },
+        {
+          "text": "Use specific examples for both wins and gaps"
+        },
+        {
+          "text": "Balance recognition with honest growth feedback"
+        },
+        {
+          "text": "Discuss challenges and what support is needed"
+        },
+        {
+          "text": "Keep feedback focused on behavior and outcomes",
+          "note": "Describe actions, not personality."
+        },
+        {
+          "text": "Ask questions and check the employee's understanding"
+        }
+      ]
+    },
+    {
+      "title": "Agree on Next Steps",
+      "items": [
+        {
+          "text": "Set clear, measurable goals for the next cycle"
+        },
+        {
+          "text": "Agree on development actions and resources"
+        },
+        {
+          "text": "Clarify expectations and how success will be measured"
+        },
+        {
+          "text": "Discuss career aspirations and growth paths"
+        },
+        {
+          "text": "Confirm any commitments you are making as a manager"
+        },
+        {
+          "text": "End on a forward-looking, encouraging note",
+          "note": "Leave the employee motivated, not deflated."
+        }
+      ]
+    },
+    {
+      "title": "Follow Up After the Meeting",
+      "items": [
+        {
+          "text": "Document the discussion and agreed goals promptly"
+        },
+        {
+          "text": "Share written notes with the employee for alignment"
+        },
+        {
+          "text": "File the completed review per your HR process"
+        },
+        {
+          "text": "Schedule follow-up check-ins to track progress"
+        },
+        {
+          "text": "Act on the support and commitments you promised"
+        },
+        {
+          "text": "Reflect on the conversation to improve future reviews",
+          "note": "Consistent follow-through builds trust over time."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I prepare for a performance review meeting?",
+      "a": "Gather concrete examples of work, review goals set last cycle, collect any peer feedback, and outline talking points. Send the employee the agenda in advance so they can prepare too."
+    },
+    {
+      "q": "How should I structure the review conversation?",
+      "a": "Open positively, review achievements against goals, discuss growth areas with specific examples, listen to the employee's perspective, then agree on goals and next steps together."
+    },
+    {
+      "q": "How do I give constructive feedback in a review?",
+      "a": "Be specific and behavior-focused, balance strengths with growth areas, use examples rather than generalizations, and frame development as forward-looking. Make it a dialogue, not a verdict."
+    },
+    {
+      "q": "What should happen after the review meeting?",
+      "a": "Document the discussion and agreed goals, share written notes with the employee, schedule follow-up check-ins, and act on any commitments you made so the conversation drives real change."
+    },
+    {
+      "q": "Can I print this performance review checklist?",
+      "a": "Yes. Download the printable PDF, prepare before each meeting, and check off every step before, during, and after the conversation to keep reviews consistent and fair."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/performance-review-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/performance-review-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Performance Review Checklist by ChecklistForge (https://checklistforge.com/checklist/performance-review-checklist)",
+  "updated": "2026-10-17"
+}

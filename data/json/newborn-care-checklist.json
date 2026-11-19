@@ -1,0 +1,181 @@
+{
+  "id": "newborn-care-checklist",
+  "name": "Newborn Care Checklist",
+  "description": "A newborn care checklist covering the daily basics of caring for your new baby.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "health",
+    "baby",
+    "newborn",
+    "pregnancy"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Feeding basics",
+      "items": [
+        {
+          "text": "Feed on cue, watching for early hunger signs like rooting and hand-to-mouth."
+        },
+        {
+          "text": "Expect frequent feeds, often every 2 to 3 hours in the early weeks."
+        },
+        {
+          "text": "Burp your baby during and after feeds to ease gas."
+        },
+        {
+          "text": "Track wet and dirty diapers as a sign of enough intake."
+        },
+        {
+          "text": "Hold your baby upright for a bit after feeding."
+        },
+        {
+          "text": "Ask your pediatrician or a lactation consultant if feeding feels hard."
+        }
+      ]
+    },
+    {
+      "title": "Safe sleep",
+      "items": [
+        {
+          "text": "Always place your baby on their back to sleep, for naps and at night."
+        },
+        {
+          "text": "Use a firm, flat surface with a fitted sheet and nothing else inside."
+        },
+        {
+          "text": "Keep the crib bare: no pillows, blankets, bumpers or soft toys."
+        },
+        {
+          "text": "Room-share without bed-sharing, keeping the crib near your bed."
+        },
+        {
+          "text": "Avoid overheating; dress your baby in light, comfortable layers."
+        },
+        {
+          "text": "Offer a pacifier at sleep time if your pediatrician agrees."
+        }
+      ]
+    },
+    {
+      "title": "Diapering",
+      "items": [
+        {
+          "text": "Change diapers promptly and check often to protect the skin."
+        },
+        {
+          "text": "Wipe front to back and clean gently at each change."
+        },
+        {
+          "text": "Use a barrier cream if redness or diaper rash appears."
+        },
+        {
+          "text": "Give short, supervised diaper-free time to air the skin."
+        },
+        {
+          "text": "Keep diapers, wipes and a change of clothes within reach."
+        },
+        {
+          "text": "Note any rash that worsens or does not improve for your pediatrician."
+        }
+      ]
+    },
+    {
+      "title": "Bathing and skin care",
+      "items": [
+        {
+          "text": "Give sponge baths until the umbilical cord stump falls off."
+        },
+        {
+          "text": "Keep the cord stump clean and dry and let it heal naturally."
+        },
+        {
+          "text": "Bathe a few times a week with warm, not hot, water."
+        },
+        {
+          "text": "Use a gentle, fragrance-free baby cleanser sparingly."
+        },
+        {
+          "text": "Never leave your baby alone in or near water, even for a moment."
+        },
+        {
+          "text": "Trim nails carefully or file them to prevent scratches."
+        }
+      ]
+    },
+    {
+      "title": "Soothing and comfort",
+      "items": [
+        {
+          "text": "Try holding, rocking and gentle swaying to calm your baby."
+        },
+        {
+          "text": "Swaddle safely for sleep, stopping once your baby shows signs of rolling."
+        },
+        {
+          "text": "Use soft white noise or quiet shushing sounds."
+        },
+        {
+          "text": "Offer skin-to-skin contact for comfort and bonding."
+        },
+        {
+          "text": "Check for hunger, a wet diaper, temperature or the need to burp."
+        },
+        {
+          "text": "Take breaks and ask for help when crying feels overwhelming."
+        }
+      ]
+    },
+    {
+      "title": "Health and safety",
+      "items": [
+        {
+          "text": "Wash hands before handling your baby and ask visitors to do the same."
+        },
+        {
+          "text": "Keep up with newborn checkups, weight checks and vaccines."
+        },
+        {
+          "text": "Use a properly installed, rear-facing infant car seat every trip."
+        },
+        {
+          "text": "Support your baby's head and neck when holding and lifting."
+        },
+        {
+          "text": "Never shake a baby; set the baby down safely and step away if frustrated."
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Always follow safe-sleep guidance and call your pediatrician with any concerns; seek emergency care for trouble breathing or a baby who is hard to wake."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often does a newborn need to eat?",
+      "a": "Newborns typically feed often, roughly every 2 to 3 hours, on cue day and night. Watch for hunger signs and steady wet and dirty diapers. Your pediatrician can confirm what is right for your baby's weight and age."
+    },
+    {
+      "q": "What is safe sleep for a newborn?",
+      "a": "Following AAP guidance, always place your baby on their back to sleep, alone, on a firm, flat surface with a fitted sheet and nothing else in the crib, in your room but not your bed. Avoid soft bedding, bumpers and pillows."
+    },
+    {
+      "q": "How often should I bathe my newborn?",
+      "a": "A few baths a week is usually enough; bathing too often can dry the skin. Until the cord stump falls off, give sponge baths and keep the area clean and dry. Ask your pediatrician if you are unsure."
+    },
+    {
+      "q": "When should I call the pediatrician about my newborn?",
+      "a": "Call for a fever, poor feeding, fewer wet diapers, hard-to-wake or unusually fussy behavior, trouble breathing, or any worry. For severe breathing problems or a baby who is hard to rouse, seek emergency care right away."
+    },
+    {
+      "q": "Can I download this newborn care checklist as a PDF?",
+      "a": "Yes. You can print it for the nursery or download it as a PDF for late-night reference, so first-time moms have the daily basics within reach."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/newborn-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/newborn-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Newborn Care Checklist by ChecklistForge (https://checklistforge.com/checklist/newborn-care-checklist)",
+  "updated": "2026-10-17"
+}

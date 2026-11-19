@@ -1,0 +1,173 @@
+{
+  "id": "bike-maintenance-checklist",
+  "name": "Bike Maintenance Checklist",
+  "description": "Routine bicycle upkeep covering tires, brakes, chain and drivetrain, gears and cleaning, organized into regular and periodic tasks.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "maintenance",
+    "vehicles",
+    "bicycle",
+    "cycling"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Tires & Wheels",
+      "items": [
+        {
+          "text": "Check tire pressure and inflate to the sidewall range"
+        },
+        {
+          "text": "Inspect treads and sidewalls for cuts, wear or embedded debris"
+        },
+        {
+          "text": "Spin each wheel and check it runs true without wobble"
+        },
+        {
+          "text": "Squeeze spokes for even tension and loose ones"
+        },
+        {
+          "text": "Check quick-release or thru-axle skewers are tight"
+        },
+        {
+          "text": "Confirm wheel hubs spin smoothly without play"
+        }
+      ]
+    },
+    {
+      "title": "Brakes",
+      "items": [
+        {
+          "text": "Test both brakes for firm, responsive feel"
+        },
+        {
+          "text": "Inspect pad wear and replace before the wear line"
+        },
+        {
+          "text": "Check rim or rotor surfaces for wear or contamination"
+        },
+        {
+          "text": "Confirm pads align and clear the rim or rotor"
+        },
+        {
+          "text": "Check cables or hydraulic lines for fraying or leaks"
+        },
+        {
+          "text": "Adjust lever reach and cable tension as needed"
+        }
+      ]
+    },
+    {
+      "title": "Chain & Drivetrain",
+      "items": [
+        {
+          "text": "Wipe the chain clean and remove built-up grime"
+        },
+        {
+          "text": "Apply chain lube, then wipe off the excess",
+          "note": "Use wet lube for wet conditions and dry lube for dusty ones"
+        },
+        {
+          "text": "Measure chain wear with a chain checker and replace if stretched"
+        },
+        {
+          "text": "Inspect cassette and chainring teeth for wear or hooking"
+        },
+        {
+          "text": "Check the cranks and pedals for play"
+        },
+        {
+          "text": "Confirm the bottom bracket spins smoothly"
+        }
+      ]
+    },
+    {
+      "title": "Gears & Shifting",
+      "items": [
+        {
+          "text": "Shift through all gears and check for smooth changes"
+        },
+        {
+          "text": "Adjust derailleur cable tension to fix slow shifts"
+        },
+        {
+          "text": "Set the limit screws so the chain does not overshift"
+        },
+        {
+          "text": "Inspect shift cables and housing for friction or rust"
+        },
+        {
+          "text": "Check the derailleur hanger is straight"
+        }
+      ]
+    },
+    {
+      "title": "Frame & Components",
+      "items": [
+        {
+          "text": "Check the headset for play by rocking the bike with the brake on"
+        },
+        {
+          "text": "Confirm stem and handlebar bolts are torqued correctly"
+        },
+        {
+          "text": "Check the seatpost and saddle are secure"
+        },
+        {
+          "text": "Inspect the frame for cracks, dents or paint stress lines"
+        },
+        {
+          "text": "Service suspension forks or shocks per the maker's schedule"
+        }
+      ]
+    },
+    {
+      "title": "Cleaning & Storage",
+      "items": [
+        {
+          "text": "Wash the frame with mild soap and rinse gently"
+        },
+        {
+          "text": "Degrease and clean the drivetrain"
+        },
+        {
+          "text": "Dry the bike fully to prevent rust"
+        },
+        {
+          "text": "Re-lube the chain and pivots after washing"
+        },
+        {
+          "text": "Store indoors and keep tires inflated during downtime"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I clean and lube my chain?",
+      "a": "Wipe and re-lube the chain whenever it looks dry or dirty, and clean it more deeply after wet or muddy rides. A clean, lightly lubricated chain shifts better, runs quieter and slows wear on the cassette and chainrings."
+    },
+    {
+      "q": "What tire pressure should I use?",
+      "a": "Inflate to the range printed on the tire sidewall, adjusting within that range for your weight, terrain and conditions. Correct pressure improves grip and rolling speed and helps prevent pinch flats and rim damage."
+    },
+    {
+      "q": "How do I know when to replace brake pads?",
+      "a": "Replace pads when the wear grooves disappear, braking feels weak or you hear metal contact. Worn pads lengthen stopping distance and can damage rims or rotors, so check them regularly and replace in pairs."
+    },
+    {
+      "q": "Which jobs should I leave to a bike shop?",
+      "a": "Wheel truing, headset and bottom bracket overhauls, hydraulic brake bleeds and suspension service are best done by a qualified mechanic with the right tools. Routine cleaning, lubing and basic adjustments are fine at home."
+    },
+    {
+      "q": "Can I print this bike maintenance checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it in your workshop and tick off tire, brake, drivetrain, gear and cleaning tasks as you go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/bike-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/bike-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Bike Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/bike-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "apartment-moving-checklist",
+  "name": "Apartment Moving Checklist",
+  "description": "A renter-focused apartment moving checklist covering notice, deposits and building logistics.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "apartment",
+    "renters",
+    "packing",
+    "moving-day"
+  ],
+  "item_count": 23,
+  "sections": [
+    {
+      "title": "Before You Give Notice",
+      "items": [
+        {
+          "text": "Re-read your lease for the notice period and move-out terms"
+        },
+        {
+          "text": "Note any early-termination fees or end-of-lease cleaning rules"
+        },
+        {
+          "text": "Photograph existing damage so it isn't charged to you"
+        },
+        {
+          "text": "Confirm your security deposit amount and return timeline"
+        }
+      ]
+    },
+    {
+      "title": "4 Weeks Before",
+      "items": [
+        {
+          "text": "Give written notice to your landlord or property manager"
+        },
+        {
+          "text": "Book the building elevator and a move-in/move-out time slot",
+          "note": "Do this for both the old and new buildings"
+        },
+        {
+          "text": "Request a certificate of insurance from your movers if required"
+        },
+        {
+          "text": "Reserve a parking spot or loading zone for the moving truck"
+        },
+        {
+          "text": "Order boxes and packing supplies"
+        }
+      ]
+    },
+    {
+      "title": "2 Weeks Before",
+      "items": [
+        {
+          "text": "Transfer utilities and internet to the new address"
+        },
+        {
+          "text": "Update your address with the post office, bank and employer"
+        },
+        {
+          "text": "Return any building amenities (gym fobs, pool keys, storage)"
+        },
+        {
+          "text": "Start packing non-essentials, labeled by room"
+        }
+      ]
+    },
+    {
+      "title": "Moving Day",
+      "items": [
+        {
+          "text": "Protect shared hallways, elevators and floors if required"
+        },
+        {
+          "text": "Do a final clean of the old unit"
+        },
+        {
+          "text": "Take date-stamped photos of the empty apartment"
+        },
+        {
+          "text": "Complete the move-out walkthrough with management"
+        },
+        {
+          "text": "Return all keys, fobs and remotes"
+        }
+      ]
+    },
+    {
+      "title": "After Moving In",
+      "items": [
+        {
+          "text": "Test that all keys, fobs and mailbox keys work"
+        },
+        {
+          "text": "Note any pre-existing damage and report it to management"
+        },
+        {
+          "text": "Locate the breaker box, water shut-off and trash/recycling rooms"
+        },
+        {
+          "text": "Set up renters insurance for the new address"
+        },
+        {
+          "text": "Save building management and maintenance contacts"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much notice do I give before moving out of an apartment?",
+      "a": "Most leases require 30 to 60 days' written notice. Check your lease for the exact period and method, and send notice in writing so you have a dated record."
+    },
+    {
+      "q": "How do I get my full security deposit back?",
+      "a": "Clean thoroughly, repair any damage you caused, take date-stamped photos of the empty unit, and attend the final walkthrough. Return all keys, fobs and remotes on time."
+    },
+    {
+      "q": "Do movers need a certificate of insurance for my building?",
+      "a": "Many apartment buildings require a certificate of insurance (COI) from your movers before move day. Ask your building manager early and request the COI from your moving company."
+    },
+    {
+      "q": "Can I print this apartment moving checklist?",
+      "a": "Yes. Print it or download the PDF so you can carry it through both the old and new building and tick off tasks as you go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/apartment-moving-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/apartment-moving-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Apartment Moving Checklist by ChecklistForge (https://checklistforge.com/checklist/apartment-moving-checklist)",
+  "updated": "2026-10-17"
+}

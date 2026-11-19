@@ -1,0 +1,176 @@
+{
+  "id": "plumbing-maintenance-checklist",
+  "name": "Plumbing Maintenance Checklist",
+  "description": "A plumbing maintenance checklist covering pipes, drains, the water heater, leaks and shut-off valves.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "safety",
+    "homeowner",
+    "seasonal",
+    "plumbing"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Leaks & Water Detection",
+      "items": [
+        {
+          "text": "Check under sinks and around toilets for drips and dampness"
+        },
+        {
+          "text": "Test for hidden leaks by reading the water meter with everything off",
+          "note": "Movement with no water running means a leak"
+        },
+        {
+          "text": "Look for water stains, warping or musty smells on walls and floors"
+        },
+        {
+          "text": "Check toilet for silent leaks with a few drops of food coloring",
+          "note": "Color in the bowl means the flapper is leaking"
+        },
+        {
+          "text": "Inspect washing machine and dishwasher hoses for bulges or cracks"
+        },
+        {
+          "text": "Consider a smart leak detector near the water heater and washer"
+        }
+      ]
+    },
+    {
+      "title": "Drains & Pipes",
+      "items": [
+        {
+          "text": "Flush slow drains with hot water and a baking soda and vinegar mix"
+        },
+        {
+          "text": "Clean hair and debris from sink and shower stoppers"
+        },
+        {
+          "text": "Avoid pouring grease, oil or coffee grounds down the drain"
+        },
+        {
+          "text": "Use drain strainers in showers and kitchen sinks"
+        },
+        {
+          "text": "Inspect exposed pipes for corrosion, sweating or mineral deposits"
+        },
+        {
+          "text": "Skip harsh chemical drain cleaners that damage pipes over time"
+        }
+      ]
+    },
+    {
+      "title": "Water Heater",
+      "items": [
+        {
+          "text": "Flush sediment from the tank once a year"
+        },
+        {
+          "text": "Test the temperature and pressure relief valve for safe operation"
+        },
+        {
+          "text": "Set the thermostat around 120°F for safety and efficiency",
+          "note": "Lower temperatures reduce scalding and energy use"
+        },
+        {
+          "text": "Check for rust, leaks or pooling water around the base"
+        },
+        {
+          "text": "Inspect the anode rod every few years to slow tank corrosion"
+        },
+        {
+          "text": "Hire a licensed plumber for gas water heater repairs"
+        }
+      ]
+    },
+    {
+      "title": "Shut-Off Valves",
+      "items": [
+        {
+          "text": "Locate the main water shut-off valve for the whole house"
+        },
+        {
+          "text": "Test that the main valve turns freely without sticking"
+        },
+        {
+          "text": "Identify shut-off valves under sinks and behind toilets"
+        },
+        {
+          "text": "Label valves so anyone can find them in an emergency"
+        },
+        {
+          "text": "Show every household member how to shut off the water"
+        }
+      ]
+    },
+    {
+      "title": "Fixtures & Fittings",
+      "items": [
+        {
+          "text": "Clean faucet aerators and showerheads to clear mineral buildup"
+        },
+        {
+          "text": "Replace worn washers and seals on dripping faucets"
+        },
+        {
+          "text": "Recaulk around tubs, showers and sinks where grout is cracked"
+        },
+        {
+          "text": "Check that toilets flush fully and refill without running"
+        },
+        {
+          "text": "Tighten loose handles, supply lines and fittings"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal & Outdoor",
+      "items": [
+        {
+          "text": "Insulate exposed pipes before winter to prevent freezing"
+        },
+        {
+          "text": "Drain and shut off outdoor faucets before the first freeze"
+        },
+        {
+          "text": "Disconnect and store garden hoses for winter"
+        },
+        {
+          "text": "Test the sump pump before the rainy season and after long dry spells"
+        },
+        {
+          "text": "Clear outdoor drains and downspouts so water flows freely"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I do plumbing maintenance?",
+      "a": "Check for leaks and clear slow drains monthly, test shut-off valves and inspect the water heater a few times a year, and flush the water heater annually to keep everything running well."
+    },
+    {
+      "q": "Can I download this plumbing checklist as a PDF?",
+      "a": "Yes. You can print this plumbing maintenance checklist or download it as a PDF and keep it handy so routine checks and seasonal tasks are easy to track."
+    },
+    {
+      "q": "How do I find a hidden water leak?",
+      "a": "Check the water meter when no water is running — if it moves, you have a leak. Look under sinks, around the water heater, and for stains, warping or musty smells on walls and floors."
+    },
+    {
+      "q": "Why should I know where my shut-off valves are?",
+      "a": "When a pipe bursts or a fixture floods, shutting off the water fast limits the damage. Locate and test the main shut-off and individual fixture valves before an emergency happens."
+    },
+    {
+      "q": "What plumbing jobs need a licensed plumber?",
+      "a": "Hire a licensed plumber for gas water heaters, sewer and main line issues, repiping, and anything behind walls. These involve safety risks, permits, and code requirements beyond routine DIY upkeep."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/plumbing-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/plumbing-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Plumbing Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/plumbing-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

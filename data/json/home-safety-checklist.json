@@ -1,0 +1,182 @@
+{
+  "id": "home-safety-checklist",
+  "name": "Home Safety Checklist",
+  "description": "A home safety checklist covering alarms, fire safety, security, fall prevention and emergencies.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "safety",
+    "homeowner",
+    "security"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Smoke & CO Alarms",
+      "items": [
+        {
+          "text": "Install smoke alarms on every level and in each bedroom"
+        },
+        {
+          "text": "Install carbon-monoxide alarms near sleeping areas and fuel appliances",
+          "note": "CO is odorless; alarms are the only reliable warning"
+        },
+        {
+          "text": "Test all alarms monthly with the test button"
+        },
+        {
+          "text": "Replace batteries yearly unless using 10-year sealed units"
+        },
+        {
+          "text": "Replace smoke alarms every 10 years and CO alarms every 5 to 7"
+        },
+        {
+          "text": "Interconnect alarms so all sound when one detects danger"
+        }
+      ]
+    },
+    {
+      "title": "Fire Safety",
+      "items": [
+        {
+          "text": "Keep a fire extinguisher in the kitchen and on each level"
+        },
+        {
+          "text": "Check that extinguishers are charged and not expired"
+        },
+        {
+          "text": "Plan and practice a fire escape route with two ways out"
+        },
+        {
+          "text": "Set a meeting point outside and review it with the household"
+        },
+        {
+          "text": "Never leave cooking, candles or space heaters unattended"
+        },
+        {
+          "text": "Clean the dryer lint trap each load and the vent yearly"
+        }
+      ]
+    },
+    {
+      "title": "Home Security",
+      "items": [
+        {
+          "text": "Install and test deadbolts on all exterior doors"
+        },
+        {
+          "text": "Secure windows and sliding doors with locks or bars"
+        },
+        {
+          "text": "Add motion-sensor lighting at entries and dark spots"
+        },
+        {
+          "text": "Trim shrubs near doors and windows to remove hiding spots"
+        },
+        {
+          "text": "Use timers or smart bulbs to make the home look occupied when away"
+        },
+        {
+          "text": "Don't hide spare keys outside; leave one with a trusted neighbor"
+        }
+      ]
+    },
+    {
+      "title": "Fall Prevention",
+      "items": [
+        {
+          "text": "Secure loose rugs with non-slip backing or remove them"
+        },
+        {
+          "text": "Add grab bars and non-slip mats in showers and tubs"
+        },
+        {
+          "text": "Keep stairs clear and well lit with handrails on both sides"
+        },
+        {
+          "text": "Add night lights in hallways, stairs and bathrooms"
+        },
+        {
+          "text": "Use a sturdy step stool instead of chairs to reach high shelves"
+        },
+        {
+          "text": "Clear cords and clutter from walkways"
+        }
+      ]
+    },
+    {
+      "title": "Childproofing & Poisons",
+      "items": [
+        {
+          "text": "Anchor heavy furniture, bookcases and TVs to the wall"
+        },
+        {
+          "text": "Install cabinet locks and safety gates where needed"
+        },
+        {
+          "text": "Cover unused outlets and secure window blind cords"
+        },
+        {
+          "text": "Store medicines, cleaners and chemicals locked or out of reach"
+        },
+        {
+          "text": "Set the water heater to 120°F to prevent scalding"
+        },
+        {
+          "text": "Keep poison control and emergency numbers posted and saved"
+        }
+      ]
+    },
+    {
+      "title": "Emergency Readiness",
+      "items": [
+        {
+          "text": "Build an emergency kit with water, food, flashlight and batteries"
+        },
+        {
+          "text": "Keep a stocked first-aid kit and know basic first aid"
+        },
+        {
+          "text": "Store copies of key documents and a list of emergency contacts"
+        },
+        {
+          "text": "Know how to shut off water, gas and main power"
+        },
+        {
+          "text": "Keep a backup power source or charged battery for outages"
+        },
+        {
+          "text": "Review the plan with everyone, including children and guests"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I review home safety?",
+      "a": "Test smoke and CO alarms monthly, review fire and security basics every few months, and do a full home safety check at least once a year and after any major change to your household."
+    },
+    {
+      "q": "Can I download this home safety checklist as a PDF?",
+      "a": "Yes. You can print this home safety checklist or download it as a PDF and post it where the whole family can see it, ticking off tasks as you complete them."
+    },
+    {
+      "q": "How often should I replace smoke and CO alarms?",
+      "a": "Test alarms monthly and replace batteries yearly. Replace smoke alarms about every 10 years and CO alarms every 5 to 7 years, or sooner if the unit shows its end-of-life signal."
+    },
+    {
+      "q": "What should a home emergency kit include?",
+      "a": "Stock water, non-perishable food, a flashlight, batteries, a first-aid kit, medications, copies of key documents, phone chargers, and cash. Keep it in an easy-to-grab spot everyone knows."
+    },
+    {
+      "q": "How can I childproof my home?",
+      "a": "Anchor heavy furniture and TVs, cover outlets, install safety gates and cabinet locks, store chemicals and medicines high or locked, and set the water heater to 120°F to prevent scalding."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/home-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/home-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Home Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/home-safety-checklist)",
+  "updated": "2026-10-17"
+}

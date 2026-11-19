@@ -1,0 +1,169 @@
+{
+  "id": "inventory-checklist",
+  "name": "Inventory Checklist",
+  "description": "A physical inventory count checklist for small businesses, covering preparation, counting, reconciling variances and follow-up, with a sign-off section.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "small-business",
+    "inventory",
+    "stock-count",
+    "warehouse",
+    "retail"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Plan the Count",
+      "items": [
+        {
+          "text": "Set the count date, start time and expected end time"
+        },
+        {
+          "text": "Tell suppliers and customers that receiving and shipping will pause"
+        },
+        {
+          "text": "Assign a count supervisor and split staff into two-person teams",
+          "note": "Where you can, have staff count areas they don't usually manage. They are less likely to assume what is on the shelf."
+        },
+        {
+          "text": "Print count sheets or pre-numbered count tags",
+          "note": "Pre-numbered tags let you check that every tag was used, voided or returned, so no area is skipped or counted twice."
+        },
+        {
+          "text": "Agree on the unit of measure for each item: each, case, box or pound"
+        }
+      ]
+    },
+    {
+      "title": "Prepare the Space",
+      "items": [
+        {
+          "text": "Put away stock and move items to their correct locations"
+        },
+        {
+          "text": "Label or map every aisle, shelf and bin"
+        },
+        {
+          "text": "Separate damaged, returned and customer-owned goods and label them"
+        },
+        {
+          "text": "Record the last receiving and last shipping document numbers before the count",
+          "note": "This sets the cut-off. Anything received or shipped after these numbers belongs to the next period, not this count."
+        },
+        {
+          "text": "Process all paperwork for goods received and shipped before the cut-off"
+        }
+      ]
+    },
+    {
+      "title": "During the Count",
+      "items": [
+        {
+          "text": "Have one person count and the other record"
+        },
+        {
+          "text": "Count one location at a time and tag it when done"
+        },
+        {
+          "text": "Open cases that look partly empty instead of assuming they are full"
+        },
+        {
+          "text": "Write clearly in pen and initial any changes rather than erasing"
+        },
+        {
+          "text": "Count high-value items twice, by two different people",
+          "note": "Compare the two counts before moving on. Fixing a mismatch on the spot is faster than a recount later."
+        },
+        {
+          "text": "Check expiry dates as you count and set aside expired goods"
+        }
+      ]
+    },
+    {
+      "title": "Reconcile the Results",
+      "items": [
+        {
+          "text": "Collect all count sheets and tags and account for every tag number"
+        },
+        {
+          "text": "Compare counts with your inventory records"
+        },
+        {
+          "text": "Recount any item whose difference exceeds your set limit",
+          "note": "Set a limit before the count, such as a dollar amount or a percentage. That way you spend recount time on the differences that matter."
+        },
+        {
+          "text": "Look for causes of variances: wrong location, wrong unit of measure or unrecorded sales or receipts"
+        },
+        {
+          "text": "Record the final shrinkage amount: ____"
+        }
+      ]
+    },
+    {
+      "title": "After the Count",
+      "items": [
+        {
+          "text": "Update inventory records with the final counts"
+        },
+        {
+          "text": "Review reorder points for items that ran low or overstocked"
+        },
+        {
+          "text": "Rotate stock so older items are sold or used first (FIFO)",
+          "note": "Put new stock behind or under older stock. This cuts waste from items that expire or go out of date."
+        },
+        {
+          "text": "Write down problems found, such as theft, damage or record errors, and how to fix them"
+        },
+        {
+          "text": "Set a cycle counting schedule for the year ahead"
+        }
+      ]
+    },
+    {
+      "title": "Sign-Off",
+      "items": [
+        {
+          "text": "Count date: ____"
+        },
+        {
+          "text": "Locations counted: ____"
+        },
+        {
+          "text": "Count supervisor: ____ Signature: ____"
+        },
+        {
+          "text": "Records updated by: ____ Date: ____"
+        },
+        {
+          "text": "Approved by: ____ Date: ____"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should a small business do a physical inventory count?",
+      "a": "Most businesses do a full count at least once a year, often at year-end. Many also use cycle counting, where you count a small part of the stock each week or month, so errors are caught sooner and the full count goes faster."
+    },
+    {
+      "q": "What is a blind count?",
+      "a": "In a blind count, counters don't see the quantity the system expects. They record only what they find. This stops people from writing down the expected number instead of counting, which makes the results more reliable."
+    },
+    {
+      "q": "How do you calculate inventory shrinkage?",
+      "a": "Subtract the counted value of your inventory from the value in your records. That difference is shrinkage. To get a shrink rate, divide the shrinkage by sales for the same period and multiply by 100."
+    },
+    {
+      "q": "What is cycle counting?",
+      "a": "Cycle counting means counting a set group of items on a regular schedule instead of everything at once. A common approach counts high-value or fast-moving items most often and slow, low-cost items less often."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/inventory-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/inventory-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Inventory Checklist by ChecklistForge (https://checklistforge.com/checklist/inventory-checklist)",
+  "updated": "2026-10-18"
+}

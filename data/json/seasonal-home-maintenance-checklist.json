@@ -1,0 +1,159 @@
+{
+  "id": "seasonal-home-maintenance-checklist",
+  "name": "Seasonal Home Maintenance Checklist",
+  "description": "A seasonal home maintenance checklist with tasks organized for spring, summer, fall and winter.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "safety",
+    "homeowner",
+    "seasonal",
+    "hvac"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Spring",
+      "items": [
+        {
+          "text": "Inspect the roof from the ground for winter damage and missing shingles"
+        },
+        {
+          "text": "Clean gutters and downspouts and check that water drains away from the foundation"
+        },
+        {
+          "text": "Schedule a professional air-conditioner tune-up before the first heatwave"
+        },
+        {
+          "text": "Check the foundation and basement for cracks and signs of moisture"
+        },
+        {
+          "text": "Reseal decks, fences and exterior wood as needed"
+        },
+        {
+          "text": "Test outdoor faucets and the irrigation system for leaks"
+        }
+      ]
+    },
+    {
+      "title": "Summer",
+      "items": [
+        {
+          "text": "Replace HVAC filters more often during heavy cooling use",
+          "note": "Check monthly when the AC runs daily"
+        },
+        {
+          "text": "Wash siding and touch up exterior paint while it's dry"
+        },
+        {
+          "text": "Clear debris from around the outdoor AC condenser unit"
+        },
+        {
+          "text": "Inspect and clean window and patio screens"
+        },
+        {
+          "text": "Check weatherstripping and caulking to keep cool air in"
+        },
+        {
+          "text": "Power-wash the deck, patio and driveway"
+        }
+      ]
+    },
+    {
+      "title": "Fall",
+      "items": [
+        {
+          "text": "Schedule a professional furnace and heating-system service"
+        },
+        {
+          "text": "Clean the chimney and inspect the fireplace before first use",
+          "note": "Hire a certified chimney sweep for wood-burning units"
+        },
+        {
+          "text": "Drain and shut off outdoor faucets and store garden hoses"
+        },
+        {
+          "text": "Clean gutters again after the leaves fall"
+        },
+        {
+          "text": "Seal gaps and cracks around windows, doors and the foundation"
+        },
+        {
+          "text": "Reverse ceiling fans to clockwise to push warm air down"
+        }
+      ]
+    },
+    {
+      "title": "Winter",
+      "items": [
+        {
+          "text": "Insulate exposed pipes and let faucets drip during hard freezes"
+        },
+        {
+          "text": "Check the attic for ice dams and adequate insulation"
+        },
+        {
+          "text": "Test smoke and carbon-monoxide alarms while the heat runs",
+          "note": "CO risk rises in winter with closed windows and fuel heat"
+        },
+        {
+          "text": "Keep walkways and steps clear of ice and snow"
+        },
+        {
+          "text": "Replace furnace filters and keep vents unblocked"
+        },
+        {
+          "text": "Know where the main water shut-off is in case a pipe bursts"
+        }
+      ]
+    },
+    {
+      "title": "Year-Round Reminders",
+      "items": [
+        {
+          "text": "Test smoke and CO alarms monthly and replace batteries yearly"
+        },
+        {
+          "text": "Replace or clean HVAC filters on schedule in every season"
+        },
+        {
+          "text": "Clean the dryer vent at least once a year to reduce fire risk"
+        },
+        {
+          "text": "Inspect for plumbing leaks under sinks and around appliances"
+        },
+        {
+          "text": "Hire a licensed electrician for any panel, wiring or outlet concerns"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why follow a seasonal home maintenance schedule?",
+      "a": "Seasonal scheduling means each system is ready for the weather ahead — AC for summer heat, the furnace for winter cold — so you prevent breakdowns and spread tasks evenly across the year."
+    },
+    {
+      "q": "Can I download this seasonal checklist as a PDF?",
+      "a": "Yes. You can print this checklist or download it as a PDF and keep one section visible for the current season, ticking off tasks as you go."
+    },
+    {
+      "q": "When should I start each season's tasks?",
+      "a": "Begin a few weeks before the weather turns — service the AC in late spring, the furnace in early fall — so professionals are available and your systems are ready before you need them."
+    },
+    {
+      "q": "Do I need to do every task every season?",
+      "a": "No. Adapt the list to your climate and home. A mild region may skip winterizing pipes, while a humid area may add extra moisture and mold checks."
+    },
+    {
+      "q": "Is this checklist suitable for new homeowners?",
+      "a": "Yes. New homeowners can use the seasonal structure to learn an annual rhythm, noting which systems need pro service and roughly when each job is due."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/seasonal-home-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/seasonal-home-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Seasonal Home Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/seasonal-home-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

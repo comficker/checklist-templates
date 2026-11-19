@@ -1,0 +1,196 @@
+{
+  "id": "business-startup-checklist",
+  "name": "Business Startup Checklist",
+  "description": "A step-by-step checklist to start a business from idea validation through launch.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "business",
+    "launch",
+    "founders",
+    "startup"
+  ],
+  "item_count": 40,
+  "sections": [
+    {
+      "title": "Validate your idea",
+      "items": [
+        {
+          "text": "Write a one-sentence description of the problem your business solves."
+        },
+        {
+          "text": "Define your target customer and where they currently look for solutions."
+        },
+        {
+          "text": "Interview at least 10 potential customers about their pain points.",
+          "note": "Ask about current behavior, not hypothetical interest."
+        },
+        {
+          "text": "Research direct and indirect competitors and note their pricing."
+        },
+        {
+          "text": "Test demand with a landing page, pre-orders or a small pilot offer."
+        },
+        {
+          "text": "Confirm customers are willing to pay your intended price."
+        },
+        {
+          "text": "Decide whether the idea is worth pursuing based on the evidence."
+        }
+      ]
+    },
+    {
+      "title": "Plan the business",
+      "items": [
+        {
+          "text": "Set a clear goal and timeline for your first year."
+        },
+        {
+          "text": "Choose a business model and how you will make money."
+        },
+        {
+          "text": "Estimate startup costs and ongoing monthly expenses."
+        },
+        {
+          "text": "Forecast realistic revenue for your first 6 to 12 months."
+        },
+        {
+          "text": "Calculate how much funding you need before you break even."
+        },
+        {
+          "text": "Decide how you will fund the business — savings, loan or investment."
+        },
+        {
+          "text": "Write a short business plan capturing the above decisions."
+        }
+      ]
+    },
+    {
+      "title": "Handle legal and registration",
+      "items": [
+        {
+          "text": "Choose a legal structure such as sole trader, partnership or company.",
+          "note": "Requirements and tax treatment vary by country and state — check your official government authority."
+        },
+        {
+          "text": "Pick a business name and confirm it is available to use."
+        },
+        {
+          "text": "Register the business with the relevant government authority."
+        },
+        {
+          "text": "Apply for a tax identification number such as an EIN.",
+          "note": "Names differ by jurisdiction; confirm the correct registration locally."
+        },
+        {
+          "text": "Identify and apply for any required licenses and permits."
+        },
+        {
+          "text": "Put key agreements in writing, including any co-founder terms."
+        },
+        {
+          "text": "Arrange appropriate business insurance for your activity."
+        }
+      ]
+    },
+    {
+      "title": "Set up operations and finances",
+      "items": [
+        {
+          "text": "Open a dedicated business bank account."
+        },
+        {
+          "text": "Set up bookkeeping or accounting software from day one."
+        },
+        {
+          "text": "Choose how you will accept payments from customers."
+        },
+        {
+          "text": "Secure your domain name and core social media handles."
+        },
+        {
+          "text": "Build a simple website or landing page that explains your offer."
+        },
+        {
+          "text": "Set up a business email and basic communication tools."
+        },
+        {
+          "text": "Source any suppliers, tools or equipment you need to operate."
+        }
+      ]
+    },
+    {
+      "title": "Build your brand and offer",
+      "items": [
+        {
+          "text": "Design a simple logo and choose your brand colors."
+        },
+        {
+          "text": "Write clear messaging that explains who you help and how."
+        },
+        {
+          "text": "Finalize your product or service and set your prices."
+        },
+        {
+          "text": "Create the materials customers need to buy, such as a menu or catalog."
+        },
+        {
+          "text": "Prepare onboarding or delivery steps for your first customers."
+        },
+        {
+          "text": "Set up a way to collect customer feedback and reviews."
+        }
+      ]
+    },
+    {
+      "title": "Launch and grow",
+      "items": [
+        {
+          "text": "Choose a launch date and prepare an announcement."
+        },
+        {
+          "text": "Tell your existing network and ask them to spread the word."
+        },
+        {
+          "text": "Run an opening offer or promotion to attract first customers."
+        },
+        {
+          "text": "Make your first sale and confirm the full process works smoothly."
+        },
+        {
+          "text": "Track key numbers such as sales, costs and customer feedback."
+        },
+        {
+          "text": "Review what worked, fix what didn't, and plan your next month."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does it take to start a business?",
+      "a": "It varies widely. Validating an idea and writing a lean plan can take a few weeks, while registration, licensing and setup may add days to several months depending on your structure and location. This checklist keeps the work sequenced so nothing stalls."
+    },
+    {
+      "q": "Do I need a business plan to start?",
+      "a": "You don't always need a long formal plan, but you do need a clear view of your customer, offer, pricing and costs. A short written plan helps you spot gaps before you spend money and is often required if you seek a loan or investment."
+    },
+    {
+      "q": "What's the most common mistake first-time founders make?",
+      "a": "Building a product before confirming anyone will pay for it. Spend time on the validation section first — talk to potential customers and test demand before committing to inventory, code or a lease."
+    },
+    {
+      "q": "Can I use this checklist anywhere in the world?",
+      "a": "Yes. The structure applies broadly, but registration, tax and licensing rules differ by country and state. Always confirm specifics with your official government business authority before filing."
+    },
+    {
+      "q": "Is the checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to share with co-founders, mentors or an accountant and tick off each task as you go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/business-startup-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/business-startup-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Business Startup Checklist by ChecklistForge (https://checklistforge.com/checklist/business-startup-checklist)",
+  "updated": "2026-11-13"
+}

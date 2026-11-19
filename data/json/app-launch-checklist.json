@@ -1,0 +1,205 @@
+{
+  "id": "app-launch-checklist",
+  "name": "App Launch Checklist",
+  "description": "An app launch checklist covering QA, store listings, marketing, analytics, support and launch day.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "app-launch",
+    "mobile-app",
+    "aso"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Pre-launch QA",
+      "items": [
+        {
+          "text": "Test core user flows end to end on real devices."
+        },
+        {
+          "text": "Verify the app on the operating system versions you support."
+        },
+        {
+          "text": "Check crash-free rate and fix critical bugs first."
+        },
+        {
+          "text": "Test sign-up, login and payment flows thoroughly."
+        },
+        {
+          "text": "Confirm permissions are requested clearly and behave correctly."
+        },
+        {
+          "text": "Run accessibility and localization checks.",
+          "note": "Test with a screen reader and any languages you support."
+        }
+      ]
+    },
+    {
+      "title": "Store listing and ASO",
+      "items": [
+        {
+          "text": "Write a clear app title and subtitle with target keywords."
+        },
+        {
+          "text": "Research and add relevant keywords to the listing."
+        },
+        {
+          "text": "Create screenshots that show the core value quickly."
+        },
+        {
+          "text": "Design an icon that stands out at small sizes."
+        },
+        {
+          "text": "Write a benefit-led description and feature list."
+        },
+        {
+          "text": "Set the correct age rating, category and privacy details."
+        }
+      ]
+    },
+    {
+      "title": "Marketing and PR",
+      "items": [
+        {
+          "text": "Prepare a landing page with a clear call to action."
+        },
+        {
+          "text": "Build an email list and draft the launch announcement."
+        },
+        {
+          "text": "Schedule social posts and a launch-day sequence."
+        },
+        {
+          "text": "Reach out to press, newsletters and relevant communities."
+        },
+        {
+          "text": "Prepare a press kit with screenshots and copy."
+        },
+        {
+          "text": "Line up reviewers or early users to share feedback."
+        }
+      ]
+    },
+    {
+      "title": "Analytics and tracking",
+      "items": [
+        {
+          "text": "Define the key events to track before launch."
+        },
+        {
+          "text": "Install and verify the analytics SDK fires correctly."
+        },
+        {
+          "text": "Set up install attribution to see where users come from."
+        },
+        {
+          "text": "Add crash and error reporting."
+        },
+        {
+          "text": "Build a dashboard for installs, activation and retention."
+        },
+        {
+          "text": "Set goals so you can judge launch performance."
+        }
+      ]
+    },
+    {
+      "title": "Support readiness",
+      "items": [
+        {
+          "text": "Write help articles and frequently asked questions."
+        },
+        {
+          "text": "Set up a support channel and a contact route."
+        },
+        {
+          "text": "Brief the team on common issues and how to respond."
+        },
+        {
+          "text": "Prepare canned replies for known questions."
+        },
+        {
+          "text": "Plan how you will triage and route bug reports."
+        },
+        {
+          "text": "Decide how you will collect and respond to reviews."
+        }
+      ]
+    },
+    {
+      "title": "Launch day",
+      "items": [
+        {
+          "text": "Confirm the build is approved and live in the store."
+        },
+        {
+          "text": "Publish the landing page and announcement."
+        },
+        {
+          "text": "Send the launch email and post on social channels."
+        },
+        {
+          "text": "Monitor crash reports and error rates in real time."
+        },
+        {
+          "text": "Respond quickly to early reviews and support messages."
+        },
+        {
+          "text": "Have the team on standby for urgent fixes."
+        }
+      ]
+    },
+    {
+      "title": "Post-launch monitoring",
+      "items": [
+        {
+          "text": "Track installs, activation and retention against goals."
+        },
+        {
+          "text": "Watch the crash-free rate and prioritize hot fixes."
+        },
+        {
+          "text": "Review user feedback and reviews for common themes."
+        },
+        {
+          "text": "Plan and ship a follow-up update within the first weeks."
+        },
+        {
+          "text": "Refine the store listing based on conversion data."
+        },
+        {
+          "text": "Hold a retrospective and document lessons learned."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an app launch checklist?",
+      "a": "It is a structured plan for releasing an app. It covers final QA, optimizing the store listing for discovery, marketing and PR, wiring up analytics, preparing support, coordinating launch day and monitoring performance afterwards so the release goes smoothly and you can measure results."
+    },
+    {
+      "q": "What is ASO and why does it matter?",
+      "a": "App store optimization is improving your listing — title, keywords, description, icon and screenshots — so the right people find and install the app. A strong listing turns store visits into downloads, which compounds with marketing and is often a major share of organic growth."
+    },
+    {
+      "q": "What should you test before launching an app?",
+      "a": "Test core flows on real devices and operating system versions, check performance and crash-free rates, verify payments and sign-up, confirm permissions behave, and run accessibility checks. Fix critical bugs before release and have a plan for pushing fast updates after launch."
+    },
+    {
+      "q": "What analytics should you set up before launch?",
+      "a": "Track installs, activation, key actions and retention from day one, plus crash and error reporting. Define the events that matter before you ship so you can see what users do, where they drop off, and whether the launch is meeting its goals."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the app launch checklist to coordinate product, marketing and support, or download the PDF and assign each task an owner and due date so the team stays aligned from pre-launch QA through to post-launch monitoring."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/app-launch-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/app-launch-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "App Launch Checklist by ChecklistForge (https://checklistforge.com/checklist/app-launch-checklist)",
+  "updated": "2026-10-17"
+}

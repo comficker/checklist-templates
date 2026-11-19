@@ -1,0 +1,171 @@
+{
+  "id": "lockout-tagout-checklist",
+  "name": "Lockout/Tagout Checklist",
+  "description": "A LOTO hazardous-energy control check covering shutdown, isolation, locking and verification.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "maintenance",
+    "osha",
+    "lockout-tagout",
+    "loto"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Preparation and Identification",
+      "items": [
+        {
+          "text": "Confirm the equipment has a documented energy control procedure."
+        },
+        {
+          "text": "Identify all energy sources: electrical, mechanical, hydraulic, pneumatic, thermal and chemical."
+        },
+        {
+          "text": "Locate every energy-isolating device for the equipment.",
+          "note": "Stored energy such as springs and capacitors must also be identified."
+        },
+        {
+          "text": "Verify the authorized employee is trained for this equipment."
+        },
+        {
+          "text": "Notify all affected employees before shutting the equipment down."
+        }
+      ]
+    },
+    {
+      "title": "Shutdown and Isolation",
+      "items": [
+        {
+          "text": "Shut down the equipment using its normal stopping procedure."
+        },
+        {
+          "text": "Operate each energy-isolating device to isolate the equipment."
+        },
+        {
+          "text": "Confirm valves, breakers and disconnects are in the safe position."
+        },
+        {
+          "text": "Block or restrain any parts that could move under stored energy.",
+          "note": "Do not rely on control switches alone to isolate energy."
+        },
+        {
+          "text": "Isolate connected lines carrying gas, steam or fluids."
+        }
+      ]
+    },
+    {
+      "title": "Locking and Tagging",
+      "items": [
+        {
+          "text": "Apply a personal lock to each energy-isolating device."
+        },
+        {
+          "text": "Attach a tag identifying the worker, date and reason for lockout."
+        },
+        {
+          "text": "Confirm each authorized worker applies their own lock for group work."
+        },
+        {
+          "text": "Use a lockout hasp or group lockbox when multiple locks are needed.",
+          "note": "Each worker must control their own lock and key."
+        },
+        {
+          "text": "Verify locks and tags are durable, standardized and clearly marked."
+        }
+      ]
+    },
+    {
+      "title": "Release Stored Energy and Verify",
+      "items": [
+        {
+          "text": "Release or restrain residual and stored energy safely."
+        },
+        {
+          "text": "Bleed pressure, discharge capacitors and dissipate thermal energy."
+        },
+        {
+          "text": "Attempt to start the equipment with controls to confirm isolation."
+        },
+        {
+          "text": "Return controls to off after the test.",
+          "note": "Verify zero energy with the appropriate instrument before contact."
+        },
+        {
+          "text": "Confirm a zero-energy state before any work begins."
+        }
+      ]
+    },
+    {
+      "title": "Servicing and Restoration",
+      "items": [
+        {
+          "text": "Perform the maintenance with locks and tags in place."
+        },
+        {
+          "text": "Confirm the work area is clear of tools and personnel before restart."
+        },
+        {
+          "text": "Verify guards and safety devices are reinstalled."
+        },
+        {
+          "text": "Remove each lock only by the worker who applied it."
+        },
+        {
+          "text": "Notify affected employees before re-energizing the equipment."
+        },
+        {
+          "text": "Re-energize and test the equipment for safe operation."
+        }
+      ]
+    },
+    {
+      "title": "Program and Records",
+      "items": [
+        {
+          "text": "Confirm machine-specific procedures are written and accessible."
+        },
+        {
+          "text": "Verify authorized and affected employees are trained and retrained as needed."
+        },
+        {
+          "text": "Check that periodic inspections of the LOTO program are documented."
+        },
+        {
+          "text": "Confirm contractors follow a coordinated energy control procedure."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training or your employer's energy control procedures; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does lockout/tagout protect against?",
+      "a": "It protects workers from the unexpected startup or release of hazardous energy during servicing and maintenance. That energy can be electrical, mechanical, hydraulic, pneumatic, chemical, thermal or stored, such as in springs or capacitors."
+    },
+    {
+      "q": "What is the difference between lockout and tagout?",
+      "a": "Lockout uses a physical lock to hold an energy-isolating device in the safe position. Tagout uses a warning tag without a lock. Lockout is generally preferred because a tag alone does not physically prevent re-energization."
+    },
+    {
+      "q": "Why is verifying zero energy so important?",
+      "a": "Isolating a source is not enough if stored or residual energy remains. After isolating and trying to start the equipment with controls in the off position, you must confirm zero energy before touching any hazardous part."
+    },
+    {
+      "q": "Who can remove a lockout device?",
+      "a": "Only the authorized employee who applied a lock should remove it. Strict procedures apply to the rare case where that worker is unavailable, and they must be followed exactly to keep everyone safe."
+    },
+    {
+      "q": "Does this checklist replace OSHA rules or procedures?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal training, your employer's energy control procedures, or a qualified person. Always follow the machine-specific procedure for your equipment."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/lockout-tagout-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/lockout-tagout-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Lockout/Tagout Checklist by ChecklistForge (https://checklistforge.com/checklist/lockout-tagout-checklist)",
+  "updated": "2026-10-17"
+}

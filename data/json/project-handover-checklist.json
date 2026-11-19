@@ -1,0 +1,173 @@
+{
+  "id": "project-handover-checklist",
+  "name": "Project Handover Checklist",
+  "description": "A clear plan to transfer a project to a new owner or team without losing knowledge.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "project-management",
+    "team",
+    "handover",
+    "documentation"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Prepare the Handover",
+      "items": [
+        {
+          "text": "Confirm the incoming owner and the handover date"
+        },
+        {
+          "text": "Agree on an overlap period for questions and support",
+          "note": "Even a week of overlap reduces costly gaps."
+        },
+        {
+          "text": "Tell stakeholders who their new point of contact will be"
+        },
+        {
+          "text": "List everything that needs to transfer"
+        },
+        {
+          "text": "Schedule the knowledge-transfer sessions in advance"
+        }
+      ]
+    },
+    {
+      "title": "Document the Project",
+      "items": [
+        {
+          "text": "Write a current status summary with open items"
+        },
+        {
+          "text": "List active tasks, deadlines, and dependencies"
+        },
+        {
+          "text": "Document known risks, issues, and workarounds"
+        },
+        {
+          "text": "Record key decisions and the reasons behind them"
+        },
+        {
+          "text": "Create a directory of key contacts and vendors"
+        },
+        {
+          "text": "Note where all files and systems are located"
+        }
+      ]
+    },
+    {
+      "title": "Transfer Access and Credentials",
+      "items": [
+        {
+          "text": "List all systems, tools, and accounts in use"
+        },
+        {
+          "text": "Grant the new owner the access they need"
+        },
+        {
+          "text": "Transfer or reset shared passwords securely",
+          "note": "Use a password manager, never plain email."
+        },
+        {
+          "text": "Reassign ownership of files, repos, and folders"
+        },
+        {
+          "text": "Update licenses and subscriptions to the new owner"
+        },
+        {
+          "text": "Confirm the incoming owner can log in to everything"
+        }
+      ]
+    },
+    {
+      "title": "Run Knowledge Transfer",
+      "items": [
+        {
+          "text": "Walk the new owner through the project end to end"
+        },
+        {
+          "text": "Demonstrate recurring tasks and routine processes"
+        },
+        {
+          "text": "Explain stakeholder relationships and expectations"
+        },
+        {
+          "text": "Cover common problems and how to handle them"
+        },
+        {
+          "text": "Record sessions or notes the owner can revisit",
+          "note": "Recordings help when questions surface later."
+        }
+      ]
+    },
+    {
+      "title": "Verify the Handover",
+      "items": [
+        {
+          "text": "Have the new owner complete a key task on their own"
+        },
+        {
+          "text": "Review the handover document together for gaps"
+        },
+        {
+          "text": "Confirm all access works as expected"
+        },
+        {
+          "text": "Answer any remaining questions before stepping back"
+        },
+        {
+          "text": "Agree on who to contact for follow-up issues"
+        }
+      ]
+    },
+    {
+      "title": "Sign Off and Close",
+      "items": [
+        {
+          "text": "Confirm both owners agree the handover is complete"
+        },
+        {
+          "text": "Get written sign-off from the manager or sponsor"
+        },
+        {
+          "text": "Revoke the outgoing owner's access where appropriate",
+          "note": "Remove old access promptly to keep systems secure."
+        },
+        {
+          "text": "Send a final note announcing the new owner"
+        },
+        {
+          "text": "Archive the handover documents for reference"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a project handover?",
+      "a": "It is the transfer of a project, system, or role from one owner to another. It moves documentation, access, and knowledge so the new owner can continue the work smoothly."
+    },
+    {
+      "q": "What should a handover document include?",
+      "a": "Project status, key contacts, open tasks and risks, system access, recurring duties, and where files live. The goal is a single reference the new owner can rely on from day one."
+    },
+    {
+      "q": "How do I do a good knowledge transfer?",
+      "a": "Combine clear documentation with live sessions. Walk the new owner through the work, answer questions, and overlap for a period so they can ask while you are still available."
+    },
+    {
+      "q": "Who should be involved in a handover?",
+      "a": "The outgoing owner, the incoming owner, and the manager or sponsor who confirms the transfer. Key stakeholders should also be told who their new contact is."
+    },
+    {
+      "q": "Can I print this project handover checklist?",
+      "a": "Yes. Download the printable PDF, work through it with both owners, and check off each item as documentation, access, and knowledge transfer are completed."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/project-handover-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/project-handover-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Project Handover Checklist by ChecklistForge (https://checklistforge.com/checklist/project-handover-checklist)",
+  "updated": "2026-11-13"
+}

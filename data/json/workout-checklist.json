@@ -1,0 +1,180 @@
+{
+  "id": "workout-checklist",
+  "name": "Workout Checklist",
+  "description": "How to structure one solid workout, plus a beginner-friendly weekly split.",
+  "category": "fitness-exercise",
+  "category_name": "Fitness & Exercise",
+  "tags": [
+    "fitness",
+    "exercise",
+    "workout",
+    "strength-training"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Before You Start",
+      "items": [
+        {
+          "text": "Decide today's focus, such as full body, upper, lower, or cardio"
+        },
+        {
+          "text": "Gather any equipment you need within reach"
+        },
+        {
+          "text": "Fill your water bottle and keep a towel nearby"
+        },
+        {
+          "text": "Eat a light snack beforehand if you need energy",
+          "note": "A small snack 1 to 2 hours before can help longer sessions."
+        },
+        {
+          "text": "Set a clear, realistic plan for the number of sets and reps"
+        }
+      ]
+    },
+    {
+      "title": "Warm Up",
+      "items": [
+        {
+          "text": "Do 5 to 10 minutes of light cardio to raise your heart rate"
+        },
+        {
+          "text": "Perform dynamic stretches for the muscles you will train"
+        },
+        {
+          "text": "Add mobility drills for key joints"
+        },
+        {
+          "text": "Do a lighter practice set before your working sets"
+        },
+        {
+          "text": "Check that you have enough space and clear footing"
+        }
+      ]
+    },
+    {
+      "title": "Main Workout Sets",
+      "items": [
+        {
+          "text": "Start with the most demanding compound exercises first"
+        },
+        {
+          "text": "Use good form throughout every rep"
+        },
+        {
+          "text": "Rest appropriately between sets to keep quality high"
+        },
+        {
+          "text": "Progress gradually by adding reps, sets, or resistance over time",
+          "note": "Increase load slowly to keep progressing safely."
+        },
+        {
+          "text": "Stop a set if your form breaks down or pain appears"
+        }
+      ]
+    },
+    {
+      "title": "Hydration and Energy",
+      "items": [
+        {
+          "text": "Sip water throughout the session"
+        },
+        {
+          "text": "Take short breaks if you feel lightheaded or overheated"
+        },
+        {
+          "text": "Adjust intensity to how you feel that day"
+        },
+        {
+          "text": "Refuel with a balanced meal or snack afterward"
+        }
+      ]
+    },
+    {
+      "title": "Cool Down",
+      "items": [
+        {
+          "text": "Do 5 minutes of light movement to lower your heart rate"
+        },
+        {
+          "text": "Stretch the muscles you worked, holding each gently"
+        },
+        {
+          "text": "Breathe slowly and let your body relax"
+        },
+        {
+          "text": "Note how the workout felt and any adjustments for next time"
+        }
+      ]
+    },
+    {
+      "title": "Simple Weekly Split",
+      "items": [
+        {
+          "text": "Day 1: Full-body or upper-body strength workout"
+        },
+        {
+          "text": "Day 2: Cardio session at moderate intensity"
+        },
+        {
+          "text": "Day 3: Rest or gentle active recovery"
+        },
+        {
+          "text": "Day 4: Lower-body or full-body strength workout"
+        },
+        {
+          "text": "Day 5: Cardio plus mobility or flexibility work"
+        },
+        {
+          "text": "Day 6: Optional light activity or your favorite exercise"
+        },
+        {
+          "text": "Day 7: Rest and recovery",
+          "note": "Adjust the split to your schedule and recovery needs."
+        }
+      ]
+    },
+    {
+      "title": "Important Reminder",
+      "items": [
+        {
+          "text": "This checklist is general information, not medical advice"
+        },
+        {
+          "text": "Consult your doctor before starting a new workout program, especially with a health condition, injury, or pregnancy"
+        },
+        {
+          "text": "Stop and seek advice if you feel chest pain, severe shortness of breath, or dizziness"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long should a workout be?",
+      "a": "A focused session of 30 to 60 minutes is plenty for most people, including warmup and cooldown. Quality and consistency matter more than length. Beginners can start with shorter sessions and build up as fitness improves."
+    },
+    {
+      "q": "Why do I need a warmup and cooldown?",
+      "a": "A warmup raises your heart rate and prepares muscles and joints, lowering injury risk. A cooldown helps your heart rate return to normal and supports recovery. Both take only a few minutes and make each workout safer and more effective."
+    },
+    {
+      "q": "What is a weekly workout split?",
+      "a": "A split is how you organize training across the week, such as alternating upper-body, lower-body, and rest days, or full-body sessions a few times a week. A simple split ensures you train all muscle groups while leaving time to recover."
+    },
+    {
+      "q": "Should I do cardio or weights first?",
+      "a": "If your main goal is strength, do weights first while you are fresh, then finish with cardio. If endurance is the priority, lead with cardio. A short cardio warmup before lifting is fine either way. Choose the order that matches your top goal."
+    },
+    {
+      "q": "Is this checklist medical advice?",
+      "a": "No. This is general information only, not a substitute for personalized medical advice. Consult your doctor before starting a new workout program, especially if you have a health condition, an injury, or are pregnant."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/workout-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/workout-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Workout Checklist by ChecklistForge (https://checklistforge.com/checklist/workout-checklist)",
+  "updated": "2026-10-17"
+}

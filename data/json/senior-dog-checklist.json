@@ -1,0 +1,175 @@
+{
+  "id": "senior-dog-checklist",
+  "name": "Senior Dog Checklist",
+  "description": "A checklist to help owners care for an aging dog with regular vet checks, mobility support, the right diet, and a comfortable home.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "pets",
+    "care",
+    "dogs",
+    "senior"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Regular Vet Care",
+      "items": [
+        {
+          "text": "Schedule more frequent senior wellness exams"
+        },
+        {
+          "text": "Ask about bloodwork and screenings for older dogs"
+        },
+        {
+          "text": "Keep vaccines and parasite prevention up to date"
+        },
+        {
+          "text": "Discuss dental health and professional cleanings"
+        },
+        {
+          "text": "Track findings and follow-up steps after each visit",
+          "note": "Ask your vet how often your senior dog should be seen"
+        }
+      ]
+    },
+    {
+      "title": "Mobility & Comfort",
+      "items": [
+        {
+          "text": "Provide soft, supportive bedding"
+        },
+        {
+          "text": "Add non-slip rugs on slippery floors"
+        },
+        {
+          "text": "Use ramps or steps for cars and furniture"
+        },
+        {
+          "text": "Keep nails trimmed for better footing"
+        },
+        {
+          "text": "Offer gentle, regular exercise suited to your dog"
+        }
+      ]
+    },
+    {
+      "title": "Diet & Weight",
+      "items": [
+        {
+          "text": "Feed a diet suited to a senior dog's needs"
+        },
+        {
+          "text": "Measure portions to keep weight healthy"
+        },
+        {
+          "text": "Provide easy access to fresh water"
+        },
+        {
+          "text": "Adjust food height or texture if eating is hard"
+        },
+        {
+          "text": "Discuss supplements only with your vet first"
+        }
+      ]
+    },
+    {
+      "title": "Daily Comfort & Routine",
+      "items": [
+        {
+          "text": "Keep a calm, predictable daily routine"
+        },
+        {
+          "text": "Provide warm, draft-free resting spots"
+        },
+        {
+          "text": "Offer more frequent potty breaks"
+        },
+        {
+          "text": "Keep grooming gentle and check skin and coat"
+        },
+        {
+          "text": "Give mental stimulation with easy games and contact"
+        }
+      ]
+    },
+    {
+      "title": "Changes to Monitor",
+      "items": [
+        {
+          "text": "Appetite, thirst, and weight shifts"
+        },
+        {
+          "text": "Stiffness, limping, or trouble rising"
+        },
+        {
+          "text": "Lumps, bad breath, or dental problems"
+        },
+        {
+          "text": "Confusion, restlessness, or sleep changes"
+        },
+        {
+          "text": "Vision, hearing, or bathroom habit changes",
+          "note": "Report new or worsening signs to your vet promptly"
+        }
+      ]
+    },
+    {
+      "title": "Quality of Life",
+      "items": [
+        {
+          "text": "Note daily comfort, mobility, and mood"
+        },
+        {
+          "text": "Track good days versus difficult days"
+        },
+        {
+          "text": "Discuss pain management options with your vet"
+        },
+        {
+          "text": "Adapt the home as your dog's needs change"
+        },
+        {
+          "text": "Keep open conversations with your vet about care"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; an aging dog's needs depend on its breed, size, and health, so always consult a licensed veterinarian",
+          "note": "For any emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When is a dog considered a senior?",
+      "a": "It varies by breed and size, with larger dogs often reaching senior age sooner than small ones. Ask your veterinarian when your dog enters its senior years and how care should change."
+    },
+    {
+      "q": "How often should a senior dog see the vet?",
+      "a": "Many older dogs benefit from check-ups more than once a year so issues are caught early. Your veterinarian can recommend a schedule and any screenings based on your dog's age and health."
+    },
+    {
+      "q": "How can I help my aging dog with mobility?",
+      "a": "Provide soft bedding, non-slip rugs, ramps for cars or furniture, and gentle regular exercise. If your dog is stiff or slow to rise, talk to your veterinarian about supportive options."
+    },
+    {
+      "q": "Should I change my senior dog's diet?",
+      "a": "Older dogs may need different calories or nutrients, and weight control matters for joint and heart health. Ask your veterinarian whether a senior diet or portion change is right for your dog."
+    },
+    {
+      "q": "Is this senior dog checklist printable?",
+      "a": "Yes. Print it or download the PDF, track vet visits and changes, and use it to keep your aging dog comfortable and well cared for."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/senior-dog-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/senior-dog-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Senior Dog Checklist by ChecklistForge (https://checklistforge.com/checklist/senior-dog-checklist)",
+  "updated": "2026-10-17"
+}

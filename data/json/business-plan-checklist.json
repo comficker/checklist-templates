@@ -1,0 +1,203 @@
+{
+  "id": "business-plan-checklist",
+  "name": "Business Plan Checklist",
+  "description": "A section-by-section checklist of everything a complete business plan should include.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "business",
+    "founders",
+    "business-plan",
+    "startup"
+  ],
+  "item_count": 41,
+  "sections": [
+    {
+      "title": "Executive summary",
+      "items": [
+        {
+          "text": "State what the business does in one or two sentences."
+        },
+        {
+          "text": "Summarize the problem you solve and for whom."
+        },
+        {
+          "text": "Highlight your offer and what makes it different."
+        },
+        {
+          "text": "Note key milestones, traction or progress so far."
+        },
+        {
+          "text": "Include headline financials and any funding you seek."
+        },
+        {
+          "text": "Keep it to one or two pages and write it last."
+        }
+      ]
+    },
+    {
+      "title": "Company overview",
+      "items": [
+        {
+          "text": "Describe your mission and the problem behind the business."
+        },
+        {
+          "text": "State your legal structure and ownership.",
+          "note": "Structure and tax treatment vary by jurisdiction — confirm with your official authority."
+        },
+        {
+          "text": "Note your location and how you operate."
+        },
+        {
+          "text": "Summarize the history and current stage of the business."
+        },
+        {
+          "text": "List short and long-term goals with timelines."
+        }
+      ]
+    },
+    {
+      "title": "Market analysis",
+      "items": [
+        {
+          "text": "Define your target customers and their key needs."
+        },
+        {
+          "text": "Estimate the size and growth of your market."
+        },
+        {
+          "text": "Profile your main competitors and their strengths."
+        },
+        {
+          "text": "Explain your competitive advantage and positioning."
+        },
+        {
+          "text": "Identify relevant trends, risks and barriers to entry."
+        },
+        {
+          "text": "Back up claims with credible data and sources."
+        }
+      ]
+    },
+    {
+      "title": "Product or service",
+      "items": [
+        {
+          "text": "Describe what you sell and the value it delivers."
+        },
+        {
+          "text": "Explain how it works and the customer experience."
+        },
+        {
+          "text": "State your pricing and the reasoning behind it."
+        },
+        {
+          "text": "Note your stage of development or readiness."
+        },
+        {
+          "text": "Outline future products or features on your roadmap."
+        },
+        {
+          "text": "Mention any intellectual property or protection."
+        }
+      ]
+    },
+    {
+      "title": "Marketing and sales",
+      "items": [
+        {
+          "text": "Define your brand positioning and core message."
+        },
+        {
+          "text": "List the channels you will use to reach customers."
+        },
+        {
+          "text": "Describe your sales process from lead to purchase."
+        },
+        {
+          "text": "Estimate your cost to acquire a customer."
+        },
+        {
+          "text": "Set a marketing budget and expected results."
+        },
+        {
+          "text": "Explain how you will retain and grow customers."
+        }
+      ]
+    },
+    {
+      "title": "Operations and team",
+      "items": [
+        {
+          "text": "Describe your day-to-day operations and workflow."
+        },
+        {
+          "text": "List key suppliers, partners and facilities."
+        },
+        {
+          "text": "Outline the technology and systems you rely on."
+        },
+        {
+          "text": "Introduce the founding team and key roles."
+        },
+        {
+          "text": "Identify skill gaps and your plan to fill them."
+        },
+        {
+          "text": "Note any advisors or board members."
+        }
+      ]
+    },
+    {
+      "title": "Financial plan",
+      "items": [
+        {
+          "text": "Provide a sales forecast for the next one to three years."
+        },
+        {
+          "text": "Detail startup costs and ongoing expenses."
+        },
+        {
+          "text": "Include a profit and loss projection."
+        },
+        {
+          "text": "Include a cash flow projection."
+        },
+        {
+          "text": "State funding needs and how you will use the money."
+        },
+        {
+          "text": "List the assumptions behind your numbers.",
+          "note": "Have a professional review projections; reporting rules vary by jurisdiction."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long should a business plan be?",
+      "a": "There's no fixed length. A lean plan can be a few pages, while a plan for a bank or investor may run 15 to 30 pages. Focus on covering every section clearly rather than hitting a page count."
+    },
+    {
+      "q": "What's the most important section?",
+      "a": "The executive summary is read first and often decides whether the rest gets read at all, but the financials are where many readers test whether the idea holds up. Make both strong and consistent with each other."
+    },
+    {
+      "q": "Do I write the executive summary first or last?",
+      "a": "Write it last. It summarizes the whole plan, so it's far easier to draft once every other section is complete and your numbers are settled."
+    },
+    {
+      "q": "Should my plan include financial projections?",
+      "a": "Yes. Most readers expect a sales forecast, expense budget and cash flow projection. Keep assumptions realistic and be ready to explain them. Tax treatment and reporting requirements vary by country and state, so confirm specifics with your official authority."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each section as you write and revise your plan."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/business-plan-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/business-plan-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Business Plan Checklist by ChecklistForge (https://checklistforge.com/checklist/business-plan-checklist)",
+  "updated": "2026-10-17"
+}

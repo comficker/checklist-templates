@@ -1,0 +1,216 @@
+{
+  "id": "road-trip-checklist",
+  "name": "Road Trip Checklist",
+  "description": "A complete road trip planning checklist covering route and stops, packing, snacks, entertainment and pre-departure prep.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "family",
+    "planning",
+    "travel",
+    "road-trip"
+  ],
+  "item_count": 45,
+  "sections": [
+    {
+      "title": "Route and Planning",
+      "items": [
+        {
+          "text": "Map your full route with start and end points"
+        },
+        {
+          "text": "Mark fuel, food, and rest stops along the way"
+        },
+        {
+          "text": "Book overnight lodging or campsites in advance"
+        },
+        {
+          "text": "Download offline maps and directions",
+          "note": "Cell service can drop on rural and mountain roads."
+        },
+        {
+          "text": "Check the weather and road conditions for your route"
+        },
+        {
+          "text": "Share your itinerary and arrival times with someone at home"
+        },
+        {
+          "text": "Plan scenic detours or attractions you want to see"
+        }
+      ]
+    },
+    {
+      "title": "Documents and Money",
+      "items": [
+        {
+          "text": "Driver's license and vehicle registration"
+        },
+        {
+          "text": "Proof of insurance"
+        },
+        {
+          "text": "Reservation confirmations for lodging and attractions"
+        },
+        {
+          "text": "Cash and a debit or credit card"
+        },
+        {
+          "text": "Roadside assistance membership card and number"
+        },
+        {
+          "text": "ID for each traveler"
+        }
+      ]
+    },
+    {
+      "title": "Car Essentials",
+      "items": [
+        {
+          "text": "Phone mount and charging cables"
+        },
+        {
+          "text": "Power bank and a 12V car charger"
+        },
+        {
+          "text": "Sunglasses and a sunshade for parked stops"
+        },
+        {
+          "text": "Reusable water bottles for everyone"
+        },
+        {
+          "text": "Trash bag and a roll of paper towels"
+        },
+        {
+          "text": "Tissues, wet wipes, and hand sanitizer"
+        },
+        {
+          "text": "Basic first-aid kit"
+        }
+      ]
+    },
+    {
+      "title": "Packing and Clothing",
+      "items": [
+        {
+          "text": "Outfits for the length of the trip plus one spare"
+        },
+        {
+          "text": "Comfortable shoes and a layer for cooler evenings"
+        },
+        {
+          "text": "Toiletries and any medications"
+        },
+        {
+          "text": "A small day bag kept in the cabin",
+          "note": "Pack what you need at stops so you avoid digging through the trunk."
+        },
+        {
+          "text": "Pillow and a light blanket for passengers"
+        },
+        {
+          "text": "Reusable shopping bag for purchases along the way"
+        }
+      ]
+    },
+    {
+      "title": "Snacks and Drinks",
+      "items": [
+        {
+          "text": "Trail mix, nuts, and dried fruit"
+        },
+        {
+          "text": "Granola or protein bars"
+        },
+        {
+          "text": "Crackers, chips, or pretzels"
+        },
+        {
+          "text": "Fresh fruit that travels well, like apples and grapes"
+        },
+        {
+          "text": "Jerky or cheese sticks"
+        },
+        {
+          "text": "Water and a few caffeinated drinks for the driver"
+        },
+        {
+          "text": "A small cooler with ice packs for perishables"
+        }
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "items": [
+        {
+          "text": "Road trip playlist and offline music"
+        },
+        {
+          "text": "Audiobooks and podcasts downloaded ahead"
+        },
+        {
+          "text": "Downloaded shows or movies on a tablet"
+        },
+        {
+          "text": "Travel games and a deck of cards"
+        },
+        {
+          "text": "Books or magazines for passengers"
+        },
+        {
+          "text": "Headphones for each traveler"
+        }
+      ]
+    },
+    {
+      "title": "Pre-Departure Checks",
+      "items": [
+        {
+          "text": "Fill the fuel tank the night before"
+        },
+        {
+          "text": "Check tire pressure and the spare tire"
+        },
+        {
+          "text": "Top off fluids and washer fluid"
+        },
+        {
+          "text": "Confirm the route and first stop with everyone"
+        },
+        {
+          "text": "Lock up the house and adjust the thermostat"
+        },
+        {
+          "text": "Charge all phones and devices fully"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I plan a road trip route?",
+      "a": "Map your start and end points, then mark fuel stops, meals, and overnight stays roughly every two to three hours of driving. Build in extra time for breaks and detours, and save an offline copy of the route in case you lose signal."
+    },
+    {
+      "q": "What should I pack for a road trip?",
+      "a": "Pack clothing for the trip length, a small bag of car essentials within reach, phone chargers, snacks and water, and any documents you need. Keep a separate day bag in the cabin so you do not have to dig through the trunk at every stop."
+    },
+    {
+      "q": "What snacks are best for a road trip?",
+      "a": "Choose mess-free, non-perishable snacks like trail mix, granola bars, fruit, crackers, and jerky, plus plenty of water. Keep them in an easy-to-reach bag or small cooler so the driver and passengers can grab a bite without stopping."
+    },
+    {
+      "q": "Can I print this road trip checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you plan your route and pack the car."
+    },
+    {
+      "q": "How do I keep kids entertained on a road trip?",
+      "a": "Pack downloaded shows and music, audiobooks, travel games, and a few small surprises to reveal during long stretches. Plan stops at parks or attractions so everyone can stretch and burn off energy."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/road-trip-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/road-trip-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Road Trip Checklist by ChecklistForge (https://checklistforge.com/checklist/road-trip-checklist)",
+  "updated": "2026-10-18"
+}

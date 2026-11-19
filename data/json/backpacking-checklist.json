@@ -1,0 +1,208 @@
+{
+  "id": "backpacking-checklist",
+  "name": "Backpacking Checklist",
+  "description": "A multi-day backpacking checklist covering the pack, shelter and sleep system, food, water treatment and lightweight gear.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "camping",
+    "outdoors",
+    "travel",
+    "backpacking",
+    "lightweight"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Pack and Carry",
+      "items": [
+        {
+          "text": "Backpacking pack sized for your trip length"
+        },
+        {
+          "text": "Pack rain cover or a pack liner"
+        },
+        {
+          "text": "Stuff sacks and dry bags to organize gear"
+        },
+        {
+          "text": "Hip-belt pockets for snacks and small items"
+        },
+        {
+          "text": "Trekking poles",
+          "note": "Poles ease the load on long climbs and descents."
+        }
+      ]
+    },
+    {
+      "title": "Shelter and Sleep System",
+      "items": [
+        {
+          "text": "Lightweight tent, tarp, or hammock"
+        },
+        {
+          "text": "Footprint or ground sheet"
+        },
+        {
+          "text": "Sleeping bag or quilt rated for the conditions"
+        },
+        {
+          "text": "Insulated sleeping pad"
+        },
+        {
+          "text": "Compact inflatable pillow"
+        },
+        {
+          "text": "Stakes, guy lines, and a small repair kit"
+        }
+      ]
+    },
+    {
+      "title": "Cooking and Food",
+      "items": [
+        {
+          "text": "Lightweight stove and fuel canister"
+        },
+        {
+          "text": "Lighter and backup matches"
+        },
+        {
+          "text": "Pot and a long spork"
+        },
+        {
+          "text": "Dehydrated or no-cook meals planned per day"
+        },
+        {
+          "text": "Calorie-dense snacks: bars, nuts, dried fruit"
+        },
+        {
+          "text": "Bear canister or hang bag where required",
+          "note": "Store all food and scented items away from your sleep area."
+        }
+      ]
+    },
+    {
+      "title": "Water Treatment",
+      "items": [
+        {
+          "text": "Water filter or purifier"
+        },
+        {
+          "text": "Chemical tablets as a backup method"
+        },
+        {
+          "text": "Collapsible bottles or a hydration reservoir"
+        },
+        {
+          "text": "Dirty-water bag for collecting from sources"
+        },
+        {
+          "text": "Notes on water sources along your route"
+        }
+      ]
+    },
+    {
+      "title": "Clothing (Layered and Light)",
+      "items": [
+        {
+          "text": "Moisture-wicking base layers"
+        },
+        {
+          "text": "Insulating jacket (down or synthetic)"
+        },
+        {
+          "text": "Waterproof, breathable rain shell"
+        },
+        {
+          "text": "Quick-dry hiking pants or convertible pants"
+        },
+        {
+          "text": "Extra socks and underwear"
+        },
+        {
+          "text": "Warm hat, gloves, and a buff"
+        },
+        {
+          "text": "Camp shoes or lightweight sandals"
+        }
+      ]
+    },
+    {
+      "title": "Navigation and Safety",
+      "items": [
+        {
+          "text": "Map, compass, and route notes"
+        },
+        {
+          "text": "GPS or phone with offline maps and a power bank"
+        },
+        {
+          "text": "Headlamp with extra batteries"
+        },
+        {
+          "text": "First-aid kit with blister care"
+        },
+        {
+          "text": "Emergency shelter and a whistle"
+        },
+        {
+          "text": "Permits and any required documentation"
+        },
+        {
+          "text": "Check the forecast and conditions and share your route",
+          "note": "Tell someone your itinerary and expected return."
+        }
+      ]
+    },
+    {
+      "title": "Hygiene and Repair",
+      "items": [
+        {
+          "text": "Trowel, toilet paper, and a waste bag"
+        },
+        {
+          "text": "Travel toothbrush and biodegradable soap"
+        },
+        {
+          "text": "Hand sanitizer and wet wipes"
+        },
+        {
+          "text": "Sunscreen, lip balm, and insect repellent"
+        },
+        {
+          "text": "Repair tape, cordage, and a small multi-tool"
+        },
+        {
+          "text": "Sewing kit or gear-specific patch kit"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need for a multi-day backpacking trip?",
+      "a": "You need a backpacking pack, a lightweight tent or tarp, a sleeping bag and pad, a compact stove, food, and a water-treatment method. Add layered clothing, navigation, a first-aid kit, and a way to call for help, choosing the lightest version of each item."
+    },
+    {
+      "q": "How is backpacking different from hiking?",
+      "a": "Hiking usually means a day on the trail with a small daypack, while backpacking means carrying multi-day gear, including shelter, sleep, and food, and camping overnight in the backcountry. Backpacking demands more planning around weight, water, and food."
+    },
+    {
+      "q": "How do I treat water while backpacking?",
+      "a": "Use a pump or squeeze filter, a UV purifier, or chemical tablets to make backcountry water safe to drink. Carry a primary method plus a lightweight backup, and plan your route around reliable water sources."
+    },
+    {
+      "q": "Can I print this backpacking checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you load your pack and check your total weight."
+    },
+    {
+      "q": "How heavy should my backpack be?",
+      "a": "Many backpackers aim to keep a loaded pack around 20 percent of body weight or less, not counting food and water. Choose lightweight, multi-use gear, repackage food, and leave behind anything you will not realistically use."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/backpacking-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/backpacking-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Backpacking Checklist by ChecklistForge (https://checklistforge.com/checklist/backpacking-checklist)",
+  "updated": "2026-10-17"
+}

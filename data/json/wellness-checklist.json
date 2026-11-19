@@ -1,0 +1,181 @@
+{
+  "id": "wellness-checklist",
+  "name": "Wellness Checklist",
+  "description": "A periodic review across the key dimensions of your overall wellbeing.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "mental-health",
+    "self-care"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Physical Wellness",
+      "items": [
+        {
+          "text": "Review whether you are moving your body regularly"
+        },
+        {
+          "text": "Check that you are eating balanced meals most days"
+        },
+        {
+          "text": "Assess your sleep quality and consistency",
+          "note": "Sleep underpins nearly every other area of wellness."
+        },
+        {
+          "text": "Note your hydration and caffeine or alcohol intake"
+        },
+        {
+          "text": "Confirm health checkups and screenings are up to date"
+        },
+        {
+          "text": "Notice your energy levels and any recurring aches"
+        }
+      ]
+    },
+    {
+      "title": "Mental Wellness",
+      "items": [
+        {
+          "text": "Reflect on your stress levels over the past weeks"
+        },
+        {
+          "text": "Check whether you are giving your mind real rest"
+        },
+        {
+          "text": "Notice your focus, motivation, and mental clarity"
+        },
+        {
+          "text": "Review your screen time and information overload"
+        },
+        {
+          "text": "Consider whether you are still learning or growing"
+        },
+        {
+          "text": "Note any persistent worry that needs more support"
+        }
+      ]
+    },
+    {
+      "title": "Emotional Wellness",
+      "items": [
+        {
+          "text": "Reflect honestly on your overall mood lately"
+        },
+        {
+          "text": "Notice whether you allow yourself to feel and process emotions"
+        },
+        {
+          "text": "Check how kindly you have been treating yourself",
+          "note": "Self-compassion is a key marker of emotional wellbeing."
+        },
+        {
+          "text": "Identify what has been lifting or draining you emotionally"
+        },
+        {
+          "text": "Consider whether you need more rest, joy, or support"
+        },
+        {
+          "text": "Note if low mood has lasted and may need professional help"
+        }
+      ]
+    },
+    {
+      "title": "Social Wellness",
+      "items": [
+        {
+          "text": "Review how connected you feel to the people in your life"
+        },
+        {
+          "text": "Check whether you have spent quality time with loved ones"
+        },
+        {
+          "text": "Notice if any relationships need attention or repair"
+        },
+        {
+          "text": "Assess your boundaries and whether you are overextended"
+        },
+        {
+          "text": "Consider reaching out to someone you have lost touch with"
+        },
+        {
+          "text": "Reflect on whether your social time energizes or drains you"
+        }
+      ]
+    },
+    {
+      "title": "Financial Wellness",
+      "items": [
+        {
+          "text": "Review your spending against your budget or goals"
+        },
+        {
+          "text": "Check the status of any savings or emergency fund"
+        },
+        {
+          "text": "Confirm bills and payments are on track"
+        },
+        {
+          "text": "Notice whether money is a frequent source of stress"
+        },
+        {
+          "text": "Set or revisit one realistic financial goal"
+        },
+        {
+          "text": "Plan a small next step toward greater financial stability"
+        }
+      ]
+    },
+    {
+      "title": "Reflect and Set Intentions",
+      "items": [
+        {
+          "text": "Identify which area feels strongest right now"
+        },
+        {
+          "text": "Notice which one or two areas need the most attention"
+        },
+        {
+          "text": "Choose one small change to focus on next"
+        },
+        {
+          "text": "Acknowledge what is already going well"
+        },
+        {
+          "text": "Schedule your next wellness review",
+          "note": "Regular check-ins keep small issues from growing."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the dimensions of wellness?",
+      "a": "Wellness is often broken into several areas: physical, mental, emotional, social, and financial, and sometimes spiritual or occupational too. Looking at each one helps you see the bigger picture of your wellbeing rather than focusing on a single habit in isolation."
+    },
+    {
+      "q": "How often should I do a wellness review?",
+      "a": "A monthly or seasonal check-in works well for most people, with a quick look whenever you feel out of balance. Regular reviews help you catch small issues early and notice patterns before one neglected area starts affecting the others."
+    },
+    {
+      "q": "How is this different from a self-care checklist?",
+      "a": "A self-care checklist focuses on day-to-day acts that support you in the moment. This wellness checklist is a wider, periodic review across the main dimensions of your life, helping you reflect, spot gaps, and set intentions rather than complete daily tasks."
+    },
+    {
+      "q": "What if several areas need attention at once?",
+      "a": "That is normal and common. Rather than trying to fix everything, pick just one or two areas to focus on first. Small, steady improvements in one area often lift the others, since the dimensions of wellness are connected."
+    },
+    {
+      "q": "Can I print this wellness checklist?",
+      "a": "Yes. This checklist is free to print and download as a PDF. Keep it somewhere you will revisit, or save it to your phone, so you can run a regular wellness review and keep your life in healthier balance."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wellness-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wellness-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wellness Checklist by ChecklistForge (https://checklistforge.com/checklist/wellness-checklist)",
+  "updated": "2026-10-18"
+}

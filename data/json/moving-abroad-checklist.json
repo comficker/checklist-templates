@@ -1,0 +1,184 @@
+{
+  "id": "moving-abroad-checklist",
+  "name": "Moving Abroad Checklist",
+  "description": "A complete moving abroad checklist covering visas and documents, finances, housing, healthcare, logistics and settling in.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "planning",
+    "travel",
+    "moving-abroad",
+    "relocation",
+    "visa"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Visas and Legal Documents",
+      "items": [
+        {
+          "text": "Confirm the correct visa or residence permit for your situation",
+          "note": "Requirements vary by country and change often — check official government and consulate sources."
+        },
+        {
+          "text": "Ensure your passport is valid well beyond your move date"
+        },
+        {
+          "text": "Gather birth, marriage, and academic certificates"
+        },
+        {
+          "text": "Get documents translated, notarized, or apostilled as required"
+        },
+        {
+          "text": "Check work authorization or sponsorship requirements"
+        },
+        {
+          "text": "Make copies of every key document, stored separately"
+        }
+      ]
+    },
+    {
+      "title": "Finances and Taxes",
+      "items": [
+        {
+          "text": "Open or research a bank account in the new country"
+        },
+        {
+          "text": "Notify your current bank and set up online access"
+        },
+        {
+          "text": "Understand tax obligations in both countries",
+          "note": "Cross-border tax rules are complex — consult an official tax authority or advisor."
+        },
+        {
+          "text": "Budget for the move, deposits, and initial living costs"
+        },
+        {
+          "text": "Set up a way to transfer money internationally"
+        },
+        {
+          "text": "Update billing addresses and cancel local subscriptions"
+        }
+      ]
+    },
+    {
+      "title": "Housing and Logistics",
+      "items": [
+        {
+          "text": "Research neighborhoods and arrange temporary housing"
+        },
+        {
+          "text": "Secure a rental or accommodation before or soon after arrival"
+        },
+        {
+          "text": "Get quotes from international moving and shipping companies"
+        },
+        {
+          "text": "Decide what to ship, sell, store, or donate"
+        },
+        {
+          "text": "Arrange storage for anything you keep behind"
+        },
+        {
+          "text": "Plan customs paperwork for shipped belongings"
+        }
+      ]
+    },
+    {
+      "title": "Healthcare and Insurance",
+      "items": [
+        {
+          "text": "Research the destination's healthcare system"
+        },
+        {
+          "text": "Arrange international or local health insurance"
+        },
+        {
+          "text": "Collect medical and vaccination records"
+        },
+        {
+          "text": "Refill and pack essential medications"
+        },
+        {
+          "text": "Check required vaccinations for the destination"
+        },
+        {
+          "text": "Find out how to register for local healthcare"
+        }
+      ]
+    },
+    {
+      "title": "Before You Leave",
+      "items": [
+        {
+          "text": "Give notice on your current home and job"
+        },
+        {
+          "text": "Cancel or transfer utilities and services"
+        },
+        {
+          "text": "Set up mail forwarding"
+        },
+        {
+          "text": "Notify government agencies of your departure"
+        },
+        {
+          "text": "Arrange pet relocation and required paperwork"
+        },
+        {
+          "text": "Book flights and confirm baggage allowances"
+        }
+      ]
+    },
+    {
+      "title": "Settling In",
+      "items": [
+        {
+          "text": "Register your address with local authorities if required"
+        },
+        {
+          "text": "Apply for a local ID, tax, or social security number"
+        },
+        {
+          "text": "Set up a local bank account and phone plan"
+        },
+        {
+          "text": "Register for healthcare and find a doctor"
+        },
+        {
+          "text": "Learn local transport and exchange your license if needed"
+        },
+        {
+          "text": "Connect with expat or community groups for support"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need to move to another country?",
+      "a": "You typically need the right visa or residence permit, a valid passport, proof of finances, health insurance, and housing arranged before or soon after arrival. Requirements vary by country, so confirm exactly what applies to you with official government and consulate sources."
+    },
+    {
+      "q": "How far in advance should I plan a move abroad?",
+      "a": "Start planning at least three to six months ahead, and longer if your visa process is lengthy. Visas, document legalization, shipping, and lease arrangements all take time, so begin paperwork early to avoid delays close to your move date."
+    },
+    {
+      "q": "What documents do I need to relocate overseas?",
+      "a": "Common documents include your passport, visa, birth and marriage certificates, academic and professional records, medical records, and a driver's license. Many must be translated or apostilled, so check the exact requirements with the destination country's official authorities."
+    },
+    {
+      "q": "Can I print this moving abroad checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each task across the months leading up to and following your move."
+    },
+    {
+      "q": "How do I handle healthcare when moving abroad?",
+      "a": "Research your destination's healthcare system, arrange international or local health insurance, and gather your medical and vaccination records. Confirm how to register for care and whether you need coverage in place before you arrive, using official health-service sources."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/moving-abroad-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/moving-abroad-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Moving Abroad Checklist by ChecklistForge (https://checklistforge.com/checklist/moving-abroad-checklist)",
+  "updated": "2026-10-17"
+}

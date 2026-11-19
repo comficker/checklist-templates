@@ -1,0 +1,182 @@
+{
+  "id": "scaffold-inspection-checklist",
+  "name": "Scaffold Inspection Checklist",
+  "description": "A checklist for inspecting scaffolds before each shift.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "osha",
+    "scaffold-inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Foundation and base",
+      "items": [
+        {
+          "text": "Confirm the ground is firm, level and capable of supporting the load."
+        },
+        {
+          "text": "Check base plates and mud sills are in place and seated."
+        },
+        {
+          "text": "Verify screw jacks are not over-extended beyond their limit."
+        },
+        {
+          "text": "Confirm the scaffold is plumb and level.",
+          "note": "A competent person must judge whether the base and footing are adequate per OSHA 1926 subpart L."
+        },
+        {
+          "text": "Check casters are locked on mobile scaffolds."
+        },
+        {
+          "text": "Verify nothing has undermined or eroded the footing."
+        }
+      ]
+    },
+    {
+      "title": "Frames and bracing",
+      "items": [
+        {
+          "text": "Inspect frames and standards for bends, cracks or corrosion."
+        },
+        {
+          "text": "Confirm cross bracing is fitted and pinned correctly."
+        },
+        {
+          "text": "Check couplers and connections are tight and undamaged."
+        },
+        {
+          "text": "Verify locking pins and clips are engaged at each level."
+        },
+        {
+          "text": "Confirm components are compatible and not mixed improperly."
+        },
+        {
+          "text": "Check the scaffold has not been altered without authorization."
+        }
+      ]
+    },
+    {
+      "title": "Platforms and planking",
+      "items": [
+        {
+          "text": "Confirm platforms are fully planked with no gaps over the limit."
+        },
+        {
+          "text": "Inspect planks for cracks, splits, warping or rot."
+        },
+        {
+          "text": "Verify planks are scaffold-grade and rated for the load."
+        },
+        {
+          "text": "Check planks overlap or are cleated to prevent movement."
+        },
+        {
+          "text": "Confirm platforms are clear of debris, ice and tripping hazards."
+        },
+        {
+          "text": "Verify the platform is not overloaded with materials."
+        }
+      ]
+    },
+    {
+      "title": "Guardrails and fall protection",
+      "items": [
+        {
+          "text": "Confirm top rails are fitted at the required height."
+        },
+        {
+          "text": "Check mid-rails are in place between top rail and platform."
+        },
+        {
+          "text": "Verify toeboards are fitted to prevent falling objects."
+        },
+        {
+          "text": "Confirm fall protection is provided above OSHA trigger heights."
+        },
+        {
+          "text": "Check anchor points for personal fall arrest where used."
+        },
+        {
+          "text": "Verify openings and gaps are guarded or covered."
+        }
+      ]
+    },
+    {
+      "title": "Access and clearances",
+      "items": [
+        {
+          "text": "Confirm safe access such as a ladder or stair tower is provided."
+        },
+        {
+          "text": "Check that workers do not climb cross braces for access."
+        },
+        {
+          "text": "Verify access points are clear and secured."
+        },
+        {
+          "text": "Confirm safe clearance from power lines is maintained."
+        },
+        {
+          "text": "Check overhead protection where work is above."
+        },
+        {
+          "text": "Verify the area below is barricaded where needed."
+        }
+      ]
+    },
+    {
+      "title": "Ties, stability and records",
+      "items": [
+        {
+          "text": "Confirm the scaffold is tied to the structure at required intervals."
+        },
+        {
+          "text": "Check the height-to-base ratio is within safe limits or stabilized."
+        },
+        {
+          "text": "Verify outriggers or stabilizers are fitted where required."
+        },
+        {
+          "text": "Confirm weather and wind conditions are safe for use."
+        },
+        {
+          "text": "Tag the scaffold green, yellow or red per its condition."
+        },
+        {
+          "text": "Record the inspection and competent person, then sign and date."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a scaffold inspection checklist?",
+      "a": "It's a pre-shift list used by a competent person to confirm a scaffold is safe, covering the base, frames, planking, guardrails, access and ties. Each item is marked pass or fail before workers are allowed on the scaffold."
+    },
+    {
+      "q": "Who must inspect a scaffold?",
+      "a": "OSHA requires a competent person to inspect scaffolds, who has the knowledge to identify hazards and the authority to correct them. Routine operators may not authorize use until the competent person has cleared the scaffold."
+    },
+    {
+      "q": "How often must scaffolds be inspected?",
+      "a": "Before each work shift and after any occurrence that could affect structural integrity, such as a storm, impact, overload or modification. The result is typically shown on a scaffold tag."
+    },
+    {
+      "q": "When should a scaffold be tagged out of use?",
+      "a": "Whenever an unsafe condition is found, such as missing guardrails, gapped planking, an unstable base or damaged components. Tag it do-not-use and keep workers off until the competent person verifies repairs."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the scaffold inspection checklist for the job site or logbook, or download the PDF to complete on a tablet and keep with your safety records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/scaffold-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/scaffold-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Scaffold Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/scaffold-inspection-checklist)",
+  "updated": "2026-10-20"
+}

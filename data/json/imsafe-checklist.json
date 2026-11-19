@@ -1,0 +1,171 @@
+{
+  "id": "imsafe-checklist",
+  "name": "IMSAFE Checklist",
+  "description": "A pre-flight self-assessment for pilots that walks through each IMSAFE letter, followed by a short PAVE risk check.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "aviation",
+    "pilot",
+    "flight-safety",
+    "faa",
+    "pre-flight"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "I – Illness",
+      "items": [
+        {
+          "text": "Ask: Do I have any symptoms, even a mild cold?"
+        },
+        {
+          "text": "Check for a blocked nose or ears that could hurt during descent",
+          "note": "Congestion can stop your ears and sinuses from clearing as pressure changes. This can cause severe pain or a burst eardrum."
+        },
+        {
+          "text": "Ask: Is there any condition that would make me fail my medical?"
+        },
+        {
+          "text": "Ask: Have I been scuba diving in the last 24 hours?",
+          "note": "The AIM advises waiting at least 12 hours after diving before flying up to 8,000 ft, and 24 hours after any dive that needed a controlled ascent or before flying higher."
+        }
+      ]
+    },
+    {
+      "title": "M – Medication",
+      "items": [
+        {
+          "text": "List every prescription and over-the-counter drug taken recently"
+        },
+        {
+          "text": "Do not fly on the first doses of a new drug until you know how it affects you"
+        },
+        {
+          "text": "Check labels for warnings about drowsiness or operating machinery"
+        },
+        {
+          "text": "Wait five dosing intervals after a sedating drug before flying",
+          "note": "Diphenhydramine, found in many sleep aids and allergy pills, is a common example."
+        },
+        {
+          "text": "Ask: Is the condition I am treating itself a reason not to fly?"
+        }
+      ]
+    },
+    {
+      "title": "S – Stress",
+      "items": [
+        {
+          "text": "Ask: Am I under pressure from work, money, health or family?"
+        },
+        {
+          "text": "Ask: Is anything on my mind that will pull my attention from flying?"
+        },
+        {
+          "text": "Ask: Have I had a big life change lately, such as a move, new job or loss?"
+        },
+        {
+          "text": "Ask: Am I rushing to meet a deadline for this flight?"
+        }
+      ]
+    },
+    {
+      "title": "A – Alcohol",
+      "items": [
+        {
+          "text": "Confirm at least 8 hours since your last drink (14 CFR 91.17)",
+          "note": "This is the legal minimum. Many pilots use a personal limit of 12 to 24 hours."
+        },
+        {
+          "text": "Confirm your blood alcohol is below 0.04 percent"
+        },
+        {
+          "text": "Ask: Do I have any hangover symptoms such as headache or nausea?"
+        },
+        {
+          "text": "Ask: Am I still under the influence of anything I took last night?"
+        }
+      ]
+    },
+    {
+      "title": "F – Fatigue",
+      "items": [
+        {
+          "text": "Ask: Did I get a full night of good sleep?"
+        },
+        {
+          "text": "Ask: How long have I been awake, and how long will I be by landing?"
+        },
+        {
+          "text": "Ask: Will this flight run into my normal sleep time?"
+        },
+        {
+          "text": "Ask: Am I yawning, losing focus or rereading things?"
+        }
+      ]
+    },
+    {
+      "title": "E – Emotion (and Eating)",
+      "items": [
+        {
+          "text": "Ask: Am I upset, angry or grieving after a recent event?"
+        },
+        {
+          "text": "Ask: Am I feeling overconfident or that I have something to prove?"
+        },
+        {
+          "text": "Ask: Have I eaten a proper meal in the last few hours?"
+        },
+        {
+          "text": "Bring water and a snack for flights over an hour",
+          "note": "Low blood sugar and mild dehydration both slow thinking and can feel like fatigue."
+        }
+      ]
+    },
+    {
+      "title": "PAVE Risk Check",
+      "items": [
+        {
+          "text": "Pilot: Am I current, proficient and IMSAFE for this flight?"
+        },
+        {
+          "text": "Aircraft: Is it airworthy, fueled, within weight and balance, and equipped for this flight?"
+        },
+        {
+          "text": "enVironment: Are weather, terrain, airports and daylight within my personal minimums?"
+        },
+        {
+          "text": "External pressures: Am I willing to delay or cancel if things change?",
+          "note": "Have a backup plan, such as a hotel, rental car or later flight, so get-there-itis does not decide for you."
+        },
+        {
+          "text": "Go / No-go decision: ____  Date: ____  Pilot: ____"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does IMSAFE stand for?",
+      "a": "Illness, Medication, Stress, Alcohol, Fatigue and Emotion. Some older or school versions use Eating for the E, to remind pilots to eat and drink water before a flight. Many pilots check both."
+    },
+    {
+      "q": "What is the FAA alcohol rule for pilots?",
+      "a": "Under 14 CFR 91.17, you may not act as a crewmember within 8 hours of drinking alcohol, while under its influence, or with a blood or breath alcohol level of 0.04 percent or more. You must meet all three. Many pilots and airlines set a stricter personal rule of 12 to 24 hours."
+    },
+    {
+      "q": "Can I fly after taking cold or allergy medicine?",
+      "a": "Many over-the-counter cold and allergy drugs cause drowsiness and are not safe for flying. FAA guidance for sedating drugs is to wait at least five times the longest dosing interval after the last dose. For a drug taken every 6 hours, that is 30 hours. Ask an aviation medical examiner if you are unsure."
+    },
+    {
+      "q": "How is IMSAFE different from PAVE?",
+      "a": "IMSAFE checks only you, the pilot. PAVE checks the whole flight: the pilot (including IMSAFE), the aircraft, the environment such as weather and terrain, and external pressures such as schedules and passengers. Use IMSAFE first, then PAVE."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/imsafe-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/imsafe-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "IMSAFE Checklist by ChecklistForge (https://checklistforge.com/checklist/imsafe-checklist)",
+  "updated": "2026-10-18"
+}

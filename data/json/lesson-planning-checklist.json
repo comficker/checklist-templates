@@ -1,0 +1,183 @@
+{
+  "id": "lesson-planning-checklist",
+  "name": "Lesson Planning Checklist",
+  "description": "A step-by-step checklist for teachers planning a clear, effective and well-structured lesson.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "classroom",
+    "teacher",
+    "teaching",
+    "curriculum",
+    "lesson-planning"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Define objectives and standards",
+      "items": [
+        {
+          "text": "Identify the standard or learning outcome the lesson serves."
+        },
+        {
+          "text": "Write a clear, measurable objective for the lesson."
+        },
+        {
+          "text": "Decide what students should know or do by the end."
+        },
+        {
+          "text": "Connect the lesson to prior and upcoming content."
+        },
+        {
+          "text": "Note key vocabulary students must understand."
+        },
+        {
+          "text": "Plan how the objective will be shared with students."
+        }
+      ]
+    },
+    {
+      "title": "Plan the lesson structure",
+      "items": [
+        {
+          "text": "Design a hook or warm-up to open the lesson."
+        },
+        {
+          "text": "Outline how you will teach or model the new content."
+        },
+        {
+          "text": "Plan guided practice with support before release."
+        },
+        {
+          "text": "Build in independent practice or application time."
+        },
+        {
+          "text": "Plan a closing review that revisits the objective.",
+          "note": "A short exit ticket works well as a close."
+        },
+        {
+          "text": "Estimate timing for each segment of the lesson."
+        }
+      ]
+    },
+    {
+      "title": "Prepare materials and resources",
+      "items": [
+        {
+          "text": "List every handout, worksheet and resource needed."
+        },
+        {
+          "text": "Copy or print materials with a few spares."
+        },
+        {
+          "text": "Prepare slides, visuals or anchor charts."
+        },
+        {
+          "text": "Gather manipulatives, tools or lab supplies."
+        },
+        {
+          "text": "Test any technology, links and media in advance."
+        },
+        {
+          "text": "Arrange the room setup the lesson requires."
+        }
+      ]
+    },
+    {
+      "title": "Plan activities and engagement",
+      "items": [
+        {
+          "text": "Choose activities that move students toward the objective."
+        },
+        {
+          "text": "Mix individual, partner and group work as needed."
+        },
+        {
+          "text": "Prepare clear directions and examples for each task."
+        },
+        {
+          "text": "Plan questions that prompt thinking and discussion."
+        },
+        {
+          "text": "Build in active participation, not just listening."
+        },
+        {
+          "text": "Prepare a backup or extension activity for extra time."
+        }
+      ]
+    },
+    {
+      "title": "Differentiation and support",
+      "items": [
+        {
+          "text": "Identify students who need scaffolds or accommodations."
+        },
+        {
+          "text": "Plan supports such as sentence starters or visuals."
+        },
+        {
+          "text": "Prepare extension tasks for students who finish early."
+        },
+        {
+          "text": "Decide how to group students for the activities."
+        },
+        {
+          "text": "Plan adjustments for English learners or special needs."
+        },
+        {
+          "text": "Note where you can vary pacing or difficulty."
+        }
+      ]
+    },
+    {
+      "title": "Assessment and reflection",
+      "items": [
+        {
+          "text": "Decide how you will check understanding during the lesson."
+        },
+        {
+          "text": "Plan a formative or exit assessment tied to the objective."
+        },
+        {
+          "text": "Prepare a rubric or success criteria if grading."
+        },
+        {
+          "text": "Plan how results will inform the next lesson."
+        },
+        {
+          "text": "Leave space to note what worked after teaching."
+        },
+        {
+          "text": "Record any reteaching the class may need."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes a strong lesson objective?",
+      "a": "A strong objective is specific, measurable and stated in terms of what students will be able to do by the end of the lesson. It guides every other choice you make, from the activities you select to how you check whether students actually reached the goal."
+    },
+    {
+      "q": "How do I align a lesson to standards?",
+      "a": "Identify the standard or learning outcome the lesson serves, then make sure your objective, activities and assessment all connect back to it. Aligning to standards keeps lessons purposeful and ensures you are covering required content over the unit and year."
+    },
+    {
+      "q": "How should I structure a single lesson?",
+      "a": "Open with a hook or warm-up, teach or model the new content, give students guided then independent practice, and close with a quick review. This arc keeps students engaged, moves them toward the objective, and leaves time to check understanding."
+    },
+    {
+      "q": "Why is differentiation part of lesson planning?",
+      "a": "Students arrive at different levels, so planning supports and extensions in advance helps everyone access the lesson. Differentiation can mean varied tasks, scaffolds, grouping or pacing, and planning it ahead of time prevents scrambling during class."
+    },
+    {
+      "q": "Is this lesson planning checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep in your planner, then tick off each step as you build a lesson so nothing from objectives to assessment gets overlooked."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/lesson-planning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/lesson-planning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Lesson Planning Checklist by ChecklistForge (https://checklistforge.com/checklist/lesson-planning-checklist)",
+  "updated": "2026-10-17"
+}

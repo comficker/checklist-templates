@@ -1,0 +1,166 @@
+{
+  "id": "morning-routine-checklist",
+  "name": "Morning Routine Checklist",
+  "description": "A step-by-step checklist for building a calm, healthy, and productive morning routine.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "self-care",
+    "morning-routine"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Wake Up Gently",
+      "items": [
+        {
+          "text": "Wake up at a consistent time, even on weekends",
+          "note": "A steady wake time helps regulate your energy and sleep."
+        },
+        {
+          "text": "Avoid hitting snooze and get out of bed once your alarm sounds"
+        },
+        {
+          "text": "Open the curtains or step outside for natural light"
+        },
+        {
+          "text": "Take a few slow, deep breaths before reaching for your phone"
+        },
+        {
+          "text": "Make your bed to start the day with one small win"
+        }
+      ]
+    },
+    {
+      "title": "Hydrate and Nourish",
+      "items": [
+        {
+          "text": "Drink a full glass of water to rehydrate after sleep"
+        },
+        {
+          "text": "Eat a balanced breakfast with protein and fiber",
+          "note": "A steady breakfast helps avoid mid-morning energy crashes."
+        },
+        {
+          "text": "Enjoy your coffee or tea mindfully rather than rushing it"
+        },
+        {
+          "text": "Take any vitamins or medication you usually have in the morning"
+        },
+        {
+          "text": "Avoid sugary drinks or snacks first thing where you can"
+        }
+      ]
+    },
+    {
+      "title": "Move Your Body",
+      "items": [
+        {
+          "text": "Stretch for a few minutes to loosen up after sleep"
+        },
+        {
+          "text": "Do a short walk, workout, or yoga session"
+        },
+        {
+          "text": "Step outside for fresh air if the weather allows"
+        },
+        {
+          "text": "Stand tall and roll your shoulders to reset your posture"
+        },
+        {
+          "text": "Keep movement gentle and realistic for a weekday morning"
+        }
+      ]
+    },
+    {
+      "title": "Calm Your Mind",
+      "items": [
+        {
+          "text": "Spend a few minutes on meditation, prayer, or quiet breathing"
+        },
+        {
+          "text": "Write down one to three things you are grateful for",
+          "note": "Gratitude in the morning can lift your mood for the whole day."
+        },
+        {
+          "text": "Set a calm intention or word for how you want the day to feel"
+        },
+        {
+          "text": "Avoid scrolling news or social media until you feel settled"
+        },
+        {
+          "text": "Read a few pages or listen to something uplifting"
+        }
+      ]
+    },
+    {
+      "title": "Plan Your Day",
+      "items": [
+        {
+          "text": "Review your calendar and key appointments for the day"
+        },
+        {
+          "text": "Choose your top one to three priorities for the day"
+        },
+        {
+          "text": "Write a short, realistic to-do list"
+        },
+        {
+          "text": "Note anything time-sensitive you must not forget"
+        },
+        {
+          "text": "Pack your bag and prepare what you need before leaving"
+        }
+      ]
+    },
+    {
+      "title": "Get Ready and Go",
+      "items": [
+        {
+          "text": "Wash up, brush your teeth, and follow your skincare routine"
+        },
+        {
+          "text": "Get dressed in something that makes you feel ready"
+        },
+        {
+          "text": "Tidy your space quickly so you return to calm later"
+        },
+        {
+          "text": "Do a final check of keys, wallet, phone, and essentials"
+        },
+        {
+          "text": "Leave with a little buffer time so you are not rushing"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long should a morning routine take?",
+      "a": "There is no fixed length. A useful routine can take 10 minutes or an hour. Start with a short version you can actually keep, then expand it only if you want to. Consistency every day beats a long routine you skip when life gets busy."
+    },
+    {
+      "q": "What should I do first thing in the morning?",
+      "a": "Many people feel best starting with natural light, a glass of water, and a few minutes of gentle movement or stretching. Getting daylight early can help your body wake up and supports a steadier mood and sleep rhythm."
+    },
+    {
+      "q": "Should I check my phone right after waking up?",
+      "a": "Try to delay it. Jumping straight into messages and news can spike stress before your day starts. Many people prefer to handle a few calm, grounding steps first, then check their phone once they feel settled."
+    },
+    {
+      "q": "How do I stick to a morning routine?",
+      "a": "Keep it small, put the checklist somewhere visible, and attach new habits to things you already do, like brushing your teeth. Prepare the night before, be flexible on busy days, and restart without guilt if you miss a morning."
+    },
+    {
+      "q": "Can I print this morning routine checklist?",
+      "a": "Yes. This checklist is free to use, print, and download as a PDF. Post it where you start your day, or keep it on your phone so you can check off each step and build a routine that sticks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/morning-routine-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/morning-routine-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Morning Routine Checklist by ChecklistForge (https://checklistforge.com/checklist/morning-routine-checklist)",
+  "updated": "2026-10-18"
+}

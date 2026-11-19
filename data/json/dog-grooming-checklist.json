@@ -1,0 +1,185 @@
+{
+  "id": "dog-grooming-checklist",
+  "name": "Dog Grooming Checklist",
+  "description": "A dog grooming checklist for owners covering brushing, bathing, nails, ears, teeth and coat.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "grooming",
+    "coat-care",
+    "dogs"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Gather grooming supplies",
+      "items": [
+        {
+          "text": "Choose the right brush or comb for your dog's coat type."
+        },
+        {
+          "text": "Get a gentle, dog-specific shampoo and conditioner."
+        },
+        {
+          "text": "Have dog nail clippers or a grinder and styptic powder ready."
+        },
+        {
+          "text": "Keep a vet-recommended ear cleaner and cotton pads on hand."
+        },
+        {
+          "text": "Prepare a dog toothbrush and dog-safe toothpaste."
+        },
+        {
+          "text": "Set out towels, a non-slip mat and plenty of treats."
+        }
+      ]
+    },
+    {
+      "title": "Brushing and coat",
+      "items": [
+        {
+          "text": "Brush in the direction of hair growth to remove loose fur."
+        },
+        {
+          "text": "Work through tangles and mats gently before bathing."
+        },
+        {
+          "text": "Brush more often during shedding seasons."
+        },
+        {
+          "text": "Check the skin for fleas, ticks, lumps or irritation."
+        },
+        {
+          "text": "Trim long hair around the eyes, paws and rear as needed."
+        },
+        {
+          "text": "Reward calm behavior to keep brushing positive."
+        }
+      ]
+    },
+    {
+      "title": "Bathing",
+      "items": [
+        {
+          "text": "Brush out the coat before getting your dog wet."
+        },
+        {
+          "text": "Use lukewarm water and a dog-specific shampoo."
+        },
+        {
+          "text": "Lather thoroughly while avoiding the eyes and inside the ears."
+        },
+        {
+          "text": "Rinse completely so no shampoo residue remains."
+        },
+        {
+          "text": "Towel dry and use a dryer on low if your dog tolerates it."
+        },
+        {
+          "text": "Keep your dog warm and calm until fully dry."
+        }
+      ]
+    },
+    {
+      "title": "Nail trimming",
+      "items": [
+        {
+          "text": "Handle the paws gently to get your dog comfortable."
+        },
+        {
+          "text": "Trim a little at a time and avoid the quick."
+        },
+        {
+          "text": "Keep styptic powder nearby in case of a small cut."
+        },
+        {
+          "text": "Smooth rough edges with a file or grinder if needed."
+        },
+        {
+          "text": "Reward your dog throughout to build a positive habit."
+        },
+        {
+          "text": "Listen for nails clicking on the floor as a trim reminder.",
+          "note": "If you are unsure or your dog resists, a professional groomer or your veterinarian can help."
+        }
+      ]
+    },
+    {
+      "title": "Ears and eyes",
+      "items": [
+        {
+          "text": "Check ears for redness, odor, discharge or excess wax."
+        },
+        {
+          "text": "Clean visible areas with a vet-recommended ear cleaner."
+        },
+        {
+          "text": "Never insert cotton swabs deep into the ear canal."
+        },
+        {
+          "text": "Wipe around the eyes with a damp, soft cloth."
+        },
+        {
+          "text": "Trim hair near the eyes carefully to keep vision clear."
+        },
+        {
+          "text": "Report persistent redness, discharge or head shaking to your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Dental care",
+      "items": [
+        {
+          "text": "Introduce tooth brushing slowly with dog-safe toothpaste."
+        },
+        {
+          "text": "Brush along the gumline using gentle, small motions."
+        },
+        {
+          "text": "Aim for regular brushing, ideally most days of the week."
+        },
+        {
+          "text": "Offer dental chews or toys as a helpful supplement."
+        },
+        {
+          "text": "Watch for bad breath, red gums or trouble eating."
+        },
+        {
+          "text": "Schedule professional dental checks with your veterinarian."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult a professional groomer for coat-specific grooming and your veterinarian for skin, ear, dental or any health concerns."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I groom my dog?",
+      "a": "Brushing frequency depends on coat type, from a few times a week to daily for long or double coats. Bathe only as needed, often every few weeks to a couple of months. Check nails, ears and teeth regularly, and ask a professional groomer about your dog's coat."
+    },
+    {
+      "q": "How do I trim my dog's nails safely?",
+      "a": "Trim small amounts at a time and avoid the quick, the pink area inside the nail. Use proper dog nail clippers or a grinder and reward calm behavior. If you are unsure or hit the quick, stop and consider a professional groomer or your veterinarian."
+    },
+    {
+      "q": "How do I clean my dog's ears?",
+      "a": "Use a vet-recommended ear cleaner, gently wipe the visible part of the ear, and never push anything deep into the canal. Reward your dog and keep it brief. If you notice redness, odor, discharge or head shaking, contact your veterinarian."
+    },
+    {
+      "q": "Can I use human shampoo on my dog?",
+      "a": "No. Human shampoo can irritate a dog's skin because the pH is different. Use a gentle, dog-specific shampoo and rinse thoroughly. For itchy, flaky or irritated skin, ask your veterinarian before choosing a medicated product."
+    },
+    {
+      "q": "Can I download this dog grooming checklist as a PDF?",
+      "a": "Yes. You can print it for the bathroom or download it as a PDF for your phone, so owners have grooming steps handy on bath and brushing days."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-grooming-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-grooming-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Grooming Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-grooming-checklist)",
+  "updated": "2026-10-17"
+}

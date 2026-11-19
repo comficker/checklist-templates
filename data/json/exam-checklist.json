@@ -1,0 +1,151 @@
+{
+  "id": "exam-checklist",
+  "name": "Exam Checklist",
+  "description": "An exam checklist for the night before and the day of an exam, from materials to strategy.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "college",
+    "study",
+    "exam",
+    "test-day"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Final revision the night before",
+      "items": [
+        {
+          "text": "Review your summary notes and flashcards lightly, not new material."
+        },
+        {
+          "text": "Run through key formulas, dates or definitions one last time."
+        },
+        {
+          "text": "Do a few practice questions to warm up, then stop."
+        },
+        {
+          "text": "Skim the topics you feel least confident about."
+        },
+        {
+          "text": "Avoid cramming late into the night."
+        }
+      ]
+    },
+    {
+      "title": "Pack your materials",
+      "items": [
+        {
+          "text": "Pack your student ID and any admission or exam ticket.",
+          "note": "Many exams will not let you sit without ID."
+        },
+        {
+          "text": "Bring approved pens, pencils, erasers and a sharpener."
+        },
+        {
+          "text": "Pack a calculator with fresh or spare batteries if allowed."
+        },
+        {
+          "text": "Bring any permitted notes, formula sheet or textbook."
+        },
+        {
+          "text": "Add a watch, water bottle and a small snack."
+        },
+        {
+          "text": "Confirm what is and is not allowed in the exam room."
+        }
+      ]
+    },
+    {
+      "title": "Rest and logistics",
+      "items": [
+        {
+          "text": "Eat a normal dinner and stay hydrated."
+        },
+        {
+          "text": "Set at least one alarm and aim for a full night of sleep."
+        },
+        {
+          "text": "Lay out your clothes and bag the night before."
+        },
+        {
+          "text": "Confirm the exam location, room and start time."
+        },
+        {
+          "text": "Plan your route and leave with time to spare."
+        }
+      ]
+    },
+    {
+      "title": "Exam morning",
+      "items": [
+        {
+          "text": "Eat a steady breakfast that will not crash your energy."
+        },
+        {
+          "text": "Double-check you have your ID, supplies and ticket."
+        },
+        {
+          "text": "Arrive early to settle in and find your seat."
+        },
+        {
+          "text": "Use the restroom before the exam starts."
+        },
+        {
+          "text": "Take a few slow breaths to calm any nerves."
+        }
+      ]
+    },
+    {
+      "title": "During the exam",
+      "items": [
+        {
+          "text": "Read all instructions and the mark allocation carefully."
+        },
+        {
+          "text": "Scan the whole paper before you start writing."
+        },
+        {
+          "text": "Budget your time per question based on its marks."
+        },
+        {
+          "text": "Answer the questions you know best first."
+        },
+        {
+          "text": "Show your working so you can earn partial credit."
+        },
+        {
+          "text": "Leave a few minutes to review and check your answers."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I do the night before an exam?",
+      "a": "The night before, do a light final review rather than cramming, pack everything you need, set your alarm and lay out clothes, eat a normal meal, and get a full night of sleep so your memory and focus are at their best."
+    },
+    {
+      "q": "How is this different from a test preparation checklist?",
+      "a": "This exam checklist covers the night before and the day of the exam. A test preparation checklist is the multi-day study plan you follow in the weeks leading up to it."
+    },
+    {
+      "q": "What should I bring to an exam?",
+      "a": "Bring your student ID and any admission ticket, approved pens, pencils and erasers, a calculator with fresh batteries if allowed, a watch, water, and any permitted notes or formula sheet."
+    },
+    {
+      "q": "How can I manage time during the exam?",
+      "a": "Read all instructions first, scan the whole paper, budget time per question by marks, answer the ones you know best first, and leave a few minutes at the end to review and check your answers."
+    },
+    {
+      "q": "Can I download this exam checklist as a PDF?",
+      "a": "Yes. You can print it to pack with your supplies or download it as a PDF to your phone and run through it the morning of the exam."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/exam-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/exam-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Exam Checklist by ChecklistForge (https://checklistforge.com/checklist/exam-checklist)",
+  "updated": "2026-10-17"
+}

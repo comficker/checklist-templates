@@ -1,0 +1,172 @@
+{
+  "id": "weight-loss-checklist",
+  "name": "Weight Loss Checklist",
+  "description": "A practical, day-by-day checklist for building sustainable weight-loss habits at home.",
+  "category": "fitness-exercise",
+  "category_name": "Fitness & Exercise",
+  "tags": [
+    "nutrition",
+    "fitness",
+    "healthy-habits",
+    "weight-loss"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Set Realistic Goals",
+      "items": [
+        {
+          "text": "Define your reason for losing weight and write it where you will see it daily",
+          "note": "A clear 'why' helps you stay motivated on hard days."
+        },
+        {
+          "text": "Set a target weight range rather than a single fixed number"
+        },
+        {
+          "text": "Aim for a gradual pace of about 0.5 to 1 kg (1 to 2 lb) per week"
+        },
+        {
+          "text": "Break the big goal into small monthly milestones"
+        },
+        {
+          "text": "Pick one habit to start with this week instead of changing everything at once"
+        }
+      ]
+    },
+    {
+      "title": "Build a Balanced Plate",
+      "items": [
+        {
+          "text": "Fill half your plate with vegetables or fruit at most meals"
+        },
+        {
+          "text": "Include a source of lean protein at each meal",
+          "note": "Protein helps you feel full and protects muscle while losing weight."
+        },
+        {
+          "text": "Choose whole grains over refined ones when you can"
+        },
+        {
+          "text": "Use a smaller plate and serve sensible portions"
+        },
+        {
+          "text": "Cut back on sugary drinks and swap to water, tea, or coffee"
+        },
+        {
+          "text": "Plan and prep meals or snacks ahead so you are not caught hungry"
+        }
+      ]
+    },
+    {
+      "title": "Move More Each Day",
+      "items": [
+        {
+          "text": "Aim for at least 150 minutes of moderate activity across the week"
+        },
+        {
+          "text": "Add 2 strength sessions per week to maintain muscle"
+        },
+        {
+          "text": "Take a daily walk and gradually increase your step count"
+        },
+        {
+          "text": "Build movement into routines like taking stairs or short stretch breaks"
+        },
+        {
+          "text": "Choose activities you genuinely enjoy so you keep doing them"
+        }
+      ]
+    },
+    {
+      "title": "Hydration and Sleep",
+      "items": [
+        {
+          "text": "Drink water throughout the day and before meals"
+        },
+        {
+          "text": "Limit alcohol, which adds calories and can weaken food choices"
+        },
+        {
+          "text": "Aim for 7 to 9 hours of quality sleep each night"
+        },
+        {
+          "text": "Keep a consistent bedtime and wake-up time"
+        },
+        {
+          "text": "Wind down without screens for 30 minutes before bed"
+        }
+      ]
+    },
+    {
+      "title": "Track Your Progress",
+      "items": [
+        {
+          "text": "Weigh yourself at most once or twice a week at the same time"
+        },
+        {
+          "text": "Take body measurements or progress photos every few weeks",
+          "note": "The scale alone can be misleading; measurements show real change."
+        },
+        {
+          "text": "Note how clothes fit, your energy, and your mood"
+        },
+        {
+          "text": "Keep a simple food and activity log a few days a week"
+        },
+        {
+          "text": "Review your week and adjust one thing if progress stalls"
+        }
+      ]
+    },
+    {
+      "title": "Mindset and Staying Consistent",
+      "items": [
+        {
+          "text": "Plan for setbacks and restart without guilt after an off day"
+        },
+        {
+          "text": "Practice mindful eating: slow down and stop when comfortably full"
+        },
+        {
+          "text": "Manage stress with walks, breathing, or hobbies instead of food"
+        },
+        {
+          "text": "Celebrate non-scale wins like better sleep or stronger workouts"
+        },
+        {
+          "text": "Tell a friend or family member to add support and accountability"
+        },
+        {
+          "text": "Important: This checklist is general information, not medical advice. Consult your doctor before starting a new weight-loss program, especially with a health condition, injury, or pregnancy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How fast is it safe to lose weight?",
+      "a": "A widely recommended pace is about 0.5 to 1 kg (1 to 2 lb) per week. Losing weight gradually is easier to maintain and reduces the risk of losing muscle or rebounding. Avoid crash diets or very-low-calorie plans unless supervised by a healthcare professional."
+    },
+    {
+      "q": "Do I have to count every calorie to lose weight?",
+      "a": "No. Many people succeed by focusing on portion sizes, filling half the plate with vegetables, prioritizing protein and fiber, and cutting back on sugary drinks. Tracking can help you stay aware, but consistent habits matter more than perfect numbers."
+    },
+    {
+      "q": "How much exercise do I need for weight loss?",
+      "a": "General guidance suggests at least 150 minutes of moderate activity per week, plus 2 strength sessions. More activity can support weight loss, but diet usually has the biggest impact. Start small and build up gradually, especially if you are new to exercise."
+    },
+    {
+      "q": "Why does sleep matter for weight loss?",
+      "a": "Short or poor sleep can increase appetite, cravings, and stress hormones, making healthy choices harder. Aiming for 7 to 9 hours of quality sleep helps regulate hunger signals and supports your energy for movement and cooking."
+    },
+    {
+      "q": "Is this checklist medical advice?",
+      "a": "No. This is general information only and not a substitute for personalized medical advice. Talk to your doctor before starting a new weight-loss or exercise program, especially if you have a health condition, take medication, are recovering from injury, or are pregnant."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/weight-loss-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/weight-loss-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Weight Loss Checklist by ChecklistForge (https://checklistforge.com/checklist/weight-loss-checklist)",
+  "updated": "2026-10-17"
+}

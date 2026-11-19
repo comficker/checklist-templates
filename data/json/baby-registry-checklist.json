@@ -1,0 +1,204 @@
+{
+  "id": "baby-registry-checklist",
+  "name": "Baby Registry Checklist",
+  "description": "What to add to your baby registry, organized by category.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "newborn",
+    "baby-registry",
+    "nursery",
+    "baby-gear"
+  ],
+  "item_count": 41,
+  "sections": [
+    {
+      "title": "Nursery & Sleep",
+      "items": [
+        {
+          "text": "Register for a crib or bassinet that meets current safety standards"
+        },
+        {
+          "text": "Add a firm, well-fitting crib mattress"
+        },
+        {
+          "text": "Include three or four fitted crib sheets"
+        },
+        {
+          "text": "Add a few wearable blankets or sleep sacks in newborn size",
+          "note": "Skip loose blankets, pillows, and bumpers for the sleep space."
+        },
+        {
+          "text": "Register for a baby monitor that fits your home"
+        },
+        {
+          "text": "Add blackout curtains and a small night light"
+        }
+      ]
+    },
+    {
+      "title": "Feeding",
+      "items": [
+        {
+          "text": "Register for bottles in a couple of sizes to see what your baby prefers"
+        },
+        {
+          "text": "Add a bottle brush and a drying rack"
+        },
+        {
+          "text": "Include burp cloths, at least eight to ten"
+        },
+        {
+          "text": "Register for a nursing pillow if you plan to breastfeed"
+        },
+        {
+          "text": "Add a breast pump and storage bags if pumping is part of your plan",
+          "note": "Check your insurance, as a pump may be covered."
+        },
+        {
+          "text": "Include several bibs for the early months"
+        },
+        {
+          "text": "Add a few cans or supply of formula if you plan to use it"
+        }
+      ]
+    },
+    {
+      "title": "Diapering",
+      "items": [
+        {
+          "text": "Register for newborn and size 1 diapers in a few packs"
+        },
+        {
+          "text": "Add fragrance-free wipes in bulk"
+        },
+        {
+          "text": "Include a changing pad with a washable cover"
+        },
+        {
+          "text": "Register for a diaper pail or sealed trash system"
+        },
+        {
+          "text": "Add diaper cream and a small basket to keep supplies handy"
+        },
+        {
+          "text": "Include a portable changing kit for the diaper bag"
+        }
+      ]
+    },
+    {
+      "title": "Clothing & Layette",
+      "items": [
+        {
+          "text": "Register for short- and long-sleeve onesies in 0 to 3 and 3 to 6 months"
+        },
+        {
+          "text": "Add footed sleepers with easy snaps or zippers"
+        },
+        {
+          "text": "Include socks, hats, and scratch mittens"
+        },
+        {
+          "text": "Add seasonally appropriate layers like a sweater or bunting"
+        },
+        {
+          "text": "Register for a few swaddle blankets"
+        },
+        {
+          "text": "Include extra burp cloths and washcloths"
+        }
+      ]
+    },
+    {
+      "title": "Travel & Gear",
+      "items": [
+        {
+          "text": "Register for an infant car seat that fits your vehicle"
+        },
+        {
+          "text": "Add a stroller, or a travel system that pairs with the car seat"
+        },
+        {
+          "text": "Include a baby carrier or wrap"
+        },
+        {
+          "text": "Register for a roomy, washable diaper bag"
+        },
+        {
+          "text": "Add a portable play yard for naps away from home"
+        }
+      ]
+    },
+    {
+      "title": "Bath & Grooming",
+      "items": [
+        {
+          "text": "Register for a baby bathtub or a sink insert"
+        },
+        {
+          "text": "Add hooded towels and soft washcloths"
+        },
+        {
+          "text": "Include fragrance-free baby wash and lotion"
+        },
+        {
+          "text": "Add a soft hairbrush and baby nail clippers or a file"
+        },
+        {
+          "text": "Include a digital thermometer",
+          "note": "Ask your pediatrician which type they recommend for a newborn."
+        }
+      ]
+    },
+    {
+      "title": "Safety & Health",
+      "items": [
+        {
+          "text": "Register for outlet covers and cabinet latches for later use"
+        },
+        {
+          "text": "Add a baby gate if you have stairs"
+        },
+        {
+          "text": "Include a nasal aspirator for stuffy noses"
+        },
+        {
+          "text": "Register for a basic baby first aid kit"
+        },
+        {
+          "text": "Add a humidifier for dry-air seasons"
+        },
+        {
+          "text": "Include a fitted, breathable mattress protector"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start my baby registry?",
+      "a": "Many parents start around the second trimester, near 20 weeks. That gives you time to research items, compare options, and finish before a baby shower. Starting early also lets you add to the list gradually instead of rushing through every category in one stressful sitting."
+    },
+    {
+      "q": "How many items should I put on a registry?",
+      "a": "There's no perfect number, but a balanced registry usually has a mix of small, medium, and large gifts so everyone can contribute at their budget. Focus on essentials first, then add nice-to-haves. Registering for more items than you expect gives guests plenty of choices."
+    },
+    {
+      "q": "What baby items are not worth registering for?",
+      "a": "Skip single-use gadgets and items your baby may outgrow before using, like wipe warmers, specialty pillows, or shoes for newborns. Many parents find they don't need a changing table, full bottle warmer, or every accessory. Wait and buy these later only if you find you want them."
+    },
+    {
+      "q": "Should I register for clothes?",
+      "a": "Yes, but lean toward larger sizes like 3 to 6 months, since newborns grow fast and often receive plenty of newborn outfits as gifts. Register for practical basics like onesies, sleepers, and seasonally appropriate layers rather than fancy outfits that may only be worn once."
+    },
+    {
+      "q": "How do I choose between similar products?",
+      "a": "Compare safety standards, ease of cleaning, and how the item fits your space and routine. Read recent reviews and ask friends with babies what they actually used. When in doubt, register for the simpler option, since fewer features often means fewer things to break or clean."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/baby-registry-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/baby-registry-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Baby Registry Checklist by ChecklistForge (https://checklistforge.com/checklist/baby-registry-checklist)",
+  "updated": "2026-10-17"
+}

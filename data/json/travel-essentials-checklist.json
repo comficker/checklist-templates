@@ -1,0 +1,138 @@
+{
+  "id": "travel-essentials-checklist",
+  "name": "Travel Essentials Checklist",
+  "description": "A compact travel essentials checklist of the must-have items no trip should be without, from documents and money to tech and health basics.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "essentials",
+    "travel",
+    "trip"
+  ],
+  "item_count": 23,
+  "sections": [
+    {
+      "title": "Documents and ID",
+      "items": [
+        {
+          "text": "Passport or government-issued photo ID"
+        },
+        {
+          "text": "Any required visas or entry documents"
+        },
+        {
+          "text": "Booking confirmations, printed or digital"
+        },
+        {
+          "text": "Travel insurance details"
+        },
+        {
+          "text": "Copies of key documents stored separately",
+          "note": "Keep one copy in the cloud and one on paper"
+        }
+      ]
+    },
+    {
+      "title": "Money",
+      "items": [
+        {
+          "text": "Debit and credit cards"
+        },
+        {
+          "text": "Some local cash for arrival"
+        },
+        {
+          "text": "A backup card kept separately"
+        },
+        {
+          "text": "A travel or currency card if useful"
+        }
+      ]
+    },
+    {
+      "title": "Tech",
+      "items": [
+        {
+          "text": "Phone and charging cable"
+        },
+        {
+          "text": "Power bank"
+        },
+        {
+          "text": "Travel adapter if needed"
+        },
+        {
+          "text": "Headphones"
+        }
+      ]
+    },
+    {
+      "title": "Health and Hygiene",
+      "items": [
+        {
+          "text": "Daily medicines plus a little extra"
+        },
+        {
+          "text": "A small first-aid kit"
+        },
+        {
+          "text": "Toothbrush, toothpaste, and basic toiletries"
+        },
+        {
+          "text": "Hand sanitizer and tissues"
+        },
+        {
+          "text": "Glasses or contacts if you wear them"
+        }
+      ]
+    },
+    {
+      "title": "Comfort and Practical",
+      "items": [
+        {
+          "text": "Reusable water bottle"
+        },
+        {
+          "text": "A snack for travel days"
+        },
+        {
+          "text": "A change of clothes in your carry-on"
+        },
+        {
+          "text": "Keys and a small day bag"
+        },
+        {
+          "text": "Phone numbers and addresses you may need"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the most important travel essentials?",
+      "a": "Your ID or passport, money and cards, phone and charger, any medicines, and a copy of key documents top the list. These are the items that cause real problems if forgotten, so always confirm them before leaving."
+    },
+    {
+      "q": "How is this different from a packing checklist?",
+      "a": "An essentials checklist is a short core list of must-haves, while a full packing checklist covers everything by category. Use this as a quick final check and the packing list to load your bag completely."
+    },
+    {
+      "q": "Should travel essentials go in my carry-on?",
+      "a": "Yes. Keep documents, money, medicines, phone, and a change of clothes in your carry-on. If checked luggage is delayed, you still have the items you genuinely cannot manage without."
+    },
+    {
+      "q": "Do travel essentials change by destination?",
+      "a": "The core stays the same, but extras shift — adapters and a passport for abroad, sun protection for the beach, or warm layers for cold climates. Adjust the small additions to fit each trip."
+    },
+    {
+      "q": "Is this travel essentials checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep it short, and run through it right before you leave as the final check after your main bag is packed."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/travel-essentials-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/travel-essentials-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Travel Essentials Checklist by ChecklistForge (https://checklistforge.com/checklist/travel-essentials-checklist)",
+  "updated": "2026-10-17"
+}

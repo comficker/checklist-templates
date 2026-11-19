@@ -1,0 +1,205 @@
+{
+  "id": "college-packing-checklist",
+  "name": "College Packing Checklist",
+  "description": "A category-by-category list of everything a student should pack for college.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "packing",
+    "students",
+    "college",
+    "first-year"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Clothing",
+      "items": [
+        {
+          "text": "Pack everyday tops, bottoms and underwear for a week or two."
+        },
+        {
+          "text": "Bring layers and a warm jacket for cold weather."
+        },
+        {
+          "text": "Add at least one dressier outfit for events."
+        },
+        {
+          "text": "Pack comfortable shoes plus sandals and shower shoes."
+        },
+        {
+          "text": "Include workout clothes if you plan to exercise."
+        },
+        {
+          "text": "Bring a laundry bag or basket and detergent."
+        }
+      ]
+    },
+    {
+      "title": "Bedding and linens",
+      "items": [
+        {
+          "text": "Pack sheets sized for your dorm mattress.",
+          "note": "Many dorm beds are extra-long twin — confirm the size before buying."
+        },
+        {
+          "text": "Bring a comforter or duvet and a blanket."
+        },
+        {
+          "text": "Pack pillows and extra pillowcases."
+        },
+        {
+          "text": "Include a mattress topper for comfort."
+        },
+        {
+          "text": "Bring bath and hand towels plus a washcloth."
+        },
+        {
+          "text": "Pack a small throw blanket for the couch or floor."
+        }
+      ]
+    },
+    {
+      "title": "Electronics and tech",
+      "items": [
+        {
+          "text": "Bring your laptop, charger and a protective case."
+        },
+        {
+          "text": "Pack your phone charger and a backup cable."
+        },
+        {
+          "text": "Add a power strip with surge protection."
+        },
+        {
+          "text": "Bring headphones or earbuds for shared spaces."
+        },
+        {
+          "text": "Pack any cables, adapters and a small flash drive."
+        },
+        {
+          "text": "Include a desk lamp and extra batteries."
+        }
+      ]
+    },
+    {
+      "title": "School supplies",
+      "items": [
+        {
+          "text": "Pack notebooks, folders and a planner or calendar."
+        },
+        {
+          "text": "Bring pens, pencils, highlighters and sticky notes."
+        },
+        {
+          "text": "Add a backpack or sturdy bag for class."
+        },
+        {
+          "text": "Include a stapler, tape and basic scissors."
+        },
+        {
+          "text": "Pack a calculator if your courses require one."
+        },
+        {
+          "text": "Bring printer paper if you have a personal printer."
+        }
+      ]
+    },
+    {
+      "title": "Toiletries and health",
+      "items": [
+        {
+          "text": "Pack a shower caddy for shared bathrooms."
+        },
+        {
+          "text": "Bring shampoo, soap, deodorant and a toothbrush."
+        },
+        {
+          "text": "Add any daily medications and refills."
+        },
+        {
+          "text": "Pack a basic first-aid kit and pain relievers."
+        },
+        {
+          "text": "Include nail clippers, tweezers and a small mirror."
+        },
+        {
+          "text": "Bring tissues, cotton swabs and hand sanitizer."
+        }
+      ]
+    },
+    {
+      "title": "Room and storage",
+      "items": [
+        {
+          "text": "Bring storage bins and under-bed containers."
+        },
+        {
+          "text": "Pack hangers and a few command hooks."
+        },
+        {
+          "text": "Add a small trash can and bags."
+        },
+        {
+          "text": "Include decor like posters and photos for a homey feel."
+        },
+        {
+          "text": "Bring a fan if your dorm has no air conditioning."
+        },
+        {
+          "text": "Pack a few basic tools and a measuring tape."
+        }
+      ]
+    },
+    {
+      "title": "Documents and money",
+      "items": [
+        {
+          "text": "Bring your ID, insurance card and a copy of each."
+        },
+        {
+          "text": "Pack important documents in a labeled folder."
+        },
+        {
+          "text": "Add a debit or credit card and some cash."
+        },
+        {
+          "text": "Bring keys and any housing or parking paperwork."
+        },
+        {
+          "text": "Include a copy of your class schedule."
+        },
+        {
+          "text": "Pack emergency contact numbers on paper."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack first for college?",
+      "a": "Pack non-essentials and out-of-season items first, like decor, extra bedding and supplies. Save clothes, toiletries and your daily devices for last so you can keep using them until move-in day."
+    },
+    {
+      "q": "What do students most often forget to pack?",
+      "a": "Common forgotten items include a power strip, a phone charger, shower shoes, a first-aid kit, extra sheets and basic tools. A printable checklist is the easiest way to avoid these gaps."
+    },
+    {
+      "q": "How do I avoid overpacking for college?",
+      "a": "Stick to a season's worth of clothes, coordinate large items with your roommate, and skip anything you can buy cheaply near campus. Dorm rooms are small, so less is usually more."
+    },
+    {
+      "q": "Should I check the dorm rules before packing?",
+      "a": "Yes. Many dorms ban certain appliances, candles or extension cords for safety. Review your housing rules before you pack so nothing gets turned away at the door."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each item by category as you pack for college."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/college-packing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/college-packing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "College Packing Checklist by ChecklistForge (https://checklistforge.com/checklist/college-packing-checklist)",
+  "updated": "2026-10-17"
+}

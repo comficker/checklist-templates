@@ -1,0 +1,158 @@
+{
+  "id": "carry-on-checklist",
+  "name": "Carry-On Checklist",
+  "description": "A carry-on checklist for packing a cabin bag, covering the liquids rule, essentials, electronics, comfort items, and what to keep on hand.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "carry-on",
+    "flight"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Liquids and Toiletries",
+      "items": [
+        {
+          "text": "Travel-size liquids in a clear, resealable bag"
+        },
+        {
+          "text": "Keep containers within the allowed size limit",
+          "note": "Liquid limits vary by airport, so check current rules"
+        },
+        {
+          "text": "Toothbrush and small toothpaste"
+        },
+        {
+          "text": "Hand sanitizer within the size limit"
+        },
+        {
+          "text": "Lip balm and basic skincare"
+        }
+      ]
+    },
+    {
+      "title": "Documents and Money",
+      "items": [
+        {
+          "text": "Passport or ID and boarding pass"
+        },
+        {
+          "text": "Any visas or entry documents"
+        },
+        {
+          "text": "Wallet with cards and some cash"
+        },
+        {
+          "text": "Travel insurance details"
+        },
+        {
+          "text": "Copies of key documents stored separately"
+        }
+      ]
+    },
+    {
+      "title": "Electronics",
+      "items": [
+        {
+          "text": "Phone and charging cable"
+        },
+        {
+          "text": "Power bank, kept in carry-on only"
+        },
+        {
+          "text": "Laptop or tablet"
+        },
+        {
+          "text": "Headphones"
+        },
+        {
+          "text": "Travel adapter for your destination"
+        }
+      ]
+    },
+    {
+      "title": "Health Essentials",
+      "items": [
+        {
+          "text": "Daily medicines in labeled containers"
+        },
+        {
+          "text": "A small first-aid kit"
+        },
+        {
+          "text": "Glasses or contacts and solution"
+        },
+        {
+          "text": "Tissues and any motion-sickness remedies"
+        }
+      ]
+    },
+    {
+      "title": "Comfort for the Flight",
+      "items": [
+        {
+          "text": "Neck pillow and eye mask"
+        },
+        {
+          "text": "Earplugs or noise-cancelling headphones"
+        },
+        {
+          "text": "A light layer or scarf"
+        },
+        {
+          "text": "A book, e-reader, or downloaded entertainment"
+        },
+        {
+          "text": "Snacks and an empty refillable water bottle"
+        }
+      ]
+    },
+    {
+      "title": "Just in Case",
+      "items": [
+        {
+          "text": "A change of clothes and clean underwear"
+        },
+        {
+          "text": "Spare phone charger"
+        },
+        {
+          "text": "Essential valuables, never in checked bags"
+        },
+        {
+          "text": "Pen for arrival or customs forms"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the liquids rule for carry-on bags?",
+      "a": "Many airports limit liquids to containers of around 100ml, packed in a single clear, resealable bag. Limits vary by country and are changing in some places, so check your airport's current rules before you fly."
+    },
+    {
+      "q": "What should I keep in my carry-on?",
+      "a": "Keep documents, money, medicines, electronics, valuables, and a change of clothes in your carry-on. If checked luggage is delayed, you still have the essentials to get through the first day comfortably."
+    },
+    {
+      "q": "How is a carry-on checklist different from a packing checklist?",
+      "a": "A carry-on checklist focuses only on your cabin bag and the rules around it, while a packing checklist covers all your luggage. Use this for what flies with you and a packing list for everything else."
+    },
+    {
+      "q": "Can I bring electronics in my carry-on?",
+      "a": "Yes, and larger electronics like laptops are usually safest in the cabin. You may need to remove them at security, and rules on power banks mean they belong in carry-on, not checked bags. Check your airline."
+    },
+    {
+      "q": "Is this carry-on checklist printable?",
+      "a": "Yes. Print it or download the PDF, pack your cabin bag the night before, and confirm the liquids and electronics rules for your specific airline and route."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/carry-on-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/carry-on-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Carry-On Checklist by ChecklistForge (https://checklistforge.com/checklist/carry-on-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "sleep-hygiene-checklist",
+  "name": "Sleep Hygiene Checklist",
+  "description": "Practical habits and bedroom tweaks to help you fall asleep faster and sleep better.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "self-care",
+    "sleep"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Keep a Consistent Schedule",
+      "items": [
+        {
+          "text": "Go to bed and wake up at the same time daily",
+          "note": "A steady schedule trains your body's internal clock."
+        },
+        {
+          "text": "Keep your wake time consistent, even on weekends"
+        },
+        {
+          "text": "Aim for around 7 to 9 hours of sleep each night"
+        },
+        {
+          "text": "Get bright daylight early in the day to set your rhythm"
+        },
+        {
+          "text": "Avoid long or late-afternoon naps that disrupt night sleep"
+        }
+      ]
+    },
+    {
+      "title": "Build a Wind-Down Routine",
+      "items": [
+        {
+          "text": "Start winding down 30 to 60 minutes before bed"
+        },
+        {
+          "text": "Dim the lights and lower household noise in the evening"
+        },
+        {
+          "text": "Do something calming like reading or gentle stretching"
+        },
+        {
+          "text": "Take a warm shower or bath before bed",
+          "note": "Warming up then cooling down can help you feel sleepy."
+        },
+        {
+          "text": "Write down tomorrow's tasks to clear your mind"
+        }
+      ]
+    },
+    {
+      "title": "Manage Screens and Light",
+      "items": [
+        {
+          "text": "Switch off screens at least 30 minutes before bed"
+        },
+        {
+          "text": "Charge your phone away from the bed"
+        },
+        {
+          "text": "Use warm, dim lighting in the evening"
+        },
+        {
+          "text": "Block outside light with curtains, blinds, or an eye mask"
+        },
+        {
+          "text": "Avoid stimulating or stressful content right before sleep"
+        }
+      ]
+    },
+    {
+      "title": "Watch Food, Drink, and Caffeine",
+      "items": [
+        {
+          "text": "Avoid caffeine in the afternoon and evening",
+          "note": "Caffeine can linger for many hours and delay sleep."
+        },
+        {
+          "text": "Limit alcohol, which fragments sleep later in the night"
+        },
+        {
+          "text": "Avoid heavy or spicy meals close to bedtime"
+        },
+        {
+          "text": "Stop large fluids before bed to reduce night waking"
+        },
+        {
+          "text": "Have a light snack if hunger keeps you awake"
+        }
+      ]
+    },
+    {
+      "title": "Optimize Your Bedroom",
+      "items": [
+        {
+          "text": "Keep the bedroom cool, dark, and quiet"
+        },
+        {
+          "text": "Use comfortable, supportive bedding and pillows"
+        },
+        {
+          "text": "Reduce noise with earplugs or a white-noise sound"
+        },
+        {
+          "text": "Keep the room tidy and reserved mainly for sleep"
+        },
+        {
+          "text": "Remove clocks or devices you keep checking at night"
+        }
+      ]
+    },
+    {
+      "title": "When You Cannot Sleep",
+      "items": [
+        {
+          "text": "If you cannot sleep after a while, get up and do something calm"
+        },
+        {
+          "text": "Avoid checking the time or your phone in bed"
+        },
+        {
+          "text": "Try slow breathing or a relaxation exercise"
+        },
+        {
+          "text": "Return to bed only when you feel sleepy again"
+        },
+        {
+          "text": "See a doctor if poor sleep persists despite good habits"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is sleep hygiene?",
+      "a": "Sleep hygiene is the set of daily habits and environmental conditions that support healthy sleep, such as a consistent schedule, a calming wind-down, limiting caffeine and screens before bed, and keeping your bedroom cool, dark, and quiet."
+    },
+    {
+      "q": "How many hours of sleep do I need?",
+      "a": "Most adults function best with about 7 to 9 hours of sleep per night, though needs vary. If you regularly feel tired during the day despite enough time in bed, improving your sleep habits or speaking with a doctor may help."
+    },
+    {
+      "q": "Why should I avoid screens before bed?",
+      "a": "Bright light from phones and screens can make it harder for your body to feel sleepy, and engaging content keeps your mind alert. Aim to switch off screens at least 30 to 60 minutes before bed, or use a warm, dim night setting."
+    },
+    {
+      "q": "When should I stop drinking caffeine?",
+      "a": "Caffeine can stay in your system for many hours, so it is often wise to avoid it in the afternoon and evening. Cutting off coffee, tea, energy drinks, and cola roughly 6 to 8 hours before bed helps many people sleep better."
+    },
+    {
+      "q": "Can I download this sleep hygiene checklist?",
+      "a": "Yes. This checklist is free to print and download as a PDF. Keep it near your bed or on your phone so you can build sleep-friendly habits and check off each step toward better, deeper rest."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/sleep-hygiene-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/sleep-hygiene-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Sleep Hygiene Checklist by ChecklistForge (https://checklistforge.com/checklist/sleep-hygiene-checklist)",
+  "updated": "2026-10-18"
+}

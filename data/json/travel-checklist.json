@@ -1,0 +1,174 @@
+{
+  "id": "travel-checklist",
+  "name": "Travel Checklist",
+  "description": "An end-to-end travel checklist for planning a trip, from booking and documents to money, health, home prep, and packing.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "vacation",
+    "trip-planning"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Plan and Book",
+      "items": [
+        {
+          "text": "Set your dates, destination, and rough budget"
+        },
+        {
+          "text": "Book flights, trains, or other transport"
+        },
+        {
+          "text": "Reserve accommodation for each night"
+        },
+        {
+          "text": "Arrange airport transfers or a rental car"
+        },
+        {
+          "text": "Book key tours, tickets, and activities",
+          "note": "Popular activities sell out, so book early"
+        },
+        {
+          "text": "Build a simple day-by-day itinerary"
+        }
+      ]
+    },
+    {
+      "title": "Documents and Bookings",
+      "items": [
+        {
+          "text": "Check passport and ID validity for the trip"
+        },
+        {
+          "text": "Confirm any visa or entry requirements"
+        },
+        {
+          "text": "Print or save all booking confirmations"
+        },
+        {
+          "text": "Make copies of key documents, kept separately"
+        },
+        {
+          "text": "Save digital copies in the cloud and on your phone"
+        }
+      ]
+    },
+    {
+      "title": "Money and Communication",
+      "items": [
+        {
+          "text": "Notify your bank of your travel dates"
+        },
+        {
+          "text": "Arrange local currency or a travel card"
+        },
+        {
+          "text": "Set a daily budget and track expenses"
+        },
+        {
+          "text": "Check phone roaming, eSIM, or local SIM options"
+        },
+        {
+          "text": "Download maps and key apps for offline use"
+        }
+      ]
+    },
+    {
+      "title": "Health and Insurance",
+      "items": [
+        {
+          "text": "Arrange travel insurance with medical coverage"
+        },
+        {
+          "text": "Check vaccine and health requirements early"
+        },
+        {
+          "text": "Pack medicines and copies of prescriptions"
+        },
+        {
+          "text": "Note clinics and the local emergency number"
+        },
+        {
+          "text": "Confirm requirements via official government sources",
+          "note": "Health and entry rules vary by country, so verify with official sources"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Your Home",
+      "items": [
+        {
+          "text": "Pause mail, newspapers, and deliveries"
+        },
+        {
+          "text": "Arrange care for pets and plants"
+        },
+        {
+          "text": "Secure doors, windows, and valuables"
+        },
+        {
+          "text": "Unplug non-essential electronics"
+        },
+        {
+          "text": "Set lights on a timer or ask a neighbor to check in"
+        },
+        {
+          "text": "Empty the fridge of items that will spoil"
+        }
+      ]
+    },
+    {
+      "title": "Pack and Final Checks",
+      "items": [
+        {
+          "text": "Pack clothes, toiletries, and tech using a packing list"
+        },
+        {
+          "text": "Keep documents, money, and medicines in your carry-on"
+        },
+        {
+          "text": "Charge devices and pack chargers and adapters"
+        },
+        {
+          "text": "Weigh bags against airline limits"
+        },
+        {
+          "text": "Confirm departure times and check in online"
+        },
+        {
+          "text": "Do a final sweep for keys, wallet, and phone"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start using a travel checklist?",
+      "a": "Start four to six weeks before departure for most trips, and earlier for international travel that needs visas or vaccines. Early planning gives you time to compare prices, sort documents, and avoid last-minute fees."
+    },
+    {
+      "q": "What is the difference between a travel checklist and a packing checklist?",
+      "a": "A travel checklist covers the whole trip — bookings, documents, money, health, and home prep — while a packing checklist focuses only on what goes in your bags. Use this list to plan and a packing list to fill your luggage."
+    },
+    {
+      "q": "How do I prepare my home before traveling?",
+      "a": "Pause mail and deliveries, secure doors and windows, unplug non-essential electronics, set timers or ask a neighbor to check in, and arrange care for pets and plants. A tidy, secure home is easier to return to."
+    },
+    {
+      "q": "Do I need travel insurance?",
+      "a": "Travel insurance is worth considering, especially for international trips, big bookings, or anything non-refundable. Compare coverage for medical care, cancellations, and lost baggage, and read the policy details before buying."
+    },
+    {
+      "q": "Is this travel checklist printable?",
+      "a": "Yes. Print it or download the PDF, start a few weeks before your trip, and check off each item as you book, prepare, and pack your way to departure."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/travel-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/travel-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Travel Checklist by ChecklistForge (https://checklistforge.com/checklist/travel-checklist)",
+  "updated": "2026-10-17"
+}

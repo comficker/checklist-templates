@@ -1,0 +1,154 @@
+{
+  "id": "real-id-checklist",
+  "name": "REAL ID Checklist",
+  "description": "The documents to gather before a REAL ID appointment, grouped the way the DMV asks for them.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "travel",
+    "documents",
+    "identification",
+    "dmv"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Proof of identity (bring one)",
+      "items": [
+        {
+          "text": "Certified birth certificate with a raised or printed seal",
+          "note": "A hospital souvenir certificate is not accepted."
+        },
+        {
+          "text": "Valid unexpired US passport or passport card"
+        },
+        {
+          "text": "Certificate of Naturalization or Citizenship"
+        },
+        {
+          "text": "Permanent Resident Card, or an unexpired foreign passport with a valid visa"
+        },
+        {
+          "text": "Consular Report of Birth Abroad"
+        }
+      ]
+    },
+    {
+      "title": "Proof of Social Security number (bring one)",
+      "items": [
+        {
+          "text": "Social Security card, unlaminated and signed"
+        },
+        {
+          "text": "W-2 form showing your full SSN"
+        },
+        {
+          "text": "SSA-1099 or non-SSA-1099 form"
+        },
+        {
+          "text": "Pay stub showing your name and full SSN",
+          "note": "Many offices reject stubs that mask the number to the last four digits."
+        }
+      ]
+    },
+    {
+      "title": "Proof of address (bring two, different sources)",
+      "items": [
+        {
+          "text": "Utility bill dated within the last 60-90 days"
+        },
+        {
+          "text": "Bank or credit card statement with your name and street address"
+        },
+        {
+          "text": "Mortgage statement, deed, or signed rental lease"
+        },
+        {
+          "text": "Vehicle registration or insurance card"
+        },
+        {
+          "text": "Current state ID or driver's licence showing the same address"
+        },
+        {
+          "text": "Official mail from a federal, state or local agency"
+        },
+        {
+          "text": "Check both documents show the SAME address, spelled the same way",
+          "note": "A unit number on one and not the other is enough to be turned away."
+        },
+        {
+          "text": "A PO box will not work as a residential address"
+        }
+      ]
+    },
+    {
+      "title": "Name-change papers (only if your name differs)",
+      "items": [
+        {
+          "text": "Certified marriage certificate"
+        },
+        {
+          "text": "Divorce decree showing the name restoration"
+        },
+        {
+          "text": "Court order for a legal name change"
+        },
+        {
+          "text": "Line up every change in order, from the name on your birth certificate to the name you use now",
+          "note": "If you have married twice, the chain needs both certificates. A gap breaks the application."
+        }
+      ]
+    },
+    {
+      "title": "Before you leave the house",
+      "items": [
+        {
+          "text": "Check your state DMV page for extra documents it requires"
+        },
+        {
+          "text": "Book an appointment if your state offers one"
+        },
+        {
+          "text": "Complete the application form online in advance if available"
+        },
+        {
+          "text": "Confirm accepted payment methods for the fee",
+          "note": "Some offices still refuse credit cards."
+        },
+        {
+          "text": "Pack originals or certified copies, not photocopies"
+        },
+        {
+          "text": "Put everything in one folder in the order above"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What documents do I need for a REAL ID?",
+      "a": "One proof of identity such as a certified birth certificate or passport, one proof of your Social Security number, two proofs of your street address, and certified papers for any name change. Your state may ask for more, so check its DMV page before going."
+    },
+    {
+      "q": "Can I use photocopies?",
+      "a": "No. Offices require originals or certified copies issued by the agency that holds the record. Photocopies, scans, phone photos and laminated documents are rejected, and a laminated Social Security card often is too."
+    },
+    {
+      "q": "Why are two proofs of address needed?",
+      "a": "Federal rules require two independent documents showing the same residential address, which is why two bills from the same utility usually will not count. Pick two different sources, and check that the address is written identically on both."
+    },
+    {
+      "q": "What if my name has changed since my birth certificate?",
+      "a": "You need certified documents linking every name change in order — marriage certificates, divorce decrees, or court orders. If you have changed names more than once, each step in the chain must be covered or the application stops."
+    },
+    {
+      "q": "Do I need a REAL ID if I have a passport?",
+      "a": "A valid US passport or passport card is already accepted for domestic flights and federal buildings, so a REAL ID is not strictly required. Many people still get one because carrying a passport for a short domestic trip is inconvenient."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/real-id-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/real-id-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "REAL ID Checklist by ChecklistForge (https://checklistforge.com/checklist/real-id-checklist)",
+  "updated": "2026-11-17"
+}

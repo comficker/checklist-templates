@@ -1,0 +1,182 @@
+{
+  "id": "construction-handover-checklist",
+  "name": "Construction Handover Checklist",
+  "description": "A construction handover checklist for handing a finished building over to the owner.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "project-management",
+    "handover",
+    "construction",
+    "building"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Pre-handover readiness",
+      "items": [
+        {
+          "text": "Confirm construction and the punch list are complete."
+        },
+        {
+          "text": "Verify the certificate of occupancy is obtained."
+        },
+        {
+          "text": "Ensure final cleaning is finished."
+        },
+        {
+          "text": "Confirm all systems are tested and commissioned."
+        },
+        {
+          "text": "Assemble the complete handover documentation package."
+        },
+        {
+          "text": "Schedule the handover meeting with the owner."
+        }
+      ]
+    },
+    {
+      "title": "Final walkthrough",
+      "items": [
+        {
+          "text": "Walk the entire building with the owner."
+        },
+        {
+          "text": "Demonstrate finishes, fixtures and equipment."
+        },
+        {
+          "text": "Confirm the building matches the contract and drawings."
+        },
+        {
+          "text": "Note any final or outstanding items."
+        },
+        {
+          "text": "Photograph the condition at handover."
+        },
+        {
+          "text": "Agree on timelines for any remaining work.",
+          "note": "Record the walkthrough to document the building's condition at acceptance."
+        }
+      ]
+    },
+    {
+      "title": "Keys and access",
+      "items": [
+        {
+          "text": "Transfer all keys, labeled by location."
+        },
+        {
+          "text": "Hand over access cards, fobs and codes."
+        },
+        {
+          "text": "Provide alarm and security system credentials."
+        },
+        {
+          "text": "Confirm utility accounts are transferred to the owner."
+        },
+        {
+          "text": "Hand over remote controls and devices."
+        },
+        {
+          "text": "Document all access items transferred."
+        }
+      ]
+    },
+    {
+      "title": "Documentation and warranties",
+      "items": [
+        {
+          "text": "Provide as-built drawings and final plans."
+        },
+        {
+          "text": "Hand over operation and maintenance (O&M) manuals."
+        },
+        {
+          "text": "Deliver all warranties with start dates and terms."
+        },
+        {
+          "text": "Provide inspection and test certificates."
+        },
+        {
+          "text": "Include maintenance schedules and contacts."
+        },
+        {
+          "text": "Supply product data and spare materials list."
+        }
+      ]
+    },
+    {
+      "title": "Systems training",
+      "items": [
+        {
+          "text": "Train the owner's team on HVAC and controls."
+        },
+        {
+          "text": "Demonstrate electrical panels and emergency power."
+        },
+        {
+          "text": "Show plumbing shutoffs and water systems."
+        },
+        {
+          "text": "Explain fire and life-safety system operation."
+        },
+        {
+          "text": "Review routine maintenance requirements."
+        },
+        {
+          "text": "Provide emergency and shutdown procedures."
+        }
+      ]
+    },
+    {
+      "title": "Sign-off and acceptance",
+      "items": [
+        {
+          "text": "Review the handover package together."
+        },
+        {
+          "text": "Confirm all items are transferred and understood."
+        },
+        {
+          "text": "Document agreement on any outstanding items."
+        },
+        {
+          "text": "Obtain the owner's signed acceptance."
+        },
+        {
+          "text": "Provide post-handover support and warranty contacts."
+        },
+        {
+          "text": "Retain a signed copy for project records."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a construction handover?",
+      "a": "Handover is the formal process of transferring a completed building to the owner, including the walkthrough, keys, documentation, training and sign-off. This checklist ensures everything the owner needs is transferred and accepted in one organized process."
+    },
+    {
+      "q": "What is the difference between handover and closeout?",
+      "a": "Closeout is the contractual and financial wrap-up — as-builts, warranties and final payment. Handover is the act of physically and formally giving the building to the owner. Closeout documentation feeds directly into the handover package."
+    },
+    {
+      "q": "What should the handover walkthrough cover?",
+      "a": "Walk the whole building with the owner to confirm completion, demonstrate finishes and systems, and note any final items. Documenting the walkthrough creates a shared record of the building's condition at the point of acceptance."
+    },
+    {
+      "q": "Why is owner training part of handover?",
+      "a": "The owner's team needs to know how to operate and maintain building systems safely and efficiently. Demonstrating equipment, controls and emergency procedures at handover prevents misuse, warranty issues and avoidable service calls."
+    },
+    {
+      "q": "Is this handover checklist available as a printable PDF?",
+      "a": "Yes. Print it to run the handover meeting or download the PDF so builders and project managers can confirm every transfer and sign-off from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/construction-handover-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/construction-handover-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Construction Handover Checklist by ChecklistForge (https://checklistforge.com/checklist/construction-handover-checklist)",
+  "updated": "2026-10-17"
+}

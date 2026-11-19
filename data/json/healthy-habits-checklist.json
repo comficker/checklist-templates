@@ -1,0 +1,165 @@
+{
+  "id": "healthy-habits-checklist",
+  "name": "Healthy Habits Checklist",
+  "description": "Core daily health habits to keep your body and mind feeling their best.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "self-care",
+    "healthy-habits"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Move Your Body",
+      "items": [
+        {
+          "text": "Get some physical activity, even a short walk",
+          "note": "Aim for around 150 minutes of moderate activity per week."
+        },
+        {
+          "text": "Add strength or resistance movement a couple of times a week"
+        },
+        {
+          "text": "Stretch or move regularly if you sit for long periods"
+        },
+        {
+          "text": "Take the stairs or walk short distances when you can"
+        },
+        {
+          "text": "Choose activities you genuinely enjoy so you keep at them"
+        }
+      ]
+    },
+    {
+      "title": "Eat Well",
+      "items": [
+        {
+          "text": "Fill half your plate with vegetables or fruit"
+        },
+        {
+          "text": "Include protein and fiber to stay full and energized"
+        },
+        {
+          "text": "Choose whole foods over heavily processed ones when you can"
+        },
+        {
+          "text": "Eat regular meals instead of skipping and overeating later"
+        },
+        {
+          "text": "Practice mindful eating and stop when comfortably full"
+        }
+      ]
+    },
+    {
+      "title": "Stay Hydrated",
+      "items": [
+        {
+          "text": "Drink water steadily throughout the day"
+        },
+        {
+          "text": "Start your morning with a glass of water"
+        },
+        {
+          "text": "Keep a water bottle within reach as a reminder"
+        },
+        {
+          "text": "Swap sugary drinks for water, tea, or sparkling water"
+        },
+        {
+          "text": "Limit alcohol and caffeine, especially later in the day"
+        }
+      ]
+    },
+    {
+      "title": "Prioritize Sleep",
+      "items": [
+        {
+          "text": "Aim for 7 to 9 hours of quality sleep"
+        },
+        {
+          "text": "Keep a consistent bedtime and wake time"
+        },
+        {
+          "text": "Wind down without screens before bed",
+          "note": "A calm wind-down helps you fall asleep faster."
+        },
+        {
+          "text": "Keep your bedroom cool, dark, and quiet"
+        },
+        {
+          "text": "Avoid caffeine and heavy meals late in the evening"
+        }
+      ]
+    },
+    {
+      "title": "Care for Your Mind",
+      "items": [
+        {
+          "text": "Spend a few minutes on mindfulness or slow breathing"
+        },
+        {
+          "text": "Take short breaks to reset during a busy day"
+        },
+        {
+          "text": "Get outside for daylight and fresh air"
+        },
+        {
+          "text": "Make time for a hobby or something you enjoy"
+        },
+        {
+          "text": "Note one thing you are grateful for each day"
+        }
+      ]
+    },
+    {
+      "title": "Connect and Reflect",
+      "items": [
+        {
+          "text": "Reach out to a friend or family member"
+        },
+        {
+          "text": "Spend quality time with people who matter to you"
+        },
+        {
+          "text": "Limit excessive screen and social media time"
+        },
+        {
+          "text": "Review how your habits went and adjust gently"
+        },
+        {
+          "text": "Celebrate small wins to keep yourself motivated"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the most important healthy habits?",
+      "a": "The foundations are regular movement, balanced meals, enough water, good sleep, managing stress, and staying connected with others. Doing these consistently, even imperfectly, supports both your physical and mental health far more than occasional big efforts."
+    },
+    {
+      "q": "How long does it take to build a new habit?",
+      "a": "It varies widely from person to person and habit to habit, often several weeks to a few months. The key is repetition and patience. Start small, attach the habit to an existing routine, and focus on consistency over speed."
+    },
+    {
+      "q": "How many healthy habits should I start at once?",
+      "a": "Start with just one or two. Trying to change everything at once often leads to burnout. Once a habit feels automatic, add another. Small wins build momentum and make the next change easier."
+    },
+    {
+      "q": "What if I miss a day?",
+      "a": "Missing a day is normal and not a failure. The most resilient approach is to simply restart the next day without guilt. One missed day matters far less than giving up entirely, so aim for progress, not perfection."
+    },
+    {
+      "q": "Can I print this healthy habits checklist?",
+      "a": "Yes. This checklist is free to print and download as a PDF. Keep it on your fridge or phone so you can check off your daily habits and stay consistent toward feeling your best."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/healthy-habits-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/healthy-habits-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Healthy Habits Checklist by ChecklistForge (https://checklistforge.com/checklist/healthy-habits-checklist)",
+  "updated": "2026-10-17"
+}

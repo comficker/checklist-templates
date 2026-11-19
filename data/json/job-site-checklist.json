@@ -1,0 +1,182 @@
+{
+  "id": "job-site-checklist",
+  "name": "Job Site Checklist",
+  "description": "A job site checklist for setting up and running a construction site safely and efficiently.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "construction",
+    "site-management",
+    "job-site",
+    "site-setup"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Site access and circulation",
+      "items": [
+        {
+          "text": "Establish controlled entry and exit points."
+        },
+        {
+          "text": "Install perimeter fencing and gates."
+        },
+        {
+          "text": "Lay out temporary roads and vehicle routes."
+        },
+        {
+          "text": "Designate parking and delivery zones."
+        },
+        {
+          "text": "Mark pedestrian walkways separated from traffic."
+        },
+        {
+          "text": "Confirm emergency vehicle access stays clear."
+        }
+      ]
+    },
+    {
+      "title": "Temporary utilities",
+      "items": [
+        {
+          "text": "Arrange temporary electrical power and distribution."
+        },
+        {
+          "text": "Connect a temporary water supply."
+        },
+        {
+          "text": "Install site lighting for work and security."
+        },
+        {
+          "text": "Set up sanitation and waste facilities."
+        },
+        {
+          "text": "Provide connectivity for the site office."
+        },
+        {
+          "text": "Confirm all temporary connections are inspected and safe.",
+          "note": "Utility connections often have lead times — arrange them before mobilization day."
+        }
+      ]
+    },
+    {
+      "title": "Storage and laydown",
+      "items": [
+        {
+          "text": "Designate material laydown and staging areas."
+        },
+        {
+          "text": "Provide lockable storage for tools and equipment."
+        },
+        {
+          "text": "Protect materials from weather and damage."
+        },
+        {
+          "text": "Organize storage by trade and sequence of use."
+        },
+        {
+          "text": "Set up fuel and hazardous material storage safely."
+        },
+        {
+          "text": "Position dumpsters and waste collection points."
+        }
+      ]
+    },
+    {
+      "title": "Signage and identification",
+      "items": [
+        {
+          "text": "Post the site name, contractor and emergency contacts."
+        },
+        {
+          "text": "Display required safety and PPE signage."
+        },
+        {
+          "text": "Mark hazards, restricted areas and barricades."
+        },
+        {
+          "text": "Post permits and inspection notices where required."
+        },
+        {
+          "text": "Add directional and traffic signage."
+        },
+        {
+          "text": "Display the site map and assembly points."
+        }
+      ]
+    },
+    {
+      "title": "Worker facilities",
+      "items": [
+        {
+          "text": "Set up the site office and meeting area."
+        },
+        {
+          "text": "Provide break areas and shelter."
+        },
+        {
+          "text": "Install adequate restrooms and hand-washing stations."
+        },
+        {
+          "text": "Provide drinking water and shade where needed."
+        },
+        {
+          "text": "Stock first aid and emergency supplies."
+        },
+        {
+          "text": "Set up a board for safety notices and schedules."
+        }
+      ]
+    },
+    {
+      "title": "Security and housekeeping",
+      "items": [
+        {
+          "text": "Secure the perimeter and lock up after hours."
+        },
+        {
+          "text": "Control access with sign-in or badge procedures."
+        },
+        {
+          "text": "Install cameras or lighting to deter theft."
+        },
+        {
+          "text": "Keep walkways, stairs and exits clear of debris."
+        },
+        {
+          "text": "Schedule regular cleanup and waste removal."
+        },
+        {
+          "text": "Inspect the site daily for hazards and damage."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is involved in setting up a construction job site?",
+      "a": "Site setup covers access and fencing, temporary power and water, the site office, material storage, signage, worker facilities and security. This checklist groups those tasks so site managers can mobilize a site in a logical order."
+    },
+    {
+      "q": "What temporary utilities does a job site need?",
+      "a": "Most sites need temporary electrical power, water, lighting and sanitation, plus connectivity for the office. Arrange these early because utility connections often have lead times that can delay the start of work."
+    },
+    {
+      "q": "How do I keep a job site secure?",
+      "a": "Use perimeter fencing, controlled access points, lockable storage, lighting and sometimes cameras or guards. Securing tools, materials and equipment reduces theft and keeps unauthorized people away from hazards."
+    },
+    {
+      "q": "Why does job site organization matter?",
+      "a": "An organized site improves safety, productivity and the impression you make on inspectors and clients. Clear access, tidy storage and good signage reduce accidents, delays and lost materials throughout the project."
+    },
+    {
+      "q": "Is this job site checklist available as a printable PDF?",
+      "a": "Yes. Print it for mobilization day or download the PDF so site managers can confirm setup and run daily site checks from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/job-site-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/job-site-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Job Site Checklist by ChecklistForge (https://checklistforge.com/checklist/job-site-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "construction-inspection-checklist",
+  "name": "Construction Inspection Checklist",
+  "description": "A construction inspection checklist for verifying workmanship and quality at each building stage.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "inspection",
+    "construction",
+    "building",
+    "quality-control"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Site and foundation",
+      "items": [
+        {
+          "text": "Verify site grading, drainage and erosion controls."
+        },
+        {
+          "text": "Check excavation depth, soil conditions and compaction."
+        },
+        {
+          "text": "Confirm footing dimensions, rebar size and placement."
+        },
+        {
+          "text": "Inspect formwork alignment, bracing and dimensions."
+        },
+        {
+          "text": "Verify foundation waterproofing and damp-proofing."
+        },
+        {
+          "text": "Check anchor bolts and embedded items before the pour.",
+          "note": "Confirm a code-required foundation inspection is passed before backfilling."
+        }
+      ]
+    },
+    {
+      "title": "Structural framing",
+      "items": [
+        {
+          "text": "Verify framing members match the structural drawings."
+        },
+        {
+          "text": "Check stud, joist and rafter spacing and sizing."
+        },
+        {
+          "text": "Confirm headers, beams and load paths are correct."
+        },
+        {
+          "text": "Inspect connections, fasteners and hardware."
+        },
+        {
+          "text": "Check that openings are framed to plan dimensions."
+        },
+        {
+          "text": "Verify the structure is plumb, level and square."
+        }
+      ]
+    },
+    {
+      "title": "Mechanical, electrical and plumbing rough-in",
+      "items": [
+        {
+          "text": "Confirm electrical rough-in, boxes and wire gauge match plans."
+        },
+        {
+          "text": "Pressure-test and inspect plumbing supply and drain lines."
+        },
+        {
+          "text": "Verify HVAC ductwork routing, sizing and supports."
+        },
+        {
+          "text": "Check that penetrations are properly sealed and fire-stopped."
+        },
+        {
+          "text": "Confirm fixtures and equipment locations match drawings."
+        },
+        {
+          "text": "Inspect for code clearances and accessibility before cover-up."
+        }
+      ]
+    },
+    {
+      "title": "Insulation and envelope",
+      "items": [
+        {
+          "text": "Verify insulation type and R-value meet specifications."
+        },
+        {
+          "text": "Check vapor barriers and air sealing for continuity."
+        },
+        {
+          "text": "Inspect window and door flashing and weatherproofing."
+        },
+        {
+          "text": "Confirm exterior cladding installation and fastening."
+        },
+        {
+          "text": "Check roofing materials, underlayment and flashing."
+        },
+        {
+          "text": "Verify drainage planes and weep paths are clear."
+        }
+      ]
+    },
+    {
+      "title": "Interior finishes",
+      "items": [
+        {
+          "text": "Inspect drywall finish, seams and surface quality."
+        },
+        {
+          "text": "Check paint coverage, color and edges."
+        },
+        {
+          "text": "Verify flooring installation, levelness and transitions."
+        },
+        {
+          "text": "Inspect cabinetry, millwork and trim alignment."
+        },
+        {
+          "text": "Confirm fixtures, hardware and accessories are installed correctly."
+        },
+        {
+          "text": "Check tile layout, grout lines and waterproofing."
+        }
+      ]
+    },
+    {
+      "title": "Final and systems verification",
+      "items": [
+        {
+          "text": "Test electrical outlets, switches and GFCI protection."
+        },
+        {
+          "text": "Confirm plumbing fixtures operate without leaks."
+        },
+        {
+          "text": "Verify HVAC heating, cooling and airflow performance."
+        },
+        {
+          "text": "Check that life-safety and fire systems function correctly."
+        },
+        {
+          "text": "Review the punch list and confirm corrections are complete."
+        },
+        {
+          "text": "Document findings with photos and a signed inspection report."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What stages need a construction inspection?",
+      "a": "Critical milestones include foundation, framing, rough-in for mechanical, electrical and plumbing, insulation, and final finishes. This checklist groups checks by stage so you can verify each before the next trade covers the work."
+    },
+    {
+      "q": "What is the difference between a quality inspection and a code inspection?",
+      "a": "A code inspection is performed by your jurisdiction's official to confirm legal compliance. A quality inspection, like this checklist, is your own internal review of workmanship. Both matter and the code inspection always takes precedence."
+    },
+    {
+      "q": "Who performs construction inspections?",
+      "a": "Builders, site supervisors, project managers, owner's representatives and third-party inspectors all conduct inspections. This checklist gives them a consistent reference so quality standards are applied the same way across the project."
+    },
+    {
+      "q": "When should I inspect rough-in work?",
+      "a": "Inspect mechanical, electrical and plumbing rough-in after it is installed but before insulation and drywall cover it. Catching errors at this stage avoids cutting open finished walls later."
+    },
+    {
+      "q": "Is this inspection checklist available as a printable PDF?",
+      "a": "Yes. Print it for stage-by-stage site walks or download the PDF so inspectors and project managers can record findings on a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/construction-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/construction-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Construction Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/construction-inspection-checklist)",
+  "updated": "2026-10-20"
+}

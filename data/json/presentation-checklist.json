@@ -1,0 +1,154 @@
+{
+  "id": "presentation-checklist",
+  "name": "Presentation Checklist",
+  "description": "A presentation checklist to prepare and deliver a clear, confident presentation.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "college",
+    "study",
+    "presentation",
+    "public-speaking"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Plan your content",
+      "items": [
+        {
+          "text": "Confirm the topic, audience, time limit and grading criteria."
+        },
+        {
+          "text": "Decide the one key message the audience should remember."
+        },
+        {
+          "text": "Outline an opening, three or so main points and a close."
+        },
+        {
+          "text": "Gather evidence, examples and any sources to cite."
+        },
+        {
+          "text": "Write a strong hook to open and a clear takeaway to end."
+        },
+        {
+          "text": "Plan smooth transitions between each section."
+        }
+      ]
+    },
+    {
+      "title": "Build your slides",
+      "items": [
+        {
+          "text": "Keep one main idea per slide with minimal text.",
+          "note": "Slides support you; they are not your script."
+        },
+        {
+          "text": "Use large, readable fonts and high-contrast colors."
+        },
+        {
+          "text": "Add relevant images, charts or visuals over walls of text."
+        },
+        {
+          "text": "Keep a consistent layout and style throughout."
+        },
+        {
+          "text": "Check every slide for spelling and accurate data."
+        },
+        {
+          "text": "Add slide numbers and any required citations."
+        }
+      ]
+    },
+    {
+      "title": "Prepare to speak",
+      "items": [
+        {
+          "text": "Write brief notes or cue cards, not a full script."
+        },
+        {
+          "text": "Memorize your opening and closing lines."
+        },
+        {
+          "text": "Prepare answers to likely audience questions."
+        },
+        {
+          "text": "Plan who says what if it is a group presentation."
+        },
+        {
+          "text": "Decide what to do if a slide or demo fails."
+        }
+      ]
+    },
+    {
+      "title": "Practice your delivery",
+      "items": [
+        {
+          "text": "Rehearse out loud from start to finish several times."
+        },
+        {
+          "text": "Time yourself and trim or expand to fit the limit."
+        },
+        {
+          "text": "Practice in front of a friend or record yourself."
+        },
+        {
+          "text": "Work on pace, pauses, eye contact and clear speech."
+        },
+        {
+          "text": "Practice advancing slides while you talk."
+        }
+      ]
+    },
+    {
+      "title": "Tech check and delivery day",
+      "items": [
+        {
+          "text": "Test your slides on the actual presentation device."
+        },
+        {
+          "text": "Confirm any video, audio or links work and have sound."
+        },
+        {
+          "text": "Bring a backup copy on a drive and email or cloud."
+        },
+        {
+          "text": "Check the projector, screen, clicker and adapters."
+        },
+        {
+          "text": "Arrive early to set up and settle your nerves."
+        },
+        {
+          "text": "Take a breath, smile and begin with your opening line."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I prepare for a class presentation?",
+      "a": "Start by understanding the topic and time limit, then outline a clear structure with an opening, main points and a close. Build simple slides, practice out loud several times, and run a tech check before you present."
+    },
+    {
+      "q": "How is this different from a writing checklist?",
+      "a": "This presentation checklist covers planning, slides, practice and live delivery of a spoken talk. A writing checklist covers the process of producing a written assignment such as an essay or report."
+    },
+    {
+      "q": "What makes a good presentation slide?",
+      "a": "A good slide has one idea, very little text, large readable fonts and a relevant visual. Use slides to support what you say, not to display your full script, so the audience listens to you instead of reading along."
+    },
+    {
+      "q": "How can I feel less nervous when presenting?",
+      "a": "Practice out loud until the flow feels familiar, know your opening by heart, arrive early to test the setup, and take a few slow breaths before you start. Preparation is the most reliable way to reduce nerves."
+    },
+    {
+      "q": "Can I download this presentation checklist as a PDF?",
+      "a": "Yes. You can print it to track your prep or download it as a PDF to your phone and run the final practice and tech checks right before you present."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/presentation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/presentation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Presentation Checklist by ChecklistForge (https://checklistforge.com/checklist/presentation-checklist)",
+  "updated": "2026-10-17"
+}

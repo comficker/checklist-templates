@@ -1,0 +1,170 @@
+{
+  "id": "kitchen-cleaning-checklist",
+  "name": "Kitchen Cleaning Checklist",
+  "description": "A thorough kitchen cleaning checklist covering appliances, surfaces, the sink, fridge, and floors.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "routine",
+    "deep-cleaning",
+    "kitchen"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Clear and Prep",
+      "items": [
+        {
+          "text": "Wash, dry, and put away any dishes in the sink or rack"
+        },
+        {
+          "text": "Clear countertops and set items aside to wipe surfaces fully"
+        },
+        {
+          "text": "Empty the trash and recycling and add fresh liners"
+        },
+        {
+          "text": "Put away groceries, condiments, and stray pantry items"
+        },
+        {
+          "text": "Gather your cleaning supplies and a fresh dish cloth"
+        }
+      ]
+    },
+    {
+      "title": "Countertops and Surfaces",
+      "items": [
+        {
+          "text": "Wipe down and disinfect all countertops"
+        },
+        {
+          "text": "Clean and degrease the backsplash"
+        },
+        {
+          "text": "Wipe cabinet fronts, handles, and drawer pulls"
+        },
+        {
+          "text": "Disinfect high-touch spots like light switches and faucet handles"
+        },
+        {
+          "text": "Wipe down the windowsill and any open shelving"
+        }
+      ]
+    },
+    {
+      "title": "Appliances",
+      "items": [
+        {
+          "text": "Clean the stovetop and scrub the burner grates or coils",
+          "note": "Soak removable grates in hot soapy water while you clean the rest."
+        },
+        {
+          "text": "Wipe the oven door and clean the interior if needed"
+        },
+        {
+          "text": "Clean the inside and outside of the microwave"
+        },
+        {
+          "text": "Wipe down the toaster, kettle, and coffee maker"
+        },
+        {
+          "text": "Polish stainless steel surfaces and appliance fronts"
+        },
+        {
+          "text": "Degrease the range hood and wipe or replace the filter"
+        }
+      ]
+    },
+    {
+      "title": "Refrigerator",
+      "items": [
+        {
+          "text": "Discard expired food and leftovers"
+        },
+        {
+          "text": "Wipe down shelves, drawers, and door bins"
+        },
+        {
+          "text": "Clean spills and sticky spots inside the fridge"
+        },
+        {
+          "text": "Wipe the exterior, handles, and the top of the fridge"
+        },
+        {
+          "text": "Vacuum the coils and floor behind the fridge during deep cleans"
+        },
+        {
+          "text": "Check and wipe the freezer, removing any frost buildup"
+        }
+      ]
+    },
+    {
+      "title": "Sink and Drain",
+      "items": [
+        {
+          "text": "Scrub the sink basin and remove any stains"
+        },
+        {
+          "text": "Disinfect the faucet, handles, and sprayer"
+        },
+        {
+          "text": "Clean and freshen the garbage disposal"
+        },
+        {
+          "text": "Clear the drain and remove trapped food debris"
+        },
+        {
+          "text": "Wipe down the dish rack and soap dispenser"
+        }
+      ]
+    },
+    {
+      "title": "Floors and Finishing",
+      "items": [
+        {
+          "text": "Sweep up crumbs and debris, including under the toe-kicks"
+        },
+        {
+          "text": "Mop the floor, paying attention to corners and under appliances"
+        },
+        {
+          "text": "Wipe down the trash and recycling bins"
+        },
+        {
+          "text": "Replace dish towels and the sink sponge"
+        },
+        {
+          "text": "Do a final wipe of counters and a quick inspection"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What order should I clean my kitchen in?",
+      "a": "Clear and wipe counters first, then clean appliances, scrub the sink, and finish with the floor. Working top to bottom keeps crumbs and drips from landing on areas you've already cleaned."
+    },
+    {
+      "q": "How often should I deep clean my kitchen?",
+      "a": "Wipe surfaces daily and do a fuller clean weekly. Deep tasks like the oven, fridge interior, and behind appliances are best done monthly or every couple of months."
+    },
+    {
+      "q": "How do I clean a kitchen sink and disposal?",
+      "a": "Scrub the basin with baking soda, disinfect the faucet and handles, and freshen the disposal by grinding ice and citrus peels. Rinse thoroughly afterward."
+    },
+    {
+      "q": "What is the best way to clean a greasy stovetop?",
+      "a": "Spray with a degreaser or all-purpose cleaner, let it sit a few minutes, then wipe. For stubborn buildup, a baking soda paste lifts grease without scratching."
+    },
+    {
+      "q": "Is this kitchen cleaning checklist printable?",
+      "a": "Yes. You can print it or save the PDF and check off each task for daily, weekly, or deep kitchen cleaning."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/kitchen-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/kitchen-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Kitchen Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/kitchen-cleaning-checklist)",
+  "updated": "2026-10-18"
+}

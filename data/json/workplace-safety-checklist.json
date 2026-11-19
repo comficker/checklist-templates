@@ -1,0 +1,176 @@
+{
+  "id": "workplace-safety-checklist",
+  "name": "Workplace Safety Checklist",
+  "description": "A general workplace safety program covering hazards, PPE, training, emergencies and records.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "health-and-safety",
+    "osha",
+    "workplace-safety",
+    "hazard"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Hazard Identification and Control",
+      "items": [
+        {
+          "text": "Walk each work area and document physical, chemical and ergonomic hazards."
+        },
+        {
+          "text": "Confirm a job hazard analysis exists for higher-risk tasks."
+        },
+        {
+          "text": "Verify controls follow the hierarchy: eliminate, substitute, engineer, then PPE.",
+          "note": "Treat PPE as the last line of defense, not the first."
+        },
+        {
+          "text": "Check that reported hazards are logged and tracked to closure."
+        },
+        {
+          "text": "Confirm machine guards, interlocks and barriers are in place and working."
+        },
+        {
+          "text": "Review near-miss reports for trends and recurring risks."
+        }
+      ]
+    },
+    {
+      "title": "PPE and Equipment",
+      "items": [
+        {
+          "text": "Confirm a PPE hazard assessment has been completed and documented."
+        },
+        {
+          "text": "Check the correct PPE is available, sized and worn for each task."
+        },
+        {
+          "text": "Verify PPE is inspected, maintained and replaced when damaged."
+        },
+        {
+          "text": "Confirm tools and equipment are inspected and removed from service when faulty.",
+          "note": "Tag and isolate defective equipment so it cannot be used by mistake."
+        },
+        {
+          "text": "Check that safety devices and guards have not been bypassed."
+        }
+      ]
+    },
+    {
+      "title": "Training and Communication",
+      "items": [
+        {
+          "text": "Confirm new hires receive safety orientation before starting work."
+        },
+        {
+          "text": "Verify task-specific and refresher training is current and recorded."
+        },
+        {
+          "text": "Check that safety data sheets are accessible to all employees."
+        },
+        {
+          "text": "Confirm toolbox talks or safety meetings are held and documented."
+        },
+        {
+          "text": "Verify employees know how to report hazards and incidents."
+        }
+      ]
+    },
+    {
+      "title": "Signage and Housekeeping",
+      "items": [
+        {
+          "text": "Check warning, mandatory and prohibition signs are posted and legible."
+        },
+        {
+          "text": "Confirm exits, hazards and equipment are clearly labeled."
+        },
+        {
+          "text": "Verify walkways and work areas are clear of clutter and trip hazards."
+        },
+        {
+          "text": "Check spills are cleaned promptly and absorbents are available.",
+          "note": "Keep aisles, exits and electrical panels unobstructed at all times."
+        },
+        {
+          "text": "Confirm waste and chemicals are stored and disposed of correctly."
+        }
+      ]
+    },
+    {
+      "title": "Emergency Preparedness",
+      "items": [
+        {
+          "text": "Confirm the emergency action plan is documented and current."
+        },
+        {
+          "text": "Check fire extinguishers, alarms and emergency lighting are working."
+        },
+        {
+          "text": "Verify first aid kits are stocked and first aiders are trained."
+        },
+        {
+          "text": "Confirm evacuation routes, exits and assembly points are clear and posted."
+        },
+        {
+          "text": "Check that a recent drill has been carried out and logged."
+        },
+        {
+          "text": "Review provisions for visitors, contractors and anyone needing evacuation assistance."
+        }
+      ]
+    },
+    {
+      "title": "Recordkeeping and Review",
+      "items": [
+        {
+          "text": "Confirm injury and illness records are maintained as required."
+        },
+        {
+          "text": "Check that inspections and corrective actions are documented and dated."
+        },
+        {
+          "text": "Verify training records are complete and up to date."
+        },
+        {
+          "text": "Confirm equipment inspection and maintenance logs are kept."
+        },
+        {
+          "text": "Review the program annually and after any incident or process change."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training or your employer's safety program; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should the workplace safety program be reviewed?",
+      "a": "Review the full program at least annually, and sooner after an incident, a new process, or a change in equipment or staffing. Inspect high-risk areas and emergency equipment more frequently."
+    },
+    {
+      "q": "Who is responsible for workplace safety?",
+      "a": "Employers hold overall responsibility, usually delegated to a safety officer or manager. Every employee must follow safe procedures and report hazards, but one person should own the program and its follow-up."
+    },
+    {
+      "q": "What are the core elements of a safety program?",
+      "a": "Hazard identification and control, written procedures, PPE, training, clear signage, emergency preparedness, incident reporting and recordkeeping are the building blocks most safety programs share."
+    },
+    {
+      "q": "Can this checklist be adapted to my industry?",
+      "a": "Yes. Download the printable PDF and tailor it to your operation, adding hazard-specific items such as machine guarding, lockout/tagout, confined spaces or hazardous chemicals as your workplace requires."
+    },
+    {
+      "q": "Does this replace OSHA standards or professional advice?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal safety training, your employer's safety program, or a qualified person. Always confirm the standards that apply to your workplace."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/workplace-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/workplace-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Workplace Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/workplace-safety-checklist)",
+  "updated": "2026-10-17"
+}

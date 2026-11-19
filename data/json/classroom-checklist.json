@@ -1,0 +1,186 @@
+{
+  "id": "classroom-checklist",
+  "name": "Classroom Checklist",
+  "description": "A daily readiness and management checklist to keep a classroom running smoothly.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "daily-routine",
+    "classroom",
+    "teacher",
+    "teaching",
+    "classroom-management"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Morning readiness",
+      "items": [
+        {
+          "text": "Unlock, light and ventilate the classroom."
+        },
+        {
+          "text": "Write the agenda, objective and date on the board."
+        },
+        {
+          "text": "Set out materials and handouts for the first lessons."
+        },
+        {
+          "text": "Power on and test the computer, projector and devices."
+        },
+        {
+          "text": "Check supplies and restock anything that ran low."
+        },
+        {
+          "text": "Review your plans and the day's schedule."
+        },
+        {
+          "text": "Greet students at the door as they enter."
+        }
+      ]
+    },
+    {
+      "title": "Classroom environment",
+      "items": [
+        {
+          "text": "Confirm desks and furniture are in the right layout."
+        },
+        {
+          "text": "Clear walkways and check sightlines to the board."
+        },
+        {
+          "text": "Verify lighting, temperature and noise are comfortable."
+        },
+        {
+          "text": "Update displays, calendars and the objective board."
+        },
+        {
+          "text": "Check that emergency exits and maps are visible."
+        },
+        {
+          "text": "Keep shared areas clean and clutter-free."
+        }
+      ]
+    },
+    {
+      "title": "Materials and supplies",
+      "items": [
+        {
+          "text": "Stock the shared supply station for the day."
+        },
+        {
+          "text": "Sharpen pencils and refill dry-erase markers."
+        },
+        {
+          "text": "Prepare turn-in trays and collection bins."
+        },
+        {
+          "text": "Charge devices and lay out chargers as needed."
+        },
+        {
+          "text": "Restock tissues, sanitizer and cleaning wipes.",
+          "note": "Keep a backup of fast-use consumables nearby."
+        },
+        {
+          "text": "Replace any broken or missing classroom tools."
+        }
+      ]
+    },
+    {
+      "title": "Routines and procedures",
+      "items": [
+        {
+          "text": "Take attendance and submit any required counts."
+        },
+        {
+          "text": "Reinforce the entry and warm-up routine."
+        },
+        {
+          "text": "Use consistent signals for attention and transitions."
+        },
+        {
+          "text": "Follow hall pass and restroom procedures."
+        },
+        {
+          "text": "Keep movement and noise within posted expectations."
+        },
+        {
+          "text": "Run dismissal as a clear, orderly routine."
+        }
+      ]
+    },
+    {
+      "title": "Behavior and engagement",
+      "items": [
+        {
+          "text": "Review posted rules and expectations with students."
+        },
+        {
+          "text": "Acknowledge positive behavior throughout the day."
+        },
+        {
+          "text": "Address disruptions calmly and consistently."
+        },
+        {
+          "text": "Keep students engaged and on task during lessons."
+        },
+        {
+          "text": "Use your reward or recognition system."
+        },
+        {
+          "text": "Note any incidents that need follow-up."
+        }
+      ]
+    },
+    {
+      "title": "End-of-day reset",
+      "items": [
+        {
+          "text": "Have students tidy desks and shared spaces."
+        },
+        {
+          "text": "Reset the room layout for the next day."
+        },
+        {
+          "text": "Restock supplies and return materials to their places."
+        },
+        {
+          "text": "Prep materials and copies for tomorrow."
+        },
+        {
+          "text": "Note unfinished tasks and follow-ups."
+        },
+        {
+          "text": "Power down equipment and secure the room."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should teachers check in the classroom each morning?",
+      "a": "Confirm the room is clean and arranged, the board shows the day's agenda, materials are set out, and technology is powered and working. A quick morning readiness check prevents disruptions once students arrive and lets the first lesson start on time."
+    },
+    {
+      "q": "How do I keep a classroom organized day to day?",
+      "a": "Use clear systems for supplies, turning in work and storage, and reset them daily. Having students help tidy at the end of class, restocking what ran low, and returning materials to labeled places keeps the room functional without a major cleanup."
+    },
+    {
+      "q": "What makes classroom management routines effective?",
+      "a": "Consistency is key. Teach clear procedures for transitions, attention, and movement, then reinforce them every day. Posted rules, predictable signals and steady follow-through keep behavior on track and free up time for actual teaching."
+    },
+    {
+      "q": "Why do an end-of-day classroom reset?",
+      "a": "A short reset returns the room to a calm, ready state for the next day. Tidying, restocking, prepping materials and noting unfinished tasks means you start tomorrow prepared instead of scrambling, and the space stays welcoming for students."
+    },
+    {
+      "q": "Is this classroom checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep on your desk, then tick off each readiness and management task as you move through the school day to keep your classroom running smoothly."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/classroom-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/classroom-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Classroom Checklist by ChecklistForge (https://checklistforge.com/checklist/classroom-checklist)",
+  "updated": "2026-10-17"
+}

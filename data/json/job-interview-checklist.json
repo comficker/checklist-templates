@@ -1,0 +1,187 @@
+{
+  "id": "job-interview-checklist",
+  "name": "Job Interview Checklist",
+  "description": "A candidate's checklist to research, practice, prepare, and follow up for a job interview.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hiring",
+    "interview",
+    "job-search",
+    "career"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Research the Company and Role",
+      "items": [
+        {
+          "text": "Read the company website, mission, and recent news"
+        },
+        {
+          "text": "Study the job description and list the key requirements"
+        },
+        {
+          "text": "Understand the products, customers, and competitors"
+        },
+        {
+          "text": "Look up the interviewers and their roles if known"
+        },
+        {
+          "text": "Note how your experience maps to the role's needs",
+          "note": "Tie your strengths directly to their requirements."
+        },
+        {
+          "text": "Check the company culture and values"
+        }
+      ]
+    },
+    {
+      "title": "Practice Your Answers",
+      "items": [
+        {
+          "text": "Prepare answers to common behavioral questions"
+        },
+        {
+          "text": "Build several strong stories from your real experience"
+        },
+        {
+          "text": "Structure each story with situation, action, and result"
+        },
+        {
+          "text": "Practice explaining why you want this role"
+        },
+        {
+          "text": "Rehearse out loud or with a friend"
+        },
+        {
+          "text": "Prepare a concise, confident self-introduction",
+          "note": "A clear opening sets a strong tone."
+        }
+      ]
+    },
+    {
+      "title": "Prepare Questions to Ask",
+      "items": [
+        {
+          "text": "Write thoughtful questions about the role and team"
+        },
+        {
+          "text": "Ask about success measures and expectations"
+        },
+        {
+          "text": "Prepare a question about growth and development"
+        },
+        {
+          "text": "Ask about the team you would join and how it works"
+        },
+        {
+          "text": "Avoid questions easily answered by their website"
+        },
+        {
+          "text": "Save salary and benefits for the right moment",
+          "note": "Show interest in the work before the perks."
+        }
+      ]
+    },
+    {
+      "title": "Gather What to Bring",
+      "items": [
+        {
+          "text": "Print several clean copies of your resume"
+        },
+        {
+          "text": "Bring a notepad and pen for taking notes"
+        },
+        {
+          "text": "Prepare a reference list if it may be requested"
+        },
+        {
+          "text": "Pack a portfolio or work samples if relevant"
+        },
+        {
+          "text": "Charge your phone and save the contact and address"
+        },
+        {
+          "text": "For video, test your camera, mic, and link in advance",
+          "note": "Do a tech check the day before, not five minutes before."
+        }
+      ]
+    },
+    {
+      "title": "Get Ready for the Day",
+      "items": [
+        {
+          "text": "Choose and prepare a clean, role-appropriate outfit"
+        },
+        {
+          "text": "Plan your route and aim to arrive early"
+        },
+        {
+          "text": "Confirm the time, location, and format"
+        },
+        {
+          "text": "Get a good night's sleep and eat beforehand"
+        },
+        {
+          "text": "Review your notes and key talking points"
+        },
+        {
+          "text": "Arrive calm, polite, and ready to engage",
+          "note": "Treat everyone you meet with courtesy."
+        }
+      ]
+    },
+    {
+      "title": "Follow Up After the Interview",
+      "items": [
+        {
+          "text": "Jot down what was discussed and any open points"
+        },
+        {
+          "text": "Send a personalized thank-you note within a day"
+        },
+        {
+          "text": "Reiterate your interest and fit for the role"
+        },
+        {
+          "text": "Address anything you wish you had said clearly"
+        },
+        {
+          "text": "Follow up politely if you do not hear back by the date given"
+        },
+        {
+          "text": "Reflect on what went well to improve next time",
+          "note": "Every interview sharpens the next."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How should I prepare for a job interview?",
+      "a": "Research the company and role, practice answers to common questions using real examples, prepare questions to ask, plan your outfit and route, and gather everything you need to bring."
+    },
+    {
+      "q": "What should I bring to an interview?",
+      "a": "Bring several copies of your resume, a notepad and pen, a list of questions, references if requested, and any portfolio or work samples. Pack the night before so you are not rushed."
+    },
+    {
+      "q": "How do I answer interview questions well?",
+      "a": "Use specific examples from your experience and structure stories with the situation, your actions, and the result. Practice out loud so your answers feel natural rather than rehearsed."
+    },
+    {
+      "q": "Should I send a thank-you note after an interview?",
+      "a": "Yes. A short, personalized thank-you within a day reinforces your interest, reminds the interviewer of your fit, and shows professionalism that can set you apart from other candidates."
+    },
+    {
+      "q": "Can I print this job interview checklist?",
+      "a": "Yes. Download the printable PDF, work through it in the days before your interview, and check off each step from research to follow-up to walk in fully prepared."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/job-interview-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/job-interview-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Job Interview Checklist by ChecklistForge (https://checklistforge.com/checklist/job-interview-checklist)",
+  "updated": "2026-10-17"
+}

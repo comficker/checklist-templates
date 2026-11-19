@@ -1,0 +1,182 @@
+{
+  "id": "dog-care-checklist",
+  "name": "Dog Care Checklist",
+  "description": "A dog care checklist organizing daily, weekly, and monthly routines that keep a dog healthy and happy.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "grooming",
+    "dogs",
+    "dog-care"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Daily care",
+      "items": [
+        {
+          "text": "Serve measured meals at consistent times and refresh water."
+        },
+        {
+          "text": "Provide daily exercise and a walk suited to your dog's energy."
+        },
+        {
+          "text": "Take regular potty breaks throughout the day."
+        },
+        {
+          "text": "Spend time on play, training, and bonding."
+        },
+        {
+          "text": "Pick up waste and keep eating and resting areas clean."
+        },
+        {
+          "text": "Check mood, appetite, and behavior for anything unusual."
+        }
+      ]
+    },
+    {
+      "title": "Weekly care",
+      "items": [
+        {
+          "text": "Brush your dog's coat based on its type and shedding."
+        },
+        {
+          "text": "Wash bedding and clean food and water bowls thoroughly."
+        },
+        {
+          "text": "Check ears, eyes, and paws for dirt or irritation."
+        },
+        {
+          "text": "Practice training cues to keep skills sharp."
+        },
+        {
+          "text": "Inspect collar, harness, and ID tag for wear."
+        },
+        {
+          "text": "Plan longer outings or enrichment for the week."
+        }
+      ]
+    },
+    {
+      "title": "Monthly care",
+      "items": [
+        {
+          "text": "Give parasite prevention for fleas, ticks, and worms on schedule.",
+          "note": "Follow your veterinarian's recommended products and timing."
+        },
+        {
+          "text": "Weigh your dog and note any changes."
+        },
+        {
+          "text": "Trim nails if they have grown too long."
+        },
+        {
+          "text": "Review and refill any medications or supplements."
+        },
+        {
+          "text": "Restock food, treats, and supplies before they run out."
+        },
+        {
+          "text": "Confirm ID and microchip details are current."
+        }
+      ]
+    },
+    {
+      "title": "Feeding and nutrition",
+      "items": [
+        {
+          "text": "Feed a quality, age-appropriate dog food in measured portions."
+        },
+        {
+          "text": "Provide clean, fresh water at all times."
+        },
+        {
+          "text": "Limit treats and avoid foods toxic to dogs."
+        },
+        {
+          "text": "Transition any food change gradually over several days."
+        },
+        {
+          "text": "Adjust portions for activity, age, and weight."
+        },
+        {
+          "text": "Note loss of appetite or stomach upset for your vet."
+        }
+      ]
+    },
+    {
+      "title": "Grooming and hygiene",
+      "items": [
+        {
+          "text": "Brush regularly to reduce mats and shedding."
+        },
+        {
+          "text": "Bathe as needed with a dog-safe shampoo."
+        },
+        {
+          "text": "Clean ears and check for odor or buildup."
+        },
+        {
+          "text": "Brush teeth or use vet-recommended dental care."
+        },
+        {
+          "text": "Keep nails trimmed to a comfortable length."
+        },
+        {
+          "text": "Check skin and coat for fleas, ticks, and lumps."
+        }
+      ]
+    },
+    {
+      "title": "Health and wellness",
+      "items": [
+        {
+          "text": "Keep up with routine wellness exams and vaccinations."
+        },
+        {
+          "text": "Watch energy, appetite, weight, and bathroom habits."
+        },
+        {
+          "text": "Give prescribed medications exactly as directed."
+        },
+        {
+          "text": "Provide mental enrichment and avoid boredom."
+        },
+        {
+          "text": "Keep emergency vet contacts handy."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your dog's health, diet, and medications."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does daily dog care involve?",
+      "a": "Daily dog care means measured meals and fresh water, exercise and play, potty breaks, basic training or bonding, and a quick check of mood and behavior. This dog care checklist groups these so the essentials happen every day."
+    },
+    {
+      "q": "How often should I groom my dog?",
+      "a": "Brushing frequency depends on coat type, from a few times a week to daily, with baths as needed. Trim nails, check ears, and brush teeth regularly. A consistent grooming rhythm keeps your dog comfortable and helps you spot skin or coat issues early."
+    },
+    {
+      "q": "What monthly dog care tasks matter?",
+      "a": "Monthly tasks often include parasite prevention for fleas, ticks, and worms, a weight check, refreshing ID and supplies, and reviewing any medications. Follow your veterinarian's schedule for prevention and confirm the right products for your dog."
+    },
+    {
+      "q": "How is this different from the new dog checklist?",
+      "a": "This dog care checklist is the ongoing daily, weekly, and monthly routine. Our New Dog Checklist covers settling a newly arrived dog into your home for the first time. Many owners use both together."
+    },
+    {
+      "q": "Can I download this dog care checklist as a PDF?",
+      "a": "Yes. You can print it for the kitchen or download it as a PDF so the whole household can keep your dog's daily, weekly, and monthly care consistent."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Care Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-care-checklist)",
+  "updated": "2026-10-17"
+}

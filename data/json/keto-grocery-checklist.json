@@ -1,0 +1,188 @@
+{
+  "id": "keto-grocery-checklist",
+  "name": "Keto Grocery Checklist",
+  "description": "A ketogenic shopping list organized by category, from healthy fats and proteins to low-carb veg, dairy and pantry staples.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "groceries",
+    "meal-prep",
+    "nutrition",
+    "keto",
+    "low-carb"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Healthy Fats & Oils",
+      "items": [
+        {
+          "text": "Extra-virgin olive oil"
+        },
+        {
+          "text": "Avocado oil and coconut oil"
+        },
+        {
+          "text": "Butter or ghee"
+        },
+        {
+          "text": "Avocados"
+        },
+        {
+          "text": "Olives"
+        },
+        {
+          "text": "Mayonnaise with no added sugar",
+          "note": "Fats are the backbone of a keto plate."
+        }
+      ]
+    },
+    {
+      "title": "Proteins",
+      "items": [
+        {
+          "text": "Chicken, turkey and other poultry"
+        },
+        {
+          "text": "Beef, pork and lamb"
+        },
+        {
+          "text": "Fatty fish like salmon, mackerel and sardines"
+        },
+        {
+          "text": "Shrimp and other seafood"
+        },
+        {
+          "text": "Eggs"
+        },
+        {
+          "text": "Bacon and sausage with no added sugar",
+          "note": "Check labels, as some cured meats add sugar."
+        },
+        {
+          "text": "Tofu and tempeh for plant-based protein"
+        }
+      ]
+    },
+    {
+      "title": "Low-Carb Vegetables",
+      "items": [
+        {
+          "text": "Leafy greens: spinach, kale, lettuce"
+        },
+        {
+          "text": "Broccoli and cauliflower"
+        },
+        {
+          "text": "Zucchini and other summer squash"
+        },
+        {
+          "text": "Bell peppers and mushrooms"
+        },
+        {
+          "text": "Asparagus and green beans"
+        },
+        {
+          "text": "Cabbage and Brussels sprouts",
+          "note": "Stick to non-starchy veg that grow above ground."
+        }
+      ]
+    },
+    {
+      "title": "Dairy & Alternatives",
+      "items": [
+        {
+          "text": "Hard and soft cheeses"
+        },
+        {
+          "text": "Heavy cream"
+        },
+        {
+          "text": "Full-fat plain Greek yogurt in moderation"
+        },
+        {
+          "text": "Cream cheese"
+        },
+        {
+          "text": "Unsweetened almond or coconut milk",
+          "note": "Choose unsweetened versions to avoid added sugar."
+        }
+      ]
+    },
+    {
+      "title": "Nuts, Seeds & Pantry",
+      "items": [
+        {
+          "text": "Almonds, pecans, walnuts and macadamias"
+        },
+        {
+          "text": "Chia, flax and pumpkin seeds"
+        },
+        {
+          "text": "Almond flour and coconut flour"
+        },
+        {
+          "text": "Nut butter with no added sugar"
+        },
+        {
+          "text": "Sugar-free sweetener such as erythritol or stevia"
+        },
+        {
+          "text": "Low-carb broth, herbs and spices",
+          "note": "Pantry staples make keto cooking easier and more varied."
+        }
+      ]
+    },
+    {
+      "title": "Drinks & Extras",
+      "items": [
+        {
+          "text": "Water and sparkling water"
+        },
+        {
+          "text": "Coffee and unsweetened tea"
+        },
+        {
+          "text": "Electrolytes or extra salt for the early adjustment"
+        },
+        {
+          "text": "Pickles and low-sugar condiments like mustard"
+        },
+        {
+          "text": "Dark chocolate (high cacao) as an occasional treat"
+        },
+        {
+          "text": "Important: this is general information, not medical or dietary advice",
+          "note": "Keto is a medical-style diet — consult your doctor or a registered dietitian before starting, especially with a health condition."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the keto diet?",
+      "a": "The ketogenic diet is a very low-carbohydrate, high-fat way of eating, typically keeping carbs around 20 to 50 grams a day. The aim is to shift the body toward burning fat for fuel. It relies on fats, protein and low-carb vegetables while avoiding sugar and starches."
+    },
+    {
+      "q": "What foods do you avoid on keto?",
+      "a": "You avoid sugar, sugary drinks, bread, pasta, rice, potatoes, most grains, beans, and high-sugar fruits. Many processed and packaged foods are too high in carbs as well, so reading labels for total carbs is important."
+    },
+    {
+      "q": "Which vegetables are keto-friendly?",
+      "a": "Non-starchy vegetables that grow above ground are best: leafy greens, broccoli, cauliflower, zucchini, peppers, asparagus and mushrooms. Limit starchy vegetables like potatoes, corn and peas."
+    },
+    {
+      "q": "Can I print this keto grocery checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF to take to the store, ticking off each keto staple by category as you shop."
+    },
+    {
+      "q": "Is keto safe for everyone?",
+      "a": "Keto is not right for everyone. This is general information, not medical or dietary advice. If you have diabetes, take medication, are pregnant or have a health condition, consult your doctor or a registered dietitian before starting keto."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/keto-grocery-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/keto-grocery-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Keto Grocery Checklist by ChecklistForge (https://checklistforge.com/checklist/keto-grocery-checklist)",
+  "updated": "2026-10-17"
+}

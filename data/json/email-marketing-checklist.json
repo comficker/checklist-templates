@@ -1,0 +1,166 @@
+{
+  "id": "email-marketing-checklist",
+  "name": "Email Marketing Checklist",
+  "description": "An email marketing checklist for planning, testing and sending a campaign that converts.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "email",
+    "email-marketing",
+    "campaigns"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Plan the campaign",
+      "items": [
+        {
+          "text": "Define the goal and the single action you want recipients to take."
+        },
+        {
+          "text": "Choose the audience segment and exclude anyone who should not receive it."
+        },
+        {
+          "text": "Confirm subscribers have opted in and you comply with consent rules."
+        },
+        {
+          "text": "Decide the offer, message and primary call to action."
+        },
+        {
+          "text": "Set the sender name and reply-to address recipients will trust."
+        }
+      ]
+    },
+    {
+      "title": "Write and design",
+      "items": [
+        {
+          "text": "Write a clear, specific subject line that earns the open."
+        },
+        {
+          "text": "Add preview text that complements the subject line."
+        },
+        {
+          "text": "Keep the message focused on one main goal."
+        },
+        {
+          "text": "Use a single prominent call-to-action button."
+        },
+        {
+          "text": "Confirm the design is mobile-responsive and on brand."
+        },
+        {
+          "text": "Add alt text to images in case they do not load."
+        }
+      ]
+    },
+    {
+      "title": "Personalize and check links",
+      "items": [
+        {
+          "text": "Verify personalization and merge tags render correctly."
+        },
+        {
+          "text": "Click every link to confirm it goes to the right page."
+        },
+        {
+          "text": "Add tracking parameters to links for attribution."
+        },
+        {
+          "text": "Confirm any dynamic or conditional content displays properly."
+        },
+        {
+          "text": "Include a working, compliant unsubscribe link."
+        }
+      ]
+    },
+    {
+      "title": "Test before sending",
+      "items": [
+        {
+          "text": "Send a test email to yourself and a colleague."
+        },
+        {
+          "text": "Check rendering on desktop, mobile and a major webmail client."
+        },
+        {
+          "text": "Proofread the subject line, body and sender details."
+        },
+        {
+          "text": "Run a spam check to reduce the risk of filtering."
+        },
+        {
+          "text": "Confirm tracking and goals are set up to record results."
+        }
+      ]
+    },
+    {
+      "title": "Send and schedule",
+      "items": [
+        {
+          "text": "Choose a send time based on past engagement data."
+        },
+        {
+          "text": "Confirm the correct, final audience segment is selected."
+        },
+        {
+          "text": "Double-check the campaign name for internal reporting."
+        },
+        {
+          "text": "Schedule or send the campaign."
+        },
+        {
+          "text": "Verify the send started and check for any delivery errors."
+        }
+      ]
+    },
+    {
+      "title": "Measure and improve",
+      "items": [
+        {
+          "text": "Review open, click and conversion rates after sending."
+        },
+        {
+          "text": "Monitor unsubscribe and spam-complaint rates."
+        },
+        {
+          "text": "Compare results against your goal and past campaigns."
+        },
+        {
+          "text": "Note what to test next, such as subject line or send time."
+        },
+        {
+          "text": "Follow up with engaged recipients or re-engage non-openers."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I check before sending an email campaign?",
+      "a": "Before sending, confirm your segment and audience, the subject line and preview text, the design and links, personalization tags, a test send, and that tracking and the send time are set correctly."
+    },
+    {
+      "q": "Why is a test send important?",
+      "a": "A test send reveals broken links, formatting issues, wrong merge tags and rendering problems on mobile before your whole list sees them. It is the single most valuable pre-send step."
+    },
+    {
+      "q": "Is this email marketing checklist good for beginners?",
+      "a": "Yes. It walks through each step in plain language, so a beginner or small business owner can send a clean, effective campaign without overlooking the basics."
+    },
+    {
+      "q": "Can I download this email marketing checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and use it as a pre-send routine for every campaign."
+    },
+    {
+      "q": "When is the best time to send marketing emails?",
+      "a": "The best time depends on your audience, so test different days and times and review your own open data. This checklist reminds you to schedule based on past performance rather than guesswork."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/email-marketing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/email-marketing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Email Marketing Checklist by ChecklistForge (https://checklistforge.com/checklist/email-marketing-checklist)",
+  "updated": "2026-10-17"
+}

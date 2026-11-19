@@ -1,0 +1,212 @@
+{
+  "id": "car-camping-checklist",
+  "name": "Car Camping Checklist",
+  "description": "A complete car camping checklist covering shelter and sleep setup, the camp kitchen, comfort gear, clothing and campsite essentials.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "camping",
+    "outdoors",
+    "family",
+    "travel",
+    "car-camping"
+  ],
+  "item_count": 44,
+  "sections": [
+    {
+      "title": "Shelter and Sleep Setup",
+      "items": [
+        {
+          "text": "Tent with stakes, or a sleep platform for the car"
+        },
+        {
+          "text": "Footprint or ground tarp"
+        },
+        {
+          "text": "Sleeping bags rated for the conditions"
+        },
+        {
+          "text": "Thick sleeping pads or an air mattress",
+          "note": "Car camping lets you bring a thicker, more comfortable pad."
+        },
+        {
+          "text": "Real pillows and extra blankets"
+        },
+        {
+          "text": "Window covers or a sunshade for in-car sleeping"
+        },
+        {
+          "text": "Pump for an air mattress"
+        }
+      ]
+    },
+    {
+      "title": "Camp Kitchen",
+      "items": [
+        {
+          "text": "Two-burner camp stove with fuel"
+        },
+        {
+          "text": "Large cooler with ice or frozen packs"
+        },
+        {
+          "text": "Pots, pans, and a cast-iron skillet"
+        },
+        {
+          "text": "Cooking utensils, knife, and cutting board"
+        },
+        {
+          "text": "Plates, bowls, mugs, and reusable cutlery"
+        },
+        {
+          "text": "Dish soap, sponge, wash basin, and towels"
+        },
+        {
+          "text": "Coffee maker or French press and a kettle"
+        }
+      ]
+    },
+    {
+      "title": "Food and Water",
+      "items": [
+        {
+          "text": "Drinking water and a refillable jug"
+        },
+        {
+          "text": "Planned meals and ingredients"
+        },
+        {
+          "text": "Snacks and s'mores supplies"
+        },
+        {
+          "text": "Cooking oil, salt, pepper, and spices"
+        },
+        {
+          "text": "Trash bags and sealed food containers"
+        },
+        {
+          "text": "Store food sealed and away from your tent to deter wildlife"
+        }
+      ]
+    },
+    {
+      "title": "Campsite Comfort",
+      "items": [
+        {
+          "text": "Folding camp chairs"
+        },
+        {
+          "text": "Folding table"
+        },
+        {
+          "text": "Pop-up canopy or shade shelter"
+        },
+        {
+          "text": "Outdoor rug or mat for the tent entrance"
+        },
+        {
+          "text": "Hammock for relaxing"
+        },
+        {
+          "text": "Cooler chair or extra seating"
+        }
+      ]
+    },
+    {
+      "title": "Lighting and Tools",
+      "items": [
+        {
+          "text": "Lantern for the campsite and table"
+        },
+        {
+          "text": "Headlamps and flashlights for everyone"
+        },
+        {
+          "text": "Extra batteries and a power bank"
+        },
+        {
+          "text": "Multi-tool or knife"
+        },
+        {
+          "text": "Mallet for stakes and a small axe for firewood"
+        },
+        {
+          "text": "Rope, bungee cords, and duct tape"
+        }
+      ]
+    },
+    {
+      "title": "Clothing and Personal",
+      "items": [
+        {
+          "text": "Layered clothing for warm days and cool nights"
+        },
+        {
+          "text": "Rain jacket and a warm fleece"
+        },
+        {
+          "text": "Sturdy shoes and camp sandals"
+        },
+        {
+          "text": "Hat, gloves, and extra socks"
+        },
+        {
+          "text": "Toiletries, towel, and biodegradable soap"
+        },
+        {
+          "text": "Sunscreen, insect repellent, and a first-aid kit"
+        }
+      ]
+    },
+    {
+      "title": "Before You Leave Home",
+      "items": [
+        {
+          "text": "Confirm your campsite reservation and rules"
+        },
+        {
+          "text": "Check the weather and conditions for your dates"
+        },
+        {
+          "text": "Tell someone your plans and return time"
+        },
+        {
+          "text": "Load heavy and bulky items in the car first"
+        },
+        {
+          "text": "Keep the kitchen kit and chairs easy to reach"
+        },
+        {
+          "text": "Charge phones and any devices fully"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is car camping?",
+      "a": "Car camping means driving to a campsite and camping right next to or sleeping in your vehicle, so you can bring more and heavier gear than backpacking allows. It is a comfortable, beginner-friendly way to camp with a full kitchen and roomy shelter."
+    },
+    {
+      "q": "What do I need for car camping?",
+      "a": "Bring a tent or a sleep setup for the car, sleeping bags and pads, a cooler and camp stove, chairs and a table, lighting, and weather-appropriate clothing. Since the car carries it all, you can pack comfort items like real pillows and extra blankets."
+    },
+    {
+      "q": "How do I sleep in my car while camping?",
+      "a": "Fold down the seats, level the surface with a foam pad or mattress cut to fit, and use a sleeping bag with a pillow. Crack windows with bug screens for airflow and bring a sunshade for privacy and morning light."
+    },
+    {
+      "q": "Can I print this car camping checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you load the car and again when you pack out."
+    },
+    {
+      "q": "How is car camping different from RV camping?",
+      "a": "Car camping uses a regular vehicle plus a tent or in-car sleep setup and campsite gear, while RV camping uses a motorhome or trailer with built-in beds, a kitchen, and utility hookups. Car camping is lighter to manage and needs no special hookups."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/car-camping-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/car-camping-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Car Camping Checklist by ChecklistForge (https://checklistforge.com/checklist/car-camping-checklist)",
+  "updated": "2026-10-17"
+}

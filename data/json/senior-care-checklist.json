@@ -1,0 +1,180 @@
+{
+  "id": "senior-care-checklist",
+  "name": "Senior Care Checklist",
+  "description": "A comprehensive senior care checklist covering an aging adult's health, safety, daily living, finances, and social needs.",
+  "category": "recovery-senior-care",
+  "category_name": "Recovery & Senior Care",
+  "tags": [
+    "caregiver",
+    "senior-care",
+    "recovery",
+    "home-safety"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Health and Medications",
+      "items": [
+        {
+          "text": "Keep an up-to-date list of all medications, doses, and schedules"
+        },
+        {
+          "text": "Use a pill organizer and reminders to prevent missed or doubled doses",
+          "note": "Refill prescriptions a few days early to avoid running out."
+        },
+        {
+          "text": "Track upcoming doctor, dental, eye, and hearing appointments"
+        },
+        {
+          "text": "Maintain a record of conditions, allergies, and emergency contacts"
+        },
+        {
+          "text": "Stay current on recommended vaccinations and screenings"
+        },
+        {
+          "text": "Confirm health insurance coverage and keep cards accessible"
+        }
+      ]
+    },
+    {
+      "title": "Home Safety",
+      "items": [
+        {
+          "text": "Remove trip hazards like loose rugs, clutter, and cords"
+        },
+        {
+          "text": "Add grab bars in the bathroom and handrails on stairs"
+        },
+        {
+          "text": "Improve lighting in hallways, stairs, and near the bed"
+        },
+        {
+          "text": "Test smoke and carbon monoxide detectors regularly"
+        },
+        {
+          "text": "Consider a medical alert device for emergencies",
+          "note": "A wearable alert button lets help be summoned after a fall."
+        },
+        {
+          "text": "Make sure exits, locks, and walkways are easy and safe to use"
+        }
+      ]
+    },
+    {
+      "title": "Daily Living Support",
+      "items": [
+        {
+          "text": "Assess help needed with bathing, dressing, and grooming"
+        },
+        {
+          "text": "Arrange support for housekeeping, laundry, and chores"
+        },
+        {
+          "text": "Plan reliable transportation to appointments and errands"
+        },
+        {
+          "text": "Set up easy ways to stay in touch, like a simple phone or video calls"
+        },
+        {
+          "text": "Review whether in-home help or other care levels are needed"
+        }
+      ]
+    },
+    {
+      "title": "Nutrition and Meals",
+      "items": [
+        {
+          "text": "Ensure regular, balanced meals with enough protein and fiber"
+        },
+        {
+          "text": "Keep healthy, easy-to-prepare foods stocked at home"
+        },
+        {
+          "text": "Monitor for unintended weight loss or poor appetite"
+        },
+        {
+          "text": "Encourage enough fluids throughout the day"
+        },
+        {
+          "text": "Follow any dietary restrictions set by the doctor"
+        },
+        {
+          "text": "Consider meal delivery or shared meals to support nutrition and company"
+        }
+      ]
+    },
+    {
+      "title": "Finances and Legal",
+      "items": [
+        {
+          "text": "Organize bank accounts, bills, and important financial records"
+        },
+        {
+          "text": "Set up automatic payments to avoid missed bills"
+        },
+        {
+          "text": "Confirm a will, power of attorney, and healthcare directive are in place"
+        },
+        {
+          "text": "Store insurance, account, and password information securely"
+        },
+        {
+          "text": "Watch for signs of scams or financial exploitation"
+        },
+        {
+          "text": "Consult a qualified attorney or advisor for major decisions"
+        }
+      ]
+    },
+    {
+      "title": "Social Connection and Wellbeing",
+      "items": [
+        {
+          "text": "Schedule regular visits, calls, and family check-ins"
+        },
+        {
+          "text": "Encourage hobbies, faith communities, or senior center activities"
+        },
+        {
+          "text": "Arrange transportation so they can join social events"
+        },
+        {
+          "text": "Watch for signs of loneliness, low mood, or withdrawal"
+        },
+        {
+          "text": "Support physical activity that the doctor has approved"
+        },
+        {
+          "text": "Important: this checklist is general planning information, not medical or legal advice; follow the older adult's doctor and care team, and consult a qualified attorney for legal matters"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a senior care plan include?",
+      "a": "A good plan covers health and medications, home safety, help with daily living, nutrition, finances and legal documents, and social connection. Reviewing each area regularly helps families adjust care as the older adult's needs change."
+    },
+    {
+      "q": "How do I know when an aging parent needs more help?",
+      "a": "Watch for missed medications, unpaid bills, weight loss, an unkempt home, missed appointments, falls, or withdrawal from activities. Noting these changes early lets you arrange support before a crisis."
+    },
+    {
+      "q": "What legal documents do seniors need in place?",
+      "a": "Commonly recommended documents include a will, a durable power of attorney, a healthcare proxy or directive, and access to insurance and account information. Have these prepared with a qualified attorney and stored where trusted family can find them."
+    },
+    {
+      "q": "How can families help seniors stay socially connected?",
+      "a": "Schedule regular visits and calls, encourage hobbies or community programs, arrange transportation to activities, and consider senior centers or volunteer roles. Social connection supports mood and overall wellbeing."
+    },
+    {
+      "q": "Is this senior care checklist medical or legal advice?",
+      "a": "No. It is a general planning guide. It is not medical or legal advice — for health decisions follow the older adult's doctor and care team, and consult a qualified attorney for legal and financial matters."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/senior-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/senior-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Senior Care Checklist by ChecklistForge (https://checklistforge.com/checklist/senior-care-checklist)",
+  "updated": "2026-10-17"
+}

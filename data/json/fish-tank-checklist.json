@@ -1,0 +1,163 @@
+{
+  "id": "fish-tank-checklist",
+  "name": "Fish Tank Checklist",
+  "description": "A step-by-step checklist for setting up a brand-new fish tank, from equipment to adding fish.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "beginners",
+    "pets",
+    "aquarium",
+    "fish",
+    "tank-setup"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Choose Tank & Location",
+      "items": [
+        {
+          "text": "Select a tank size suited to the fish you plan to keep"
+        },
+        {
+          "text": "Choose a sturdy, level stand that holds the full weight"
+        },
+        {
+          "text": "Place the tank away from direct sunlight and drafts",
+          "note": "Sunlight encourages algae and temperature swings"
+        },
+        {
+          "text": "Ensure a power outlet is within reach for equipment"
+        }
+      ]
+    },
+    {
+      "title": "Gather Equipment",
+      "items": [
+        {
+          "text": "Filter rated for the tank volume"
+        },
+        {
+          "text": "Heater and aquarium thermometer"
+        },
+        {
+          "text": "Lighting suited to the setup"
+        },
+        {
+          "text": "Substrate such as gravel or sand"
+        },
+        {
+          "text": "Water conditioner or dechlorinator"
+        },
+        {
+          "text": "Water test kit for ammonia, nitrite, nitrate and pH"
+        }
+      ]
+    },
+    {
+      "title": "Set Up the Tank",
+      "items": [
+        {
+          "text": "Rinse the tank, substrate and decorations with water only"
+        },
+        {
+          "text": "Add and arrange substrate and decorations"
+        },
+        {
+          "text": "Install and position the filter and heater"
+        },
+        {
+          "text": "Fill with dechlorinated water and start equipment"
+        },
+        {
+          "text": "Set the heater and let the temperature stabilize"
+        }
+      ]
+    },
+    {
+      "title": "Cycle the Tank",
+      "items": [
+        {
+          "text": "Begin a fishless nitrogen cycle to grow beneficial bacteria"
+        },
+        {
+          "text": "Add an ammonia source to feed the cycle"
+        },
+        {
+          "text": "Test ammonia, nitrite and nitrate every few days"
+        },
+        {
+          "text": "Wait until ammonia and nitrite read zero with nitrate present",
+          "note": "This usually takes several weeks; do not rush it"
+        }
+      ]
+    },
+    {
+      "title": "Add Fish",
+      "items": [
+        {
+          "text": "Choose beginner-friendly, compatible species"
+        },
+        {
+          "text": "Add only a few fish at first to avoid overloading the cycle"
+        },
+        {
+          "text": "Float and slowly acclimate fish to temperature and water"
+        },
+        {
+          "text": "Quarantine new fish if you have an established tank"
+        },
+        {
+          "text": "Observe new fish closely for the first days"
+        }
+      ]
+    },
+    {
+      "title": "First Weeks of Care",
+      "items": [
+        {
+          "text": "Feed small amounts and remove uneaten food"
+        },
+        {
+          "text": "Continue testing water regularly"
+        },
+        {
+          "text": "Perform partial water changes as needed"
+        },
+        {
+          "text": "Watch for signs of stress or illness"
+        },
+        {
+          "text": "Add more fish gradually once the tank stays stable"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What size fish tank is best for beginners?",
+      "a": "Larger tanks are generally more forgiving because water parameters stay more stable. A tank in the 20-gallon range is a common beginner choice, but always match the tank size to the fish you plan to keep."
+    },
+    {
+      "q": "Do I have to cycle a new fish tank before adding fish?",
+      "a": "Yes. Cycling builds beneficial bacteria that convert toxic ammonia and nitrite into safer nitrate. Add fish only after the cycle is established, confirmed by testing ammonia and nitrite at zero with measurable nitrate."
+    },
+    {
+      "q": "How long does it take to set up and cycle a new tank?",
+      "a": "Setup takes a day, but the nitrogen cycle typically takes several weeks. Test the water regularly and resist adding fish until parameters are stable — rushing is the most common cause of new-tank fish loss."
+    },
+    {
+      "q": "How do I add new fish safely?",
+      "a": "Acclimate fish slowly to the tank's temperature and water, add only a few at a time, and avoid overstocking. For health concerns or stocking advice, consult a fish specialist or aquatic veterinarian."
+    },
+    {
+      "q": "Can I print this fish tank checklist?",
+      "a": "Yes. Print it or download the PDF so you can follow the setup steps in order and tick each one off."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fish-tank-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fish-tank-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fish Tank Checklist by ChecklistForge (https://checklistforge.com/checklist/fish-tank-checklist)",
+  "updated": "2026-10-17"
+}

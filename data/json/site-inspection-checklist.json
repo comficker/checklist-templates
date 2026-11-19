@@ -1,0 +1,182 @@
+{
+  "id": "site-inspection-checklist",
+  "name": "Site Inspection Checklist",
+  "description": "A checklist for inspecting a work or construction site.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "construction",
+    "site-inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Site access and signage",
+      "items": [
+        {
+          "text": "Confirm site perimeter fencing is intact and secure with no gaps."
+        },
+        {
+          "text": "Check that gates and entry points are controlled and lockable."
+        },
+        {
+          "text": "Verify warning, hazard and mandatory PPE signs are posted and legible."
+        },
+        {
+          "text": "Confirm emergency contact and site rules are displayed at entrances."
+        },
+        {
+          "text": "Check pedestrian and vehicle routes are separated and clearly marked."
+        },
+        {
+          "text": "Verify visitor and contractor sign-in procedures are in place."
+        }
+      ]
+    },
+    {
+      "title": "Safety and PPE",
+      "items": [
+        {
+          "text": "Confirm all workers are wearing required hard hats, hi-vis and footwear."
+        },
+        {
+          "text": "Check that task-specific PPE is available and in good condition."
+        },
+        {
+          "text": "Verify first aid kits are stocked and a trained first aider is on site."
+        },
+        {
+          "text": "Confirm a current site-specific safety plan is available and followed."
+        },
+        {
+          "text": "Check that permits to work are posted for hot work, confined space or excavation."
+        },
+        {
+          "text": "Verify recent safety briefings or toolbox talks have been recorded."
+        }
+      ]
+    },
+    {
+      "title": "Hazard control",
+      "items": [
+        {
+          "text": "Inspect open edges, holes and excavations for guarding or covers.",
+          "note": "Fall protection is required where workers can fall to a lower level per OSHA thresholds."
+        },
+        {
+          "text": "Check that electrical cords, panels and GFCI protection are sound and dry."
+        },
+        {
+          "text": "Verify flammable and hazardous materials are stored and labeled correctly."
+        },
+        {
+          "text": "Confirm overhead loads and lifting zones are barricaded off."
+        },
+        {
+          "text": "Check ladders and scaffolds are tagged, stable and used correctly."
+        },
+        {
+          "text": "Identify and control any slip, trip or fall hazards on walkways."
+        }
+      ]
+    },
+    {
+      "title": "Housekeeping and storage",
+      "items": [
+        {
+          "text": "Confirm walkways, stairs and exits are clear of debris and materials."
+        },
+        {
+          "text": "Check that waste is segregated and bins are not overflowing."
+        },
+        {
+          "text": "Verify materials are stacked safely and not blocking access."
+        },
+        {
+          "text": "Confirm tools and equipment are stored when not in use."
+        },
+        {
+          "text": "Check spill kits are available and any spills are cleaned up."
+        },
+        {
+          "text": "Verify standing water and mud are managed to prevent slips."
+        }
+      ]
+    },
+    {
+      "title": "Equipment and plant",
+      "items": [
+        {
+          "text": "Confirm plant and machinery have current inspection tags."
+        },
+        {
+          "text": "Check guarding is fitted on moving parts and not bypassed."
+        },
+        {
+          "text": "Verify operators are trained and authorized for the equipment they use."
+        },
+        {
+          "text": "Inspect lifting gear and slings for damage and current certification."
+        },
+        {
+          "text": "Confirm fuel and gas cylinders are secured and stored upright."
+        },
+        {
+          "text": "Check fire extinguishers are present, charged and accessible."
+        }
+      ]
+    },
+    {
+      "title": "Emergency and progress",
+      "items": [
+        {
+          "text": "Confirm escape routes and muster points are clear and signposted."
+        },
+        {
+          "text": "Check emergency lighting and alarms function where installed."
+        },
+        {
+          "text": "Verify access for emergency vehicles is maintained."
+        },
+        {
+          "text": "Review whether work is progressing safely to plan and schedule."
+        },
+        {
+          "text": "Record any defects with a responsible person and due date."
+        },
+        {
+          "text": "Sign, date and file the completed inspection record."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a site inspection checklist?",
+      "a": "It's a standardized list used to walk a work or construction site and verify that safety, housekeeping, signage and work conditions meet requirements. Each item is marked pass, fail or not applicable so issues can be tracked and corrected."
+    },
+    {
+      "q": "How often should a site be inspected?",
+      "a": "Conduct a documented inspection regularly — many sites do daily walkthroughs plus a more formal weekly inspection. Inspect again after storms, deliveries of new equipment, or any incident or near miss."
+    },
+    {
+      "q": "Who should perform site inspections?",
+      "a": "A competent person familiar with the work and its hazards, such as a site supervisor or safety officer. Larger sites may add scheduled inspections by a dedicated safety professional or outside inspector."
+    },
+    {
+      "q": "What happens when an item fails?",
+      "a": "Record the defect, assign a responsible person and a due date, and where the hazard is serious, stop the affected work until it is corrected. Re-inspect to confirm the fix before closing the item."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the site inspection checklist for a clipboard during your walkthrough, or download the PDF to complete on a tablet and store with your site safety records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/site-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/site-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Site Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/site-inspection-checklist)",
+  "updated": "2026-10-20"
+}

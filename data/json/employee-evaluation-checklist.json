@@ -1,0 +1,187 @@
+{
+  "id": "employee-evaluation-checklist",
+  "name": "Employee Evaluation Checklist",
+  "description": "A checklist for assessing employee performance against goals, competencies, ratings, and documentation.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "performance-review",
+    "evaluation",
+    "managers"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Set Evaluation Criteria",
+      "items": [
+        {
+          "text": "Confirm the goals set for the evaluation period"
+        },
+        {
+          "text": "List the core competencies the role requires"
+        },
+        {
+          "text": "Define role-specific skills and behaviors to assess"
+        },
+        {
+          "text": "Align criteria with company values and standards"
+        },
+        {
+          "text": "Choose a clear, consistent rating scale",
+          "note": "Define what each rating level actually means."
+        },
+        {
+          "text": "Use the same criteria across comparable roles"
+        }
+      ]
+    },
+    {
+      "title": "Gather Performance Evidence",
+      "items": [
+        {
+          "text": "Collect data on results against each goal"
+        },
+        {
+          "text": "Pull metrics, outputs, and project outcomes"
+        },
+        {
+          "text": "Gather peer or stakeholder input where used"
+        },
+        {
+          "text": "Review the employee's self-assessment"
+        },
+        {
+          "text": "Note specific examples for strengths and gaps"
+        },
+        {
+          "text": "Cover the whole period, not just recent events",
+          "note": "Avoid recency bias by reviewing the full cycle."
+        }
+      ]
+    },
+    {
+      "title": "Assess Goal Achievement",
+      "items": [
+        {
+          "text": "Compare results to each agreed goal"
+        },
+        {
+          "text": "Judge whether goals were met, exceeded, or missed"
+        },
+        {
+          "text": "Account for context that affected outcomes"
+        },
+        {
+          "text": "Distinguish effort from measurable results"
+        },
+        {
+          "text": "Identify goals that need to roll into the next cycle"
+        },
+        {
+          "text": "Record evidence supporting each judgment",
+          "note": "Tie every conclusion to specific facts."
+        }
+      ]
+    },
+    {
+      "title": "Rate Competencies",
+      "items": [
+        {
+          "text": "Rate each competency against the defined scale"
+        },
+        {
+          "text": "Support every rating with a concrete example"
+        },
+        {
+          "text": "Assess behaviors aligned to company values"
+        },
+        {
+          "text": "Note clear strengths to build on"
+        },
+        {
+          "text": "Identify development areas with specifics"
+        },
+        {
+          "text": "Check ratings for consistency and fairness",
+          "note": "Calibrate with peers to keep standards aligned."
+        }
+      ]
+    },
+    {
+      "title": "Document the Evaluation",
+      "items": [
+        {
+          "text": "Write clear, specific, evidence-based comments"
+        },
+        {
+          "text": "Summarize overall performance and key themes"
+        },
+        {
+          "text": "Record final ratings against each criterion"
+        },
+        {
+          "text": "Keep language objective and professional"
+        },
+        {
+          "text": "Note development goals and recommended actions"
+        },
+        {
+          "text": "Store the completed evaluation per your HR process",
+          "note": "Retention rules vary; follow local laws and HR guidance."
+        }
+      ]
+    },
+    {
+      "title": "Prepare to Share Results",
+      "items": [
+        {
+          "text": "Review the evaluation for accuracy and balance"
+        },
+        {
+          "text": "Have ratings calibrated or approved as required"
+        },
+        {
+          "text": "Outline the key points to discuss with the employee"
+        },
+        {
+          "text": "Prepare to explain the evidence behind each rating"
+        },
+        {
+          "text": "Plan development actions to propose"
+        },
+        {
+          "text": "Hand the documented evaluation to the review conversation",
+          "note": "The evaluation feeds the review meeting."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an employee evaluation?",
+      "a": "An employee evaluation is a structured assessment of performance against defined goals, competencies, and standards. It produces ratings and documentation that reflect how well the employee met expectations."
+    },
+    {
+      "q": "How is evaluation different from a performance review?",
+      "a": "Evaluation is the assessment itself, gathering evidence and rating against criteria. A performance review is the meeting where the manager discusses that evaluation and agrees on next steps with the employee."
+    },
+    {
+      "q": "What criteria should evaluations use?",
+      "a": "Use a mix of goal achievement, core competencies, role-specific skills, and behaviors aligned to company values. Define each criterion clearly so ratings are consistent across the team."
+    },
+    {
+      "q": "How do I keep evaluations fair?",
+      "a": "Use the same criteria for similar roles, base ratings on specific evidence, evaluate the full period rather than recent events, and document examples that justify each score to reduce bias."
+    },
+    {
+      "q": "Can I print this employee evaluation checklist?",
+      "a": "Yes. Download the printable PDF, work through each criterion, and check off every step from gathering evidence to documentation for fair, consistent evaluations."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/employee-evaluation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/employee-evaluation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Employee Evaluation Checklist by ChecklistForge (https://checklistforge.com/checklist/employee-evaluation-checklist)",
+  "updated": "2026-10-17"
+}

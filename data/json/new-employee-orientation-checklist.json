@@ -1,0 +1,187 @@
+{
+  "id": "new-employee-orientation-checklist",
+  "name": "New Employee Orientation Checklist",
+  "description": "A day-one orientation program covering the welcome, policies, workplace tour, and introductions.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "onboarding",
+    "hr",
+    "new-hire",
+    "orientation"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prepare Before Orientation",
+      "items": [
+        {
+          "text": "Confirm the start time, location, and schedule"
+        },
+        {
+          "text": "Set up the workspace, badge, and welcome kit"
+        },
+        {
+          "text": "Print the agenda and any handouts for the day"
+        },
+        {
+          "text": "Notify the team and prepare them to welcome the hire"
+        },
+        {
+          "text": "Confirm accounts and equipment are ready",
+          "note": "Verify logins work the day before."
+        },
+        {
+          "text": "Assign a host to greet and guide the new hire"
+        }
+      ]
+    },
+    {
+      "title": "Welcome the New Hire",
+      "items": [
+        {
+          "text": "Greet the new employee warmly on arrival"
+        },
+        {
+          "text": "Offer a drink and help them settle in"
+        },
+        {
+          "text": "Walk through the agenda for the day"
+        },
+        {
+          "text": "Share the company mission, values, and story"
+        },
+        {
+          "text": "Explain how their role fits the bigger picture"
+        },
+        {
+          "text": "Set a friendly, relaxed tone for the day",
+          "note": "First impressions shape how welcome they feel."
+        }
+      ]
+    },
+    {
+      "title": "Cover Essential Policies",
+      "items": [
+        {
+          "text": "Review working hours, breaks, and attendance"
+        },
+        {
+          "text": "Explain the code of conduct and key policies"
+        },
+        {
+          "text": "Cover health, safety, and emergency procedures"
+        },
+        {
+          "text": "Walk through where to find the employee handbook"
+        },
+        {
+          "text": "Confirm any required policy acknowledgments are signed",
+          "note": "Required policies vary; follow local laws and HR guidance."
+        },
+        {
+          "text": "Answer questions about pay, benefits, and time off"
+        }
+      ]
+    },
+    {
+      "title": "Give a Workplace Tour",
+      "items": [
+        {
+          "text": "Show the new hire their desk or workspace"
+        },
+        {
+          "text": "Point out restrooms, kitchen, and break areas"
+        },
+        {
+          "text": "Walk through emergency exits and meeting points"
+        },
+        {
+          "text": "Locate printers, supplies, and shared equipment"
+        },
+        {
+          "text": "Explain building access, parking, and security"
+        },
+        {
+          "text": "For remote hires, give a virtual tour of tools and spaces",
+          "note": "Adapt the tour to the work setting."
+        }
+      ]
+    },
+    {
+      "title": "Make Introductions",
+      "items": [
+        {
+          "text": "Introduce the new hire to their manager and team"
+        },
+        {
+          "text": "Connect them with their onboarding buddy"
+        },
+        {
+          "text": "Meet key colleagues and cross-team contacts"
+        },
+        {
+          "text": "Share a team roster with names and roles"
+        },
+        {
+          "text": "Arrange a welcome lunch or coffee"
+        },
+        {
+          "text": "Explain who to ask for different kinds of help",
+          "note": "Knowing the go-to people reduces day-one stress."
+        }
+      ]
+    },
+    {
+      "title": "Wrap Up Day One",
+      "items": [
+        {
+          "text": "Confirm the new hire can log in and use core tools"
+        },
+        {
+          "text": "Recap what was covered and what comes next"
+        },
+        {
+          "text": "Share the plan for the rest of the first week"
+        },
+        {
+          "text": "Invite any remaining questions"
+        },
+        {
+          "text": "Collect quick feedback on the orientation"
+        },
+        {
+          "text": "End the day on a warm, encouraging note",
+          "note": "Send them home feeling glad they joined."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is new employee orientation?",
+      "a": "Orientation is the day-one program that formally welcomes a new hire, covering the welcome, key policies, a workplace tour, and introductions. It gives employees the essentials and a strong first impression."
+    },
+    {
+      "q": "What should orientation day include?",
+      "a": "A warm welcome, an overview of the company and team, essential policies and safety, a tour of the workspace, introductions to colleagues, and confirmation that accounts and equipment work."
+    },
+    {
+      "q": "How is orientation different from onboarding?",
+      "a": "Orientation is the first-day welcome event. Onboarding is the longer program that includes orientation plus training, goal setting, and check-ins over the employee's first weeks and months."
+    },
+    {
+      "q": "How do you make orientation welcoming?",
+      "a": "Greet the new hire personally, prepare their space ahead of time, keep the schedule clear, mix information with introductions, and leave room for questions. Warmth matters as much as logistics."
+    },
+    {
+      "q": "Can I print this orientation checklist?",
+      "a": "Yes. Download the printable PDF, prepare the day in advance, and check off each item as orientation unfolds to give every new hire a consistent, welcoming first day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-employee-orientation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-employee-orientation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Employee Orientation Checklist by ChecklistForge (https://checklistforge.com/checklist/new-employee-orientation-checklist)",
+  "updated": "2026-10-17"
+}

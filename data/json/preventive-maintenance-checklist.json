@@ -1,0 +1,183 @@
+{
+  "id": "preventive-maintenance-checklist",
+  "name": "Preventive Maintenance Checklist",
+  "description": "A checklist for running a scheduled preventive maintenance (PM) program.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "maintenance",
+    "equipment",
+    "preventive-maintenance",
+    "cmms"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Set up the PM program",
+      "items": [
+        {
+          "text": "Build an asset register of equipment to be maintained."
+        },
+        {
+          "text": "Assign each asset a unique ID and location."
+        },
+        {
+          "text": "Define the PM tasks required for each asset.",
+          "note": "Base tasks on manufacturer manuals and your organization's procedures."
+        },
+        {
+          "text": "Set the interval for each task by time, runtime or usage."
+        },
+        {
+          "text": "Schedule PM work orders in your CMMS or calendar."
+        },
+        {
+          "text": "Assign tasks to qualified technicians and book downtime."
+        }
+      ]
+    },
+    {
+      "title": "Prepare for the PM task",
+      "items": [
+        {
+          "text": "Review the work order, asset history and manuals."
+        },
+        {
+          "text": "Gather the required parts, consumables and special tools."
+        },
+        {
+          "text": "Confirm spares are on hand before starting."
+        },
+        {
+          "text": "Notify operations of planned downtime."
+        },
+        {
+          "text": "Apply lockout/tagout and follow safety procedures."
+        },
+        {
+          "text": "Wear the required personal protective equipment."
+        }
+      ]
+    },
+    {
+      "title": "Inspection and condition checks",
+      "items": [
+        {
+          "text": "Inspect for wear, leaks, corrosion, noise and vibration."
+        },
+        {
+          "text": "Check belts, bearings, seals and moving parts."
+        },
+        {
+          "text": "Record temperatures, pressures and other key readings."
+        },
+        {
+          "text": "Compare readings against normal operating ranges."
+        },
+        {
+          "text": "Test safety devices, guards and emergency stops."
+        },
+        {
+          "text": "Note any developing faults for follow-up."
+        }
+      ]
+    },
+    {
+      "title": "Service tasks",
+      "items": [
+        {
+          "text": "Clean equipment, filters, vents and cooling systems."
+        },
+        {
+          "text": "Lubricate components per the lubrication schedule."
+        },
+        {
+          "text": "Check and top up or change fluids as required."
+        },
+        {
+          "text": "Tighten fasteners and check alignment and tension."
+        },
+        {
+          "text": "Replace wear parts at their planned life."
+        },
+        {
+          "text": "Test the asset under normal operating conditions after service."
+        }
+      ]
+    },
+    {
+      "title": "Calibration and parts",
+      "items": [
+        {
+          "text": "Calibrate instruments and gauges to specification.",
+          "note": "Use traceable standards where required by your procedures."
+        },
+        {
+          "text": "Record calibration results and next due dates."
+        },
+        {
+          "text": "Log all parts and materials used on the work order."
+        },
+        {
+          "text": "Update spare parts stock levels and reorder points."
+        },
+        {
+          "text": "Tag failed or replaced parts for inspection or disposal."
+        },
+        {
+          "text": "Flag obsolete parts that need a sourcing plan."
+        }
+      ]
+    },
+    {
+      "title": "Records and review",
+      "items": [
+        {
+          "text": "Complete and close the work order in the CMMS or log."
+        },
+        {
+          "text": "Record the date, technician and time taken."
+        },
+        {
+          "text": "Raise follow-up work orders for issues found."
+        },
+        {
+          "text": "Track downtime, costs and recurring failures by asset."
+        },
+        {
+          "text": "Review PM intervals and tasks against actual results."
+        },
+        {
+          "text": "Adjust the schedule to improve reliability over time."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is preventive maintenance?",
+      "a": "Preventive maintenance is planned, scheduled work performed on equipment at set intervals to keep it running and prevent failures, rather than waiting for a breakdown and repairing it afterward."
+    },
+    {
+      "q": "How is it different from general maintenance?",
+      "a": "General maintenance is broad day-to-day upkeep. Preventive maintenance is a structured program with defined assets, intervals, task lists and records, usually planned and tracked in a CMMS or maintenance log."
+    },
+    {
+      "q": "How do I set maintenance intervals?",
+      "a": "Base intervals on the manufacturer's recommendations, equipment runtime or usage, and your own failure history. Review and adjust them as you collect data on how each asset actually performs."
+    },
+    {
+      "q": "What is a CMMS and do I need one?",
+      "a": "A CMMS is computerized maintenance management software for scheduling tasks, issuing work orders and storing asset history. It helps, but a simple spreadsheet or logbook can run a small PM program effectively."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the preventive maintenance checklist for each work order, or download the PDF so technicians can record tasks, readings and sign-offs and keep them on file."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/preventive-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/preventive-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Preventive Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/preventive-maintenance-checklist)",
+  "updated": "2026-11-13"
+}

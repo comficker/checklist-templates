@@ -1,0 +1,186 @@
+{
+  "id": "puppy-training-checklist",
+  "name": "Puppy Training Checklist",
+  "description": "A puppy training checklist for owners covering house-training, crate, commands and socialization.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "training",
+    "pets",
+    "dogs",
+    "puppy"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Set up for success",
+      "items": [
+        {
+          "text": "Choose a quiet, consistent spot for training sessions."
+        },
+        {
+          "text": "Stock up on small, soft, high-value training treats."
+        },
+        {
+          "text": "Pick a marker word or clicker to signal correct behavior."
+        },
+        {
+          "text": "Agree on house rules so everyone is consistent."
+        },
+        {
+          "text": "Set a daily routine for meals, potty, play and rest."
+        },
+        {
+          "text": "Keep early sessions short, around 3 to 5 minutes."
+        }
+      ]
+    },
+    {
+      "title": "House-training",
+      "items": [
+        {
+          "text": "Take your puppy out first thing, after meals, naps and play."
+        },
+        {
+          "text": "Choose one outdoor potty spot and return to it each time."
+        },
+        {
+          "text": "Reward immediately the moment your puppy goes outside."
+        },
+        {
+          "text": "Supervise closely indoors and watch for sniffing or circling."
+        },
+        {
+          "text": "Clean accidents with an enzymatic cleaner to remove odor."
+        },
+        {
+          "text": "Avoid punishing accidents, which can create fear and setbacks.",
+          "note": "Frequent accidents can signal a health issue worth checking with your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Crate training",
+      "items": [
+        {
+          "text": "Size the crate so your puppy can stand, turn and lie down."
+        },
+        {
+          "text": "Make the crate cozy with a bed and a safe chew toy."
+        },
+        {
+          "text": "Feed meals near or inside the crate to build a positive link."
+        },
+        {
+          "text": "Start with short closed-door periods and build up slowly."
+        },
+        {
+          "text": "Use the crate for naps and quiet time, never as punishment."
+        },
+        {
+          "text": "Take your puppy out for a potty break right after crate time."
+        }
+      ]
+    },
+    {
+      "title": "Basic commands",
+      "items": [
+        {
+          "text": "Teach name recognition so your puppy looks at you when called."
+        },
+        {
+          "text": "Practice sit using a lure and reward when the rear touches down."
+        },
+        {
+          "text": "Build a reliable recall with happy tones and great rewards."
+        },
+        {
+          "text": "Introduce down, stay and leave it in short steps."
+        },
+        {
+          "text": "Reward calm behavior and gentle, polite greetings."
+        },
+        {
+          "text": "Phase out treats gradually as commands become reliable."
+        }
+      ]
+    },
+    {
+      "title": "Socialization",
+      "items": [
+        {
+          "text": "Introduce new sounds, surfaces and household objects gently."
+        },
+        {
+          "text": "Let your puppy meet calm, vaccinated dogs in safe settings."
+        },
+        {
+          "text": "Expose your puppy to friendly people of different ages."
+        },
+        {
+          "text": "Practice gentle handling of paws, ears and mouth for vet and grooming."
+        },
+        {
+          "text": "Keep every new experience positive and reward calm responses."
+        },
+        {
+          "text": "Avoid overwhelming situations and let your puppy retreat if needed.",
+          "note": "Ask your veterinarian about safe socialization timing before vaccinations are complete."
+        }
+      ]
+    },
+    {
+      "title": "Leash skills",
+      "items": [
+        {
+          "text": "Let your puppy wear a flat collar or harness indoors first."
+        },
+        {
+          "text": "Attach a light leash and let your puppy drag it under supervision."
+        },
+        {
+          "text": "Reward your puppy for walking near you without pulling."
+        },
+        {
+          "text": "Stop walking when the leash tightens, and resume when it loosens."
+        },
+        {
+          "text": "Practice short, upbeat walks before long outings."
+        },
+        {
+          "text": "Bring treats and water for positive walks in new places."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult a professional trainer for behavior issues and your veterinarian for any health concerns with your puppy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start training my puppy?",
+      "a": "You can begin gentle training the day your puppy comes home, usually around 8 weeks. Focus on short, positive sessions, name recognition and house-training first. A professional trainer can help you build a plan suited to your puppy's age and temperament."
+    },
+    {
+      "q": "How long should puppy training sessions be?",
+      "a": "Keep sessions short, often just 3 to 5 minutes, several times a day, since puppies have short attention spans. End on a success and a reward. Frequent brief sessions usually beat one long one for keeping your puppy engaged and learning."
+    },
+    {
+      "q": "How long does house-training take?",
+      "a": "Many puppies are reliably house-trained within 4 to 6 months, though it varies by puppy and consistency. Frequent potty breaks, supervision and rewarding outdoor success speed things up. If you see frequent accidents or signs of illness, consult your veterinarian."
+    },
+    {
+      "q": "Why is socialization so important?",
+      "a": "Early, positive exposure to people, places, sounds and other vaccinated dogs helps a puppy grow into a confident, calm adult. The window is widest in the first months. Keep experiences gentle and reward calm behavior, and ask your veterinarian about safe timing."
+    },
+    {
+      "q": "Can I download this puppy training checklist as a PDF?",
+      "a": "Yes. You can print it for home or download it as a PDF for your phone, so owners have training steps handy during walks, classes and daily practice with a new puppy."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/puppy-training-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/puppy-training-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Puppy Training Checklist by ChecklistForge (https://checklistforge.com/checklist/puppy-training-checklist)",
+  "updated": "2026-10-17"
+}

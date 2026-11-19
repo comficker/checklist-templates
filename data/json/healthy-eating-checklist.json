@@ -1,0 +1,175 @@
+{
+  "id": "healthy-eating-checklist",
+  "name": "Healthy Eating Checklist",
+  "description": "A daily checklist of balanced-eating habits built around vegetables, fruit, whole grains, lean protein and less added sugar.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "family",
+    "healthy-eating",
+    "whole-foods",
+    "nutrition",
+    "balanced-diet"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Vegetables & Fruit",
+      "items": [
+        {
+          "text": "Fill at least half your plate with vegetables at main meals"
+        },
+        {
+          "text": "Eat a serving of fruit as a snack instead of sweets"
+        },
+        {
+          "text": "Include a variety of colors across the day",
+          "note": "Different colors signal different vitamins, minerals and antioxidants."
+        },
+        {
+          "text": "Add leafy greens to a meal (salad, soup or stir-fry)"
+        },
+        {
+          "text": "Keep frozen or pre-cut veg on hand for busy days"
+        },
+        {
+          "text": "Aim for at least five servings of fruit and veg total"
+        }
+      ]
+    },
+    {
+      "title": "Whole Grains & Fiber",
+      "items": [
+        {
+          "text": "Choose whole-grain bread, pasta or wraps over refined white"
+        },
+        {
+          "text": "Start the day with oats or a whole-grain cereal"
+        },
+        {
+          "text": "Swap white rice for brown rice, quinoa or barley sometimes"
+        },
+        {
+          "text": "Include beans, lentils or chickpeas in a meal",
+          "note": "Legumes add fiber and plant protein at low cost."
+        },
+        {
+          "text": "Check that whole grain is the first ingredient on labels"
+        }
+      ]
+    },
+    {
+      "title": "Lean Protein & Healthy Fats",
+      "items": [
+        {
+          "text": "Include a protein source at each meal (eggs, fish, poultry, tofu or beans)"
+        },
+        {
+          "text": "Eat fish, especially oily fish like salmon, once or twice a week"
+        },
+        {
+          "text": "Choose lean cuts and trim visible fat from meat"
+        },
+        {
+          "text": "Use olive oil, nuts, seeds or avocado for healthy fats"
+        },
+        {
+          "text": "Limit processed meats such as bacon and deli meat",
+          "note": "Save processed meats for occasional treats rather than daily eating."
+        }
+      ]
+    },
+    {
+      "title": "Limit Added Sugar & Ultra-Processed Foods",
+      "items": [
+        {
+          "text": "Swap sugary drinks for water, sparkling water or unsweetened tea"
+        },
+        {
+          "text": "Read labels and compare added sugar between products"
+        },
+        {
+          "text": "Keep chips, candy and pastries as occasional, not daily, foods"
+        },
+        {
+          "text": "Cook more meals from whole ingredients at home"
+        },
+        {
+          "text": "Choose plain yogurt and add your own fruit instead of pre-sweetened",
+          "note": "Pre-sweetened products often hide several teaspoons of added sugar."
+        }
+      ]
+    },
+    {
+      "title": "Smart Habits & Portions",
+      "items": [
+        {
+          "text": "Use a smaller plate to help with portion sizes"
+        },
+        {
+          "text": "Eat slowly and stop when comfortably full"
+        },
+        {
+          "text": "Plan meals and a rough shopping list for the week"
+        },
+        {
+          "text": "Limit eating in front of screens to notice fullness cues"
+        },
+        {
+          "text": "Prep a few meals or snacks ahead for busy days"
+        },
+        {
+          "text": "Drink water through the day and with meals"
+        }
+      ]
+    },
+    {
+      "title": "Stay on Track",
+      "items": [
+        {
+          "text": "Pick one or two habits to focus on this week"
+        },
+        {
+          "text": "Keep healthy snacks visible and treats out of sight"
+        },
+        {
+          "text": "Forgive an off day and get back on track at the next meal"
+        },
+        {
+          "text": "Track your habits with this printable checklist"
+        },
+        {
+          "text": "Important: this is general information, not medical or dietary advice",
+          "note": "For personalized guidance or a health condition, consult a doctor or registered dietitian."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does healthy eating actually mean?",
+      "a": "Healthy eating means building most meals around vegetables, fruit, whole grains, lean protein and healthy fats, while limiting added sugar, excess sodium and ultra-processed foods. Variety, balance and reasonable portions matter more than any single food."
+    },
+    {
+      "q": "How many fruits and vegetables should I eat a day?",
+      "a": "Many health bodies suggest aiming for at least five servings of fruit and vegetables daily, filling about half your plate. More color and variety helps you cover a wider range of nutrients and fiber."
+    },
+    {
+      "q": "Do I have to give up all treats?",
+      "a": "No. Healthy eating is about overall patterns, not perfection. You can enjoy treats in moderation as long as most of your meals are balanced and built around whole foods."
+    },
+    {
+      "q": "Can I print this healthy eating checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each habit each day to build a consistent routine."
+    },
+    {
+      "q": "Is this medical advice?",
+      "a": "No. This is general information for everyday healthy eating, not medical or dietary advice. If you have a health condition, food allergy or specific goal, talk to a doctor or registered dietitian for guidance tailored to you."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/healthy-eating-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/healthy-eating-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Healthy Eating Checklist by ChecklistForge (https://checklistforge.com/checklist/healthy-eating-checklist)",
+  "updated": "2026-10-17"
+}

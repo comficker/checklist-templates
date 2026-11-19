@@ -1,0 +1,183 @@
+{
+  "id": "deep-cleaning-checklist",
+  "name": "Deep Cleaning Checklist",
+  "description": "An intensive top-to-bottom deep cleaning checklist for the jobs weekly cleaning skips.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "bathroom",
+    "deep-cleaning",
+    "kitchen"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Ceilings, Walls and Trim",
+      "items": [
+        {
+          "text": "Dust ceiling corners and remove cobwebs with an extendable duster"
+        },
+        {
+          "text": "Wipe down ceiling fan blades and light fixtures, removing and washing covers"
+        },
+        {
+          "text": "Spot-clean walls, light switches, and around door frames"
+        },
+        {
+          "text": "Wash baseboards with a damp cloth and all-purpose cleaner",
+          "note": "Run a dryer sheet along clean baseboards to repel dust longer."
+        },
+        {
+          "text": "Dust and wipe crown molding and the tops of door frames"
+        },
+        {
+          "text": "Clean air vents and replace or wash HVAC filters"
+        }
+      ]
+    },
+    {
+      "title": "Windows and Doors",
+      "items": [
+        {
+          "text": "Wash interior windows and wipe the panes streak-free"
+        },
+        {
+          "text": "Vacuum and wipe window tracks and sills"
+        },
+        {
+          "text": "Launder or vacuum curtains and dust blinds slat by slat"
+        },
+        {
+          "text": "Wipe down doors, handles, and frames on both sides"
+        },
+        {
+          "text": "Clean glass on storm doors and sliding doors, including the tracks"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen Deep Tasks",
+      "items": [
+        {
+          "text": "Empty the refrigerator, discard expired food, and wipe shelves and drawers"
+        },
+        {
+          "text": "Clean the oven interior, racks, and the glass door"
+        },
+        {
+          "text": "Pull out the stove and fridge to clean the floor and walls behind them"
+        },
+        {
+          "text": "Degrease the range hood and wash or replace the filter"
+        },
+        {
+          "text": "Descale the kettle, coffee maker, and dishwasher"
+        },
+        {
+          "text": "Empty, wipe, and reline cabinets and the pantry"
+        },
+        {
+          "text": "Scrub grout lines and degrease the backsplash"
+        }
+      ]
+    },
+    {
+      "title": "Bathroom Deep Tasks",
+      "items": [
+        {
+          "text": "Scrub tile grout with a stiff brush and grout cleaner",
+          "note": "A paste of baking soda and a little water lifts stubborn grout stains."
+        },
+        {
+          "text": "Remove and soak the showerhead to dissolve mineral buildup"
+        },
+        {
+          "text": "Clean and disinfect the toilet base, hinges, and behind the bowl"
+        },
+        {
+          "text": "Re-caulk the tub and shower if the sealant is cracked or moldy"
+        },
+        {
+          "text": "Clear and disinfect drains in the sink, tub, and shower"
+        },
+        {
+          "text": "Wash the exhaust fan cover and clear dust from the vent"
+        }
+      ]
+    },
+    {
+      "title": "Furniture and Upholstery",
+      "items": [
+        {
+          "text": "Move sofas and chairs to vacuum underneath and behind them"
+        },
+        {
+          "text": "Vacuum upholstery, including under and between the cushions"
+        },
+        {
+          "text": "Spot-treat stains on fabric furniture and rugs"
+        },
+        {
+          "text": "Dust and polish wood furniture, including legs and undersides"
+        },
+        {
+          "text": "Wipe down leather furniture with an appropriate conditioner"
+        },
+        {
+          "text": "Flip or rotate mattresses and vacuum them on both sides"
+        }
+      ]
+    },
+    {
+      "title": "Floors and Final Detail",
+      "items": [
+        {
+          "text": "Move furniture and vacuum or sweep edges and corners"
+        },
+        {
+          "text": "Deep-clean carpets with a steam or extraction cleaner"
+        },
+        {
+          "text": "Mop hard floors and steam or scrub stubborn spots"
+        },
+        {
+          "text": "Clean and treat grout on tile floors"
+        },
+        {
+          "text": "Wipe down stair railings, banisters, and spindles"
+        },
+        {
+          "text": "Do a final inspection of each room under good lighting"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between cleaning and deep cleaning?",
+      "a": "Regular cleaning keeps visible surfaces tidy week to week. Deep cleaning tackles hidden buildup — grout, baseboards, behind appliances, inside the oven — that everyday cleaning never touches."
+    },
+    {
+      "q": "How often should you deep clean your house?",
+      "a": "A full deep clean every two to three months keeps grime from accumulating. High-use areas like the kitchen and bathroom may benefit from a monthly deep clean."
+    },
+    {
+      "q": "How long does a deep clean take?",
+      "a": "Expect several hours to a full day for a whole home, depending on its size and how long since the last deep clean. Spreading it over a weekend, one room at a time, makes it manageable."
+    },
+    {
+      "q": "Should I deep clean before or after a regular clean?",
+      "a": "Do a quick tidy and declutter first so surfaces are clear, then deep clean. Finishing with vacuuming and mopping catches everything dislodged during the deep work."
+    },
+    {
+      "q": "Can I download this deep cleaning checklist?",
+      "a": "Yes. The checklist is available to print or save as a PDF, so you can tick off each detailed task room by room."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/deep-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/deep-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Deep Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/deep-cleaning-checklist)",
+  "updated": "2026-10-17"
+}

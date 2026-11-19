@@ -1,0 +1,154 @@
+{
+  "id": "travel-health-checklist",
+  "name": "Travel Health Checklist",
+  "description": "A checklist for getting healthy and ready before a trip, from a doctor visit to medicines, insurance, and food safety.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "travel",
+    "trip"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "See Your Doctor or Travel Clinic",
+      "items": [
+        {
+          "text": "Book a visit four to six weeks before departure"
+        },
+        {
+          "text": "Discuss your destination and planned activities"
+        },
+        {
+          "text": "Ask about vaccines and any country requirements"
+        },
+        {
+          "text": "Review how your conditions may be affected by travel"
+        },
+        {
+          "text": "Get advice for high-altitude or remote destinations",
+          "note": "Some preparation needs lead time, so book early"
+        }
+      ]
+    },
+    {
+      "title": "Medicines and Prescriptions",
+      "items": [
+        {
+          "text": "Pack enough of your regular medicines plus extra"
+        },
+        {
+          "text": "Keep medicines in original labeled containers"
+        },
+        {
+          "text": "Carry copies of your prescriptions"
+        },
+        {
+          "text": "Split medicines between carry-on and checked bags"
+        },
+        {
+          "text": "Check rules for carrying medicines at your destination"
+        }
+      ]
+    },
+    {
+      "title": "Insurance and Documents",
+      "items": [
+        {
+          "text": "Arrange travel insurance with medical coverage"
+        },
+        {
+          "text": "Confirm coverage for emergencies and existing conditions"
+        },
+        {
+          "text": "Carry insurance details and emergency numbers"
+        },
+        {
+          "text": "Keep copies of vaccination and medical records"
+        },
+        {
+          "text": "Note the location of clinics or hospitals at your destination"
+        }
+      ]
+    },
+    {
+      "title": "First-Aid Kit and Supplies",
+      "items": [
+        {
+          "text": "Pack a compact travel first-aid kit"
+        },
+        {
+          "text": "Include items for common travel ailments"
+        },
+        {
+          "text": "Add sunscreen and insect protection if needed"
+        },
+        {
+          "text": "Bring hand sanitizer and hygiene items"
+        },
+        {
+          "text": "Carry rehydration supplies for stomach upsets"
+        }
+      ]
+    },
+    {
+      "title": "Food, Water and On the Road",
+      "items": [
+        {
+          "text": "Check whether tap water is safe at your destination"
+        },
+        {
+          "text": "Plan for bottled or treated water if needed"
+        },
+        {
+          "text": "Follow safe food choices for the area"
+        },
+        {
+          "text": "Stay hydrated and rest to adjust to time changes"
+        },
+        {
+          "text": "Know the local emergency number before you go",
+          "note": "For emergencies abroad, use the local emergency number"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; for vaccines, medicines, and destination-specific guidance, consult your doctor or a travel clinic and follow their recommendations",
+          "note": "Check official travel health resources such as the CDC for your destination"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How far ahead should I prepare my health for travel?",
+      "a": "Start several weeks before departure, since some vaccines and prescriptions need lead time. Booking a doctor or travel clinic visit four to six weeks ahead gives you room to prepare properly."
+    },
+    {
+      "q": "What medicines should I pack for a trip?",
+      "a": "Bring enough of your regular prescriptions for the whole trip plus extra, in their original labeled containers, with copies of prescriptions. Add basics like pain relief and items for common travel ailments your pharmacist suggests."
+    },
+    {
+      "q": "Do I need travel insurance for health?",
+      "a": "Travel insurance that includes medical coverage is worth considering, especially abroad where care can be costly. Check what is covered, including emergencies and any pre-existing conditions, before you buy."
+    },
+    {
+      "q": "How do I stay safe with food and water while traveling?",
+      "a": "Depending on the destination, you may need to choose bottled or treated water, avoid ice and raw foods, and eat freshly cooked items. Check destination guidance and ask your doctor or travel clinic."
+    },
+    {
+      "q": "Is this travel health checklist printable?",
+      "a": "Yes. Print it or download the PDF, work through it before you leave, and keep a copy with your travel documents and medicine bag."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/travel-health-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/travel-health-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Travel Health Checklist by ChecklistForge (https://checklistforge.com/checklist/travel-health-checklist)",
+  "updated": "2026-10-17"
+}

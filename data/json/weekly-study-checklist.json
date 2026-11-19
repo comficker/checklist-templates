@@ -1,0 +1,146 @@
+{
+  "id": "weekly-study-checklist",
+  "name": "Weekly Study Checklist",
+  "description": "A weekly study checklist that helps students plan, review and stay ahead across every subject.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "study",
+    "time-management",
+    "weekly-routine",
+    "review"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "Plan the week",
+      "items": [
+        {
+          "text": "Review your planner for the week's classes and deadlines."
+        },
+        {
+          "text": "List every assignment, quiz and exam coming up."
+        },
+        {
+          "text": "Estimate how long each task will take."
+        },
+        {
+          "text": "Block study time for each subject in your schedule."
+        },
+        {
+          "text": "Prioritize by due date and difficulty.",
+          "note": "Tackle high-stakes or hard tasks earlier in the week."
+        }
+      ]
+    },
+    {
+      "title": "Review notes",
+      "items": [
+        {
+          "text": "Reread each subject's notes from the past week."
+        },
+        {
+          "text": "Rewrite or condense messy notes into summaries."
+        },
+        {
+          "text": "Make flashcards or a study sheet for key terms."
+        },
+        {
+          "text": "Highlight concepts you still find confusing."
+        },
+        {
+          "text": "Connect new material to what you already know."
+        }
+      ]
+    },
+    {
+      "title": "Practice and apply",
+      "items": [
+        {
+          "text": "Quiz yourself with flashcards or practice questions."
+        },
+        {
+          "text": "Work through example problems from each subject."
+        },
+        {
+          "text": "Redo any questions you got wrong in class."
+        },
+        {
+          "text": "Use active recall instead of just rereading.",
+          "note": "Try to retrieve answers from memory before checking."
+        },
+        {
+          "text": "Explain a tough concept aloud as if teaching it."
+        }
+      ]
+    },
+    {
+      "title": "Catch up",
+      "items": [
+        {
+          "text": "Finish any homework or readings you fell behind on."
+        },
+        {
+          "text": "Review material from any classes you missed."
+        },
+        {
+          "text": "Email a teacher or classmate about unclear topics."
+        },
+        {
+          "text": "Spend extra time on your weakest subject."
+        },
+        {
+          "text": "Organize loose handouts, files and notes."
+        }
+      ]
+    },
+    {
+      "title": "Prep for next week",
+      "items": [
+        {
+          "text": "Preview upcoming chapters or topics."
+        },
+        {
+          "text": "Note any big projects or exams on the horizon."
+        },
+        {
+          "text": "Gather materials you will need next week."
+        },
+        {
+          "text": "Reset your planner and study schedule."
+        },
+        {
+          "text": "Reflect on what worked and adjust your plan."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a weekly study routine include?",
+      "a": "It should include planning the week, reviewing each subject's notes, practicing problems or active recall, catching up on missed or weak material, and previewing what is coming so you arrive prepared."
+    },
+    {
+      "q": "When is the best time for a weekly review?",
+      "a": "Pick one consistent slot, such as Sunday afternoon or Friday after class. A fixed time makes the review a habit and lets you set up the whole week before it starts."
+    },
+    {
+      "q": "How is this different from a daily student checklist?",
+      "a": "A daily checklist covers attending class, note-taking and homework each day. This weekly checklist zooms out to plan the week, review across subjects, practice and catch up on gaps."
+    },
+    {
+      "q": "How does weekly review help me remember more?",
+      "a": "Revisiting material across the week uses spaced repetition, which strengthens memory far better than cramming. Adding active recall, like quizzing yourself, makes the review even more effective."
+    },
+    {
+      "q": "Can I download this weekly study checklist as a PDF?",
+      "a": "Yes. You can print one for each week or download it as a PDF and reuse it as your weekly study and review routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/weekly-study-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/weekly-study-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Weekly Study Checklist by ChecklistForge (https://checklistforge.com/checklist/weekly-study-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,164 @@
+{
+  "id": "domestic-travel-checklist",
+  "name": "Domestic Travel Checklist",
+  "description": "A domestic travel checklist for trips within your own country, covering ID, bookings, packing, home prep, and lighter documentation.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "domestic-travel",
+    "trip-planning"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Plan and Book",
+      "items": [
+        {
+          "text": "Set your dates, destination, and budget"
+        },
+        {
+          "text": "Book flights, trains, buses, or a driving route"
+        },
+        {
+          "text": "Reserve accommodation for each night"
+        },
+        {
+          "text": "Arrange a rental car or local transport if needed"
+        },
+        {
+          "text": "Book key activities or tickets in advance"
+        }
+      ]
+    },
+    {
+      "title": "ID and Documents",
+      "items": [
+        {
+          "text": "Pack a valid government-issued photo ID"
+        },
+        {
+          "text": "Check ID rules for domestic flights with your carrier",
+          "note": "ID standards vary by country and airline"
+        },
+        {
+          "text": "Print or save booking confirmations"
+        },
+        {
+          "text": "Carry your driver's license if renting or driving"
+        },
+        {
+          "text": "Keep a digital copy of key documents on your phone"
+        }
+      ]
+    },
+    {
+      "title": "Money and Phone",
+      "items": [
+        {
+          "text": "Set a trip budget and bring cards and some cash"
+        },
+        {
+          "text": "Check your phone plan covers your destination"
+        },
+        {
+          "text": "Download maps and key apps for offline use"
+        },
+        {
+          "text": "Save accommodation and transport contact details"
+        },
+        {
+          "text": "Note parking or transit passes you may need"
+        }
+      ]
+    },
+    {
+      "title": "Packing",
+      "items": [
+        {
+          "text": "Pack clothes for the weather and your activities"
+        },
+        {
+          "text": "Bring toiletries and any medicines"
+        },
+        {
+          "text": "Pack phone, charger, and a power bank"
+        },
+        {
+          "text": "Add snacks and a water bottle for the journey"
+        },
+        {
+          "text": "Keep ID, money, and medicines easily reachable"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Your Home",
+      "items": [
+        {
+          "text": "Pause mail and deliveries if away long"
+        },
+        {
+          "text": "Arrange care for pets and plants"
+        },
+        {
+          "text": "Secure doors, windows, and valuables"
+        },
+        {
+          "text": "Unplug non-essential electronics"
+        },
+        {
+          "text": "Clear the fridge of items that will spoil"
+        }
+      ]
+    },
+    {
+      "title": "Before You Leave",
+      "items": [
+        {
+          "text": "Confirm departure times and check in online"
+        },
+        {
+          "text": "Charge all devices"
+        },
+        {
+          "text": "Check fuel, tires, and oil if driving"
+        },
+        {
+          "text": "Do a final sweep for keys, wallet, and phone"
+        },
+        {
+          "text": "Lock up and set any timers or alarms"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is domestic travel different from international travel?",
+      "a": "Domestic trips stay within your country, so you skip passports, visas, currency exchange, and adapters. An international checklist covers those extras. Use this list for home-country travel and an international one for going abroad."
+    },
+    {
+      "q": "What ID do I need for domestic flights?",
+      "a": "Requirements vary by country and carrier, but a government-issued photo ID is usually needed. Check your airline and local transport authority, as some places require specific ID standards for domestic flights."
+    },
+    {
+      "q": "How far ahead should I plan a domestic trip?",
+      "a": "A couple of weeks is enough for most domestic trips, though booking earlier helps with prices on flights, trains, and popular accommodation, especially around holidays and peak weekends."
+    },
+    {
+      "q": "Do I still need travel insurance for domestic travel?",
+      "a": "It can be worth it for non-refundable bookings, rental cars, or trips with health considerations. Check whether your existing health and car coverage already protects you within your own country before buying extra."
+    },
+    {
+      "q": "Is this domestic travel checklist printable?",
+      "a": "Yes. Print it or download the PDF, run through it a few days before you leave, and keep it nearby until you have packed and are ready to set off."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/domestic-travel-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/domestic-travel-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Domestic Travel Checklist by ChecklistForge (https://checklistforge.com/checklist/domestic-travel-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "forklift-inspection-checklist",
+  "name": "Forklift Inspection Checklist",
+  "description": "A daily pre-operation inspection checklist for forklifts.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "osha",
+    "forklift-inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Visual checks (engine off)",
+      "items": [
+        {
+          "text": "Check for fluid leaks or puddles under the forklift."
+        },
+        {
+          "text": "Inspect forks for cracks, bends, wear and a sound heel."
+        },
+        {
+          "text": "Verify the load backrest and carriage are secure and undamaged."
+        },
+        {
+          "text": "Check the mast, chains and rollers for wear and proper lubrication."
+        },
+        {
+          "text": "Inspect hoses and hydraulic cylinders for leaks or damage."
+        },
+        {
+          "text": "Confirm overhead guard is intact and free of damage."
+        }
+      ]
+    },
+    {
+      "title": "Tires and wheels",
+      "items": [
+        {
+          "text": "Inspect tires for cuts, chunking and excessive wear."
+        },
+        {
+          "text": "Check pneumatic tire pressure against the rating."
+        },
+        {
+          "text": "Verify wheel nuts and lugs are present and tight."
+        },
+        {
+          "text": "Confirm no debris is wrapped around the axles."
+        },
+        {
+          "text": "Check that tires are the correct type for the surface."
+        },
+        {
+          "text": "Inspect rims for cracks or damage."
+        }
+      ]
+    },
+    {
+      "title": "Fluids and power",
+      "items": [
+        {
+          "text": "Check engine oil, coolant and hydraulic fluid levels."
+        },
+        {
+          "text": "Verify fuel or LPG level and inspect for leaks."
+        },
+        {
+          "text": "On electric trucks, check battery charge, water and connections."
+        },
+        {
+          "text": "Confirm the LPG cylinder is secure and the hose is sound."
+        },
+        {
+          "text": "Inspect belts and the air filter where fitted."
+        },
+        {
+          "text": "Check the radiator and cooling fins are clear."
+        }
+      ]
+    },
+    {
+      "title": "Operational checks (engine on)",
+      "items": [
+        {
+          "text": "Test service and parking brakes for firm, even response."
+        },
+        {
+          "text": "Check steering operates smoothly with no excess play."
+        },
+        {
+          "text": "Raise, lower and tilt the mast to confirm smooth hydraulics."
+        },
+        {
+          "text": "Verify the forks hold position with no hydraulic drift."
+        },
+        {
+          "text": "Check gauges and warning lights read normally."
+        },
+        {
+          "text": "Listen for abnormal engine or hydraulic noise."
+        }
+      ]
+    },
+    {
+      "title": "Safety devices",
+      "items": [
+        {
+          "text": "Test the horn for clear, audible operation."
+        },
+        {
+          "text": "Confirm lights, beacon and backup alarm work."
+        },
+        {
+          "text": "Check the seatbelt latches and retracts.",
+          "note": "OSHA requires seatbelt use where the truck is equipped with one."
+        },
+        {
+          "text": "Verify mirrors and visibility are clear and adjusted."
+        },
+        {
+          "text": "Confirm the data plate is legible and capacity is known."
+        },
+        {
+          "text": "Check the fire extinguisher where one is mounted."
+        }
+      ]
+    },
+    {
+      "title": "Documentation",
+      "items": [
+        {
+          "text": "Record the truck number, hours and inspection date."
+        },
+        {
+          "text": "Confirm the operator is trained and certified for this truck."
+        },
+        {
+          "text": "Note any defects clearly with severity."
+        },
+        {
+          "text": "Tag out and remove from service any truck that fails."
+        },
+        {
+          "text": "Report defects to a supervisor or maintenance."
+        },
+        {
+          "text": "Sign, date and file the completed daily inspection."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a forklift inspection checklist?",
+      "a": "It's a daily pre-operation list used to confirm a forklift is safe before use, covering forks, tires, hydraulics, brakes, horn and the data plate. Each item is marked pass or fail to satisfy OSHA's pre-use examination requirement."
+    },
+    {
+      "q": "Does OSHA require a daily forklift inspection?",
+      "a": "Yes. OSHA 1910.178 requires powered industrial trucks to be examined at least daily before being placed in service, and before each shift when used around the clock. Defective trucks must be taken out of service."
+    },
+    {
+      "q": "Who can inspect a forklift?",
+      "a": "A trained and authorized operator performs the daily pre-use inspection. Detailed repairs and periodic maintenance should be carried out by a qualified mechanic following the manufacturer's manual."
+    },
+    {
+      "q": "What should I do if a forklift fails inspection?",
+      "a": "Remove the forklift from service immediately, tag it out, and report the defect to your supervisor or maintenance. Do not operate it until the fault is repaired and the truck is re-inspected."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the forklift inspection checklist for the truck or logbook, or download the PDF to complete on a tablet and keep with your forklift records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/forklift-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/forklift-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Forklift Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/forklift-inspection-checklist)",
+  "updated": "2026-10-20"
+}

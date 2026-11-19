@@ -1,0 +1,170 @@
+{
+  "id": "bug-out-bag-checklist",
+  "name": "Bug Out Bag Checklist",
+  "description": "A grab-and-go 72-hour bag packing list covering water, food, shelter, first aid, tools, documents and cash.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "bug-out-bag",
+    "emergency",
+    "preparedness",
+    "survival"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Water and Filtration",
+      "items": [
+        {
+          "text": "One to three liters of ready-to-drink water per person"
+        },
+        {
+          "text": "A compact water filter or purifier"
+        },
+        {
+          "text": "Purification tablets as a lightweight backup"
+        },
+        {
+          "text": "A collapsible bottle or hydration reservoir"
+        },
+        {
+          "text": "A metal cup or container you can boil water in",
+          "note": "Boiling is a reliable backup when filters clog or run out"
+        }
+      ]
+    },
+    {
+      "title": "Food",
+      "items": [
+        {
+          "text": "Three days of lightweight, no-cook food per person"
+        },
+        {
+          "text": "High-calorie bars, nuts and dried fruit"
+        },
+        {
+          "text": "A small stove or fuel tabs if you carry cookable meals"
+        },
+        {
+          "text": "A spork and a compact eating set"
+        },
+        {
+          "text": "Food for infants, pets and special diets if needed"
+        }
+      ]
+    },
+    {
+      "title": "Shelter and Warmth",
+      "items": [
+        {
+          "text": "An emergency bivvy or space blanket"
+        },
+        {
+          "text": "A lightweight tarp or poncho for shelter and rain"
+        },
+        {
+          "text": "A change of clothes suited to your climate"
+        },
+        {
+          "text": "A hat, gloves and extra socks"
+        },
+        {
+          "text": "Paracord for rigging shelter and gear repairs"
+        }
+      ]
+    },
+    {
+      "title": "First Aid and Hygiene",
+      "items": [
+        {
+          "text": "A compact first aid kit with bandages and antiseptic"
+        },
+        {
+          "text": "A three-day or longer supply of personal medications"
+        },
+        {
+          "text": "Pain relievers and any prescription essentials"
+        },
+        {
+          "text": "Hand sanitizer, wet wipes and travel hygiene items"
+        },
+        {
+          "text": "N95 dust masks and a few pairs of gloves"
+        }
+      ]
+    },
+    {
+      "title": "Tools and Lighting",
+      "items": [
+        {
+          "text": "A headlamp or flashlight with spare batteries"
+        },
+        {
+          "text": "A multi-tool and a fixed-blade or folding knife"
+        },
+        {
+          "text": "Fire starters: a lighter, waterproof matches and a ferro rod"
+        },
+        {
+          "text": "A whistle and a signal mirror"
+        },
+        {
+          "text": "Duct tape and a few zip ties for repairs"
+        },
+        {
+          "text": "A phone charger and a power bank"
+        }
+      ]
+    },
+    {
+      "title": "Documents, Cash and Navigation",
+      "items": [
+        {
+          "text": "Copies of IDs, insurance and medical info in a waterproof bag"
+        },
+        {
+          "text": "A list of emergency contacts and meeting points"
+        },
+        {
+          "text": "Cash in small bills in case card systems are down"
+        },
+        {
+          "text": "A paper map of your region and likely routes"
+        },
+        {
+          "text": "A compass and the skill to use it"
+        },
+        {
+          "text": "Spare house and car keys"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a bug out bag?",
+      "a": "A bug out bag is a packed bag that holds 72 hours of essential supplies so you can evacuate immediately. Unlike a home kit, it is meant to be light, portable and grabbed in seconds when you have to leave fast."
+    },
+    {
+      "q": "How much water should a bug out bag hold?",
+      "a": "Carry one to three liters of ready water plus a way to treat more, such as a filter or purification tablets. Carrying three full days of water is too heavy, so plan to refill and purify along the way."
+    },
+    {
+      "q": "How heavy should my bug out bag be?",
+      "a": "Keep it light enough to carry comfortably for a long walk, often around 10 to 20 percent of your body weight. Pack only true essentials, since a bag too heavy to carry defeats its purpose."
+    },
+    {
+      "q": "How often should I update my bug out bag?",
+      "a": "Check it twice a year and after any use. Rotate water and food before they expire, refresh medications, replace batteries, and update clothing sizes and documents as needs change."
+    },
+    {
+      "q": "Is this bug out bag checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep a copy inside the bag, and check off each item as you pack and restock it."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/bug-out-bag-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/bug-out-bag-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Bug Out Bag Checklist by ChecklistForge (https://checklistforge.com/checklist/bug-out-bag-checklist)",
+  "updated": "2026-10-17"
+}

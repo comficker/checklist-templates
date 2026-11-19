@@ -1,0 +1,182 @@
+{
+  "id": "essay-checklist",
+  "name": "Essay Checklist",
+  "description": "An essay checklist that helps students plan, write and polish a clear, well-structured essay.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "study",
+    "essay",
+    "writing",
+    "proofreading"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Understand the prompt",
+      "items": [
+        {
+          "text": "Read the prompt twice and underline the key task words.",
+          "note": "Words like analyze, compare or argue tell you what to do."
+        },
+        {
+          "text": "Note the required length, format and due date."
+        },
+        {
+          "text": "Identify the type of essay, such as argumentative or analytical."
+        },
+        {
+          "text": "List any required sources or texts you must reference."
+        },
+        {
+          "text": "Ask your teacher to clarify anything you are unsure about."
+        }
+      ]
+    },
+    {
+      "title": "Build your thesis",
+      "items": [
+        {
+          "text": "Decide your main point or position on the topic."
+        },
+        {
+          "text": "Write a one-sentence thesis that is specific and arguable."
+        },
+        {
+          "text": "Check that the thesis answers the prompt directly."
+        },
+        {
+          "text": "Make sure you can support it with at least three points."
+        },
+        {
+          "text": "Keep the thesis in view while you plan and write."
+        }
+      ]
+    },
+    {
+      "title": "Plan the structure",
+      "items": [
+        {
+          "text": "Sketch a quick outline: introduction, body paragraphs, conclusion."
+        },
+        {
+          "text": "Assign one main idea to each body paragraph."
+        },
+        {
+          "text": "Order the paragraphs so the argument builds logically."
+        },
+        {
+          "text": "Note the evidence you will use in each paragraph."
+        },
+        {
+          "text": "Plan smooth transitions between sections."
+        }
+      ]
+    },
+    {
+      "title": "Write the introduction",
+      "items": [
+        {
+          "text": "Open with a hook that draws the reader in."
+        },
+        {
+          "text": "Give brief context the reader needs to follow your argument."
+        },
+        {
+          "text": "End the introduction with your thesis statement."
+        },
+        {
+          "text": "Keep it concise and avoid summarizing the whole essay."
+        }
+      ]
+    },
+    {
+      "title": "Develop the body",
+      "items": [
+        {
+          "text": "Start each paragraph with a clear topic sentence."
+        },
+        {
+          "text": "Back every claim with specific evidence or examples."
+        },
+        {
+          "text": "Explain how each piece of evidence supports your thesis."
+        },
+        {
+          "text": "Cite quotes and sources where required."
+        },
+        {
+          "text": "Use transitions to link ideas across paragraphs."
+        },
+        {
+          "text": "Stay on topic and cut anything that doesn't serve the argument."
+        }
+      ]
+    },
+    {
+      "title": "Write the conclusion",
+      "items": [
+        {
+          "text": "Restate the thesis in fresh wording."
+        },
+        {
+          "text": "Summarize the main points without repeating them word for word."
+        },
+        {
+          "text": "End with a final thought, implication or call to reflection."
+        },
+        {
+          "text": "Avoid introducing brand-new arguments here."
+        }
+      ]
+    },
+    {
+      "title": "Proofread and submit",
+      "items": [
+        {
+          "text": "Read the essay aloud to catch awkward phrasing."
+        },
+        {
+          "text": "Fix spelling, grammar and punctuation errors."
+        },
+        {
+          "text": "Check that every paragraph supports the thesis."
+        },
+        {
+          "text": "Confirm formatting, citations and word count meet the requirements."
+        },
+        {
+          "text": "Submit before the deadline and keep a saved copy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes a strong essay?",
+      "a": "A strong essay has a clear, arguable thesis, a logical structure, body paragraphs built on evidence and explanation, and a conclusion that ties it together, all written in clean, error-free prose."
+    },
+    {
+      "q": "How is an essay checklist different from a research paper one?",
+      "a": "An essay checklist is shorter and focuses on argument, structure and proofreading. A research paper checklist adds extensive source gathering, evaluating evidence and formal citations across a longer project."
+    },
+    {
+      "q": "What should each body paragraph contain?",
+      "a": "Each body paragraph should open with a topic sentence, present specific evidence such as a fact, quote or example, explain how that evidence supports your thesis, then transition to the next point."
+    },
+    {
+      "q": "Can I use this for a timed exam essay?",
+      "a": "Yes. Skim the planning steps quickly, write with the structure in mind, and save a couple of minutes at the end for the proofreading items so even a timed essay stays organized."
+    },
+    {
+      "q": "Can I download this essay checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and keep it nearby as you plan, write and revise each essay."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/essay-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/essay-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Essay Checklist by ChecklistForge (https://checklistforge.com/checklist/essay-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,185 @@
+{
+  "id": "winter-car-checklist",
+  "name": "Winter Car Checklist",
+  "description": "A checklist for preparing a car for winter weather.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "maintenance",
+    "vehicles",
+    "cars",
+    "winter-car"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Battery and electrical",
+      "items": [
+        {
+          "text": "Test the battery's charge and health before the cold arrives.",
+          "note": "Cold cuts battery capacity; a marginal battery often fails in winter."
+        },
+        {
+          "text": "Clean corrosion from terminals and confirm they are tight."
+        },
+        {
+          "text": "Check the alternator is charging and belts are sound."
+        },
+        {
+          "text": "Confirm the battery is securely mounted with no case damage."
+        },
+        {
+          "text": "Carry jumper cables or a portable jump starter."
+        },
+        {
+          "text": "Replace a battery older than four to five years before winter."
+        }
+      ]
+    },
+    {
+      "title": "Tires and traction",
+      "items": [
+        {
+          "text": "Fit winter tires as a set of four if your climate warrants them."
+        },
+        {
+          "text": "Check tread depth; winter grip drops sharply on worn tires."
+        },
+        {
+          "text": "Set tire pressures, since cold air lowers them noticeably.",
+          "note": "Check pressures on a cold morning and top up to the door-jamb spec."
+        },
+        {
+          "text": "Carry chains or traction aids where required by law or conditions."
+        },
+        {
+          "text": "Confirm the spare is inflated and accessible."
+        },
+        {
+          "text": "Verify the TPMS light is off after adjusting pressures."
+        }
+      ]
+    },
+    {
+      "title": "Fluids and cooling system",
+      "items": [
+        {
+          "text": "Check coolant and confirm the antifreeze mix suits expected lows.",
+          "note": "Test the freeze protection rating; weak coolant can freeze and crack the engine."
+        },
+        {
+          "text": "Switch to winter-grade windshield washer fluid that resists freezing."
+        },
+        {
+          "text": "Check engine oil; consider a winter-appropriate grade per the manual."
+        },
+        {
+          "text": "Verify brake and power steering fluid levels."
+        },
+        {
+          "text": "Inspect hoses and belts that stiffen and crack in the cold."
+        },
+        {
+          "text": "Top up and test the heater and defroster operation."
+        }
+      ]
+    },
+    {
+      "title": "Visibility and exterior",
+      "items": [
+        {
+          "text": "Replace worn wipers or fit winter blades that shed ice."
+        },
+        {
+          "text": "Test all lights — they matter more in short winter days."
+        },
+        {
+          "text": "Keep an ice scraper and snow brush in the car."
+        },
+        {
+          "text": "Check door and window seals to prevent freezing shut."
+        },
+        {
+          "text": "Apply a lock de-icer or treat seals against freezing."
+        },
+        {
+          "text": "Keep headlights and indicators clear of snow and salt grime."
+        }
+      ]
+    },
+    {
+      "title": "Winter emergency kit",
+      "items": [
+        {
+          "text": "Pack a warm blanket, gloves, hat and spare warm clothing."
+        },
+        {
+          "text": "Carry a small shovel and sand, salt or traction mats."
+        },
+        {
+          "text": "Stock a flashlight, warning triangle and reflective vest."
+        },
+        {
+          "text": "Bring water, non-perishable snacks and any medications."
+        },
+        {
+          "text": "Pack a first-aid kit and hand warmers."
+        },
+        {
+          "text": "Keep a phone charger and power bank fully charged."
+        }
+      ]
+    },
+    {
+      "title": "Cold-weather driving readiness",
+      "items": [
+        {
+          "text": "Keep the fuel tank at least half full to reduce condensation and ensure heat."
+        },
+        {
+          "text": "Clear all snow and ice from the roof, windows and lights before driving."
+        },
+        {
+          "text": "Confirm roadside assistance and insurance are current."
+        },
+        {
+          "text": "Practice gentle braking and longer following distances on ice."
+        },
+        {
+          "text": "Check weather and road conditions before each trip."
+        },
+        {
+          "text": "Tell someone your route and expected arrival in severe weather."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a winter car checklist?",
+      "a": "It's a seasonal prep guide that readies a car for cold weather — battery, tires, antifreeze, visibility and an emergency kit — so drivers can start, stop and drive safely through snow, ice and freezing temperatures."
+    },
+    {
+      "q": "When should I winterize my car?",
+      "a": "Complete winter prep before the first hard freeze, ideally in late fall, so there is time to fit winter tires, replace a weak battery and adjust fluids before cold weather sets in."
+    },
+    {
+      "q": "Do I need winter tires?",
+      "a": "In regions with sustained snow, ice or temperatures near or below freezing, winter tires give far better grip and braking than all-season tires. Check local laws, your manual and conditions, and fit them as a set of four."
+    },
+    {
+      "q": "What should be in a winter emergency kit?",
+      "a": "Carry a blanket, warm clothing, gloves, an ice scraper, a small shovel, traction aids like sand or mats, a flashlight, jumper cables, water, snacks, and a fully charged phone with a power bank."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the winter car checklist to work through in the garage, or download the PDF to complete on your phone before the cold sets in."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/winter-car-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/winter-car-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Winter Car Checklist by ChecklistForge (https://checklistforge.com/checklist/winter-car-checklist)",
+  "updated": "2026-10-17"
+}

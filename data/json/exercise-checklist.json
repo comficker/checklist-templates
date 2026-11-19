@@ -1,0 +1,166 @@
+{
+  "id": "exercise-checklist",
+  "name": "Exercise Checklist",
+  "description": "A weekly coverage checklist so your routine includes every type of exercise.",
+  "category": "fitness-exercise",
+  "category_name": "Fitness & Exercise",
+  "tags": [
+    "fitness",
+    "exercise",
+    "workout",
+    "cardio",
+    "flexibility"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Plan Your Week",
+      "items": [
+        {
+          "text": "Look at your week and pick days for each type of exercise"
+        },
+        {
+          "text": "Aim to cover cardio, strength, flexibility, and balance"
+        },
+        {
+          "text": "Spread activity across most days rather than one big session"
+        },
+        {
+          "text": "Schedule at least one rest or active-recovery day",
+          "note": "Recovery is part of a complete routine, not a gap in it."
+        },
+        {
+          "text": "Choose activities you enjoy so you stick with the plan"
+        }
+      ]
+    },
+    {
+      "title": "Cardio Coverage",
+      "items": [
+        {
+          "text": "Include at least 150 minutes of moderate cardio this week"
+        },
+        {
+          "text": "Tick off activities like brisk walking, cycling, or swimming"
+        },
+        {
+          "text": "Add a faster effort or interval session if you feel ready"
+        },
+        {
+          "text": "Use everyday movement like stairs and walks to add minutes"
+        },
+        {
+          "text": "Confirm cardio appears on at least 3 days of your week"
+        }
+      ]
+    },
+    {
+      "title": "Strength Coverage",
+      "items": [
+        {
+          "text": "Train all major muscle groups at least twice this week"
+        },
+        {
+          "text": "Include pushing, pulling, lower-body, and core movements"
+        },
+        {
+          "text": "Use bodyweight, bands, or weights based on what you have"
+        },
+        {
+          "text": "Focus on good form and progress load gradually"
+        },
+        {
+          "text": "Confirm both strength sessions are checked off"
+        }
+      ]
+    },
+    {
+      "title": "Flexibility Coverage",
+      "items": [
+        {
+          "text": "Stretch major muscle groups on several days this week"
+        },
+        {
+          "text": "Hold static stretches for 15 to 30 seconds after exercise"
+        },
+        {
+          "text": "Add a yoga or mobility session if you can"
+        },
+        {
+          "text": "Stretch areas that feel tight from daily sitting"
+        },
+        {
+          "text": "Confirm flexibility work is covered, not skipped"
+        }
+      ]
+    },
+    {
+      "title": "Balance and Mobility Coverage",
+      "items": [
+        {
+          "text": "Practice balance drills such as standing on one leg"
+        },
+        {
+          "text": "Try heel-to-toe walking near a wall or sturdy chair for support",
+          "note": "Use support nearby until your balance feels steady."
+        },
+        {
+          "text": "Add mobility drills for hips, ankles, and shoulders"
+        },
+        {
+          "text": "Include core work that supports stability"
+        },
+        {
+          "text": "Confirm at least one balance or mobility session this week"
+        }
+      ]
+    },
+    {
+      "title": "Review and Adjust",
+      "items": [
+        {
+          "text": "At week's end, check which types you covered"
+        },
+        {
+          "text": "Note any category you missed and plan it for next week"
+        },
+        {
+          "text": "Adjust the balance if one type is always crowding out others"
+        },
+        {
+          "text": "Track how your energy, strength, and mobility change over time"
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Consult your doctor before starting a new exercise program, especially with a health condition, injury, balance issues, or pregnancy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the four main types of exercise?",
+      "a": "Most experts group exercise into cardio (endurance), strength, flexibility, and balance. Each serves a different purpose, and a well-rounded routine includes all four across the week. This checklist is organized so you can confirm you are covering each one."
+    },
+    {
+      "q": "How much of each type do I need weekly?",
+      "a": "General guidance suggests at least 150 minutes of moderate cardio plus 2 strength sessions per week, with flexibility and balance work woven in regularly. Older adults especially benefit from balance training. Start with what you can manage and build up."
+    },
+    {
+      "q": "Can I combine different types in one session?",
+      "a": "Yes. You can warm up with cardio, do strength work, then finish with flexibility and a balance drill. Combining types is efficient and helps you cover everything. The key is making sure each type appears somewhere in your week."
+    },
+    {
+      "q": "Why is balance exercise important?",
+      "a": "Balance and mobility work improves stability, supports good movement, and helps reduce the risk of falls, which matters more as we age. Simple drills like standing on one leg or heel-to-toe walking can be done almost anywhere with no equipment."
+    },
+    {
+      "q": "Is this checklist medical advice?",
+      "a": "No. This is general information only and not a substitute for personalized medical advice. Speak with your doctor before starting a new exercise program, especially if you have a health condition, an injury, balance issues, or are pregnant."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/exercise-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/exercise-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Exercise Checklist by ChecklistForge (https://checklistforge.com/checklist/exercise-checklist)",
+  "updated": "2026-10-17"
+}

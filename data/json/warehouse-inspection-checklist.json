@@ -1,0 +1,182 @@
+{
+  "id": "warehouse-inspection-checklist",
+  "name": "Warehouse Inspection Checklist",
+  "description": "A checklist for inspecting a warehouse for safety and condition.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "warehouse-inspection",
+    "logistics"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Racking and storage",
+      "items": [
+        {
+          "text": "Inspect uprights and beams for dents, bends or impact damage.",
+          "note": "Damaged racking must be offloaded and tagged out until repaired by a qualified provider."
+        },
+        {
+          "text": "Confirm load capacity signs are posted and not exceeded."
+        },
+        {
+          "text": "Check beam locks and safety pins are fitted and engaged."
+        },
+        {
+          "text": "Verify baseplates are anchored and uprights are plumb."
+        },
+        {
+          "text": "Confirm loads are stable, within limits and not overhanging."
+        },
+        {
+          "text": "Check shelving and mezzanines for damage and overloading."
+        }
+      ]
+    },
+    {
+      "title": "Forklifts and equipment",
+      "items": [
+        {
+          "text": "Confirm forklifts have a completed daily pre-use inspection."
+        },
+        {
+          "text": "Check forks, mast and hydraulics for damage and leaks."
+        },
+        {
+          "text": "Verify horn, lights, brakes and seatbelt function."
+        },
+        {
+          "text": "Confirm operators are trained, certified and authorized."
+        },
+        {
+          "text": "Check pedestrian and forklift routes are separated and marked."
+        },
+        {
+          "text": "Verify charging or refueling areas are ventilated and safe."
+        }
+      ]
+    },
+    {
+      "title": "Fire safety",
+      "items": [
+        {
+          "text": "Confirm fire extinguishers are charged, tagged and accessible."
+        },
+        {
+          "text": "Check sprinklers are unobstructed with adequate clearance below."
+        },
+        {
+          "text": "Verify fire alarms and detectors function on test."
+        },
+        {
+          "text": "Confirm flammable goods are stored in approved areas."
+        },
+        {
+          "text": "Check electrical panels are clear, closed and labeled."
+        },
+        {
+          "text": "Verify no-smoking and fire-safety signage is posted."
+        }
+      ]
+    },
+    {
+      "title": "Exits and emergency",
+      "items": [
+        {
+          "text": "Confirm all emergency exits are unobstructed and unlocked."
+        },
+        {
+          "text": "Check exit and directional signage is visible and lit."
+        },
+        {
+          "text": "Verify emergency lighting operates during test."
+        },
+        {
+          "text": "Confirm muster points are clear and signposted."
+        },
+        {
+          "text": "Check first aid kits and eyewash stations are stocked."
+        },
+        {
+          "text": "Verify spill kits are available for stored chemicals."
+        }
+      ]
+    },
+    {
+      "title": "Housekeeping",
+      "items": [
+        {
+          "text": "Confirm aisles and walkways are clear and within marked widths."
+        },
+        {
+          "text": "Check floors for damage, debris, spills or trip hazards."
+        },
+        {
+          "text": "Verify waste and packaging are removed and not piling up."
+        },
+        {
+          "text": "Confirm pallets are stored flat and stacks are stable."
+        },
+        {
+          "text": "Check lighting is adequate throughout the storage areas."
+        },
+        {
+          "text": "Verify nothing is stored blocking equipment or panels."
+        }
+      ]
+    },
+    {
+      "title": "Loading dock",
+      "items": [
+        {
+          "text": "Inspect dock levelers, plates and edges for damage."
+        },
+        {
+          "text": "Confirm wheel chocks or vehicle restraints are used."
+        },
+        {
+          "text": "Check dock doors operate safely and seal when closed."
+        },
+        {
+          "text": "Verify dock edges and drop-offs are guarded or marked."
+        },
+        {
+          "text": "Confirm lighting and signaling at the dock work correctly."
+        },
+        {
+          "text": "Record defects with an owner and due date, then sign and file."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a warehouse inspection checklist?",
+      "a": "It's a standardized list used to inspect a warehouse for racking integrity, forklift and equipment safety, fire protection, clear exits, housekeeping and dock safety. Each item is marked pass or fail so hazards can be corrected."
+    },
+    {
+      "q": "How often should a warehouse be inspected?",
+      "a": "Run routine safety walkthroughs regularly — many warehouses inspect weekly, with daily forklift pre-use checks. Racking should also receive a documented expert inspection at least annually."
+    },
+    {
+      "q": "Who should inspect racking?",
+      "a": "Routine visual checks can be done by trained staff, but a documented inspection by a competent racking inspector is recommended at least annually and after any impact or load change."
+    },
+    {
+      "q": "What should I do if I find damaged racking?",
+      "a": "Offload and cordon off the affected bay immediately, tag it out of use, and arrange repair or replacement by a qualified provider before reloading. Never reload damaged uprights or beams."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the warehouse inspection checklist for a clipboard walkthrough, or download the PDF to complete on a tablet and keep with your safety records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/warehouse-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/warehouse-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Warehouse Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/warehouse-inspection-checklist)",
+  "updated": "2026-10-20"
+}

@@ -1,0 +1,205 @@
+{
+  "id": "website-redesign-checklist",
+  "name": "Website Redesign Checklist",
+  "description": "A website redesign checklist covering goals, audits, SEO preservation, design, build, QA and launch.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "seo",
+    "website",
+    "redesign",
+    "web-design"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Set goals and plan",
+      "items": [
+        {
+          "text": "Define why the site is being redesigned and the outcomes you want."
+        },
+        {
+          "text": "Set measurable goals such as more leads or faster load times."
+        },
+        {
+          "text": "Identify the target audience and their main tasks on the site."
+        },
+        {
+          "text": "Agree the budget, timeline and who owns each phase."
+        },
+        {
+          "text": "Choose the platform or content management system."
+        },
+        {
+          "text": "Record current baseline metrics to compare against later.",
+          "note": "Capture traffic, rankings and conversion rate before any changes."
+        }
+      ]
+    },
+    {
+      "title": "Audit the current site",
+      "items": [
+        {
+          "text": "Review analytics to find your top pages and traffic sources."
+        },
+        {
+          "text": "Identify pages that convert and pages that underperform."
+        },
+        {
+          "text": "Check current speed, mobile usability and accessibility."
+        },
+        {
+          "text": "List technical issues such as broken links and errors."
+        },
+        {
+          "text": "Gather feedback from users and the team on pain points."
+        },
+        {
+          "text": "Review competitor sites for ideas and gaps."
+        }
+      ]
+    },
+    {
+      "title": "Content inventory and SEO",
+      "items": [
+        {
+          "text": "Export a full list of every existing URL."
+        },
+        {
+          "text": "Mark each page to keep, rewrite, merge or remove."
+        },
+        {
+          "text": "Record current rankings and keywords for valuable pages."
+        },
+        {
+          "text": "Map every old URL to its new destination."
+        },
+        {
+          "text": "Plan 301 redirects for changed or removed URLs."
+        },
+        {
+          "text": "Preserve titles, headings and metadata that perform well."
+        }
+      ]
+    },
+    {
+      "title": "Design and UX",
+      "items": [
+        {
+          "text": "Define the site structure and navigation."
+        },
+        {
+          "text": "Sketch wireframes for key page templates."
+        },
+        {
+          "text": "Apply brand colors, typography and imagery consistently."
+        },
+        {
+          "text": "Design clear calls to action on every page."
+        },
+        {
+          "text": "Design mobile layouts alongside desktop, not after."
+        },
+        {
+          "text": "Review designs against accessibility guidelines."
+        }
+      ]
+    },
+    {
+      "title": "Build and develop",
+      "items": [
+        {
+          "text": "Build templates and components from the approved designs."
+        },
+        {
+          "text": "Migrate the content you chose to keep."
+        },
+        {
+          "text": "Implement the planned redirects in the codebase."
+        },
+        {
+          "text": "Optimize images and assets for fast loading."
+        },
+        {
+          "text": "Add analytics, tracking and structured data."
+        },
+        {
+          "text": "Set up forms, search and any integrations."
+        }
+      ]
+    },
+    {
+      "title": "QA and testing",
+      "items": [
+        {
+          "text": "Test every page across browsers and devices."
+        },
+        {
+          "text": "Check all links, forms and buttons work."
+        },
+        {
+          "text": "Verify each redirect points to the correct new page."
+        },
+        {
+          "text": "Measure page speed and fix slow-loading assets."
+        },
+        {
+          "text": "Proofread content for errors and broken formatting."
+        },
+        {
+          "text": "Confirm tracking fires correctly on key actions."
+        }
+      ]
+    },
+    {
+      "title": "Launch and post-launch",
+      "items": [
+        {
+          "text": "Back up the existing site before going live."
+        },
+        {
+          "text": "Deploy the new site and confirm redirects are active."
+        },
+        {
+          "text": "Submit the updated sitemap to search engines."
+        },
+        {
+          "text": "Monitor traffic, rankings and errors closely for two weeks."
+        },
+        {
+          "text": "Fix any broken links or crawl errors quickly."
+        },
+        {
+          "text": "Compare results to the baseline and report on the goals."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a website redesign checklist?",
+      "a": "It is a structured plan for rebuilding a site without losing traffic. It covers setting goals, auditing the current site, preserving SEO with redirects, designing and building the new pages, testing thoroughly, launching cleanly and monitoring performance afterwards so the redesign is an improvement."
+    },
+    {
+      "q": "How do you avoid losing SEO during a redesign?",
+      "a": "Inventory every existing URL and its rankings, keep high-performing content, and map each old URL to its new address with a 301 redirect. Preserve titles, headings and metadata where they perform, update the sitemap, and watch search traffic closely after launch."
+    },
+    {
+      "q": "What is a content inventory?",
+      "a": "A content inventory is a complete list of every page, asset and piece of content on the current site, with notes on traffic, value and whether to keep, rewrite, merge or remove each one. It is the foundation for planning the new site and its redirects."
+    },
+    {
+      "q": "When should you redesign a website?",
+      "a": "Consider a redesign when the site looks dated, performs poorly on mobile, loads slowly, no longer reflects the brand, or fails to convert. Tie the project to specific goals such as more leads or faster pages rather than redesigning for appearance alone."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the website redesign checklist to plan the project with your team, or download the PDF and work through each phase — audit, SEO, design, build, QA and launch — ticking off tasks so nothing critical is missed before going live."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/website-redesign-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/website-redesign-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Website Redesign Checklist by ChecklistForge (https://checklistforge.com/checklist/website-redesign-checklist)",
+  "updated": "2026-10-17"
+}

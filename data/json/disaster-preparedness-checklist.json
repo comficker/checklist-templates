@@ -1,0 +1,176 @@
+{
+  "id": "disaster-preparedness-checklist",
+  "name": "Disaster Preparedness Checklist",
+  "description": "A multi-hazard readiness checklist covering planning, supplies, home prep, evacuation, insurance and recovery.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "emergency",
+    "preparedness",
+    "family",
+    "disaster"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Build Your Emergency Plan",
+      "items": [
+        {
+          "text": "Identify the hazards most likely to affect your area"
+        },
+        {
+          "text": "Sign up for local warnings and emergency alerts"
+        },
+        {
+          "text": "Set indoor and out-of-neighborhood meeting points"
+        },
+        {
+          "text": "Choose an out-of-area contact for everyone to check in with"
+        },
+        {
+          "text": "Plan how to care for children, seniors and pets"
+        },
+        {
+          "text": "Practice and review the plan with the family twice a year"
+        }
+      ]
+    },
+    {
+      "title": "Stock Emergency Supplies",
+      "items": [
+        {
+          "text": "Store one gallon of water per person per day for three days"
+        },
+        {
+          "text": "Keep a three-day supply of non-perishable food and a can opener"
+        },
+        {
+          "text": "Pack a first aid kit and prescription medications"
+        },
+        {
+          "text": "Add flashlights, a battery or hand-crank radio and spare batteries"
+        },
+        {
+          "text": "Include phone chargers, a power bank and emergency cash"
+        },
+        {
+          "text": "Add sanitation supplies, masks, gloves and sturdy shoes"
+        }
+      ]
+    },
+    {
+      "title": "Protect Your Home",
+      "items": [
+        {
+          "text": "Know where to shut off water, gas and electricity"
+        },
+        {
+          "text": "Secure heavy furniture, water heaters and shelving to walls"
+        },
+        {
+          "text": "Clear gutters, drains and brush from around the home"
+        },
+        {
+          "text": "Test smoke and carbon-monoxide alarms and keep extinguishers handy"
+        },
+        {
+          "text": "Store fuel, generators and chemicals safely",
+          "note": "Never run a generator indoors or in a garage — carbon monoxide is deadly"
+        },
+        {
+          "text": "Trim trees and remove limbs that could fall on the house"
+        }
+      ]
+    },
+    {
+      "title": "Prepare to Evacuate",
+      "items": [
+        {
+          "text": "Map at least two evacuation routes from your area"
+        },
+        {
+          "text": "Keep a go-bag packed for each family member"
+        },
+        {
+          "text": "Keep vehicles fueled and ready, or know transit options"
+        },
+        {
+          "text": "Plan transport and supplies for those who need assistance"
+        },
+        {
+          "text": "Identify pet-friendly shelters and lodging in advance"
+        }
+      ]
+    },
+    {
+      "title": "Secure Insurance and Documents",
+      "items": [
+        {
+          "text": "Review home, renter, flood and auto insurance coverage"
+        },
+        {
+          "text": "Photograph or video your belongings for claims"
+        },
+        {
+          "text": "Copy IDs, deeds, policies and medical records"
+        },
+        {
+          "text": "Store copies in a waterproof container and the cloud"
+        },
+        {
+          "text": "Keep emergency contacts and account numbers together"
+        }
+      ]
+    },
+    {
+      "title": "Take the Right Steps After a Disaster",
+      "items": [
+        {
+          "text": "Wait for the official all-clear before returning home"
+        },
+        {
+          "text": "Check for gas leaks, downed power lines and structural damage"
+        },
+        {
+          "text": "Avoid floodwater and turn off utilities if you suspect damage"
+        },
+        {
+          "text": "Document damage with photos before cleanup or repairs"
+        },
+        {
+          "text": "Contact your insurer and apply for assistance if eligible"
+        },
+        {
+          "text": "Restock and refresh your kit once the emergency passes"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What hazards should a disaster plan cover?",
+      "a": "Plan for the hazards most likely in your area — floods, wildfires, hurricanes, tornadoes, earthquakes, severe winter weather and power outages. The same plan and kit cover most events, so prepare broadly rather than for a single disaster."
+    },
+    {
+      "q": "How much food and water should I keep on hand?",
+      "a": "Keep at least a three-day supply of non-perishable food and one gallon of water per person per day for three days, following Ready.gov and FEMA guidance. Store a two-week supply at home when space allows."
+    },
+    {
+      "q": "Should I shelter in place or evacuate?",
+      "a": "Follow official instructions. Some events, like chemical releases or certain storms, call for sheltering in place, while floods and wildfires usually require evacuation. Plan and practice both responses ahead of time."
+    },
+    {
+      "q": "Why is insurance part of disaster preparedness?",
+      "a": "Knowing your coverage before a disaster speeds recovery. Standard policies often exclude floods and earthquakes, so review limits, photograph your belongings, and store policy details with your emergency documents."
+    },
+    {
+      "q": "Is this disaster preparedness checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep a copy with your kit, and check off each task as your household prepares for any hazard."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/disaster-preparedness-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/disaster-preparedness-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Disaster Preparedness Checklist by ChecklistForge (https://checklistforge.com/checklist/disaster-preparedness-checklist)",
+  "updated": "2026-10-17"
+}

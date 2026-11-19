@@ -1,0 +1,167 @@
+{
+  "id": "closet-organization-checklist",
+  "name": "Closet Organization Checklist",
+  "description": "A complete plan to purge, categorize, and organize your closet and accessories.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "decluttering",
+    "organization",
+    "closet",
+    "wardrobe"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Empty and Purge",
+      "items": [
+        {
+          "text": "Remove every item so the closet is completely empty"
+        },
+        {
+          "text": "Wipe shelves, rods, and floor before anything goes back"
+        },
+        {
+          "text": "Sort clothes into keep, donate, sell, and repair piles"
+        },
+        {
+          "text": "Try on anything you are unsure about and decide on the spot",
+          "note": "If it does not fit or flatter now, let it go."
+        },
+        {
+          "text": "Discard worn-out basics, single socks, and broken hangers"
+        }
+      ]
+    },
+    {
+      "title": "Categorize Your Wardrobe",
+      "items": [
+        {
+          "text": "Group items by type: tops, bottoms, dresses, and outerwear"
+        },
+        {
+          "text": "Arrange each category by color for fast visual scanning"
+        },
+        {
+          "text": "Separate everyday pieces from special-occasion wear"
+        },
+        {
+          "text": "Set off-season clothing aside for separate storage"
+        },
+        {
+          "text": "Create a small zone for items awaiting repair or tailoring"
+        }
+      ]
+    },
+    {
+      "title": "Set Up a Hanging System",
+      "items": [
+        {
+          "text": "Switch to slim, matching hangers for a uniform look and more space"
+        },
+        {
+          "text": "Hang structured items like blazers, shirts, and dresses"
+        },
+        {
+          "text": "Add a second rod or hanging organizer to double capacity",
+          "note": "Great for short items like shirts and skirts in small closets."
+        },
+        {
+          "text": "Place frequently worn pieces at eye level and easy reach"
+        },
+        {
+          "text": "Keep a few empty hangers ready for new or clean laundry"
+        }
+      ]
+    },
+    {
+      "title": "Fold and Shelf Storage",
+      "items": [
+        {
+          "text": "Fold knits, jeans, and tees to prevent stretching"
+        },
+        {
+          "text": "Stack folded items vertically so you can see each one"
+        },
+        {
+          "text": "Use shelf dividers to keep stacks upright and tidy"
+        },
+        {
+          "text": "Store bulky sweaters in bins to protect the shape"
+        },
+        {
+          "text": "Label shelves or bins so items return to the right spot"
+        }
+      ]
+    },
+    {
+      "title": "Organize Shoes and Accessories",
+      "items": [
+        {
+          "text": "Line up shoes on a rack or in clear, stackable boxes"
+        },
+        {
+          "text": "Hang belts, scarves, and ties on dedicated hooks or racks"
+        },
+        {
+          "text": "Store jewelry in a divided tray or hanging organizer"
+        },
+        {
+          "text": "Use an over-door rack for bags or smaller accessories",
+          "note": "Over-door space is a hidden win in tight closets."
+        },
+        {
+          "text": "Keep handbags upright with shelf dividers or bins"
+        }
+      ]
+    },
+    {
+      "title": "Maintain the System",
+      "items": [
+        {
+          "text": "Return every item to its assigned spot after wearing it"
+        },
+        {
+          "text": "Do a quick five-minute tidy once a week"
+        },
+        {
+          "text": "Swap seasonal clothing in and out twice a year"
+        },
+        {
+          "text": "Apply a one-in, one-out rule for new purchases"
+        },
+        {
+          "text": "Schedule a deeper purge each season to stay clutter-free",
+          "note": "Donate as you go so bags actually leave the house."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I start organizing my closet?",
+      "a": "Empty it completely so you can see everything you own, then sort each item into keep, donate, and repair piles. Working from an empty closet makes purging and categorizing far easier."
+    },
+    {
+      "q": "Should I fold or hang my clothes?",
+      "a": "Hang structured items like blazers, dresses, and button-downs, and fold knits, jeans, and casual tees. Folding stretchy or heavy pieces keeps them from sagging or losing their shape."
+    },
+    {
+      "q": "How can I organize a small closet?",
+      "a": "Use slim hangers, add a second hanging rod, and install shelf dividers and over-door racks. Maximizing vertical space is the key to fitting more into a compact closet."
+    },
+    {
+      "q": "How do I keep my closet organized?",
+      "a": "Group clothes by category and color, return items to the same spot each time, and do a quick seasonal purge. A one-in, one-out rule keeps the closet from overflowing again."
+    },
+    {
+      "q": "Can I print this closet organization checklist?",
+      "a": "Yes. Download the printable PDF, keep it beside you as you sort, and check off each task so you can track your progress from purge to finished closet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/closet-organization-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/closet-organization-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Closet Organization Checklist by ChecklistForge (https://checklistforge.com/checklist/closet-organization-checklist)",
+  "updated": "2026-10-17"
+}

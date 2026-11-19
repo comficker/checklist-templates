@@ -1,0 +1,181 @@
+{
+  "id": "release-checklist",
+  "name": "Release Checklist",
+  "description": "A checklist for releasing a software version from final prep to post-release.",
+  "category": "it-software",
+  "category_name": "IT & Software",
+  "tags": [
+    "it",
+    "software",
+    "release",
+    "devops"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Plan the release",
+      "items": [
+        {
+          "text": "Confirm the scope and the features and fixes included in this version."
+        },
+        {
+          "text": "Verify all planned work is merged and the release branch is frozen."
+        },
+        {
+          "text": "Choose the version number using your versioning scheme."
+        },
+        {
+          "text": "Schedule the release date and time, and a maintenance window if needed."
+        },
+        {
+          "text": "Confirm owners for deploy, comms, monitoring and support."
+        },
+        {
+          "text": "Check for dependencies, migrations or coordinated changes."
+        }
+      ]
+    },
+    {
+      "title": "Prepare the version",
+      "items": [
+        {
+          "text": "Bump the version number in code, packages and config."
+        },
+        {
+          "text": "Update the changelog with features, fixes and breaking changes."
+        },
+        {
+          "text": "Write user-facing release notes in clear, benefit-led language."
+        },
+        {
+          "text": "Prepare internal notes covering technical and migration details."
+        },
+        {
+          "text": "Tag the release in version control and create a release branch or tag."
+        },
+        {
+          "text": "Update documentation, help articles and API references."
+        }
+      ]
+    },
+    {
+      "title": "Final tests and approval",
+      "items": [
+        {
+          "text": "Run the full automated test suite and confirm it passes."
+        },
+        {
+          "text": "Complete regression and smoke testing on the release candidate."
+        },
+        {
+          "text": "Confirm no open blocker or critical defects remain."
+        },
+        {
+          "text": "Verify any feature flags are set correctly for the release."
+        },
+        {
+          "text": "Obtain final QA and stakeholder sign-off."
+        },
+        {
+          "text": "Confirm rollback and backup plans are ready."
+        }
+      ]
+    },
+    {
+      "title": "Deploy and verify",
+      "items": [
+        {
+          "text": "Back up the database and record the current production version."
+        },
+        {
+          "text": "Deploy the new version to production following your deploy process."
+        },
+        {
+          "text": "Run migrations and confirm they complete successfully."
+        },
+        {
+          "text": "Smoke test critical paths and confirm the correct version is live."
+        },
+        {
+          "text": "Check error rates, performance and integrations after deploy."
+        },
+        {
+          "text": "Roll out gradually with a canary or staged release if available."
+        }
+      ]
+    },
+    {
+      "title": "Communicate the release",
+      "items": [
+        {
+          "text": "Publish release notes to users via the appropriate channels."
+        },
+        {
+          "text": "Notify internal teams including support, sales and product."
+        },
+        {
+          "text": "Brief the support team on changes and likely questions."
+        },
+        {
+          "text": "Update status pages or in-app announcements as needed."
+        },
+        {
+          "text": "Inform key customers of any breaking changes or required actions."
+        },
+        {
+          "text": "Confirm marketing or social posts are scheduled if planned."
+        }
+      ]
+    },
+    {
+      "title": "Monitor and follow up",
+      "items": [
+        {
+          "text": "Watch dashboards, logs and alerts closely after release."
+        },
+        {
+          "text": "Track adoption and key metrics against expectations."
+        },
+        {
+          "text": "Monitor support channels for new issues or confusion."
+        },
+        {
+          "text": "Be ready to hotfix or roll back if a serious problem appears."
+        },
+        {
+          "text": "Close out release tickets and update records."
+        },
+        {
+          "text": "Hold a brief retrospective and capture improvements for next time."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What's the difference between a release and a deployment?",
+      "a": "A deployment is the technical act of pushing code to an environment. A release is the broader process of cutting and shipping a version — versioning, release notes, final testing, comms and follow-up. This checklist covers the release; a deployment checklist covers the deploy mechanics."
+    },
+    {
+      "q": "What should go in release notes?",
+      "a": "Summarize new features, improvements, bug fixes and any breaking changes or required actions. Write them for your audience — users want clear value, while internal teams need technical detail and migration steps. Keep a changelog updated each release."
+    },
+    {
+      "q": "How does version numbering work?",
+      "a": "Many teams use semantic versioning: MAJOR for breaking changes, MINOR for new backward-compatible features, and PATCH for bug fixes. Pick a scheme, apply it consistently, and tag each release in version control."
+    },
+    {
+      "q": "Who should be informed about a release?",
+      "a": "Inform everyone affected: the engineering team, product, support, sales and end users where relevant. Clear comms prevent support surprises and help stakeholders prepare for changes. The checklist includes a dedicated communication step."
+    },
+    {
+      "q": "Can I download this release checklist as a PDF?",
+      "a": "Yes. You can print it or save the PDF so your team follows the same release routine every version, ticking off each step from preparation through post-release monitoring."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/release-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/release-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Release Checklist by ChecklistForge (https://checklistforge.com/checklist/release-checklist)",
+  "updated": "2026-10-17"
+}

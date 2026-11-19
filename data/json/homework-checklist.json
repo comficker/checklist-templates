@@ -1,0 +1,145 @@
+{
+  "id": "homework-checklist",
+  "name": "Homework Checklist",
+  "description": "A homework checklist to capture, plan, do, check and submit every assignment on time.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "study",
+    "homework",
+    "assignments",
+    "school"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "Capture every assignment",
+      "items": [
+        {
+          "text": "Write down each assignment as soon as it is given."
+        },
+        {
+          "text": "Note the subject and exactly what is being asked."
+        },
+        {
+          "text": "Record the due date and the format required."
+        },
+        {
+          "text": "Check the class portal or board for anything you missed."
+        },
+        {
+          "text": "Confirm where and how each task must be submitted."
+        }
+      ]
+    },
+    {
+      "title": "Plan your homework time",
+      "items": [
+        {
+          "text": "List today's tasks and roughly how long each will take."
+        },
+        {
+          "text": "Order them by deadline and difficulty.",
+          "note": "Tackle the hardest task while your focus is fresh."
+        },
+        {
+          "text": "Break big assignments into smaller steps across days."
+        },
+        {
+          "text": "Set a start time and a realistic finish time."
+        },
+        {
+          "text": "Gather the books, notes and tools you will need."
+        }
+      ]
+    },
+    {
+      "title": "Do the work",
+      "items": [
+        {
+          "text": "Reread the instructions before you begin each task."
+        },
+        {
+          "text": "Put your phone away and remove distractions."
+        },
+        {
+          "text": "Work on one assignment at a time until done."
+        },
+        {
+          "text": "Take a short break between tasks to stay fresh."
+        },
+        {
+          "text": "Note any questions to ask your teacher if you get stuck."
+        }
+      ]
+    },
+    {
+      "title": "Check your work",
+      "items": [
+        {
+          "text": "Confirm you answered every part of the question."
+        },
+        {
+          "text": "Proofread for spelling, grammar and clear handwriting."
+        },
+        {
+          "text": "Check calculations or facts a second time."
+        },
+        {
+          "text": "Make sure the format matches what was asked."
+        },
+        {
+          "text": "Put your name, date and class on the work."
+        }
+      ]
+    },
+    {
+      "title": "Submit and pack up",
+      "items": [
+        {
+          "text": "Submit online work and confirm it uploaded successfully."
+        },
+        {
+          "text": "Pack any printed work into the right folder or bag."
+        },
+        {
+          "text": "Cross off each finished task in your planner."
+        },
+        {
+          "text": "Note anything still due tomorrow or later in the week."
+        },
+        {
+          "text": "Pack everything you need for the next school day."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I keep track of all my homework?",
+      "a": "Write down every assignment the moment it is set, including the subject, what is due and the deadline, in one planner or app. Capturing tasks immediately is the single most reliable way to stop homework slipping through the cracks."
+    },
+    {
+      "q": "How is this different from a study checklist?",
+      "a": "This homework checklist is about completing and submitting assigned work. A study checklist is about running a focused study session to learn material, which is a different goal."
+    },
+    {
+      "q": "What is the best order to do homework in?",
+      "a": "Many students do well starting with a quick, easy task to build momentum, then tackling the hardest or highest-stakes assignment while focus is fresh, and saving lighter tasks for last."
+    },
+    {
+      "q": "How do I avoid handing in incomplete homework?",
+      "a": "Before you pack up, reread the instructions and check you answered every part, your name is on it, the format matches what was asked, and you know exactly where and how to submit it."
+    },
+    {
+      "q": "Can I download this homework checklist as a PDF?",
+      "a": "Yes. You can print it for your planner or download it as a PDF to your phone and run through it before you finish working each day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/homework-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/homework-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Homework Checklist by ChecklistForge (https://checklistforge.com/checklist/homework-checklist)",
+  "updated": "2026-10-17"
+}

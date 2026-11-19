@@ -1,0 +1,173 @@
+{
+  "id": "confined-space-checklist",
+  "name": "Confined Space Checklist",
+  "description": "A permit-required confined space entry check covering testing, ventilation, attendant and rescue.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "confined-space",
+    "osha",
+    "permit",
+    "atmospheric-testing"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Permit and Authorization",
+      "items": [
+        {
+          "text": "Confirm the confined space is evaluated and classified before entry."
+        },
+        {
+          "text": "Verify a valid entry permit is completed, signed and posted."
+        },
+        {
+          "text": "Check the permit lists hazards, controls and authorized entrants.",
+          "note": "The permit is valid only for the duration and conditions stated."
+        },
+        {
+          "text": "Confirm the entry supervisor has authorized the entry."
+        },
+        {
+          "text": "Verify the permit is canceled and conditions are reassessed if anything changes."
+        },
+        {
+          "text": "Confirm entry, work and exit times are recorded."
+        }
+      ]
+    },
+    {
+      "title": "Isolation and Lockout",
+      "items": [
+        {
+          "text": "Confirm all hazardous energy is identified and controlled by lockout/tagout."
+        },
+        {
+          "text": "Verify lines carrying liquids, gases or steam are blanked or disconnected."
+        },
+        {
+          "text": "Check that mechanical equipment inside the space is de-energized and locked."
+        },
+        {
+          "text": "Confirm engulfment hazards from liquids or solids are eliminated or controlled."
+        },
+        {
+          "text": "Verify isolation is verified before any entrant goes in."
+        }
+      ]
+    },
+    {
+      "title": "Atmospheric Testing",
+      "items": [
+        {
+          "text": "Test the atmosphere before entry in order: oxygen, flammables, then toxics."
+        },
+        {
+          "text": "Confirm readings are within acceptable entry limits."
+        },
+        {
+          "text": "Verify the gas detector is calibrated and bump-tested.",
+          "note": "Use a calibrated, bump-tested instrument for every entry."
+        },
+        {
+          "text": "Continuously monitor the atmosphere throughout the entry where required."
+        },
+        {
+          "text": "Test all levels of the space, as gases can layer by density."
+        }
+      ]
+    },
+    {
+      "title": "Ventilation and Controls",
+      "items": [
+        {
+          "text": "Provide mechanical ventilation to maintain a safe atmosphere."
+        },
+        {
+          "text": "Confirm ventilation draws from a clean air source, not contaminated air."
+        },
+        {
+          "text": "Verify required PPE and respiratory protection are available and worn."
+        },
+        {
+          "text": "Confirm lighting and tools are rated for the space and any flammables.",
+          "note": "Never use ventilation as the sole control without monitoring."
+        },
+        {
+          "text": "Check that retrieval lines and harnesses are fitted where required."
+        }
+      ]
+    },
+    {
+      "title": "Roles and Communication",
+      "items": [
+        {
+          "text": "Confirm an attendant is stationed outside the space at all times."
+        },
+        {
+          "text": "Verify continuous communication between entrant and attendant."
+        },
+        {
+          "text": "Confirm the attendant does not enter to attempt rescue."
+        },
+        {
+          "text": "Check that all entrants and attendants are trained for their roles."
+        },
+        {
+          "text": "Verify the attendant can order immediate evacuation if needed."
+        }
+      ]
+    },
+    {
+      "title": "Rescue and Emergency",
+      "items": [
+        {
+          "text": "Confirm a rescue plan is in place before entry begins."
+        },
+        {
+          "text": "Verify non-entry rescue equipment is rigged and ready."
+        },
+        {
+          "text": "Confirm a trained rescue team or service is available and notified."
+        },
+        {
+          "text": "Check emergency contacts and procedures are posted at the entry point."
+        },
+        {
+          "text": "Verify rescue procedures have been practiced for similar spaces."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, the entry permit, formal training or your employer's confined space program; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a permit-required confined space?",
+      "a": "It is a confined space that has a hazardous atmosphere, the potential to engulf an entrant, an inwardly converging shape that could trap someone, or any other serious recognized hazard. Entry requires a written permit and a full entry program."
+    },
+    {
+      "q": "Why is atmospheric testing done in a set order?",
+      "a": "Test oxygen first, then flammable gases and vapors, then toxic gases. This order matters because oxygen levels affect the readings of other instruments, and a wrong sequence can hide a deadly hazard."
+    },
+    {
+      "q": "What does the attendant do during an entry?",
+      "a": "The attendant stays outside the space, maintains constant contact with entrants, monitors conditions, controls who enters, and orders evacuation if anything changes. They never enter the space to attempt a rescue themselves."
+    },
+    {
+      "q": "Why must rescue be arranged before entry?",
+      "a": "Most confined space deaths involve untrained rescuers. Non-entry rescue equipment and a trained rescue team or service must be available before entry so a real emergency does not lead to more casualties."
+    },
+    {
+      "q": "Does this checklist replace OSHA rules or training?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, the entry permit, formal training, your employer's confined space program, or a qualified person. Always confirm the standards that apply to your work."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/confined-space-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/confined-space-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Confined Space Checklist by ChecklistForge (https://checklistforge.com/checklist/confined-space-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "new-homeowner-checklist",
+  "name": "New Homeowner Checklist",
+  "description": "First-time homeowner responsibilities after buying, from insurance to maintenance and key documents.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "home-maintenance",
+    "new-homeowner",
+    "first-time-buyer"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Protect the Home Right Away",
+      "items": [
+        {
+          "text": "Confirm home insurance is active from the closing date"
+        },
+        {
+          "text": "Review the policy for adequate dwelling and liability coverage"
+        },
+        {
+          "text": "Change or rekey all exterior locks"
+        },
+        {
+          "text": "Test and update any alarm or security system"
+        },
+        {
+          "text": "Replace batteries and test smoke and carbon-monoxide alarms"
+        }
+      ]
+    },
+    {
+      "title": "Build a Financial Safety Net",
+      "items": [
+        {
+          "text": "Open a dedicated emergency repair fund"
+        },
+        {
+          "text": "Budget about one percent of the home's value per year for upkeep",
+          "note": "Roofs, water heaters and HVAC systems all fail eventually — plan for it"
+        },
+        {
+          "text": "Set up automatic mortgage and property-tax payments"
+        },
+        {
+          "text": "Confirm how and when property taxes are billed in your area"
+        },
+        {
+          "text": "Review whether you have escrow for taxes and insurance"
+        }
+      ]
+    },
+    {
+      "title": "Know Your Home's Systems",
+      "items": [
+        {
+          "text": "Locate and label the main water shut-off valve"
+        },
+        {
+          "text": "Find the gas shut-off and the breaker box"
+        },
+        {
+          "text": "Learn where the water heater, furnace and AC unit are"
+        },
+        {
+          "text": "Note the HVAC filter size and how often to change it"
+        },
+        {
+          "text": "Find the sump pump, if any, and test that it works"
+        }
+      ]
+    },
+    {
+      "title": "Set Up a Maintenance Schedule",
+      "items": [
+        {
+          "text": "Create a calendar of monthly, seasonal and annual tasks"
+        },
+        {
+          "text": "Schedule annual servicing for heating and cooling"
+        },
+        {
+          "text": "Plan spring and fall gutter cleaning and roof checks"
+        },
+        {
+          "text": "Add reminders to change filters and test alarms regularly"
+        },
+        {
+          "text": "Schedule pest control and chimney or septic checks if relevant"
+        }
+      ]
+    },
+    {
+      "title": "Organize Documents & Warranties",
+      "items": [
+        {
+          "text": "File the deed, closing papers and mortgage documents safely"
+        },
+        {
+          "text": "Collect appliance manuals and register warranties"
+        },
+        {
+          "text": "Keep the home inspection report for future reference"
+        },
+        {
+          "text": "Store insurance policies and the home inventory together"
+        },
+        {
+          "text": "Back up all key documents digitally",
+          "note": "A photo or scanned copy protects you if originals are lost or damaged"
+        }
+      ]
+    },
+    {
+      "title": "First-Year Responsibilities",
+      "items": [
+        {
+          "text": "Create a home inventory with photos for insurance claims"
+        },
+        {
+          "text": "Find trusted local plumbers, electricians and handymen"
+        },
+        {
+          "text": "Walk the property for repairs and tackle them before they worsen"
+        },
+        {
+          "text": "Review your insurance and budget again after the first year"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a first-time homeowner do first?",
+      "a": "Confirm your home insurance is active from closing day, locate the main water and gas shut-offs, change the exterior locks, and set aside money for an emergency repair fund. These protect both your safety and your finances."
+    },
+    {
+      "q": "How much should I keep in a home repair fund?",
+      "a": "A common guideline is to set aside roughly one percent of the home's value each year for maintenance and repairs. Build the fund gradually so a failed water heater or roof leak does not derail your budget."
+    },
+    {
+      "q": "How often should I maintain a house?",
+      "a": "Use a seasonal rhythm: test alarms and change HVAC filters monthly to quarterly, service heating and cooling each year, and clean gutters, check the roof and inspect for leaks every spring and fall."
+    },
+    {
+      "q": "What documents should a new homeowner keep?",
+      "a": "Keep your closing paperwork, deed, mortgage and insurance documents, appliance manuals and warranties, inspection report, and a record of property taxes — ideally backed up digitally as well as on paper."
+    },
+    {
+      "q": "Is this new homeowner checklist printable?",
+      "a": "Yes. Print it or download the PDF and tick off each responsibility as you settle into ownership."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-homeowner-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-homeowner-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Homeowner Checklist by ChecklistForge (https://checklistforge.com/checklist/new-homeowner-checklist)",
+  "updated": "2026-10-17"
+}

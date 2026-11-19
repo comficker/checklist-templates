@@ -1,0 +1,197 @@
+{
+  "id": "make-ready-checklist",
+  "name": "Make Ready Checklist",
+  "description": "A unit turnover checklist for property managers and maintenance techs getting a vacant apartment or rental home ready for the next tenant.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "apartment",
+    "move-out",
+    "maintenance",
+    "property-management",
+    "rental"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Move-Out Inspection",
+      "items": [
+        {
+          "text": "Collect all keys, fobs, remotes and parking passes from the old tenant"
+        },
+        {
+          "text": "Photograph and video every room, wall, floor and appliance",
+          "note": "Turn on time stamps and compare against the move-in photos for the same unit."
+        },
+        {
+          "text": "Compare the unit to the move-in condition report"
+        },
+        {
+          "text": "List damage beyond normal wear and tear for the deposit statement"
+        },
+        {
+          "text": "Write the scope of work and order parts, flooring and appliances"
+        }
+      ]
+    },
+    {
+      "title": "Safety and Systems",
+      "items": [
+        {
+          "text": "Test every smoke alarm and replace batteries or expired units",
+          "note": "Most smoke alarms should be replaced 10 years after the date printed on the back."
+        },
+        {
+          "text": "Test carbon monoxide alarms where there are gas appliances or an attached garage"
+        },
+        {
+          "text": "Replace the HVAC filter and test heating and cooling"
+        },
+        {
+          "text": "Check under sinks, around toilets and at the water heater for leaks"
+        },
+        {
+          "text": "Test GFCI outlets in the kitchen, bathrooms and outdoors",
+          "note": "Press TEST, confirm power cuts off, then press RESET."
+        },
+        {
+          "text": "Rekey or change all exterior door locks",
+          "note": "Rekey mailbox locks too, if you control them."
+        }
+      ]
+    },
+    {
+      "title": "Kitchen and Appliances",
+      "items": [
+        {
+          "text": "Run the oven, cooktop burners and range hood fan"
+        },
+        {
+          "text": "Check the fridge and freezer hold temperature and the seals close tight"
+        },
+        {
+          "text": "Run the dishwasher and garbage disposal through a full cycle"
+        },
+        {
+          "text": "Check cabinet doors, drawers and hinges, and fix any that sag"
+        }
+      ]
+    },
+    {
+      "title": "Bathrooms",
+      "items": [
+        {
+          "text": "Flush each toilet and check it does not run or rock"
+        },
+        {
+          "text": "Check caulk around tubs, showers and sinks, and recaulk if moldy or cracked"
+        },
+        {
+          "text": "Test the exhaust fan and check drains run freely"
+        }
+      ]
+    },
+    {
+      "title": "Paint and Repairs",
+      "items": [
+        {
+          "text": "Patch holes from nails, anchors and wall mounts"
+        },
+        {
+          "text": "Touch up or repaint walls, trim and doors",
+          "note": "In homes built before 1978, use an EPA lead-safe certified firm for paint work that disturbs more than 6 sq ft per room inside."
+        },
+        {
+          "text": "Replace burnt-out bulbs and broken switch or outlet covers"
+        },
+        {
+          "text": "Fix window screens, blinds, door stops and closet doors"
+        },
+        {
+          "text": "Repair or replace damaged flooring and carpet"
+        }
+      ]
+    },
+    {
+      "title": "Deep Clean and Pest Check",
+      "items": [
+        {
+          "text": "Clean inside the oven, fridge, microwave, cabinets and drawers"
+        },
+        {
+          "text": "Scrub tubs, showers, toilets, tile and grout"
+        },
+        {
+          "text": "Wipe baseboards, doors, light fixtures, vents and windowsills"
+        },
+        {
+          "text": "Shampoo or replace carpet and mop hard floors"
+        },
+        {
+          "text": "Look for droppings, roaches, ants and bed bug signs and treat if found",
+          "note": "Check behind the fridge and stove and under the sinks, where pests hide first."
+        }
+      ]
+    },
+    {
+      "title": "Final Walk-Through and Keys",
+      "items": [
+        {
+          "text": "Walk every room with the checklist and confirm all work is done"
+        },
+        {
+          "text": "Test each new key in every lock"
+        },
+        {
+          "text": "Set the thermostat and leave lights in a standard setting"
+        },
+        {
+          "text": "Keep power and water on in the owner's name until the new lease starts"
+        },
+        {
+          "text": "Take final photos to use for the next move-in condition report"
+        }
+      ]
+    },
+    {
+      "title": "Unit and Vendor Sign-Off",
+      "items": [
+        {
+          "text": "Unit: ____  Move-out date: ____  Ready date: ____"
+        },
+        {
+          "text": "Vendors used (paint / clean / carpet / pest): ____"
+        },
+        {
+          "text": "Open items and who owns them: ____"
+        },
+        {
+          "text": "Inspected by: ____  Date: ____  Status: Ready / Not ready ____"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does make ready mean in property management?",
+      "a": "Make ready is the work done on a vacant unit between one tenant moving out and the next moving in. It covers inspection, repairs, paint, cleaning, safety checks and rekeying. A unit is called \"made ready\" when it passes the final walk-through and can be shown or leased."
+    },
+    {
+      "q": "How long should a make ready take?",
+      "a": "A unit in good shape with paint touch-ups and a standard clean often takes 3 to 5 working days. Units that need flooring, appliances or major repairs take longer. Ordering parts and booking vendors on move-out day is the best way to cut the time."
+    },
+    {
+      "q": "Do I have to rekey locks between tenants?",
+      "a": "Some states require it. Texas, for example, requires landlords to rekey within 7 days after a tenant moves out. Even where it is not law, rekeying is standard practice, because you cannot know how many copies of the old key exist."
+    },
+    {
+      "q": "Can I charge the old tenant for make ready costs?",
+      "a": "You can deduct for damage beyond normal wear and tear, plus unpaid rent and other charges your lease and state law allow. Routine paint touch-ups, minor scuffs and carpet wear from normal use usually count as wear and tear. Dated photos from the move-out inspection support your deductions."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/make-ready-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/make-ready-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Make Ready Checklist by ChecklistForge (https://checklistforge.com/checklist/make-ready-checklist)",
+  "updated": "2026-10-18"
+}

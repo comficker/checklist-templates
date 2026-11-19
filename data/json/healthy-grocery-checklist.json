@@ -1,0 +1,180 @@
+{
+  "id": "healthy-grocery-checklist",
+  "name": "Healthy Grocery Checklist",
+  "description": "A whole-foods grocery list of lean proteins, produce, whole grains and healthy fats for nutritious shopping.",
+  "category": "food-kitchen",
+  "category_name": "Food & Kitchen",
+  "tags": [
+    "budget",
+    "groceries",
+    "meal-prep",
+    "family",
+    "healthy-eating",
+    "whole-foods"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Fresh Vegetables",
+      "items": [
+        {
+          "text": "Leafy greens: spinach, kale, romaine, or arugula"
+        },
+        {
+          "text": "Cruciferous veg: broccoli, cauliflower, Brussels sprouts"
+        },
+        {
+          "text": "Colorful peppers, tomatoes, and carrots"
+        },
+        {
+          "text": "Onions, garlic, and fresh herbs"
+        },
+        {
+          "text": "Cucumber, celery, and zucchini for snacking",
+          "note": "Aim for a mix of colors to cover a range of nutrients."
+        },
+        {
+          "text": "Sweet potatoes or squash"
+        }
+      ]
+    },
+    {
+      "title": "Fresh Fruit",
+      "items": [
+        {
+          "text": "Berries: strawberries, blueberries, or raspberries"
+        },
+        {
+          "text": "Apples, pears, or oranges"
+        },
+        {
+          "text": "Bananas for snacks and smoothies"
+        },
+        {
+          "text": "Avocados for healthy fats"
+        },
+        {
+          "text": "Seasonal fruit on sale",
+          "note": "In-season fruit is usually cheaper and at peak flavor."
+        }
+      ]
+    },
+    {
+      "title": "Lean Proteins",
+      "items": [
+        {
+          "text": "Skinless chicken or turkey breast"
+        },
+        {
+          "text": "Eggs"
+        },
+        {
+          "text": "Fish such as salmon, tuna, or white fish"
+        },
+        {
+          "text": "Lean ground turkey or lean ground beef"
+        },
+        {
+          "text": "Tofu, tempeh, or edamame"
+        },
+        {
+          "text": "Dried or low-sodium canned beans and lentils"
+        },
+        {
+          "text": "Plain Greek yogurt or cottage cheese"
+        }
+      ]
+    },
+    {
+      "title": "Whole Grains",
+      "items": [
+        {
+          "text": "Rolled or steel-cut oats"
+        },
+        {
+          "text": "Brown rice or quinoa"
+        },
+        {
+          "text": "Whole-grain or whole-wheat bread"
+        },
+        {
+          "text": "Whole-grain pasta"
+        },
+        {
+          "text": "Whole-grain crackers or wraps",
+          "note": "Look for whole grain listed as the first ingredient."
+        }
+      ]
+    },
+    {
+      "title": "Healthy Fats",
+      "items": [
+        {
+          "text": "Extra-virgin olive oil"
+        },
+        {
+          "text": "Unsalted nuts: almonds, walnuts, or cashews"
+        },
+        {
+          "text": "Natural nut butter with no added sugar"
+        },
+        {
+          "text": "Seeds: chia, flax, or pumpkin"
+        },
+        {
+          "text": "Olives or avocado oil"
+        }
+      ]
+    },
+    {
+      "title": "Smart Pantry and Extras",
+      "items": [
+        {
+          "text": "No-salt-added canned tomatoes and beans"
+        },
+        {
+          "text": "Low-sodium broth or stock"
+        },
+        {
+          "text": "Herbs, spices, and salt-free seasoning blends"
+        },
+        {
+          "text": "Vinegars and mustard for dressings"
+        },
+        {
+          "text": "Plain frozen vegetables and fruit"
+        },
+        {
+          "text": "Unsweetened milk or plant-based alternative"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes a grocery list healthy?",
+      "a": "A healthy list leans on whole, minimally processed foods: plenty of vegetables and fruit, lean proteins, whole grains, and healthy fats, with fewer items high in added sugar, refined grains, and excess sodium."
+    },
+    {
+      "q": "How do I read labels while shopping?",
+      "a": "Check the ingredient list and aim for short, recognizable lists. Compare added sugar, sodium, and fiber between similar products. Shorter ingredient lists usually mean less processing."
+    },
+    {
+      "q": "Is healthy grocery shopping more expensive?",
+      "a": "Not necessarily. Staples like dried beans, frozen vegetables, eggs, oats, and seasonal produce are budget-friendly. Buying in bulk and planning meals around sales keeps costs down."
+    },
+    {
+      "q": "Can I print this healthy grocery checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each whole-food item as it goes in your cart."
+    },
+    {
+      "q": "Are frozen and canned foods healthy?",
+      "a": "Frozen produce is picked ripe and keeps its nutrients well. For canned goods, look for no-added-salt or low-sodium options and rinse canned beans to cut sodium further."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/healthy-grocery-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/healthy-grocery-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Healthy Grocery Checklist by ChecklistForge (https://checklistforge.com/checklist/healthy-grocery-checklist)",
+  "updated": "2026-10-18"
+}

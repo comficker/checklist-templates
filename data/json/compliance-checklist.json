@@ -1,0 +1,182 @@
+{
+  "id": "compliance-checklist",
+  "name": "Compliance Checklist",
+  "description": "A general regulatory and policy compliance checklist for organizations.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "risk",
+    "compliance",
+    "audit",
+    "policy"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Identify applicable requirements",
+      "items": [
+        {
+          "text": "List the laws and regulations that apply to your activities.",
+          "note": "Requirements vary by industry and jurisdiction — confirm what applies to you."
+        },
+        {
+          "text": "Identify required licenses, permits and registrations."
+        },
+        {
+          "text": "Note contractual and customer compliance obligations."
+        },
+        {
+          "text": "Identify the standards your organization must meet."
+        },
+        {
+          "text": "Assign an owner to track each area of requirement."
+        },
+        {
+          "text": "Keep a register of obligations and renewal dates."
+        }
+      ]
+    },
+    {
+      "title": "Policies and procedures",
+      "items": [
+        {
+          "text": "Maintain policies that address each key requirement."
+        },
+        {
+          "text": "Ensure procedures translate policies into day-to-day practice."
+        },
+        {
+          "text": "Keep policies current and approved by the right authority."
+        },
+        {
+          "text": "Make policies accessible to all relevant staff."
+        },
+        {
+          "text": "Define a code of conduct and ethics expectations."
+        },
+        {
+          "text": "Set a process for reporting concerns or violations."
+        }
+      ]
+    },
+    {
+      "title": "Training and awareness",
+      "items": [
+        {
+          "text": "Identify which roles need compliance training."
+        },
+        {
+          "text": "Provide training on relevant laws, policies and procedures."
+        },
+        {
+          "text": "Keep records of who completed training and when."
+        },
+        {
+          "text": "Refresh training when requirements or policies change."
+        },
+        {
+          "text": "Confirm staff understand their compliance responsibilities."
+        },
+        {
+          "text": "Communicate updates and reminders regularly."
+        }
+      ]
+    },
+    {
+      "title": "Records and documentation",
+      "items": [
+        {
+          "text": "Define which records must be created and retained."
+        },
+        {
+          "text": "Store records securely and protect sensitive data."
+        },
+        {
+          "text": "Apply retention and disposal schedules consistently."
+        },
+        {
+          "text": "Keep evidence that requirements are being met."
+        },
+        {
+          "text": "Maintain licenses, certificates and inspection records."
+        },
+        {
+          "text": "Ensure records are available and retrievable for audit."
+        }
+      ]
+    },
+    {
+      "title": "Monitoring and assessment",
+      "items": [
+        {
+          "text": "Schedule regular compliance reviews and internal audits."
+        },
+        {
+          "text": "Monitor for changes in laws, regulations and standards."
+        },
+        {
+          "text": "Assess controls for gaps and weaknesses."
+        },
+        {
+          "text": "Track key compliance indicators and incidents."
+        },
+        {
+          "text": "Document review results and identified gaps."
+        },
+        {
+          "text": "Escalate significant risks to management."
+        }
+      ]
+    },
+    {
+      "title": "Corrective action and improvement",
+      "items": [
+        {
+          "text": "Log compliance gaps and violations as they are found."
+        },
+        {
+          "text": "Investigate the root cause of each issue."
+        },
+        {
+          "text": "Assign corrective actions with owners and due dates."
+        },
+        {
+          "text": "Verify corrective actions are effective."
+        },
+        {
+          "text": "Report compliance status to management."
+        },
+        {
+          "text": "Update policies and controls to prevent recurrence."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a compliance checklist?",
+      "a": "It is a structured tool for confirming an organization meets the laws, regulations, standards and internal policies that apply to it, covering applicable requirements, policies, records, training, monitoring and corrective action."
+    },
+    {
+      "q": "What does 'applicable requirements' mean?",
+      "a": "It means the specific laws, regulations, standards, licenses and contractual obligations that apply to your organization based on its industry, location and activities. Identifying them accurately is the foundation of compliance."
+    },
+    {
+      "q": "Is this an HR compliance checklist?",
+      "a": "No. This is a general regulatory and policy compliance checklist that applies across an organization. HR compliance is one specialized area; this checklist covers the broader compliance process rather than employment-specific rules."
+    },
+    {
+      "q": "How often should compliance be reviewed?",
+      "a": "Review compliance on a regular schedule, at least annually, and whenever regulations change or the business adds new activities, locations or products. Continuous monitoring catches issues between formal reviews."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the compliance checklist for a review, or download the PDF so you can record status, gaps and actions with owners and dates and keep records on file as evidence of due diligence."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/compliance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/compliance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Compliance Checklist by ChecklistForge (https://checklistforge.com/checklist/compliance-checklist)",
+  "updated": "2026-10-18"
+}

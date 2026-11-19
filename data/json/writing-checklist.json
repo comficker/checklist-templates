@@ -1,0 +1,154 @@
+{
+  "id": "writing-checklist",
+  "name": "Writing Checklist",
+  "description": "A writing checklist that walks the writing process from planning to final proofread.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "college",
+    "study",
+    "essay",
+    "writing"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Plan and outline",
+      "items": [
+        {
+          "text": "Reread the prompt and note the exact requirements."
+        },
+        {
+          "text": "Confirm the length, format and citation style needed."
+        },
+        {
+          "text": "Brainstorm ideas and gather your sources or evidence."
+        },
+        {
+          "text": "Write a clear thesis or main argument in one sentence."
+        },
+        {
+          "text": "Outline your main points and the order to make them."
+        },
+        {
+          "text": "Note the evidence or examples supporting each point."
+        }
+      ]
+    },
+    {
+      "title": "Write the first draft",
+      "items": [
+        {
+          "text": "Follow your outline and write without stopping to perfect it.",
+          "note": "Get ideas down first; polish comes later."
+        },
+        {
+          "text": "Open with an introduction that states your thesis."
+        },
+        {
+          "text": "Give each paragraph one clear main idea."
+        },
+        {
+          "text": "Support each point with evidence and your own analysis."
+        },
+        {
+          "text": "Write a conclusion that ties the argument together."
+        },
+        {
+          "text": "Leave placeholders for anything you need to look up."
+        }
+      ]
+    },
+    {
+      "title": "Revise the content",
+      "items": [
+        {
+          "text": "Check the draft actually answers the prompt."
+        },
+        {
+          "text": "Confirm every paragraph supports your thesis."
+        },
+        {
+          "text": "Reorder paragraphs so the argument flows logically."
+        },
+        {
+          "text": "Add evidence where claims are thin and cut what is off-topic."
+        },
+        {
+          "text": "Strengthen transitions between paragraphs and ideas."
+        }
+      ]
+    },
+    {
+      "title": "Edit for clarity",
+      "items": [
+        {
+          "text": "Tighten wordy sentences and remove repetition."
+        },
+        {
+          "text": "Replace vague words with precise ones."
+        },
+        {
+          "text": "Vary sentence length so the writing reads smoothly."
+        },
+        {
+          "text": "Check the tone matches the assignment."
+        },
+        {
+          "text": "Make sure each sentence is clear on a first read."
+        }
+      ]
+    },
+    {
+      "title": "Proofread and submit",
+      "items": [
+        {
+          "text": "Take a break, then read the whole thing aloud."
+        },
+        {
+          "text": "Fix spelling, grammar and punctuation errors."
+        },
+        {
+          "text": "Check citations and the reference list are complete and correct."
+        },
+        {
+          "text": "Confirm formatting, font, spacing and the title page."
+        },
+        {
+          "text": "Verify your name, the word count and the file name."
+        },
+        {
+          "text": "Submit on time and confirm the upload went through."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the stages of the writing process?",
+      "a": "The writing process has five stages: planning your argument and outline, drafting without over-editing, revising the structure and content, editing sentences and word choice, and proofreading for spelling, grammar and formatting before you submit."
+    },
+    {
+      "q": "What is the difference between revising and editing?",
+      "a": "Revising works on big-picture issues like argument, structure, evidence and clarity of ideas. Editing then fixes sentence-level problems such as wording, flow and concision. Revise first, because there is no point polishing sentences you may cut."
+    },
+    {
+      "q": "How do I start writing an essay?",
+      "a": "Start by understanding the prompt, then build a clear thesis and an outline of your main points with supporting evidence. Planning before you draft gives the essay direction and saves you from rewriting later."
+    },
+    {
+      "q": "How can I proofread my own work effectively?",
+      "a": "Take a break before proofreading, read the text aloud or backward sentence by sentence, check one issue at a time, and verify formatting and citations. A fresh pair of eyes or a read-aloud tool catches errors you skim past."
+    },
+    {
+      "q": "Can I download this writing checklist as a PDF?",
+      "a": "Yes. You can print it to keep beside your laptop or download it as a PDF to your phone and follow the same process for every assignment."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/writing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/writing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Writing Checklist by ChecklistForge (https://checklistforge.com/checklist/writing-checklist)",
+  "updated": "2026-10-17"
+}

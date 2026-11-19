@@ -1,0 +1,172 @@
+{
+  "id": "meal-prep-checklist",
+  "name": "Meal Prep Checklist",
+  "description": "A step-by-step batch-cooking checklist covering planning, shopping, prepping, cooking, portioning and storage.",
+  "category": "food-kitchen",
+  "category_name": "Food & Kitchen",
+  "tags": [
+    "budget",
+    "groceries",
+    "meal-prep",
+    "family",
+    "batch-cooking"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Step 1: Plan Your Meals",
+      "items": [
+        {
+          "text": "Choose how many meals and days you're prepping for"
+        },
+        {
+          "text": "Pick three to five recipes that share ingredients",
+          "note": "Overlapping ingredients cut waste and lower your grocery bill."
+        },
+        {
+          "text": "Balance each meal with a protein, a grain, and vegetables"
+        },
+        {
+          "text": "Check your calendar for nights you'll be out"
+        },
+        {
+          "text": "Note any leftovers or pantry items to use up first"
+        }
+      ]
+    },
+    {
+      "title": "Step 2: Make Your Shopping List",
+      "items": [
+        {
+          "text": "List every ingredient from your chosen recipes"
+        },
+        {
+          "text": "Check the fridge, freezer, and pantry before adding items"
+        },
+        {
+          "text": "Group the list by aisle or category"
+        },
+        {
+          "text": "Add staples like oil, spices, and storage bags if low"
+        },
+        {
+          "text": "Set a budget and note any swaps for sale items"
+        }
+      ]
+    },
+    {
+      "title": "Step 3: Shop and Set Up",
+      "items": [
+        {
+          "text": "Shop the full list in one efficient trip"
+        },
+        {
+          "text": "Wash produce and put cold items away promptly"
+        },
+        {
+          "text": "Clear and wipe down your counters and work surface"
+        },
+        {
+          "text": "Gather knives, cutting boards, bowls, and pans"
+        },
+        {
+          "text": "Pull out all containers and lids you'll need"
+        }
+      ]
+    },
+    {
+      "title": "Step 4: Prep Ingredients",
+      "items": [
+        {
+          "text": "Wash and chop all vegetables at once"
+        },
+        {
+          "text": "Trim, portion, and season proteins"
+        },
+        {
+          "text": "Measure out grains, sauces, and dressings"
+        },
+        {
+          "text": "Marinate proteins that need time to soak",
+          "note": "Group similar cutting tasks to save time and dishes."
+        },
+        {
+          "text": "Set aside ingredients for fresh items you'll add later"
+        }
+      ]
+    },
+    {
+      "title": "Step 5: Cook in Batches",
+      "items": [
+        {
+          "text": "Start the longest-cooking items first, like grains and roasts"
+        },
+        {
+          "text": "Roast trays of vegetables while proteins cook"
+        },
+        {
+          "text": "Use the oven, stovetop, and slow cooker at the same time"
+        },
+        {
+          "text": "Cook sauces and dressings to combine later"
+        },
+        {
+          "text": "Taste and season everything before it cools"
+        }
+      ]
+    },
+    {
+      "title": "Step 6: Portion, Label and Store",
+      "items": [
+        {
+          "text": "Let cooked food cool before sealing containers"
+        },
+        {
+          "text": "Divide meals into single-serving portions"
+        },
+        {
+          "text": "Keep dressings and crunchy toppings separate until serving"
+        },
+        {
+          "text": "Label each container with the meal and date"
+        },
+        {
+          "text": "Refrigerate meals for the next three to four days"
+        },
+        {
+          "text": "Freeze the rest in clearly dated containers"
+        },
+        {
+          "text": "Wash dishes and reset the kitchen for the week"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I start meal prepping?",
+      "a": "Pick one prep day, plan three to five repeatable meals, shop for exactly those ingredients, then do all your chopping and cooking in one session. Start small with a few lunches before scaling up to the whole week."
+    },
+    {
+      "q": "How long does meal prep take?",
+      "a": "A focused weekly prep session usually takes two to three hours, including cooking and cleanup. Doing all your chopping at once and cooking in batches keeps that time down as you get into a rhythm."
+    },
+    {
+      "q": "How long does meal-prepped food last?",
+      "a": "Most cooked meals keep three to four days refrigerated in airtight containers. Cook extra and freeze portions for later in the week to avoid spoilage and waste."
+    },
+    {
+      "q": "Can I print this meal prep checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each stage from planning through storage."
+    },
+    {
+      "q": "What containers are best for meal prep?",
+      "a": "Use airtight, stackable containers in consistent sizes. Glass containers reheat well and resist stains, while compartment containers keep components separate until you're ready to eat."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/meal-prep-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/meal-prep-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Meal Prep Checklist by ChecklistForge (https://checklistforge.com/checklist/meal-prep-checklist)",
+  "updated": "2026-10-18"
+}

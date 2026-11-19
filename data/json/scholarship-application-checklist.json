@@ -1,0 +1,183 @@
+{
+  "id": "scholarship-application-checklist",
+  "name": "Scholarship Application Checklist",
+  "description": "A step-by-step checklist for finding and applying for scholarships.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "students",
+    "college",
+    "financial-aid",
+    "scholarship"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Search and shortlist",
+      "items": [
+        {
+          "text": "Start with your school's financial aid office and lists."
+        },
+        {
+          "text": "Search reputable scholarship databases."
+        },
+        {
+          "text": "Look for local, community and employer scholarships.",
+          "note": "Local awards often have fewer applicants and better odds."
+        },
+        {
+          "text": "Check awards from colleges you're applying to."
+        },
+        {
+          "text": "Note eligibility, award amount and deadline for each."
+        },
+        {
+          "text": "Build a tracking list ranked by deadline and fit."
+        }
+      ]
+    },
+    {
+      "title": "Check eligibility",
+      "items": [
+        {
+          "text": "Read each scholarship's requirements carefully."
+        },
+        {
+          "text": "Confirm you meet GPA, major or background criteria."
+        },
+        {
+          "text": "Verify residency, age or enrollment requirements."
+        },
+        {
+          "text": "Avoid any scholarship that charges a fee.",
+          "note": "Legitimate scholarships never require a payment to apply."
+        },
+        {
+          "text": "Skip awards you clearly don't qualify for."
+        },
+        {
+          "text": "Prioritize the best-fit, highest-value options."
+        }
+      ]
+    },
+    {
+      "title": "Gather documents",
+      "items": [
+        {
+          "text": "Collect official transcripts and proof of enrollment."
+        },
+        {
+          "text": "Update your resume of activities and achievements."
+        },
+        {
+          "text": "Gather proof of income or aid forms if required."
+        },
+        {
+          "text": "Compile test scores or certificates as needed."
+        },
+        {
+          "text": "Prepare proof of eligibility for specific awards."
+        },
+        {
+          "text": "Keep digital copies organized in one folder."
+        }
+      ]
+    },
+    {
+      "title": "Write essays",
+      "items": [
+        {
+          "text": "Read each essay prompt and word limit closely."
+        },
+        {
+          "text": "Draft a strong core essay you can adapt."
+        },
+        {
+          "text": "Tailor each essay to the prompt and the award's mission."
+        },
+        {
+          "text": "Tell a specific, personal story with real examples."
+        },
+        {
+          "text": "Revise for clarity, tone and length."
+        },
+        {
+          "text": "Proofread and have someone review each essay."
+        }
+      ]
+    },
+    {
+      "title": "Recommendations",
+      "items": [
+        {
+          "text": "Choose recommenders who know your work well."
+        },
+        {
+          "text": "Ask each one at least three weeks before deadlines."
+        },
+        {
+          "text": "Share your resume, goals and the award details."
+        },
+        {
+          "text": "Give clear submission instructions and deadlines."
+        },
+        {
+          "text": "Send a polite reminder before each due date."
+        },
+        {
+          "text": "Thank every recommender after they submit."
+        }
+      ]
+    },
+    {
+      "title": "Submit and track",
+      "items": [
+        {
+          "text": "Complete every field of each application."
+        },
+        {
+          "text": "Attach all required documents and essays."
+        },
+        {
+          "text": "Proofread the full application before submitting."
+        },
+        {
+          "text": "Submit well before each deadline."
+        },
+        {
+          "text": "Save confirmations and note next steps."
+        },
+        {
+          "text": "Follow up on results and report any awards you win."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many scholarships should I apply for?",
+      "a": "Apply for as many as you reasonably qualify for, including smaller and local awards that fewer students enter. Building a pipeline of many applications gives you the best odds of winning meaningful funding."
+    },
+    {
+      "q": "Where can I find scholarships?",
+      "a": "Look at your school's financial aid office, reputable scholarship databases, local community groups, employers, professional associations and the colleges themselves. Local and niche awards often have less competition than national ones."
+    },
+    {
+      "q": "How do I write a strong scholarship essay?",
+      "a": "Answer the prompt directly, tell a specific personal story, and connect it to your goals and the scholarship's mission. Reuse a strong core essay across applications, but tailor it to each prompt."
+    },
+    {
+      "q": "Are scholarships ever scams?",
+      "a": "Legitimate scholarships never charge an application fee or require sensitive financial details to apply. Be cautious of any award that guarantees you'll win or asks for payment, and verify the organization first."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each task for every scholarship you apply to."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/scholarship-application-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/scholarship-application-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Scholarship Application Checklist by ChecklistForge (https://checklistforge.com/checklist/scholarship-application-checklist)",
+  "updated": "2026-10-17"
+}

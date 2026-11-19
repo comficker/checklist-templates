@@ -1,0 +1,182 @@
+{
+  "id": "postpartum-checklist",
+  "name": "Postpartum Checklist",
+  "description": "A postpartum checklist to guide recovery and care for you and your baby after birth.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "health",
+    "newborn",
+    "pregnancy",
+    "postpartum"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Physical recovery",
+      "items": [
+        {
+          "text": "Rest whenever the baby sleeps and limit visitors early on."
+        },
+        {
+          "text": "Follow your provider's instructions for any stitches or incision care."
+        },
+        {
+          "text": "Use provider-approved comfort measures for soreness and swelling."
+        },
+        {
+          "text": "Keep up with pads and track bleeding as it gradually decreases."
+        },
+        {
+          "text": "Stay hydrated and eat regular, nourishing meals."
+        },
+        {
+          "text": "Ease back into movement only when your provider says it is safe."
+        }
+      ]
+    },
+    {
+      "title": "Rest and self-care",
+      "items": [
+        {
+          "text": "Sleep when you can, even short naps during the day."
+        },
+        {
+          "text": "Accept help with cooking, cleaning and errands."
+        },
+        {
+          "text": "Keep snacks and water within reach during feedings."
+        },
+        {
+          "text": "Shower and dress in comfortable clothes when you are able."
+        },
+        {
+          "text": "Set realistic expectations and lower the bar on chores."
+        },
+        {
+          "text": "Take short breaks outdoors or by an open window when possible."
+        }
+      ]
+    },
+    {
+      "title": "Mental and mood health",
+      "items": [
+        {
+          "text": "Talk openly with your partner or a trusted person about how you feel."
+        },
+        {
+          "text": "Know that baby blues are common in the first one to two weeks."
+        },
+        {
+          "text": "Watch for lasting sadness, anxiety, anger or feeling disconnected."
+        },
+        {
+          "text": "Tell your provider promptly if low mood persists or worsens.",
+          "note": "Postpartum depression and anxiety are common and treatable; you are not alone."
+        },
+        {
+          "text": "Connect with a new-parent group or supportive friends."
+        },
+        {
+          "text": "If you have thoughts of harming yourself or your baby, get help immediately: call your provider, a crisis line, or emergency services right away."
+        }
+      ]
+    },
+    {
+      "title": "Newborn basics",
+      "items": [
+        {
+          "text": "Feed on cue and watch for steady wet and dirty diapers."
+        },
+        {
+          "text": "Always place the baby on their back to sleep, alone, in a bare crib."
+        },
+        {
+          "text": "Keep up with newborn checkups and weight checks."
+        },
+        {
+          "text": "Care for the umbilical cord stump and keep it clean and dry."
+        },
+        {
+          "text": "Learn safe holding, swaddling and soothing techniques."
+        },
+        {
+          "text": "Call your pediatrician with any feeding, breathing or health concerns."
+        }
+      ]
+    },
+    {
+      "title": "Support and logistics",
+      "items": [
+        {
+          "text": "Make a simple schedule so helpers know how to pitch in."
+        },
+        {
+          "text": "Stock easy meals, snacks and household basics."
+        },
+        {
+          "text": "Keep important phone numbers and your provider's line handy."
+        },
+        {
+          "text": "Arrange shared night duties or feedings with your partner if possible."
+        },
+        {
+          "text": "Ask about lactation support if you are breastfeeding."
+        },
+        {
+          "text": "Schedule and attend your postpartum checkup."
+        }
+      ]
+    },
+    {
+      "title": "Warning signs to call the doctor",
+      "items": [
+        {
+          "text": "Heavy bleeding that soaks a pad an hour or passing large clots."
+        },
+        {
+          "text": "Fever, chills or foul-smelling discharge that may signal infection."
+        },
+        {
+          "text": "Severe headache, vision changes or very high blood pressure."
+        },
+        {
+          "text": "Chest pain, trouble breathing, or a red, hot, swollen leg."
+        },
+        {
+          "text": "Severe pain, a reopening incision, or pain that is getting worse."
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Always follow your OB-GYN, midwife or pediatrician. For any emergency symptoms, or thoughts of self-harm, call emergency services or a crisis line right away."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does postpartum recovery take?",
+      "a": "Recovery varies. Many people feel notably better by about 6 weeks, but full healing can take longer, especially after a cesarean or a difficult birth. Rest as much as you can and follow your provider's guidance."
+    },
+    {
+      "q": "When is my postpartum checkup?",
+      "a": "Many providers schedule a visit around 6 weeks, and some check in sooner. Ongoing care matters, so keep any earlier appointments and reach out between visits if something feels off."
+    },
+    {
+      "q": "What postpartum symptoms need a doctor right away?",
+      "a": "Seek urgent care for heavy bleeding soaking a pad an hour, fever, severe pain, trouble breathing, chest pain, a hot or swollen leg, or signs of infection. When in doubt, call your provider or emergency services."
+    },
+    {
+      "q": "Is it normal to feel emotional after birth?",
+      "a": "Brief baby blues are common in the first couple of weeks. If sadness, anxiety or hopelessness lasts longer or feels intense, talk to your provider, as it may be postpartum depression or anxiety, which are treatable."
+    },
+    {
+      "q": "Can I download this postpartum checklist as a PDF?",
+      "a": "Yes. You can print it for your bedside or download it as a PDF to share with your partner, so first-time moms and their support team stay on the same page."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/postpartum-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/postpartum-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Postpartum Checklist by ChecklistForge (https://checklistforge.com/checklist/postpartum-checklist)",
+  "updated": "2026-10-17"
+}

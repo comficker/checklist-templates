@@ -1,0 +1,183 @@
+{
+  "id": "college-graduation-checklist",
+  "name": "College Graduation Checklist",
+  "description": "A checklist for graduating college, from confirming credits to launching your career.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "career",
+    "grads",
+    "college",
+    "graduation"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Confirm requirements",
+      "items": [
+        {
+          "text": "Meet with your advisor to review your degree audit.",
+          "note": "Do this early so any missing course can still be added."
+        },
+        {
+          "text": "Confirm all required credits and courses are complete."
+        },
+        {
+          "text": "Verify your major, minor and elective requirements."
+        },
+        {
+          "text": "Check that your GPA meets graduation standards."
+        },
+        {
+          "text": "Resolve any incomplete grades or pending courses."
+        },
+        {
+          "text": "Confirm any thesis, capstone or internship is finished."
+        }
+      ]
+    },
+    {
+      "title": "Apply to graduate",
+      "items": [
+        {
+          "text": "File the application or petition to graduate."
+        },
+        {
+          "text": "Meet the application deadline for your term."
+        },
+        {
+          "text": "Confirm your name spelling for the diploma."
+        },
+        {
+          "text": "Verify your degree, major and honors will be listed correctly."
+        },
+        {
+          "text": "Update your mailing address for the diploma."
+        },
+        {
+          "text": "Track the status of your graduation application."
+        }
+      ]
+    },
+    {
+      "title": "Clear accounts and holds",
+      "items": [
+        {
+          "text": "Pay any outstanding tuition, fees or fines."
+        },
+        {
+          "text": "Return library books and borrowed equipment."
+        },
+        {
+          "text": "Resolve any registration or financial holds."
+        },
+        {
+          "text": "Complete student loan exit counseling if required.",
+          "note": "Exit counseling is often mandatory before your loans enter repayment."
+        },
+        {
+          "text": "Move out of campus housing if applicable."
+        },
+        {
+          "text": "Confirm you have full graduation clearance."
+        }
+      ]
+    },
+    {
+      "title": "Ceremony preparation",
+      "items": [
+        {
+          "text": "Order your cap, gown, hood and any honor cords."
+        },
+        {
+          "text": "Confirm the ceremony date, time and venue."
+        },
+        {
+          "text": "Find out your guest ticket allotment."
+        },
+        {
+          "text": "Arrange travel and lodging for your guests."
+        },
+        {
+          "text": "Attend any rehearsal or check-in session."
+        },
+        {
+          "text": "Plan photos and a meeting spot for family."
+        }
+      ]
+    },
+    {
+      "title": "Career transition",
+      "items": [
+        {
+          "text": "Update your resume and online professional profile."
+        },
+        {
+          "text": "Visit career services for reviews and job leads."
+        },
+        {
+          "text": "Apply to jobs or graduate programs early."
+        },
+        {
+          "text": "Line up references and request recommendation letters."
+        },
+        {
+          "text": "Network with professors, alumni and mentors."
+        },
+        {
+          "text": "Prepare for interviews and practice your pitch."
+        }
+      ]
+    },
+    {
+      "title": "After graduation",
+      "items": [
+        {
+          "text": "Request official transcripts for employers or grad school."
+        },
+        {
+          "text": "Confirm when your diploma will arrive."
+        },
+        {
+          "text": "Switch your student email to a personal address."
+        },
+        {
+          "text": "Plan for student loan repayment timelines."
+        },
+        {
+          "text": "Join the alumni network to stay connected."
+        },
+        {
+          "text": "Set goals for your first months after college."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I have to apply to graduate from college?",
+      "a": "Usually yes. Most schools require you to file a formal application or petition to graduate by a set deadline, even if you've finished your credits. Confirm the deadline early in your final year."
+    },
+    {
+      "q": "What is graduation clearance?",
+      "a": "Clearance is the school's final check that you've met all requirements, returned property and cleared any holds or balances. Outstanding fees, library items or paperwork can block your diploma until resolved."
+    },
+    {
+      "q": "When should I start my job search before graduating?",
+      "a": "Begin polishing your resume, networking and applying months before graduation, not after. Use career services, attend fairs and line up references early so you have momentum when you finish."
+    },
+    {
+      "q": "How do I get my final transcript and diploma?",
+      "a": "Confirm your mailing address, request official transcripts for employers or grad school, and check the timeline for receiving your diploma. Final grades must post before the school certifies your degree."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each task as you complete your final year and graduate."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/college-graduation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/college-graduation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "College Graduation Checklist by ChecklistForge (https://checklistforge.com/checklist/college-graduation-checklist)",
+  "updated": "2026-10-17"
+}

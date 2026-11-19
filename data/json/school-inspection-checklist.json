@@ -1,0 +1,160 @@
+{
+  "id": "school-inspection-checklist",
+  "name": "School Inspection Checklist",
+  "description": "A facility inspection checklist covering safety, maintenance, compliance and grounds.",
+  "category": "school-operations",
+  "category_name": "School Operations",
+  "tags": [
+    "compliance",
+    "maintenance",
+    "facilities",
+    "staff",
+    "school-inspection"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Safety systems",
+      "items": [
+        {
+          "text": "Test fire alarms and smoke detectors."
+        },
+        {
+          "text": "Inspect extinguishers for charge, tags and access."
+        },
+        {
+          "text": "Check sprinkler and suppression systems."
+        },
+        {
+          "text": "Confirm emergency lighting and exit signs work."
+        },
+        {
+          "text": "Verify exits and fire doors open and latch.",
+          "note": "Confirm no exits are blocked or chained."
+        },
+        {
+          "text": "Check first-aid kits and AED units are stocked."
+        }
+      ]
+    },
+    {
+      "title": "Building maintenance",
+      "items": [
+        {
+          "text": "Inspect the roof, gutters and ceilings for leaks."
+        },
+        {
+          "text": "Check HVAC operation and replace filters."
+        },
+        {
+          "text": "Test plumbing for leaks and water pressure."
+        },
+        {
+          "text": "Inspect electrical panels, outlets and wiring."
+        },
+        {
+          "text": "Check doors, windows and locks for function."
+        },
+        {
+          "text": "Examine floors, stairs and railings for damage."
+        }
+      ]
+    },
+    {
+      "title": "Compliance and documentation",
+      "items": [
+        {
+          "text": "Confirm permits and certificates are current."
+        },
+        {
+          "text": "Review inspection records and prior findings."
+        },
+        {
+          "text": "Check accessibility features meet requirements."
+        },
+        {
+          "text": "Verify safety data sheets are accessible."
+        },
+        {
+          "text": "Confirm occupancy limits and signage are posted."
+        },
+        {
+          "text": "Log all findings with date and assigned owner."
+        }
+      ]
+    },
+    {
+      "title": "Sanitation",
+      "items": [
+        {
+          "text": "Inspect restrooms for cleanliness and supplies."
+        },
+        {
+          "text": "Check kitchen and cafeteria food-safety conditions."
+        },
+        {
+          "text": "Confirm trash and waste are managed properly."
+        },
+        {
+          "text": "Look for signs of pests or infestation."
+        },
+        {
+          "text": "Verify cleaning chemicals are stored safely."
+        },
+        {
+          "text": "Check ventilation and air quality in key areas."
+        }
+      ]
+    },
+    {
+      "title": "Grounds and exterior",
+      "items": [
+        {
+          "text": "Inspect playground equipment for damage and wear."
+        },
+        {
+          "text": "Check walkways and parking for trip hazards."
+        },
+        {
+          "text": "Confirm exterior lighting works after dark."
+        },
+        {
+          "text": "Examine fencing, gates and perimeter security."
+        },
+        {
+          "text": "Clear drainage and check for standing water."
+        },
+        {
+          "text": "Verify signage and markings are visible."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should a school be inspected?",
+      "a": "Run routine internal inspections on a set schedule, often monthly for general walkthroughs and more frequently for safety systems. Formal compliance inspections follow local regulations. Regular self-checks help you pass official inspections and avoid surprise failures."
+    },
+    {
+      "q": "What should a facility inspection cover?",
+      "a": "A thorough inspection covers safety systems like alarms and extinguishers, building maintenance such as roofs, plumbing and HVAC, regulatory compliance and permits, sanitation, and the outdoor grounds. Documenting each area creates a record for planning and accountability."
+    },
+    {
+      "q": "Why is documentation important during inspections?",
+      "a": "Written records show conditions over time, prove due diligence, support budgeting for repairs, and are often required for compliance. Logging each finding with a date and owner ensures issues get assigned and resolved rather than forgotten after the walkthrough."
+    },
+    {
+      "q": "Who should perform school inspections?",
+      "a": "Internal inspections are usually led by facilities managers or a designated staff member, sometimes with a committee. Specialized systems, such as fire suppression, elevators, or boilers, require certified professionals on a regulated schedule."
+    },
+    {
+      "q": "Is this school inspection checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF for facilities staff to carry on walkthroughs, then tick off each item and record any repairs or compliance items that need follow-up."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/school-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/school-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "School Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/school-inspection-checklist)",
+  "updated": "2026-10-20"
+}

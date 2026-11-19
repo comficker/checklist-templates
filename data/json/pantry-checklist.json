@@ -1,0 +1,167 @@
+{
+  "id": "pantry-checklist",
+  "name": "Pantry Checklist",
+  "description": "A complete plan to clean, organize, and restock your pantry from staples to containers.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "organization",
+    "kitchen",
+    "storage",
+    "pantry"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Empty and Clean",
+      "items": [
+        {
+          "text": "Remove everything from the shelves onto the counter"
+        },
+        {
+          "text": "Wipe down shelves, walls, and the floor"
+        },
+        {
+          "text": "Check every item's date and toss anything expired",
+          "note": "Be honest about half-used jars and stale snacks."
+        },
+        {
+          "text": "Set aside good food you will not use to donate"
+        },
+        {
+          "text": "Vacuum corners to remove crumbs and deter pests"
+        }
+      ]
+    },
+    {
+      "title": "Create Pantry Zones",
+      "items": [
+        {
+          "text": "Group baking supplies like flour, sugar, and leaveners together"
+        },
+        {
+          "text": "Cluster grains and pasta in one accessible zone"
+        },
+        {
+          "text": "Gather canned goods by type: beans, tomatoes, and soups"
+        },
+        {
+          "text": "Set up a snack zone within easy reach for the family"
+        },
+        {
+          "text": "Reserve a spot for oils, vinegars, and condiments",
+          "note": "Keep daily-use items at eye level."
+        }
+      ]
+    },
+    {
+      "title": "Add Containers and Labels",
+      "items": [
+        {
+          "text": "Decant dry staples into clear, airtight containers"
+        },
+        {
+          "text": "Label each container with its contents and a use-by date"
+        },
+        {
+          "text": "Add tiered shelves or risers so back rows stay visible"
+        },
+        {
+          "text": "Use bins to corral small packets and loose items"
+        },
+        {
+          "text": "Install a turntable for oils, sauces, and spices",
+          "note": "A lazy Susan ends the digging in deep corners."
+        }
+      ]
+    },
+    {
+      "title": "Take Inventory",
+      "items": [
+        {
+          "text": "List what you have in each zone as you put it away"
+        },
+        {
+          "text": "Note quantities so you can spot duplicates and gaps"
+        },
+        {
+          "text": "Flag low staples that need restocking soon"
+        },
+        {
+          "text": "Keep a running shopping list inside the pantry door"
+        },
+        {
+          "text": "Snap a quick photo of full shelves for reference"
+        }
+      ]
+    },
+    {
+      "title": "Restock Core Staples",
+      "items": [
+        {
+          "text": "Stock grains: rice, pasta, oats, and quinoa"
+        },
+        {
+          "text": "Restock canned beans, tomatoes, and broth"
+        },
+        {
+          "text": "Refill baking basics: flour, sugar, and baking soda"
+        },
+        {
+          "text": "Replenish oils, vinegars, and frequently used condiments"
+        },
+        {
+          "text": "Top up essential spices, salt, and pepper",
+          "note": "Buy backups of the staples you use most."
+        }
+      ]
+    },
+    {
+      "title": "Maintain Freshness",
+      "items": [
+        {
+          "text": "Practice first-in, first-out by rotating older items forward"
+        },
+        {
+          "text": "Do a quick monthly pass to catch nearing expirations"
+        },
+        {
+          "text": "Wipe spills immediately to keep shelves clean"
+        },
+        {
+          "text": "Update your inventory list whenever stock runs low"
+        },
+        {
+          "text": "Restock the shopping list before the weekly grocery run"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How should I organize my pantry?",
+      "a": "Empty and clean the shelves first, then group foods into zones like baking, snacks, grains, and canned goods. Storing like items together makes everything easy to find and restock."
+    },
+    {
+      "q": "What pantry staples should I always keep stocked?",
+      "a": "Keep rice, pasta, flour, sugar, canned beans and tomatoes, cooking oil, broth, and basic spices on hand. These staples form the base of countless quick meals when plans change."
+    },
+    {
+      "q": "Are clear containers worth it for a pantry?",
+      "a": "Yes. Clear, airtight containers keep dry goods fresh, save space by stacking, and let you see at a glance when something runs low so your inventory stays accurate."
+    },
+    {
+      "q": "How do I keep my pantry organized over time?",
+      "a": "Practice first-in, first-out by moving older items forward, return things to their zone, and do a quick monthly check. A running inventory list prevents both waste and overbuying."
+    },
+    {
+      "q": "Can I print this pantry checklist?",
+      "a": "Yes. Download the printable PDF, tape it inside the pantry door, and check off tasks as you organize and restock so nothing gets missed."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pantry-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pantry-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pantry Checklist by ChecklistForge (https://checklistforge.com/checklist/pantry-checklist)",
+  "updated": "2026-10-17"
+}

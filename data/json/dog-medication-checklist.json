@@ -1,0 +1,176 @@
+{
+  "id": "dog-medication-checklist",
+  "name": "Dog Medication Checklist",
+  "description": "A checklist to help dog owners give pills, liquids, and topical medicines safely and track every dose with their vet's guidance.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "medication",
+    "pets",
+    "care",
+    "dogs"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Before You Start",
+      "items": [
+        {
+          "text": "Confirm the medicine, dose, and timing from your vet"
+        },
+        {
+          "text": "Check whether to give with or without food"
+        },
+        {
+          "text": "Read the label for special handling notes"
+        },
+        {
+          "text": "Gather treats, water, and any tools you need"
+        },
+        {
+          "text": "Choose a calm spot and stay relaxed",
+          "note": "Follow your vet's instructions exactly; never change a dose yourself"
+        }
+      ]
+    },
+    {
+      "title": "Giving Pills & Capsules",
+      "items": [
+        {
+          "text": "Try hiding the pill in a treat or pill pocket"
+        },
+        {
+          "text": "If needed, gently place it at the back of the tongue"
+        },
+        {
+          "text": "Close the mouth and encourage a swallow"
+        },
+        {
+          "text": "Offer water or a treat to help it go down"
+        },
+        {
+          "text": "Confirm the pill was swallowed, not spit out",
+          "note": "Do not crush or split pills unless your vet says it is safe"
+        }
+      ]
+    },
+    {
+      "title": "Giving Liquid Medicine",
+      "items": [
+        {
+          "text": "Shake or measure the liquid exactly as directed"
+        },
+        {
+          "text": "Use the supplied syringe or dropper for accuracy"
+        },
+        {
+          "text": "Aim into the cheek pouch, not the back of the throat"
+        },
+        {
+          "text": "Give slowly so your dog can swallow"
+        },
+        {
+          "text": "Wipe the mouth and praise your dog afterward"
+        }
+      ]
+    },
+    {
+      "title": "Applying Topicals & Ear/Eye Meds",
+      "items": [
+        {
+          "text": "Wash your hands before and after applying"
+        },
+        {
+          "text": "Part the fur and apply to skin if directed"
+        },
+        {
+          "text": "Use the exact amount on the label"
+        },
+        {
+          "text": "Stop your dog from licking the area until dry"
+        },
+        {
+          "text": "Follow the steps for ear or eye drops carefully"
+        }
+      ]
+    },
+    {
+      "title": "Tracking Doses",
+      "items": [
+        {
+          "text": "Log the date, time, and dose for each medicine"
+        },
+        {
+          "text": "Note who gave it when sharing duties"
+        },
+        {
+          "text": "Mark any missed or spit-out dose"
+        },
+        {
+          "text": "Record side effects like vomiting or low energy"
+        },
+        {
+          "text": "Bring the log to recheck appointments",
+          "note": "Do not double a dose to make up a missed one without vet advice"
+        }
+      ]
+    },
+    {
+      "title": "Storage & Refills",
+      "items": [
+        {
+          "text": "Keep medicine in its original labeled container"
+        },
+        {
+          "text": "Store at the temperature the label requires"
+        },
+        {
+          "text": "Keep all products out of your dog's reach"
+        },
+        {
+          "text": "Order refills before you run out"
+        },
+        {
+          "text": "Dispose of expired or unused medicine safely"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; only your vet can set the right medicine and dose for your dog, so always consult a licensed veterinarian",
+          "note": "If your dog has a bad reaction or you suspect an overdose, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I give my dog a pill?",
+      "a": "Many owners hide a pill in a treat or food, or place it gently at the back of the tongue and encourage swallowing. Follow your vet's instructions and confirm the pill went down rather than getting spit out later."
+    },
+    {
+      "q": "Can I hide my dog's medicine in food?",
+      "a": "Often yes, but check first, because some medicines should be given on an empty stomach or must not be crushed. Ask your veterinarian whether hiding the dose in food is safe for that specific medication."
+    },
+    {
+      "q": "What if my dog spits out the pill?",
+      "a": "Note it in your log and do not assume a full dose was taken. Try again as advised, and if you cannot get the dose in or are unsure how much was swallowed, contact your veterinarian."
+    },
+    {
+      "q": "How do I apply a topical medicine safely?",
+      "a": "Follow the label for where and how much to apply, part the fur to reach the skin if directed, and prevent your dog from licking the area until it dries. Wash your hands afterward."
+    },
+    {
+      "q": "Is this dog medication checklist printable?",
+      "a": "Yes. Print it or download the PDF, log each dose and time, and use it to keep your dog's treatment on schedule."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-medication-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-medication-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Medication Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-medication-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "dog-supplies-checklist",
+  "name": "Dog Supplies Checklist",
+  "description": "A category-by-category dog supplies shopping list for new puppy and adult dog owners.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "shopping-list",
+    "supplies",
+    "pets",
+    "dogs",
+    "new-puppy"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Food & Feeding",
+      "items": [
+        {
+          "text": "Age-appropriate dog food",
+          "note": "Match puppy, adult or senior formula and keep the dog's current food during the transition"
+        },
+        {
+          "text": "Stainless steel or ceramic food bowl"
+        },
+        {
+          "text": "Water bowl, refilled with fresh water daily"
+        },
+        {
+          "text": "Treats for training and rewards"
+        },
+        {
+          "text": "Airtight food storage container"
+        },
+        {
+          "text": "Measuring cup for portion control"
+        }
+      ]
+    },
+    {
+      "title": "Crate & Bedding",
+      "items": [
+        {
+          "text": "Correctly sized crate, with a divider for puppies"
+        },
+        {
+          "text": "Comfortable, washable dog bed"
+        },
+        {
+          "text": "Crate mat or blanket"
+        },
+        {
+          "text": "Quiet, draft-free spot to place the crate"
+        }
+      ]
+    },
+    {
+      "title": "Collar, Leash & ID",
+      "items": [
+        {
+          "text": "Adjustable collar or harness"
+        },
+        {
+          "text": "ID tag with your name and phone number"
+        },
+        {
+          "text": "Standard 4–6 foot leash"
+        },
+        {
+          "text": "Microchip registered with current details"
+        },
+        {
+          "text": "Reflective gear for low-light walks"
+        }
+      ]
+    },
+    {
+      "title": "Toys & Enrichment",
+      "items": [
+        {
+          "text": "Chew toys suited to the dog's size and chewing strength"
+        },
+        {
+          "text": "Interactive or puzzle toys"
+        },
+        {
+          "text": "Fetch toys such as balls or tug ropes"
+        },
+        {
+          "text": "Long-lasting chews for downtime",
+          "note": "Always supervise new chews"
+        }
+      ]
+    },
+    {
+      "title": "Grooming",
+      "items": [
+        {
+          "text": "Brush or comb suited to the coat type"
+        },
+        {
+          "text": "Dog shampoo"
+        },
+        {
+          "text": "Nail clippers or grinder"
+        },
+        {
+          "text": "Toothbrush and dog toothpaste"
+        },
+        {
+          "text": "Ear cleaner if recommended"
+        },
+        {
+          "text": "Towels reserved for the dog"
+        }
+      ]
+    },
+    {
+      "title": "Cleanup & House Training",
+      "items": [
+        {
+          "text": "Poop bags and a dispenser"
+        },
+        {
+          "text": "Training pads for puppies"
+        },
+        {
+          "text": "Enzymatic cleaner for accidents"
+        },
+        {
+          "text": "Lint roller for hair"
+        },
+        {
+          "text": "Designated outdoor potty area or routine"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What supplies do I need before bringing a dog home?",
+      "a": "Have food, food and water bowls, a crate or bed, a collar with ID, a leash, a few toys, basic grooming tools and cleanup supplies ready before the dog arrives."
+    },
+    {
+      "q": "What size crate should I buy for my dog?",
+      "a": "Choose a crate large enough for the dog to stand, turn around and lie down comfortably. For puppies, buy an adult-size crate with a divider so you can expand the space as they grow."
+    },
+    {
+      "q": "Do I need different supplies for a puppy versus an adult dog?",
+      "a": "The categories are the same, but puppies need life-stage food, smaller or adjustable gear and extra training supplies like pads and chews. Replace outgrown items as the puppy develops."
+    },
+    {
+      "q": "Should I consult a vet about food and parasite prevention?",
+      "a": "Yes. This list is general guidance. Confirm diet, vaccinations and flea, tick and worm prevention with a veterinarian for your specific dog."
+    },
+    {
+      "q": "Can I print this dog supplies checklist?",
+      "a": "Yes. Print it or download the PDF so you can carry it to the pet store and check off each category as you go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-supplies-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-supplies-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Supplies Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-supplies-checklist)",
+  "updated": "2026-10-17"
+}

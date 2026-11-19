@@ -1,0 +1,179 @@
+{
+  "id": "rv-departure-checklist",
+  "name": "RV Departure Checklist",
+  "description": "A step-by-step routine for breaking camp and leaving safely — disconnecting hookups, securing the interior, retracting, hitching and a final walk-around.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "camping",
+    "travel",
+    "vehicles",
+    "rv"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Inside Prep",
+      "items": [
+        {
+          "text": "Wash up and stow loose dishes and items"
+        },
+        {
+          "text": "Latch the refrigerator and freezer doors"
+        },
+        {
+          "text": "Close and secure all cabinets and drawers"
+        },
+        {
+          "text": "Secure heavy or fragile items so they cannot shift"
+        },
+        {
+          "text": "Close roof vents and windows"
+        },
+        {
+          "text": "Turn off interior fans, lights and water pump as needed"
+        }
+      ]
+    },
+    {
+      "title": "Dump & Disconnect Hookups",
+      "items": [
+        {
+          "text": "Empty and flush the black tank, then the gray tank"
+        },
+        {
+          "text": "Disconnect, rinse and stow the sewer hose with gloves"
+        },
+        {
+          "text": "Disconnect and drain the fresh water hose"
+        },
+        {
+          "text": "Switch off and unplug shore power last",
+          "note": "Keep power while you work, then disconnect at the end"
+        },
+        {
+          "text": "Coil and store all cords and hoses securely"
+        },
+        {
+          "text": "Turn off propane at the tank if required for travel"
+        }
+      ]
+    },
+    {
+      "title": "Retract & Stow Outside",
+      "items": [
+        {
+          "text": "Retract the awning and lock it for travel"
+        },
+        {
+          "text": "Bring in all slide-outs and confirm they are seated"
+        },
+        {
+          "text": "Raise stabilizer jacks and leveling jacks"
+        },
+        {
+          "text": "Retract the entry steps"
+        },
+        {
+          "text": "Lower and stow the TV antenna and satellite dish"
+        },
+        {
+          "text": "Collect chocks, leveling blocks and outdoor gear"
+        }
+      ]
+    },
+    {
+      "title": "Hitch & Tow Setup",
+      "items": [
+        {
+          "text": "Couple the trailer and lock the hitch"
+        },
+        {
+          "text": "Cross and connect the safety chains"
+        },
+        {
+          "text": "Attach the breakaway cable and the wiring harness"
+        },
+        {
+          "text": "Raise and stow the tongue jack or landing gear"
+        },
+        {
+          "text": "Set the weight distribution and sway control if used"
+        },
+        {
+          "text": "Confirm the tow vehicle is in tow mode if equipped"
+        }
+      ]
+    },
+    {
+      "title": "Final Walk-Around",
+      "items": [
+        {
+          "text": "Walk the whole rig to confirm everything is retracted"
+        },
+        {
+          "text": "Check all hookups are disconnected and stored"
+        },
+        {
+          "text": "Verify the hitch, chains and breakaway are secured"
+        },
+        {
+          "text": "Test running, brake and turn signal lights"
+        },
+        {
+          "text": "Check tire pressure and look for any leaks or damage"
+        },
+        {
+          "text": "Confirm the site is clean and nothing is left behind"
+        }
+      ]
+    },
+    {
+      "title": "Before Pulling Out",
+      "items": [
+        {
+          "text": "Adjust mirrors and cameras for the loaded rig"
+        },
+        {
+          "text": "Check fuel level and plan stops"
+        },
+        {
+          "text": "Confirm everyone is buckled and pets are secured"
+        },
+        {
+          "text": "Release the parking brake and chocks last"
+        },
+        {
+          "text": "Do a slow first roll to feel for anything dragging"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the most common departure mistake?",
+      "a": "Driving off with something still connected or extended, such as the shore power cord, water hose, awning, steps or TV antenna. Working through a fixed departure sequence and a final walk-around is the best way to catch these before you move."
+    },
+    {
+      "q": "In what order should I disconnect hookups?",
+      "a": "A common order is to empty and flush the black tank first, then gray, disconnect and stow the sewer hose, then water, then electricity last so you keep power while you work. Follow your own setup and manuals, and store each item as you go."
+    },
+    {
+      "q": "Why is securing the interior so important?",
+      "a": "Items left loose can fly around and break or injure someone when the RV moves, brakes or corners. Latch cabinets and the fridge, stow loose objects, secure heavy items and confirm nothing can shift before you retract slides and drive."
+    },
+    {
+      "q": "What should the final walk-around cover?",
+      "a": "Walk the whole rig to confirm slides, steps, awning, antenna and jacks are retracted, hookups are disconnected and stored, the hitch is locked with chains and breakaway connected, and lights work. A slow lap catches anything the earlier steps missed."
+    },
+    {
+      "q": "Can I print this RV departure checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it by the door and tick off disconnecting, securing, retracting, hitching and the walk-around before every departure."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/rv-departure-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/rv-departure-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "RV Departure Checklist by ChecklistForge (https://checklistforge.com/checklist/rv-departure-checklist)",
+  "updated": "2026-10-17"
+}

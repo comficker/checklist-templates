@@ -1,0 +1,148 @@
+{
+  "id": "test-preparation-checklist",
+  "name": "Test Preparation Checklist",
+  "description": "A test preparation checklist laying out a multi-day study plan to get ready for a test.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "college",
+    "study",
+    "test-prep",
+    "study-plan"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Gather what you need to know",
+      "items": [
+        {
+          "text": "Confirm the test date, format and length."
+        },
+        {
+          "text": "List every topic, chapter or unit that will be covered."
+        },
+        {
+          "text": "Collect notes, the textbook, handouts and past papers."
+        },
+        {
+          "text": "Note the question types, such as multiple choice or essay."
+        },
+        {
+          "text": "Ask the teacher about the weighting or focus if unclear."
+        }
+      ]
+    },
+    {
+      "title": "Build your study plan",
+      "items": [
+        {
+          "text": "Estimate how much time each topic will need."
+        },
+        {
+          "text": "Map topics onto specific days leading up to the test.",
+          "note": "Front-load the hardest material early."
+        },
+        {
+          "text": "Reserve the final day or two for review and practice tests."
+        },
+        {
+          "text": "Schedule study in focused blocks with breaks between them."
+        },
+        {
+          "text": "Mark which topics you already know versus need most work."
+        }
+      ]
+    },
+    {
+      "title": "Study each topic actively",
+      "items": [
+        {
+          "text": "Rewrite or condense notes into your own summaries."
+        },
+        {
+          "text": "Make flashcards for terms, formulas and key facts."
+        },
+        {
+          "text": "Quiz yourself with active recall instead of rereading."
+        },
+        {
+          "text": "Work through practice problems for each topic."
+        },
+        {
+          "text": "Mark off each topic only once you can recall it unaided."
+        },
+        {
+          "text": "Revisit earlier topics briefly to keep them fresh."
+        }
+      ]
+    },
+    {
+      "title": "Practice and self-test",
+      "items": [
+        {
+          "text": "Take a full practice test under timed, realistic conditions."
+        },
+        {
+          "text": "Work past papers or sample questions without notes."
+        },
+        {
+          "text": "Grade your answers honestly against the mark scheme."
+        },
+        {
+          "text": "Review every wrong answer to understand the gap."
+        },
+        {
+          "text": "Re-study weak areas, then test them again."
+        }
+      ]
+    },
+    {
+      "title": "Final days before the test",
+      "items": [
+        {
+          "text": "Do a light review of all topics rather than learning new ones."
+        },
+        {
+          "text": "Focus extra time on your remaining weak spots."
+        },
+        {
+          "text": "Run through summary sheets and flashcards one more time."
+        },
+        {
+          "text": "Prepare your materials and confirm the test logistics."
+        },
+        {
+          "text": "Wind down early and get a full night of sleep."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How far in advance should I start preparing for a test?",
+      "a": "Start as soon as the test is announced, ideally one to two weeks out. Beginning early lets you spread study across several sessions, use spaced practice and avoid stressful last-minute cramming."
+    },
+    {
+      "q": "How is this different from an exam checklist?",
+      "a": "This test preparation checklist is the multi-day study plan you follow before the test. An exam checklist covers the night before and the day of the exam itself, including what to bring."
+    },
+    {
+      "q": "How do I build a study schedule for a test?",
+      "a": "List every topic, estimate how long each needs, then assign topics to specific days leading up to the test. Front-load harder material, leave the last day for review and self-testing, and keep sessions to focused blocks."
+    },
+    {
+      "q": "What is the best way to know if I am ready?",
+      "a": "Self-test under realistic conditions. Take a practice test or answer past questions without notes and within the time limit, then review every mistake. Consistent strong scores mean you are ready."
+    },
+    {
+      "q": "Can I download this test preparation checklist as a PDF?",
+      "a": "Yes. You can print it to pin above your desk or download it as a PDF to track your study plan day by day on your phone."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/test-preparation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/test-preparation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Test Preparation Checklist by ChecklistForge (https://checklistforge.com/checklist/test-preparation-checklist)",
+  "updated": "2026-10-17"
+}

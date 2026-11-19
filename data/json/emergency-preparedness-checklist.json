@@ -1,0 +1,174 @@
+{
+  "id": "emergency-preparedness-checklist",
+  "name": "Emergency Preparedness Checklist",
+  "description": "A complete household readiness checklist covering your plan, supplies, documents, communication and special needs.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "emergency",
+    "preparedness",
+    "survival",
+    "family"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Make a Family Emergency Plan",
+      "items": [
+        {
+          "text": "Sign up for local emergency alerts and warnings"
+        },
+        {
+          "text": "Choose two meeting places: one near home and one outside the neighborhood"
+        },
+        {
+          "text": "Pick an out-of-town contact everyone can call or text",
+          "note": "Texts often go through when calls fail during an emergency"
+        },
+        {
+          "text": "Map at least two evacuation routes out of your area"
+        },
+        {
+          "text": "Plan how to reunite with children at school or daycare"
+        },
+        {
+          "text": "Practice the plan with the whole family twice a year"
+        }
+      ]
+    },
+    {
+      "title": "Store Water and Food",
+      "items": [
+        {
+          "text": "Store one gallon of water per person per day for at least three days"
+        },
+        {
+          "text": "Keep a three-day supply of non-perishable food per person"
+        },
+        {
+          "text": "Include a manual can opener and basic eating utensils"
+        },
+        {
+          "text": "Add food for infants, pets and anyone with special diets"
+        },
+        {
+          "text": "Label storage dates and rotate stock before it expires"
+        }
+      ]
+    },
+    {
+      "title": "Build the Core Supply Kit",
+      "items": [
+        {
+          "text": "Stock a first aid kit and any prescription medications"
+        },
+        {
+          "text": "Pack flashlights and a battery- or hand-crank radio"
+        },
+        {
+          "text": "Keep extra batteries and a power bank for phones"
+        },
+        {
+          "text": "Add a whistle to signal for help"
+        },
+        {
+          "text": "Include dust masks, work gloves and plastic sheeting"
+        },
+        {
+          "text": "Pack moist towelettes, garbage bags and ties for sanitation"
+        }
+      ]
+    },
+    {
+      "title": "Gather Important Documents",
+      "items": [
+        {
+          "text": "Copy IDs, passports, birth and marriage certificates"
+        },
+        {
+          "text": "Save insurance policies, deeds and lease agreements"
+        },
+        {
+          "text": "List bank, medical and emergency contact information"
+        },
+        {
+          "text": "Store copies in a waterproof bag and a secure cloud account"
+        },
+        {
+          "text": "Keep some cash in small bills in case card systems are down"
+        }
+      ]
+    },
+    {
+      "title": "Set Up Communication",
+      "items": [
+        {
+          "text": "Save emergency contacts on every family member's phone"
+        },
+        {
+          "text": "Write key numbers on a card in case phones die"
+        },
+        {
+          "text": "Keep chargers, a power bank and a car charger ready"
+        },
+        {
+          "text": "Agree on a check-in time and method if you are separated",
+          "note": "A shared group text or messaging thread keeps everyone updated"
+        },
+        {
+          "text": "Know how to receive alerts if the power and internet are out"
+        }
+      ]
+    },
+    {
+      "title": "Plan for Special Needs and Pets",
+      "items": [
+        {
+          "text": "Pack a week of medications and copies of prescriptions"
+        },
+        {
+          "text": "Include supplies for infants, seniors and disabilities"
+        },
+        {
+          "text": "Store spare glasses, hearing-aid batteries and mobility aids"
+        },
+        {
+          "text": "Prepare food, water, leash, carrier and vaccination records for pets"
+        },
+        {
+          "text": "Identify pet-friendly shelters or hotels along evacuation routes"
+        },
+        {
+          "text": "Add comfort items and activities for children"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much water should I store for an emergency?",
+      "a": "Store at least one gallon of water per person per day for a minimum of three days — that covers drinking and basic sanitation. Keep more if you have children, pets, or live in a hot climate, and aim for a two-week supply at home when you can."
+    },
+    {
+      "q": "How long should my emergency supplies last?",
+      "a": "Build at least a three-day (72-hour) supply for evacuation and aim for two weeks of supplies to shelter at home. Authorities such as Ready.gov and the Red Cross recommend the 72-hour minimum as a baseline for every household."
+    },
+    {
+      "q": "What is the most important first step in emergency preparedness?",
+      "a": "Make a written family emergency plan. Decide how you will get alerts, where you will meet, how you will communicate if cell service is down, and your evacuation routes. A plan turns a kit into a coordinated response."
+    },
+    {
+      "q": "How often should I update my emergency kit?",
+      "a": "Review your kit at least twice a year. Rotate food and water before they expire, refresh medications, replace dead batteries, and update documents and clothing sizes for growing children."
+    },
+    {
+      "q": "Is this emergency preparedness checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep a copy with your kit and one on the fridge, and tick off each task as your household gets ready."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/emergency-preparedness-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/emergency-preparedness-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Emergency Preparedness Checklist by ChecklistForge (https://checklistforge.com/checklist/emergency-preparedness-checklist)",
+  "updated": "2026-10-17"
+}

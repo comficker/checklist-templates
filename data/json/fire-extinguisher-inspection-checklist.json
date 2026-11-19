@@ -1,0 +1,174 @@
+{
+  "id": "fire-extinguisher-inspection-checklist",
+  "name": "Fire Extinguisher Inspection Checklist",
+  "description": "A monthly visual inspection checklist and log for portable fire extinguishers in workplaces, shops and rental buildings.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "inspection",
+    "osha",
+    "workplace-safety",
+    "fire-safety",
+    "facilities"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Location and Access",
+      "items": [
+        {
+          "text": "Confirm the extinguisher is in its assigned location"
+        },
+        {
+          "text": "Check nothing blocks the path to it or hides it from view"
+        },
+        {
+          "text": "Make sure it is mounted on its bracket or in its cabinet",
+          "note": "Under NFPA 10, units up to 40 lb should be mounted with the top no higher than 5 ft above the floor."
+        },
+        {
+          "text": "Check the cabinet opens easily and any break glass is intact"
+        }
+      ]
+    },
+    {
+      "title": "Signage and Labels",
+      "items": [
+        {
+          "text": "Check the location sign is in place where the unit is hard to see"
+        },
+        {
+          "text": "Make sure the operating instructions on the label face out"
+        },
+        {
+          "text": "Confirm the label is readable and not peeling or faded"
+        }
+      ]
+    },
+    {
+      "title": "Pressure, Pin and Seal",
+      "items": [
+        {
+          "text": "Check the pressure gauge needle is in the green zone",
+          "note": "CO2 units have no gauge. Check them by weight against the full weight stamped on the valve or label."
+        },
+        {
+          "text": "Confirm the safety pin is in place"
+        },
+        {
+          "text": "Confirm the tamper seal is intact"
+        },
+        {
+          "text": "Lift the unit to check it feels full"
+        }
+      ]
+    },
+    {
+      "title": "Physical Condition",
+      "items": [
+        {
+          "text": "Look for dents, cracks or other damage to the cylinder"
+        },
+        {
+          "text": "Check for rust or corrosion on the cylinder, valve and bracket"
+        },
+        {
+          "text": "Check the hose for cracks, cuts or blockage"
+        },
+        {
+          "text": "Make sure the nozzle is clear of dirt, nests or debris"
+        },
+        {
+          "text": "Look for leaks or powder residue around the valve and nozzle"
+        },
+        {
+          "text": "Check the handle and lever are not bent or broken"
+        }
+      ]
+    },
+    {
+      "title": "Tag and Test Dates",
+      "items": [
+        {
+          "text": "Initial and date the inspection tag for this month"
+        },
+        {
+          "text": "Check the last annual maintenance date is within 12 months",
+          "note": "OSHA requires the annual maintenance date to be recorded. It is usually on the back of the tag."
+        },
+        {
+          "text": "Check the hydrostatic test date on the cylinder or label",
+          "note": "Water, foam and CO2 units are usually due every 5 years. Most stored-pressure dry chemical units are due every 12 years."
+        },
+        {
+          "text": "Note when the next 6-year maintenance is due for dry chemical units"
+        }
+      ]
+    },
+    {
+      "title": "Right Class for the Hazard",
+      "items": [
+        {
+          "text": "Confirm Class A coverage for wood, paper, cloth and trash"
+        },
+        {
+          "text": "Confirm Class B coverage near flammable liquids and gases"
+        },
+        {
+          "text": "Confirm Class C rating near energized electrical equipment",
+          "note": "Never use a water extinguisher on a live electrical fire."
+        },
+        {
+          "text": "Use a Class D unit for combustible metals such as magnesium"
+        },
+        {
+          "text": "Use a Class K unit in commercial kitchens with deep fryers"
+        }
+      ]
+    },
+    {
+      "title": "Inspection Log",
+      "items": [
+        {
+          "text": "Building / floor / location: ____"
+        },
+        {
+          "text": "Extinguisher ID or serial number: ____  Type and size: ____"
+        },
+        {
+          "text": "Date: ____  Pass / Fail: ____"
+        },
+        {
+          "text": "Problems found and action taken: ____",
+          "note": "If it fails, remove it from service and put a working unit in its place before you leave."
+        },
+        {
+          "text": "Inspector name and initials: ____"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often do fire extinguishers need to be inspected?",
+      "a": "OSHA 1910.157 requires a visual inspection every month and a maintenance check every year. Some types also need internal maintenance every 6 years and a hydrostatic test every 5 or 12 years, depending on the extinguisher type. The label or a technician can tell you which applies."
+    },
+    {
+      "q": "Who can do the monthly inspection?",
+      "a": "A trained employee can do the monthly visual check. Annual maintenance, recharging and hydrostatic tests should be done by a qualified service technician. Some states and cities require that technician to hold a license."
+    },
+    {
+      "q": "What do the letters A, B, C, D and K mean?",
+      "a": "Class A is for ordinary combustibles such as wood, paper and cloth. Class B is for flammable liquids and gases. Class C is for fires in energized electrical equipment. Class D is for combustible metals. Class K is for cooking oils and fats in commercial kitchens. Many units are rated for more than one class, such as ABC."
+    },
+    {
+      "q": "How long do I need to keep inspection records?",
+      "a": "OSHA requires you to keep the annual maintenance record for one year after the last entry or for the life of the shell, whichever is less. NFPA 10 also calls for a record of each monthly inspection, usually initials and a date on the tag. Keep this log with your other safety records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fire-extinguisher-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fire-extinguisher-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fire Extinguisher Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/fire-extinguisher-inspection-checklist)",
+  "updated": "2026-10-20"
+}

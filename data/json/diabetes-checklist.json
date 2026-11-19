@@ -1,0 +1,155 @@
+{
+  "id": "diabetes-checklist",
+  "name": "Diabetes Checklist",
+  "description": "A checklist for daily and periodic diabetes self-management, from monitoring and meals to foot, eye, and dental care.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "diabetes",
+    "self-management"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Daily Monitoring",
+      "items": [
+        {
+          "text": "Check blood sugar as directed by your care team"
+        },
+        {
+          "text": "Record readings with the date and time"
+        },
+        {
+          "text": "Note patterns and anything unusual"
+        },
+        {
+          "text": "Take medicines exactly as prescribed"
+        },
+        {
+          "text": "Keep monitoring supplies stocked and ready",
+          "note": "Follow the monitoring schedule your doctor sets for you"
+        }
+      ]
+    },
+    {
+      "title": "Meals and Activity",
+      "items": [
+        {
+          "text": "Follow the balanced meal plan from your care team"
+        },
+        {
+          "text": "Watch portion sizes and carbohydrate balance"
+        },
+        {
+          "text": "Stay hydrated with water through the day"
+        },
+        {
+          "text": "Be physically active as your doctor advises"
+        },
+        {
+          "text": "Keep a quick source of sugar handy for lows",
+          "note": "Ask your care team about handling low blood sugar"
+        }
+      ]
+    },
+    {
+      "title": "Foot, Eye and Dental Care",
+      "items": [
+        {
+          "text": "Check your feet daily for cuts, blisters, or changes"
+        },
+        {
+          "text": "Wash and dry your feet and wear well-fitting shoes"
+        },
+        {
+          "text": "Keep up regular eye exams as recommended"
+        },
+        {
+          "text": "Maintain regular dental visits and good oral care"
+        },
+        {
+          "text": "Report any sores or changes to your doctor promptly"
+        }
+      ]
+    },
+    {
+      "title": "Appointments and Lab Work",
+      "items": [
+        {
+          "text": "Keep regular appointments with your care team"
+        },
+        {
+          "text": "Ask about your A1C and target at your visits"
+        },
+        {
+          "text": "Schedule periodic blood and kidney tests as advised"
+        },
+        {
+          "text": "Review blood pressure and cholesterol with your doctor"
+        },
+        {
+          "text": "Bring your monitoring log to every appointment"
+        }
+      ]
+    },
+    {
+      "title": "Supplies and Emergencies",
+      "items": [
+        {
+          "text": "Keep enough medicine and monitoring supplies on hand"
+        },
+        {
+          "text": "Refill prescriptions before they run out"
+        },
+        {
+          "text": "Carry identification noting you have diabetes"
+        },
+        {
+          "text": "Know the signs of high and low blood sugar"
+        },
+        {
+          "text": "Have a plan for sick days and emergencies",
+          "note": "For severe symptoms, call your local emergency number"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; diabetes care is highly individual, so follow the plan, targets, and medicines set by your doctor and care team",
+          "note": "Ask your doctor about your numbers and any changes before making them"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does daily diabetes self-management involve?",
+      "a": "It often includes monitoring as directed, planning balanced meals, staying active, taking medicines on time, and checking your feet. Your specific routine and targets come from your doctor and care team."
+    },
+    {
+      "q": "What is A1C and why does it matter?",
+      "a": "A1C is a blood test that reflects your average blood sugar over the past few months. Your doctor uses it to track how your management is going and to set goals, so ask your doctor about your A1C and target."
+    },
+    {
+      "q": "Why is foot care important with diabetes?",
+      "a": "Diabetes can affect circulation and nerves, so small foot problems can become serious. Checking your feet daily for cuts, blisters, or changes and reporting concerns helps prevent complications."
+    },
+    {
+      "q": "How often should I see my care team?",
+      "a": "Diabetes care usually includes regular visits plus periodic eye, foot, dental, and lab checks. The schedule depends on your situation, so ask your doctor how often you should be seen."
+    },
+    {
+      "q": "Is this diabetes checklist printable?",
+      "a": "Yes. Print it or download the PDF, use it to structure your daily routine, and bring it to appointments to review your care plan with your doctor."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/diabetes-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/diabetes-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Diabetes Checklist by ChecklistForge (https://checklistforge.com/checklist/diabetes-checklist)",
+  "updated": "2026-10-17"
+}

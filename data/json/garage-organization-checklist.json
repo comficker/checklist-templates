@@ -1,0 +1,167 @@
+{
+  "id": "garage-organization-checklist",
+  "name": "Garage Organization Checklist",
+  "description": "A zone-based plan to declutter and organize your garage from floor to ceiling.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "decluttering",
+    "organization",
+    "garage",
+    "storage"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Empty and Assess",
+      "items": [
+        {
+          "text": "Pick a clear, dry day and move everything onto the driveway"
+        },
+        {
+          "text": "Sweep the floor and knock down cobwebs and dust"
+        },
+        {
+          "text": "Sort all items into keep, donate, sell, and toss piles"
+        },
+        {
+          "text": "Dispose of old paint, chemicals, and batteries at a drop-off site",
+          "note": "Never put hazardous waste in regular trash."
+        },
+        {
+          "text": "Sketch a simple floor plan marking each planned zone"
+        }
+      ]
+    },
+    {
+      "title": "Create Functional Zones",
+      "items": [
+        {
+          "text": "Map a tools zone near the workbench or main wall"
+        },
+        {
+          "text": "Set up a lawn and garden zone for soil, pots, and yard tools"
+        },
+        {
+          "text": "Assign an automotive zone for oil, fluids, and car care"
+        },
+        {
+          "text": "Group sports and recreation gear in one accessible spot"
+        },
+        {
+          "text": "Reserve a corner for seasonal and bulk storage",
+          "note": "Keep current-season gear at the front."
+        }
+      ]
+    },
+    {
+      "title": "Install Wall Storage",
+      "items": [
+        {
+          "text": "Mount a pegboard or slat wall for frequently used hand tools"
+        },
+        {
+          "text": "Add wall hooks for rakes, brooms, and ladders"
+        },
+        {
+          "text": "Hang bikes on wall brackets to clear the floor"
+        },
+        {
+          "text": "Install adjustable shelving along an unused wall"
+        },
+        {
+          "text": "Outline tool shapes on the pegboard so each has a home"
+        }
+      ]
+    },
+    {
+      "title": "Add Overhead and Shelf Storage",
+      "items": [
+        {
+          "text": "Install ceiling-mounted racks for light, bulky items"
+        },
+        {
+          "text": "Store seasonal decorations in labeled overhead bins"
+        },
+        {
+          "text": "Keep heavy items on low shelves and light items up high",
+          "note": "This prevents tipping and strain when lifting."
+        },
+        {
+          "text": "Use clear bins so contents are visible at a glance"
+        },
+        {
+          "text": "Leave overhead clearance clear of the garage door track"
+        }
+      ]
+    },
+    {
+      "title": "Manage Tools and Seasonal Gear",
+      "items": [
+        {
+          "text": "Sort hardware into labeled drawers or stackable bins"
+        },
+        {
+          "text": "Store power tools in cases or on a dedicated shelf"
+        },
+        {
+          "text": "Coil and hang extension cords and hoses on reels"
+        },
+        {
+          "text": "Rotate winter and summer gear to the front by season"
+        },
+        {
+          "text": "Label every bin clearly on more than one side"
+        }
+      ]
+    },
+    {
+      "title": "Safety and Maintenance",
+      "items": [
+        {
+          "text": "Keep a fire extinguisher mounted in an easy-to-reach spot"
+        },
+        {
+          "text": "Store flammable liquids in a ventilated, locked cabinet"
+        },
+        {
+          "text": "Keep walkways clear and the floor free of trip hazards"
+        },
+        {
+          "text": "Install adequate lighting over work and storage areas"
+        },
+        {
+          "text": "Schedule a seasonal reset to maintain your zones",
+          "note": "Fifteen minutes each season prevents big cleanouts."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I start organizing a cluttered garage?",
+      "a": "Pick a dry day and empty the garage onto the driveway, then sort everything into keep, donate, sell, and toss piles. Starting with a clean slate makes it far easier to plan zones and storage."
+    },
+    {
+      "q": "What are the best garage storage zones?",
+      "a": "Common zones are tools, automotive, lawn and garden, sports and recreation, and seasonal storage. Grouping like items together means you always know where things go and where to find them."
+    },
+    {
+      "q": "How can I store more in a small garage?",
+      "a": "Go vertical and overhead. Wall-mounted pegboards, slat walls, and ceiling racks keep the floor clear, which is the single biggest win for compact or single-car garages."
+    },
+    {
+      "q": "How do I keep my garage organized long-term?",
+      "a": "Label every zone and bin, return items to their home after each use, and do a quick seasonal rotation. A yearly purge keeps clutter from creeping back across the floor."
+    },
+    {
+      "q": "Can I print this garage organization checklist?",
+      "a": "Yes. Download the printable PDF, hang it inside the garage, and check off each zone as you complete it to keep the whole project on track."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/garage-organization-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/garage-organization-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Garage Organization Checklist by ChecklistForge (https://checklistforge.com/checklist/garage-organization-checklist)",
+  "updated": "2026-10-17"
+}

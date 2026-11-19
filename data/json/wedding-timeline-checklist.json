@@ -1,0 +1,207 @@
+{
+  "id": "wedding-timeline-checklist",
+  "name": "Wedding Timeline Checklist",
+  "description": "A countdown planning timeline from twelve months out to an hour-by-hour wedding day schedule.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "planning",
+    "wedding",
+    "timeline",
+    "countdown"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "12 to 9 Months Out",
+      "items": [
+        {
+          "text": "Set your budget and decide who is contributing."
+        },
+        {
+          "text": "Draft a rough guest list to estimate the size of your wedding."
+        },
+        {
+          "text": "Choose a season or a few possible dates."
+        },
+        {
+          "text": "Tour and book your ceremony and reception venues."
+        },
+        {
+          "text": "Book your photographer, caterer, and any must-have vendors that fill early.",
+          "note": "Top photographers and venues book peak dates a year ahead, so secure these first."
+        },
+        {
+          "text": "Hire a wedding planner or coordinator if you want one."
+        }
+      ]
+    },
+    {
+      "title": "8 to 6 Months Out",
+      "items": [
+        {
+          "text": "Send save-the-dates to your guest list."
+        },
+        {
+          "text": "Book florals, music, officiant, and transportation."
+        },
+        {
+          "text": "Begin shopping for wedding attire and start fittings."
+        },
+        {
+          "text": "Reserve a room block at nearby hotels for guests."
+        },
+        {
+          "text": "Register for gifts and set up your wedding website."
+        },
+        {
+          "text": "Plan and book any pre-wedding events such as the rehearsal dinner."
+        }
+      ]
+    },
+    {
+      "title": "5 to 3 Months Out",
+      "items": [
+        {
+          "text": "Order invitations and stationery."
+        },
+        {
+          "text": "Schedule and attend menu and cake tastings."
+        },
+        {
+          "text": "Finalize the ceremony order and any readings or vows."
+        },
+        {
+          "text": "Arrange hair and makeup trials."
+        },
+        {
+          "text": "Purchase wedding rings and arrange resizing."
+        },
+        {
+          "text": "Confirm wedding party attire and accessories."
+        }
+      ]
+    },
+    {
+      "title": "2 Months to 2 Weeks Out",
+      "items": [
+        {
+          "text": "Mail invitations and set a clear RSVP deadline."
+        },
+        {
+          "text": "Apply for your marriage license within its validity window.",
+          "note": "Check local rules for waiting periods and how long the license stays valid."
+        },
+        {
+          "text": "Attend final attire fittings."
+        },
+        {
+          "text": "Confirm the timeline, headcount, and details with every vendor."
+        },
+        {
+          "text": "Build the seating chart and prepare escort or place cards."
+        },
+        {
+          "text": "Write your vows and toasts."
+        }
+      ]
+    },
+    {
+      "title": "The Final Week",
+      "items": [
+        {
+          "text": "Give the final guest count to the caterer and venue."
+        },
+        {
+          "text": "Reconfirm arrival times with all vendors."
+        },
+        {
+          "text": "Pick up attire and try on the complete outfit."
+        },
+        {
+          "text": "Prepare labeled tip and final-payment envelopes."
+        },
+        {
+          "text": "Pack an emergency kit and a bag for the wedding night."
+        },
+        {
+          "text": "Distribute the day-of timeline to vendors and the wedding party."
+        }
+      ]
+    },
+    {
+      "title": "Wedding Day Morning",
+      "items": [
+        {
+          "text": "Eat a real breakfast and stay hydrated."
+        },
+        {
+          "text": "Begin hair and makeup with a generous time cushion.",
+          "note": "Getting-ready photos look best with good light, so start early."
+        },
+        {
+          "text": "Lay out attire, rings, vows, and accessories in one place."
+        },
+        {
+          "text": "Greet vendors as they arrive and confirm load-in."
+        },
+        {
+          "text": "Capture getting-ready and detail photos."
+        },
+        {
+          "text": "Complete any first-look or pre-ceremony portraits."
+        }
+      ]
+    },
+    {
+      "title": "Ceremony to Send-Off",
+      "items": [
+        {
+          "text": "Hold the ceremony, then move guests to cocktail hour."
+        },
+        {
+          "text": "Take family and group portraits during cocktail hour."
+        },
+        {
+          "text": "Make your grand entrance into the reception."
+        },
+        {
+          "text": "Serve dinner, then move into toasts and the first dance."
+        },
+        {
+          "text": "Cut the cake and open the floor for dancing."
+        },
+        {
+          "text": "Gather guests for the send-off and confirm transportation home."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does it take to plan a wedding?",
+      "a": "Most couples plan over nine to twelve months, which gives time to book top vendors, order attire, and mail invitations comfortably. You can plan a beautiful wedding in three to six months by booking quickly and keeping the guest list lean. Longer timelines simply reduce pressure at each step."
+    },
+    {
+      "q": "When should I send wedding invitations?",
+      "a": "Mail formal invitations six to eight weeks before the wedding, and send save-the-dates six to eight months out. For a destination wedding or holiday weekend, add extra lead time so guests can book travel. Set your RSVP deadline about three to four weeks before the date for an accurate headcount."
+    },
+    {
+      "q": "What should a day-of wedding timeline include?",
+      "a": "A day-of timeline lists every key moment with a start time: hair and makeup, photos, ceremony, cocktail hour, reception entrance, dinner, toasts, first dance, cake, open dancing, and send-off. Include vendor arrival times and a buffer between segments so a short delay does not cascade through the whole evening."
+    },
+    {
+      "q": "How much buffer time should I build into the schedule?",
+      "a": "Add ten to fifteen minutes of cushion between major segments, and more around getting ready and transportation, where delays start. Hair and makeup almost always run long, so pad the morning generously. A little extra breathing room keeps you relaxed instead of rushing from one moment to the next."
+    },
+    {
+      "q": "When do I do the final headcount and seating chart?",
+      "a": "Finalize your headcount about two weeks before the wedding, once RSVPs are in and you have chased stragglers. Build the seating chart right after, then send the final guest count to your caterer and venue. Lock the chart early so escort cards and place settings can be printed without a rush."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-timeline-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-timeline-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Timeline Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-timeline-checklist)",
+  "updated": "2026-10-17"
+}

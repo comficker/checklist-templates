@@ -1,0 +1,184 @@
+{
+  "id": "car-buying-checklist",
+  "name": "Car Buying Checklist",
+  "description": "A checklist for buying a car from start to finish.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "finance",
+    "vehicles",
+    "car-buying",
+    "cars"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Set your budget",
+      "items": [
+        {
+          "text": "Decide a maximum total budget and a comfortable monthly payment."
+        },
+        {
+          "text": "Include insurance, fuel or charging, maintenance and taxes.",
+          "note": "The purchase price is only part of the total cost of ownership."
+        },
+        {
+          "text": "Determine your down payment or trade-in value."
+        },
+        {
+          "text": "Check your credit score before seeking financing."
+        },
+        {
+          "text": "Avoid stretching the budget to a longer loan term."
+        },
+        {
+          "text": "Leave room for registration, fees and an emergency fund."
+        }
+      ]
+    },
+    {
+      "title": "Research the right car",
+      "items": [
+        {
+          "text": "List your needs — size, seats, cargo, fuel type and use case."
+        },
+        {
+          "text": "Compare models on reliability, safety ratings and reviews."
+        },
+        {
+          "text": "Research typical pricing for the models you want."
+        },
+        {
+          "text": "Check fuel economy or range and expected running costs."
+        },
+        {
+          "text": "Look into insurance costs for shortlisted models."
+        },
+        {
+          "text": "Read about common problems and recalls for each model."
+        }
+      ]
+    },
+    {
+      "title": "Arrange financing",
+      "items": [
+        {
+          "text": "Get pre-approved by a bank or credit union for a benchmark rate.",
+          "note": "Pre-approval gives you leverage to compare against dealer financing."
+        },
+        {
+          "text": "Compare the APR, loan length and total interest of each offer."
+        },
+        {
+          "text": "Avoid focusing only on the monthly payment."
+        },
+        {
+          "text": "Confirm there is no prepayment penalty."
+        },
+        {
+          "text": "Decide on a cash, loan or lease approach."
+        },
+        {
+          "text": "Have your trade-in valued independently before negotiating."
+        }
+      ]
+    },
+    {
+      "title": "Visit and test drive",
+      "items": [
+        {
+          "text": "Inspect the car's condition in daylight before driving."
+        },
+        {
+          "text": "Test drive on varied roads, including highway speeds."
+        },
+        {
+          "text": "Check comfort, visibility, controls and tech."
+        },
+        {
+          "text": "Listen for noises and feel for vibration or pulling."
+        },
+        {
+          "text": "Verify the features and trim match what is advertised."
+        },
+        {
+          "text": "Test the parking, mirrors and driver-assistance systems."
+        }
+      ]
+    },
+    {
+      "title": "Negotiate the deal",
+      "items": [
+        {
+          "text": "Negotiate the out-the-door price, not the monthly payment."
+        },
+        {
+          "text": "Get quotes from multiple sellers to compare."
+        },
+        {
+          "text": "Negotiate the trade-in separately from the purchase price."
+        },
+        {
+          "text": "Question and decline unwanted add-ons and dealer fees.",
+          "note": "Some dealer add-ons carry high margins and little value — ask about each."
+        },
+        {
+          "text": "Be prepared to walk away if the terms are not right."
+        },
+        {
+          "text": "Get every agreed figure in writing before proceeding."
+        }
+      ]
+    },
+    {
+      "title": "Close the purchase",
+      "items": [
+        {
+          "text": "Review the contract line by line, including all fees."
+        },
+        {
+          "text": "Confirm the price, financing and any included items match the deal."
+        },
+        {
+          "text": "Verify the VIN, mileage and vehicle details on the paperwork."
+        },
+        {
+          "text": "Arrange insurance to be active before you drive away."
+        },
+        {
+          "text": "Complete the title transfer and registration."
+        },
+        {
+          "text": "Collect all keys, manuals, receipts and a copy of every document."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a car buying checklist?",
+      "a": "It's a step-by-step guide for buyers covering budget, research, financing, the test drive, negotiation and paperwork, so you work through buying a car methodically and avoid overpaying or signing terms you'll regret."
+    },
+    {
+      "q": "How much should I budget for a car?",
+      "a": "Factor in the total cost of ownership, not just the price — financing, insurance, fuel or charging, maintenance, taxes and registration. Set a firm budget before shopping and avoid stretching it under sales pressure."
+    },
+    {
+      "q": "Should I get financing before going to the dealer?",
+      "a": "Getting pre-approved from a bank or credit union gives you a benchmark rate and negotiating power. Compare it against dealer financing and read all terms, including the rate, length and any fees, before signing."
+    },
+    {
+      "q": "What should I do before signing the paperwork?",
+      "a": "Confirm the final price, all fees and the financing terms in writing, check that add-ons are ones you actually want, and never sign anything you don't understand. For a used car, get a professional inspection first."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the car buying checklist to keep with you while shopping, or download the PDF to track options and offers on your phone."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/car-buying-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/car-buying-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Car Buying Checklist by ChecklistForge (https://checklistforge.com/checklist/car-buying-checklist)",
+  "updated": "2026-10-17"
+}

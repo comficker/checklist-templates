@@ -1,0 +1,185 @@
+{
+  "id": "pet-grooming-checklist",
+  "name": "Pet Grooming Checklist",
+  "description": "A general pet grooming checklist for owners covering coat, bath, nails, ears, teeth and skin.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "grooming",
+    "dogs"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Prepare to groom",
+      "items": [
+        {
+          "text": "Gather tools suited to your pet's species and coat."
+        },
+        {
+          "text": "Choose a calm time and a safe, non-slip surface."
+        },
+        {
+          "text": "Have pet-safe shampoo, towels and treats ready."
+        },
+        {
+          "text": "Introduce tools slowly so your pet stays comfortable."
+        },
+        {
+          "text": "Keep sessions short, especially when starting out."
+        },
+        {
+          "text": "Reward calm behavior to make grooming positive."
+        }
+      ]
+    },
+    {
+      "title": "Coat and brushing",
+      "items": [
+        {
+          "text": "Brush in the direction of hair growth to remove loose fur."
+        },
+        {
+          "text": "Work out tangles and small mats gently."
+        },
+        {
+          "text": "Adjust frequency to your pet's coat and shedding."
+        },
+        {
+          "text": "Brush more often during heavy shedding seasons."
+        },
+        {
+          "text": "Trim long hair around eyes, paws and rear as needed."
+        },
+        {
+          "text": "Use the right brush type for short, long or double coats."
+        }
+      ]
+    },
+    {
+      "title": "Bathing",
+      "items": [
+        {
+          "text": "Confirm your pet's species actually needs bathing."
+        },
+        {
+          "text": "Brush out the coat before getting your pet wet."
+        },
+        {
+          "text": "Use lukewarm water and a pet-specific shampoo."
+        },
+        {
+          "text": "Avoid the eyes and inside the ears while washing."
+        },
+        {
+          "text": "Rinse thoroughly so no shampoo residue remains."
+        },
+        {
+          "text": "Dry your pet and keep it warm until fully dry."
+        }
+      ]
+    },
+    {
+      "title": "Nails and paws",
+      "items": [
+        {
+          "text": "Handle paws gently to build comfort with trimming."
+        },
+        {
+          "text": "Trim small amounts and avoid the quick."
+        },
+        {
+          "text": "Keep styptic powder nearby in case of a small cut."
+        },
+        {
+          "text": "Check paw pads for cracks, debris or irritation."
+        },
+        {
+          "text": "Reward your pet throughout to build a positive habit."
+        },
+        {
+          "text": "Ask for help if you are unsure about trimming.",
+          "note": "A professional groomer or your veterinarian can demonstrate safe nail care."
+        }
+      ]
+    },
+    {
+      "title": "Ears, eyes and teeth",
+      "items": [
+        {
+          "text": "Check ears for redness, odor, debris or discharge."
+        },
+        {
+          "text": "Clean only the visible area with a vet-recommended cleaner."
+        },
+        {
+          "text": "Wipe gently around the eyes with a soft, damp cloth."
+        },
+        {
+          "text": "Introduce tooth brushing slowly with pet-safe toothpaste."
+        },
+        {
+          "text": "Offer dental chews or toys as a helpful supplement."
+        },
+        {
+          "text": "Report persistent ear, eye or dental problems to your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Skin and health checks",
+      "items": [
+        {
+          "text": "Feel for lumps, scabs or sore spots while grooming."
+        },
+        {
+          "text": "Look for fleas, ticks or other parasites."
+        },
+        {
+          "text": "Note changes in coat texture, shine or shedding."
+        },
+        {
+          "text": "Watch for excessive scratching, licking or odor."
+        },
+        {
+          "text": "Keep up routine veterinary care and parasite prevention."
+        },
+        {
+          "text": "Track any changes to discuss at your next vet visit."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult a professional groomer for breed-specific grooming and your veterinarian for skin, ear, dental or any health concerns."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I groom my pet?",
+      "a": "It depends on the species and coat. Some pets need daily brushing, others weekly, and baths range from occasional to rarely. Check nails, ears and teeth regularly. A professional groomer or your veterinarian can advise a routine for your specific pet."
+    },
+    {
+      "q": "What grooming tools do I need?",
+      "a": "Basics include a coat-appropriate brush or comb, pet-safe shampoo, nail clippers, a vet-recommended ear cleaner and pet toothpaste. The right tools depend on your pet's species and coat. Ask a professional groomer which tools suit your pet best."
+    },
+    {
+      "q": "How do I keep grooming stress-free?",
+      "a": "Keep sessions short and positive, introduce tools slowly, and reward calm behavior with treats and praise. Groom when your pet is relaxed and stop before stress builds. Over time, a steady routine helps most pets accept handling more easily."
+    },
+    {
+      "q": "When should I see a professional?",
+      "a": "See a professional groomer for breed-specific cuts, severe mats or pets that resist handling. Contact your veterinarian for skin problems, ear infections, dental disease or any sign of pain. Routine professional checks complement your home grooming."
+    },
+    {
+      "q": "Can I download this pet grooming checklist as a PDF?",
+      "a": "Yes. You can print it for home or download it as a PDF for your phone, so owners of any pet have a grooming routine handy on bath and brushing days."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-grooming-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-grooming-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Grooming Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-grooming-checklist)",
+  "updated": "2026-10-17"
+}

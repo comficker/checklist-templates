@@ -1,0 +1,9 @@
+name: Request a checklist
+description: Ask for a checklist that is not in the package yet
+labels: [request]
+body:
+  - type: input
+    attributes: { label: Checklist topic, placeholder: e.g. Boat launch checklist }
+    validations: { required: true }
+  - type: textarea
+    attributes: { label: Where would you use it? }

@@ -1,0 +1,197 @@
+{
+  "id": "marketing-checklist",
+  "name": "Marketing Checklist",
+  "description": "A complete marketing checklist to plan strategy and run recurring activities across every channel.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "content",
+    "seo",
+    "strategy",
+    "social-media"
+  ],
+  "item_count": 39,
+  "sections": [
+    {
+      "title": "Strategy and foundations",
+      "items": [
+        {
+          "text": "Define your primary marketing goals and tie each to a measurable target.",
+          "note": "For example, leads per month or revenue from organic search."
+        },
+        {
+          "text": "Document your target audience and at least one detailed customer persona."
+        },
+        {
+          "text": "Write a clear positioning statement and a one-line value proposition."
+        },
+        {
+          "text": "Map the customer journey from awareness to purchase to retention."
+        },
+        {
+          "text": "Set a marketing budget and allocate it across your active channels."
+        },
+        {
+          "text": "Confirm your brand voice, key messages and visual guidelines are documented."
+        }
+      ]
+    },
+    {
+      "title": "Website and conversion",
+      "items": [
+        {
+          "text": "Check that every key page has a clear call to action above the fold."
+        },
+        {
+          "text": "Confirm contact, demo or purchase forms work and notify the right inbox."
+        },
+        {
+          "text": "Verify the site loads fast on mobile and passes core usability checks."
+        },
+        {
+          "text": "Add or update lead capture, such as a newsletter signup or lead magnet."
+        },
+        {
+          "text": "Set up conversion tracking and goals in your analytics tool."
+        },
+        {
+          "text": "Review top landing pages and improve the weakest converting one."
+        }
+      ]
+    },
+    {
+      "title": "Content and SEO",
+      "items": [
+        {
+          "text": "Maintain a content calendar with topics mapped to audience questions."
+        },
+        {
+          "text": "Publish new content on a consistent, realistic schedule."
+        },
+        {
+          "text": "Do keyword research and target one primary keyword per page."
+        },
+        {
+          "text": "Refresh older content that is losing rankings or traffic."
+        },
+        {
+          "text": "Add internal links between related articles and key conversion pages."
+        },
+        {
+          "text": "Earn or pursue backlinks from relevant, reputable sites."
+        }
+      ]
+    },
+    {
+      "title": "Social media and community",
+      "items": [
+        {
+          "text": "Choose the platforms where your audience actually spends time."
+        },
+        {
+          "text": "Plan and schedule posts ahead with a consistent posting rhythm."
+        },
+        {
+          "text": "Reply to comments, mentions and direct messages promptly."
+        },
+        {
+          "text": "Repurpose blog and video content into platform-native formats."
+        },
+        {
+          "text": "Track follower growth, engagement rate and link clicks."
+        }
+      ]
+    },
+    {
+      "title": "Email and retention",
+      "items": [
+        {
+          "text": "Grow your email list with a valuable, relevant incentive."
+        },
+        {
+          "text": "Send a regular newsletter on a predictable schedule."
+        },
+        {
+          "text": "Set up automated welcome and follow-up sequences for new subscribers."
+        },
+        {
+          "text": "Segment your list so messages match subscriber interests."
+        },
+        {
+          "text": "Clean inactive subscribers and monitor deliverability."
+        }
+      ]
+    },
+    {
+      "title": "Paid advertising",
+      "items": [
+        {
+          "text": "Define the goal and target audience for each paid campaign."
+        },
+        {
+          "text": "Set daily or campaign budgets and clear bid limits."
+        },
+        {
+          "text": "Write and test multiple ad variations for each campaign."
+        },
+        {
+          "text": "Confirm landing pages match the ad message and offer."
+        },
+        {
+          "text": "Install conversion tracking and verify it records correctly."
+        },
+        {
+          "text": "Pause underperforming ads and scale the winners."
+        }
+      ]
+    },
+    {
+      "title": "Measure and review",
+      "items": [
+        {
+          "text": "Review key metrics against your goals in a monthly report."
+        },
+        {
+          "text": "Identify your best-performing channel and double down on it."
+        },
+        {
+          "text": "Spot the worst-performing activity and decide to fix or cut it."
+        },
+        {
+          "text": "Check cost per lead and return on spend by channel."
+        },
+        {
+          "text": "Plan next month's priorities based on what the data shows."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a marketing checklist include?",
+      "a": "It should cover your strategic foundations (audience, goals, positioning), the active channels you run such as content, social, email, SEO and paid ads, and a regular review routine to measure results and adjust spend."
+    },
+    {
+      "q": "How often should I work through this marketing checklist?",
+      "a": "Treat the foundation section as quarterly, the channel sections as weekly or monthly depending on the activity, and the measurement section as a fixed monthly review. Print it and keep it where your team plans work."
+    },
+    {
+      "q": "Is this marketing checklist suitable for small businesses and beginners?",
+      "a": "Yes. It focuses on fundamentals that work without a large budget, so a small business owner or a beginner can follow it and skip channels they do not yet use."
+    },
+    {
+      "q": "Can I download this marketing checklist as a PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to share with teammates, freelancers or agencies so everyone follows the same plan."
+    },
+    {
+      "q": "How is this different from a campaign checklist?",
+      "a": "This is an ongoing operating checklist for your whole marketing function. A campaign checklist covers one time-bound push, such as a launch or seasonal promotion."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/marketing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/marketing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Marketing Checklist by ChecklistForge (https://checklistforge.com/checklist/marketing-checklist)",
+  "updated": "2026-10-17"
+}

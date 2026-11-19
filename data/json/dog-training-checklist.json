@@ -1,0 +1,182 @@
+{
+  "id": "dog-training-checklist",
+  "name": "Dog Training Checklist",
+  "description": "A dog training checklist for owners covering commands, leash manners and consistent behavior.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "training",
+    "pets",
+    "dogs",
+    "obedience"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Training foundations",
+      "items": [
+        {
+          "text": "Choose reward-based methods that reinforce wanted behavior."
+        },
+        {
+          "text": "Pick a marker word or clicker your dog learns to trust."
+        },
+        {
+          "text": "Use high-value treats your dog finds genuinely motivating."
+        },
+        {
+          "text": "Agree on cue words and rules so the whole household is consistent."
+        },
+        {
+          "text": "Keep sessions short, upbeat and end on a success."
+        },
+        {
+          "text": "Train in low-distraction spots before adding difficulty."
+        }
+      ]
+    },
+    {
+      "title": "Core commands",
+      "items": [
+        {
+          "text": "Reinforce name attention so your dog checks in with you."
+        },
+        {
+          "text": "Build a solid sit and reward consistently."
+        },
+        {
+          "text": "Teach a reliable recall using a happy tone and great rewards."
+        },
+        {
+          "text": "Practice down and a duration stay with gradual distance."
+        },
+        {
+          "text": "Train leave it and drop it for safety around objects."
+        },
+        {
+          "text": "Proof commands by practicing in new places and around distractions."
+        }
+      ]
+    },
+    {
+      "title": "Leash manners",
+      "items": [
+        {
+          "text": "Fit a comfortable collar or harness that does not chafe."
+        },
+        {
+          "text": "Reward your dog for walking near you with a loose leash."
+        },
+        {
+          "text": "Stop or change direction when the leash tightens."
+        },
+        {
+          "text": "Mark and reward check-ins and eye contact on walks."
+        },
+        {
+          "text": "Practice polite passing of people, dogs and distractions."
+        },
+        {
+          "text": "Keep early walks short and gradually increase the challenge."
+        }
+      ]
+    },
+    {
+      "title": "Behavior and manners",
+      "items": [
+        {
+          "text": "Identify triggers for jumping, barking or chewing."
+        },
+        {
+          "text": "Manage the environment to prevent rehearsing unwanted habits."
+        },
+        {
+          "text": "Reward an alternative behavior, like four paws down for greetings."
+        },
+        {
+          "text": "Redirect chewing to appropriate toys and chews."
+        },
+        {
+          "text": "Teach settle and place for calm time in the home."
+        },
+        {
+          "text": "Avoid harsh corrections that can increase fear or reactivity.",
+          "note": "For aggression, fear or persistent issues, consult a professional trainer or behaviorist."
+        }
+      ]
+    },
+    {
+      "title": "Consistency and routine",
+      "items": [
+        {
+          "text": "Use the same cue word for each behavior across the household."
+        },
+        {
+          "text": "Reward good choices throughout the day, not only in sessions."
+        },
+        {
+          "text": "Keep a steady routine for meals, walks, training and rest."
+        },
+        {
+          "text": "Provide daily physical exercise and mental enrichment."
+        },
+        {
+          "text": "Track progress so you know what to practice next."
+        },
+        {
+          "text": "Phase out food rewards gradually as skills become reliable."
+        }
+      ]
+    },
+    {
+      "title": "Health and well-being",
+      "items": [
+        {
+          "text": "Ensure your dog gets enough sleep and downtime to learn well."
+        },
+        {
+          "text": "Watch for signs of stress and give breaks when needed."
+        },
+        {
+          "text": "Provide enrichment like sniff walks, puzzle feeders and chews."
+        },
+        {
+          "text": "Note sudden behavior changes that could signal discomfort."
+        },
+        {
+          "text": "Keep up routine veterinary care and parasite prevention."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult a professional trainer for behavior problems and your veterinarian if training struggles may be linked to pain or illness."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can you train an older dog?",
+      "a": "Yes. Dogs can learn new skills at any age with patience and consistent, reward-based methods. Older dogs may need slightly more repetition, but they often focus well. If a dog struggles or shows pain, consult your veterinarian to rule out a health cause."
+    },
+    {
+      "q": "What commands should I teach first?",
+      "a": "Start with name attention, sit, recall and leave it, since these build focus and safety. Add down, stay and loose-leash walking next. Teaching one skill at a time and rewarding success helps your dog learn faster and stay engaged."
+    },
+    {
+      "q": "How do I stop unwanted behaviors?",
+      "a": "Identify the trigger, manage the environment to prevent rehearsal, and reward an alternative behavior you want instead. Consistency from everyone in the home is key. For aggression, fear or persistent issues, work with a professional trainer or behaviorist."
+    },
+    {
+      "q": "How often should I train my dog?",
+      "a": "Short daily sessions of a few minutes, woven into walks and routines, usually work best. Frequent practice keeps skills sharp without tiring your dog. End on a success and keep it positive so your dog looks forward to training."
+    },
+    {
+      "q": "Can I download this dog training checklist as a PDF?",
+      "a": "Yes. You can print it for home or download it as a PDF for your phone, so owners can reference training steps on walks and during daily practice with a dog of any age."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-training-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-training-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Training Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-training-checklist)",
+  "updated": "2026-10-17"
+}

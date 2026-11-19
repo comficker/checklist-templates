@@ -1,0 +1,151 @@
+{
+  "id": "health-screening-checklist",
+  "name": "Health Screening Checklist",
+  "description": "A general checklist of recommended health screenings by age and sex to discuss with your doctor.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "screening",
+    "prevention"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "Vital Signs and Measurements",
+      "items": [
+        {
+          "text": "Blood pressure measurement"
+        },
+        {
+          "text": "Height, weight, and body measurements"
+        },
+        {
+          "text": "Heart rate and general vital signs"
+        },
+        {
+          "text": "Discussion of any readings outside the usual range",
+          "note": "Ask your doctor about your numbers and what they mean"
+        }
+      ]
+    },
+    {
+      "title": "Blood and Metabolic Tests",
+      "items": [
+        {
+          "text": "Cholesterol and lipid testing"
+        },
+        {
+          "text": "Blood sugar or diabetes screening"
+        },
+        {
+          "text": "Other blood tests your doctor recommends"
+        },
+        {
+          "text": "Note fasting requirements before tests"
+        },
+        {
+          "text": "Track results over time to spot trends"
+        }
+      ]
+    },
+    {
+      "title": "Cancer Screenings",
+      "items": [
+        {
+          "text": "Skin checks for new or changing spots"
+        },
+        {
+          "text": "Colon cancer screening at the age your doctor advises"
+        },
+        {
+          "text": "Breast screening if recommended for you"
+        },
+        {
+          "text": "Cervical screening if recommended for you"
+        },
+        {
+          "text": "Other screenings based on personal and family risk",
+          "note": "Ask your doctor which cancer screenings apply to you"
+        }
+      ]
+    },
+    {
+      "title": "Sensory, Bone and Dental",
+      "items": [
+        {
+          "text": "Vision check"
+        },
+        {
+          "text": "Hearing check"
+        },
+        {
+          "text": "Bone health assessment if recommended"
+        },
+        {
+          "text": "Regular dental visits"
+        },
+        {
+          "text": "Foot or skin checks if you have a relevant condition"
+        }
+      ]
+    },
+    {
+      "title": "Plan and Track",
+      "items": [
+        {
+          "text": "Record the date of each completed screening"
+        },
+        {
+          "text": "Note when each one is due again"
+        },
+        {
+          "text": "Keep results together in one place"
+        },
+        {
+          "text": "List screenings to ask about at your next visit"
+        },
+        {
+          "text": "Set calendar reminders for upcoming tests"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; recommended screenings depend on your age, sex, history, and risk, so ask your doctor what is right for you and follow their guidance",
+          "note": "Screening guidelines differ by person and may change over time"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a health screening?",
+      "a": "A health screening is a test or check done to look for a condition before symptoms appear, so it can be addressed early. Examples include blood pressure, cholesterol, blood sugar, and certain cancer screenings."
+    },
+    {
+      "q": "Which screenings do I need?",
+      "a": "It depends on your age, sex, family history, and personal risk factors. This list offers common examples, but your doctor will recommend the specific screenings and timing that are right for you."
+    },
+    {
+      "q": "How often should I be screened?",
+      "a": "Intervals vary by test and by your risk level. Some are yearly, others less often. Ask your doctor how frequently each screening should be repeated for your situation."
+    },
+    {
+      "q": "Do screening recommendations change with age?",
+      "a": "Yes. New screenings may be added as you get older, and some may change or stop at certain ages. Review your screening plan with your doctor regularly as your needs evolve."
+    },
+    {
+      "q": "Is this health screening checklist printable?",
+      "a": "Yes. Print it or download the PDF, note what you have done and when, and bring it to your appointment to plan future screenings with your doctor."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/health-screening-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/health-screening-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Health Screening Checklist by ChecklistForge (https://checklistforge.com/checklist/health-screening-checklist)",
+  "updated": "2026-10-17"
+}

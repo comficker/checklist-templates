@@ -1,0 +1,178 @@
+{
+  "id": "school-supplies-checklist",
+  "name": "School Supplies Checklist",
+  "description": "A category-by-category list of school supplies for students of any grade.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "parents",
+    "students",
+    "school-supplies",
+    "stationery",
+    "shopping"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Writing tools",
+      "items": [
+        {
+          "text": "Buy a pack of pencils and a few extra erasers."
+        },
+        {
+          "text": "Add a pencil sharpener with a shavings catcher."
+        },
+        {
+          "text": "Pick up blue, black and red pens for note-taking."
+        },
+        {
+          "text": "Include a set of highlighters in different colors."
+        },
+        {
+          "text": "Add washable or dry-erase markers if requested."
+        },
+        {
+          "text": "Pack a small case to keep writing tools together."
+        }
+      ]
+    },
+    {
+      "title": "Paper and binders",
+      "items": [
+        {
+          "text": "Buy lined notebooks or composition books per subject."
+        },
+        {
+          "text": "Add loose-leaf or filler paper for binders."
+        },
+        {
+          "text": "Choose binders or folders to organize each class.",
+          "note": "Match colors to subjects to find things faster."
+        },
+        {
+          "text": "Include dividers with tabs for binder sections."
+        },
+        {
+          "text": "Add sticky notes and index cards for studying."
+        },
+        {
+          "text": "Pick up graph paper if needed for math or science."
+        }
+      ]
+    },
+    {
+      "title": "Organization",
+      "items": [
+        {
+          "text": "Choose a planner or assignment notebook."
+        },
+        {
+          "text": "Add a pencil case or zip pouch for the backpack."
+        },
+        {
+          "text": "Include a clear plastic folder for take-home papers."
+        },
+        {
+          "text": "Get a small accordion file for handouts and forms."
+        },
+        {
+          "text": "Pack rubber bands, paper clips and binder clips."
+        }
+      ]
+    },
+    {
+      "title": "Art and project supplies",
+      "items": [
+        {
+          "text": "Buy a box of colored pencils or crayons."
+        },
+        {
+          "text": "Add markers in a range of colors."
+        },
+        {
+          "text": "Include child-safe scissors that cut cleanly."
+        },
+        {
+          "text": "Pack glue sticks and a bottle of liquid glue."
+        },
+        {
+          "text": "Add a ruler with both inches and centimeters."
+        },
+        {
+          "text": "Include tape and a small stapler if allowed."
+        }
+      ]
+    },
+    {
+      "title": "Technology",
+      "items": [
+        {
+          "text": "Charge any required tablet, laptop or Chromebook."
+        },
+        {
+          "text": "Add headphones or earbuds for shared devices.",
+          "note": "Label them clearly with your child's name."
+        },
+        {
+          "text": "Pack a charger and any needed adapter or cable."
+        },
+        {
+          "text": "Include a USB drive if your school requests one."
+        },
+        {
+          "text": "Add a protective case or sleeve for devices."
+        }
+      ]
+    },
+    {
+      "title": "Personal items",
+      "items": [
+        {
+          "text": "Pack a reusable water bottle that seals tightly."
+        },
+        {
+          "text": "Add hand sanitizer and a pack of tissues."
+        },
+        {
+          "text": "Include a lunch bag and any reusable containers."
+        },
+        {
+          "text": "Pack a small first-aid item like bandages if allowed."
+        },
+        {
+          "text": "Add any required gym shoes or activity gear."
+        },
+        {
+          "text": "Include a spare mask or comfort item if needed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many of each supply should I buy?",
+      "a": "Quantities depend on grade and how heavily your student uses each item. Younger grades often need more pencils and glue, while older students need more paper and binders. Start with your teacher's list and add a small buffer of fast-disappearing items like pencils and erasers."
+    },
+    {
+      "q": "Should I buy generic or brand-name supplies?",
+      "a": "Generic works well for most items like paper, folders and pencils. Spend a little more where quality matters, such as scissors, a sturdy backpack, or markers that won't dry out quickly. Check teacher lists, since some classrooms request specific brands."
+    },
+    {
+      "q": "When is the best time to buy school supplies?",
+      "a": "Shop during back-to-school sale and tax-free weeks for the best prices, and restock basics again in late fall when leftovers are discounted. Buying a little extra of cheap essentials early saves repeat trips during the year."
+    },
+    {
+      "q": "What supplies do students forget most often?",
+      "a": "Commonly overlooked items include extra erasers, a pencil sharpener, index cards, a small ruler, headphones for shared devices, and a refill of glue or tape. The personal items section helps you catch the small things that aren't on every teacher list."
+    },
+    {
+      "q": "Is this school supplies checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to carry while shopping, share between parents and students, and tick off each item as you fill the cart."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/school-supplies-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/school-supplies-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "School Supplies Checklist by ChecklistForge (https://checklistforge.com/checklist/school-supplies-checklist)",
+  "updated": "2026-10-17"
+}

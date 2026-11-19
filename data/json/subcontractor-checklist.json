@@ -1,0 +1,182 @@
+{
+  "id": "subcontractor-checklist",
+  "name": "Subcontractor Checklist",
+  "description": "A subcontractor checklist for prequalifying, onboarding and managing subcontractors.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "project-management",
+    "construction",
+    "contractors",
+    "subcontractor"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prequalification",
+      "items": [
+        {
+          "text": "Review the subcontractor's relevant trade experience."
+        },
+        {
+          "text": "Assess financial stability and bonding capacity."
+        },
+        {
+          "text": "Check references from recent comparable projects."
+        },
+        {
+          "text": "Review their safety record and incident history."
+        },
+        {
+          "text": "Confirm crew size and current availability."
+        },
+        {
+          "text": "Verify required licenses and trade certifications."
+        }
+      ]
+    },
+    {
+      "title": "Insurance and compliance",
+      "items": [
+        {
+          "text": "Collect a current certificate of insurance (COI)."
+        },
+        {
+          "text": "Confirm general liability and workers' compensation coverage."
+        },
+        {
+          "text": "Verify coverage limits meet project requirements."
+        },
+        {
+          "text": "Request additional insured status where required."
+        },
+        {
+          "text": "Confirm any required performance or payment bonds."
+        },
+        {
+          "text": "Verify business licensing and tax documentation.",
+          "note": "Keep COIs on file and confirm they remain active for the full scope period."
+        }
+      ]
+    },
+    {
+      "title": "Scope and contract",
+      "items": [
+        {
+          "text": "Write a clear, detailed scope of work."
+        },
+        {
+          "text": "List inclusions, exclusions and clarifications."
+        },
+        {
+          "text": "Define quality standards and acceptance criteria."
+        },
+        {
+          "text": "Set the contract price and payment schedule."
+        },
+        {
+          "text": "Establish the change-order process and pricing."
+        },
+        {
+          "text": "Include lien waiver and retainage terms."
+        }
+      ]
+    },
+    {
+      "title": "Scheduling and coordination",
+      "items": [
+        {
+          "text": "Confirm start dates and durations in the master schedule."
+        },
+        {
+          "text": "Identify dependencies with other trades."
+        },
+        {
+          "text": "Define material and equipment responsibilities."
+        },
+        {
+          "text": "Set milestones and progress checkpoints."
+        },
+        {
+          "text": "Establish daily reporting and communication channels."
+        },
+        {
+          "text": "Plan site access, staging and storage for their crew."
+        }
+      ]
+    },
+    {
+      "title": "Safety and onboarding",
+      "items": [
+        {
+          "text": "Provide a site safety orientation before work begins."
+        },
+        {
+          "text": "Confirm the sub has a site-specific safety plan."
+        },
+        {
+          "text": "Verify task-specific training and certifications."
+        },
+        {
+          "text": "Review PPE requirements for their work."
+        },
+        {
+          "text": "Include the sub in toolbox talks and safety walks."
+        },
+        {
+          "text": "Confirm they know hazard and incident reporting procedures."
+        }
+      ]
+    },
+    {
+      "title": "Performance and closeout",
+      "items": [
+        {
+          "text": "Inspect work against scope and quality standards."
+        },
+        {
+          "text": "Track progress against the schedule and budget."
+        },
+        {
+          "text": "Document and resolve any deficiencies or rework."
+        },
+        {
+          "text": "Confirm punch list items are completed."
+        },
+        {
+          "text": "Collect warranties and as-built information."
+        },
+        {
+          "text": "Process final payment and obtain lien waivers."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is subcontractor prequalification?",
+      "a": "Prequalification is screening a subcontractor's experience, financial stability, safety record and references before awarding work. This checklist gives you a consistent set of questions so you can compare subs fairly and reduce project risk."
+    },
+    {
+      "q": "What is a certificate of insurance (COI)?",
+      "a": "A COI is proof of a subcontractor's active insurance coverage, issued by their insurer. Collect it before work starts, confirm limits meet your requirements, and that you are named as additional insured where appropriate."
+    },
+    {
+      "q": "How do I define a subcontractor's scope of work?",
+      "a": "Write a clear, written scope that lists exactly what is included, what is excluded, the standards expected and how it connects to other trades. A precise scope prevents gaps, overlaps and change-order disputes later."
+    },
+    {
+      "q": "Who is responsible for subcontractor safety?",
+      "a": "Subcontractors are responsible for their own crews, but the general contractor coordinates site safety. Integrate every sub into your site safety program; this is general guidance and does not replace OSHA standards or a competent person."
+    },
+    {
+      "q": "Is this subcontractor checklist available as a printable PDF?",
+      "a": "Yes. Print it for your intake binder or download the PDF so project managers can verify documents and track subcontractor onboarding from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/subcontractor-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/subcontractor-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Subcontractor Checklist by ChecklistForge (https://checklistforge.com/checklist/subcontractor-checklist)",
+  "updated": "2026-10-17"
+}

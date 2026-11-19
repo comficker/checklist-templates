@@ -1,0 +1,161 @@
+{
+  "id": "first-day-of-school-checklist",
+  "name": "First Day of School Checklist",
+  "description": "Everything to prepare the night before and morning of the first day of school.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "back-to-school",
+    "parents",
+    "students",
+    "routines",
+    "first-day"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "The night before",
+      "items": [
+        {
+          "text": "Lay out the complete first-day outfit and shoes."
+        },
+        {
+          "text": "Pack the backpack with all supplies and forms."
+        },
+        {
+          "text": "Prepare lunch or set aside lunch money."
+        },
+        {
+          "text": "Charge any device and confirm logins work."
+        },
+        {
+          "text": "Set alarms with extra buffer time for the morning."
+        },
+        {
+          "text": "Get the whole family to bed early.",
+          "note": "An earlier night makes the first morning smoother."
+        }
+      ]
+    },
+    {
+      "title": "Morning of day one",
+      "items": [
+        {
+          "text": "Wake up with enough time to avoid rushing."
+        },
+        {
+          "text": "Serve a calm, healthy breakfast."
+        },
+        {
+          "text": "Help your child dress and get ready."
+        },
+        {
+          "text": "Do a final backpack check against the list."
+        },
+        {
+          "text": "Take a first-day photo if your family likes to."
+        },
+        {
+          "text": "Leave a few minutes early to arrive relaxed."
+        }
+      ]
+    },
+    {
+      "title": "Documents and items to bring",
+      "items": [
+        {
+          "text": "Bring any forms the school asked you to return."
+        },
+        {
+          "text": "Pack the student ID, bus pass or entry card."
+        },
+        {
+          "text": "Include emergency contact information."
+        },
+        {
+          "text": "Bring proof of registration if requested.",
+          "note": "Check the school's first-day email for specifics."
+        },
+        {
+          "text": "Add any medication with instructions for staff."
+        },
+        {
+          "text": "Include a labeled water bottle and snack."
+        }
+      ]
+    },
+    {
+      "title": "Emotional preparation",
+      "items": [
+        {
+          "text": "Talk through what the school day will look like."
+        },
+        {
+          "text": "Reassure your child about pickup time and place."
+        },
+        {
+          "text": "Pack a small comfort item if it helps."
+        },
+        {
+          "text": "Practice a quick, confident goodbye routine."
+        },
+        {
+          "text": "Keep your own tone calm and positive."
+        },
+        {
+          "text": "Plan a relaxed after-school chat about the day."
+        }
+      ]
+    },
+    {
+      "title": "Logistics",
+      "items": [
+        {
+          "text": "Confirm the route and travel time to school."
+        },
+        {
+          "text": "Arrange transport, bus stop or carpool details."
+        },
+        {
+          "text": "Note the classroom, teacher and room number."
+        },
+        {
+          "text": "Confirm drop-off and pickup locations and times."
+        },
+        {
+          "text": "Set up aftercare or activity plans if needed."
+        },
+        {
+          "text": "Save the school office number in your phone."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I calm first-day nerves?",
+      "a": "Talk through what the day will look like, keep your own tone relaxed, and practice a quick, cheerful goodbye in advance. A small comfort item, a familiar lunch, and confidence that you will be there at pickup all help a child feel safe and ready."
+    },
+    {
+      "q": "What should we do the night before?",
+      "a": "Lay out the full outfit, pack the backpack completely, prepare lunch or confirm lunch money, charge any device, and get everyone to bed early. Doing this the evening before removes almost all of the morning stress."
+    },
+    {
+      "q": "What documents should we bring on the first day?",
+      "a": "Bring any forms the school asked you to return, emergency contact details, your child's ID or bus pass, and proof of any registration if requested. Check the school's first-day email, since some require specific paperwork on day one."
+    },
+    {
+      "q": "How early should we arrive on the first day?",
+      "a": "Aim to arrive a little earlier than usual so you can find the classroom, meet the teacher, and settle your child without rushing. Walking or driving the route beforehand makes the timing far easier to judge."
+    },
+    {
+      "q": "Is this first day of school checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to keep on the fridge or share between parents and students, then tick off each task the night before and the morning of day one."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/first-day-of-school-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/first-day-of-school-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "First Day of School Checklist by ChecklistForge (https://checklistforge.com/checklist/first-day-of-school-checklist)",
+  "updated": "2026-10-17"
+}

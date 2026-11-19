@@ -1,0 +1,174 @@
+{
+  "id": "fall-protection-checklist",
+  "name": "Fall Protection Checklist",
+  "description": "A working-at-height safety check covering guardrails, harnesses, anchors and rescue.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "ppe",
+    "fall-protection",
+    "working-at-height"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Hazard Assessment and Planning",
+      "items": [
+        {
+          "text": "Identify all fall hazards, open edges and floor openings in the work area."
+        },
+        {
+          "text": "Confirm the trigger height and required protection for the task."
+        },
+        {
+          "text": "Select the protection method using the hierarchy of fall protection.",
+          "note": "Prefer guardrails or elimination over personal fall arrest where feasible."
+        },
+        {
+          "text": "Verify a written fall protection plan exists where required."
+        },
+        {
+          "text": "Confirm weather and surface conditions are safe for work at height."
+        },
+        {
+          "text": "Check that the work area below is barricaded against falling objects."
+        }
+      ]
+    },
+    {
+      "title": "Guardrails and Collective Protection",
+      "items": [
+        {
+          "text": "Confirm guardrails are installed at all required open edges."
+        },
+        {
+          "text": "Check top rails, mid rails and toe boards meet height and strength requirements."
+        },
+        {
+          "text": "Verify floor openings and holes are covered, secured and labeled."
+        },
+        {
+          "text": "Confirm safety nets, where used, are rigged and inspected correctly.",
+          "note": "Covers must support loads and be marked 'Hole' or 'Cover'."
+        },
+        {
+          "text": "Check that guardrails are not removed without an equivalent system in place."
+        }
+      ]
+    },
+    {
+      "title": "Harness and Personal Fall Arrest",
+      "items": [
+        {
+          "text": "Inspect the harness webbing, stitching, D-rings and buckles for damage."
+        },
+        {
+          "text": "Check the lanyard, shock absorber and connectors for wear or deployment."
+        },
+        {
+          "text": "Confirm self-retracting lifelines lock and retract correctly."
+        },
+        {
+          "text": "Verify the harness fits snugly and is worn and adjusted correctly.",
+          "note": "A loose harness can cause injury during a fall arrest."
+        },
+        {
+          "text": "Calculate fall clearance to confirm the worker will not strike a lower level."
+        }
+      ]
+    },
+    {
+      "title": "Anchor Points and Connections",
+      "items": [
+        {
+          "text": "Confirm anchor points are rated and selected or designed by a qualified person."
+        },
+        {
+          "text": "Check that anchors are positioned to minimize free-fall distance and swing fall."
+        },
+        {
+          "text": "Verify connectors and snap hooks are compatible and locked."
+        },
+        {
+          "text": "Confirm only one worker is attached per anchor unless rated for more."
+        },
+        {
+          "text": "Check horizontal lifelines, where used, are installed and tensioned correctly."
+        }
+      ]
+    },
+    {
+      "title": "Inspection and Records",
+      "items": [
+        {
+          "text": "Confirm all equipment is inspected before each use."
+        },
+        {
+          "text": "Verify a competent person performs documented periodic inspections."
+        },
+        {
+          "text": "Remove from service any equipment that arrested a fall or shows damage.",
+          "note": "Tag and quarantine damaged gear so it cannot be reused."
+        },
+        {
+          "text": "Check inspection records are dated and retained."
+        },
+        {
+          "text": "Confirm workers are trained to inspect their own equipment."
+        }
+      ]
+    },
+    {
+      "title": "Rescue and Emergency",
+      "items": [
+        {
+          "text": "Confirm a fall rescue plan is documented and understood by the crew."
+        },
+        {
+          "text": "Check that rescue equipment is available and personnel are trained to use it."
+        },
+        {
+          "text": "Verify the plan addresses suspension trauma and prompt retrieval."
+        },
+        {
+          "text": "Confirm emergency contacts and procedures are posted at the work area."
+        },
+        {
+          "text": "Check that the rescue plan has been practiced or briefed before work begins."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training or your employer's safety program; confirm requirements with a qualified or competent person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When is fall protection required?",
+      "a": "OSHA generally requires fall protection at four feet in general industry, six feet in construction, and around dangerous equipment regardless of height. Confirm the exact trigger height and method for your industry and task."
+    },
+    {
+      "q": "How often should a harness and lanyard be inspected?",
+      "a": "Inspect the full personal fall arrest system before each use and have a competent person carry out documented periodic inspections. Remove from service any component that has arrested a fall or shows damage."
+    },
+    {
+      "q": "Why do I need a rescue plan for working at height?",
+      "a": "A worker suspended in a harness after a fall can suffer suspension trauma within minutes. A prompt rescue plan and the means to carry it out are essential parts of any fall protection program."
+    },
+    {
+      "q": "Can I tie off to any structure as an anchor?",
+      "a": "No. Anchor points must support the required loads and be selected or designed by a qualified person. Never improvise an anchor without confirming it meets the standard for your system."
+    },
+    {
+      "q": "Does this checklist replace OSHA rules or training?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal fall protection training, your employer's safety program, or a qualified or competent person. Always confirm the standards that apply to your work."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fall-protection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fall-protection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fall Protection Checklist by ChecklistForge (https://checklistforge.com/checklist/fall-protection-checklist)",
+  "updated": "2026-10-17"
+}

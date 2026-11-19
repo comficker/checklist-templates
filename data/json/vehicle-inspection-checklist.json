@@ -1,0 +1,182 @@
+{
+  "id": "vehicle-inspection-checklist",
+  "name": "Vehicle Inspection Checklist",
+  "description": "A pre-trip inspection checklist for vehicles and fleets.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "vehicle-inspection",
+    "fleet"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Tires and wheels",
+      "items": [
+        {
+          "text": "Check tire tread depth meets the legal minimum."
+        },
+        {
+          "text": "Inspect tires for cuts, bulges, cracks or embedded objects."
+        },
+        {
+          "text": "Verify tire pressure matches the recommended setting."
+        },
+        {
+          "text": "Confirm wheel nuts are present and tight."
+        },
+        {
+          "text": "Check the spare tire, jack and tools are present where required."
+        },
+        {
+          "text": "Inspect rims for cracks or damage."
+        }
+      ]
+    },
+    {
+      "title": "Lights and signals",
+      "items": [
+        {
+          "text": "Confirm headlights, high beams and fog lights work."
+        },
+        {
+          "text": "Check brake lights illuminate when the pedal is pressed."
+        },
+        {
+          "text": "Verify turn signals and hazard lights flash correctly."
+        },
+        {
+          "text": "Confirm reverse lights work when in reverse."
+        },
+        {
+          "text": "Check marker, clearance and license plate lights."
+        },
+        {
+          "text": "Verify all lenses are intact and clean."
+        }
+      ]
+    },
+    {
+      "title": "Brakes and steering",
+      "items": [
+        {
+          "text": "Confirm the brake pedal is firm with normal travel."
+        },
+        {
+          "text": "Check the parking brake holds the vehicle.",
+          "note": "Any brake or steering fault makes the vehicle unsafe to drive until repaired."
+        },
+        {
+          "text": "Verify steering responds smoothly with no excess play."
+        },
+        {
+          "text": "Listen for unusual noise when braking or steering."
+        },
+        {
+          "text": "On air-brake vehicles, check pressure build-up and warnings."
+        },
+        {
+          "text": "Confirm no warning lights remain on for brakes or ABS."
+        }
+      ]
+    },
+    {
+      "title": "Fluids and engine",
+      "items": [
+        {
+          "text": "Check engine oil level and condition."
+        },
+        {
+          "text": "Verify coolant level when the engine is cool."
+        },
+        {
+          "text": "Check brake and power steering fluid levels."
+        },
+        {
+          "text": "Confirm windshield washer fluid is topped up."
+        },
+        {
+          "text": "Inspect under the vehicle for leaks or drips."
+        },
+        {
+          "text": "Check belts and hoses for wear or looseness."
+        }
+      ]
+    },
+    {
+      "title": "Mirrors and cab",
+      "items": [
+        {
+          "text": "Confirm mirrors are clean, intact and adjusted."
+        },
+        {
+          "text": "Check the windshield and wipers are clear and functional."
+        },
+        {
+          "text": "Verify the horn works."
+        },
+        {
+          "text": "Confirm seatbelts latch and retract for all seats."
+        },
+        {
+          "text": "Check dashboard warning lights clear after startup."
+        },
+        {
+          "text": "Verify the defroster and ventilation operate."
+        }
+      ]
+    },
+    {
+      "title": "Documents and safety",
+      "items": [
+        {
+          "text": "Confirm registration and insurance documents are present and current."
+        },
+        {
+          "text": "Check the driver's license is valid for the vehicle class."
+        },
+        {
+          "text": "Verify the first aid kit and warning triangles where required."
+        },
+        {
+          "text": "Confirm the fire extinguisher is charged where fitted."
+        },
+        {
+          "text": "Record any defects and report them before driving."
+        },
+        {
+          "text": "Sign, date and file the completed pre-trip inspection."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a vehicle inspection checklist?",
+      "a": "It's a pre-trip list used to confirm a vehicle is safe before driving, covering tires, lights, brakes, fluids, mirrors and documents. Each item is marked pass or fail so defects are caught before the vehicle is on the road."
+    },
+    {
+      "q": "Are pre-trip inspections required by law?",
+      "a": "For commercial motor vehicles, the DOT and FMCSA require pre-trip inspections and a driver vehicle inspection report. For personal vehicles they are best practice rather than mandatory, but still strongly recommended."
+    },
+    {
+      "q": "How often should a vehicle be inspected?",
+      "a": "Perform a pre-trip inspection before each trip or shift, and a post-trip inspection for commercial vehicles. Add scheduled servicing at the mileage or time intervals in the owner's manual."
+    },
+    {
+      "q": "What if a vehicle fails inspection?",
+      "a": "Do not drive it if the fault affects safety, such as brakes, tires, steering or lights. Report the defect, take the vehicle out of service, and have it repaired by a qualified mechanic before use."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the vehicle inspection checklist for the glovebox or logbook, or download the PDF to complete on a phone or tablet and keep with your fleet records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/vehicle-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/vehicle-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Vehicle Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/vehicle-inspection-checklist)",
+  "updated": "2026-10-20"
+}

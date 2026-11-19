@@ -1,0 +1,210 @@
+{
+  "id": "camping-checklist",
+  "name": "Camping Checklist",
+  "description": "A complete tent camping checklist covering shelter, sleep system, cooking gear, clothing, tools and safety essentials.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "camping",
+    "outdoors",
+    "travel",
+    "tent"
+  ],
+  "item_count": 43,
+  "sections": [
+    {
+      "title": "Shelter",
+      "items": [
+        {
+          "text": "Tent with poles, stakes, and guy lines"
+        },
+        {
+          "text": "Footprint or ground tarp"
+        },
+        {
+          "text": "Rainfly and extra stakes"
+        },
+        {
+          "text": "Mallet for driving stakes"
+        },
+        {
+          "text": "Repair tape or a patch kit",
+          "note": "Pitch and inspect your tent at home before the trip."
+        },
+        {
+          "text": "Doormat or small tarp for the entrance"
+        }
+      ]
+    },
+    {
+      "title": "Sleep System",
+      "items": [
+        {
+          "text": "Sleeping bag rated for the expected low temperature"
+        },
+        {
+          "text": "Sleeping pad or air mattress"
+        },
+        {
+          "text": "Pillow or stuff sack to use as one"
+        },
+        {
+          "text": "Extra blanket for cold nights"
+        },
+        {
+          "text": "Pump if your mattress needs one"
+        }
+      ]
+    },
+    {
+      "title": "Camp Kitchen",
+      "items": [
+        {
+          "text": "Camp stove with fuel"
+        },
+        {
+          "text": "Lighter, matches, and fire starters"
+        },
+        {
+          "text": "Pot, pan, and cooking utensils"
+        },
+        {
+          "text": "Plates, bowls, cups, and reusable cutlery"
+        },
+        {
+          "text": "Cooler with ice for perishables"
+        },
+        {
+          "text": "Biodegradable soap, sponge, and a wash basin"
+        },
+        {
+          "text": "Trash bags and sealed containers for food storage"
+        }
+      ]
+    },
+    {
+      "title": "Clothing",
+      "items": [
+        {
+          "text": "Moisture-wicking base layers"
+        },
+        {
+          "text": "Insulating layer like a fleece or down jacket"
+        },
+        {
+          "text": "Waterproof rain jacket"
+        },
+        {
+          "text": "Sturdy shoes or hiking boots and camp sandals"
+        },
+        {
+          "text": "Warm hat, gloves, and extra socks"
+        },
+        {
+          "text": "Quick-dry pants and shirts"
+        },
+        {
+          "text": "Sleepwear set aside just for the tent"
+        }
+      ]
+    },
+    {
+      "title": "Lighting and Tools",
+      "items": [
+        {
+          "text": "Headlamp and a backup flashlight"
+        },
+        {
+          "text": "Extra batteries"
+        },
+        {
+          "text": "Lantern for the campsite"
+        },
+        {
+          "text": "Multi-tool or knife"
+        },
+        {
+          "text": "Paracord or rope"
+        },
+        {
+          "text": "Duct tape and zip ties"
+        }
+      ]
+    },
+    {
+      "title": "Food, Water, and Hygiene",
+      "items": [
+        {
+          "text": "Drinking water (about one gallon per person per day)"
+        },
+        {
+          "text": "Water filter or purification tablets as backup"
+        },
+        {
+          "text": "Planned meals and snacks"
+        },
+        {
+          "text": "Toilet paper and a trowel for cat holes"
+        },
+        {
+          "text": "Toothbrush, soap, and toiletries"
+        },
+        {
+          "text": "Hand sanitizer and wet wipes"
+        }
+      ]
+    },
+    {
+      "title": "Safety and Essentials",
+      "items": [
+        {
+          "text": "First-aid kit"
+        },
+        {
+          "text": "Insect repellent and sunscreen"
+        },
+        {
+          "text": "Map, compass, or GPS"
+        },
+        {
+          "text": "Fully charged phone and a power bank"
+        },
+        {
+          "text": "Whistle and emergency contact info"
+        },
+        {
+          "text": "Check the weather and conditions and share your plan",
+          "note": "Tell someone your route and expected return time."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need for tent camping?",
+      "a": "You need a tent with stakes, a sleeping bag and pad, a camp kitchen for cooking, weather-appropriate clothing, lighting, and a first-aid kit. Pack water and food, plus tools like a knife and headlamp, and tailor the list to your campsite's facilities."
+    },
+    {
+      "q": "How should I prepare for a camping trip?",
+      "a": "Check the weather forecast and trail or park conditions, confirm your reservation, and test your gear before you go. Pack by category, bring enough water, and tell someone your trip plan and expected return time for safety."
+    },
+    {
+      "q": "What should I sleep on while camping?",
+      "a": "Use a sleeping pad or air mattress under a sleeping bag rated for the expected low temperature. A pad insulates you from the cold ground, which matters as much as the bag's rating for staying warm overnight."
+    },
+    {
+      "q": "Can I print this camping checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you pack and again when you break down camp."
+    },
+    {
+      "q": "How do I stay safe while camping?",
+      "a": "Check the weather and conditions before you go, tell someone your plans and return time, and store food sealed and away from your tent to deter wildlife. Carry a first-aid kit, a light, and a way to call for help."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/camping-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/camping-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Camping Checklist by ChecklistForge (https://checklistforge.com/checklist/camping-checklist)",
+  "updated": "2026-10-18"
+}

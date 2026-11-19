@@ -1,0 +1,184 @@
+{
+  "id": "car-inspection-checklist",
+  "name": "Car Inspection Checklist",
+  "description": "A checklist for inspecting your own car's condition and safety.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "inspection",
+    "vehicles",
+    "cars",
+    "car-inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Exterior and body",
+      "items": [
+        {
+          "text": "Walk around the car checking for dents, rust, cracks or fresh damage."
+        },
+        {
+          "text": "Confirm the license plates are present, secure and readable."
+        },
+        {
+          "text": "Check that doors, hood and trunk open, close and latch securely."
+        },
+        {
+          "text": "Inspect the windshield and windows for chips or cracks in the line of sight."
+        },
+        {
+          "text": "Check that mirrors are intact, secure and adjust properly."
+        },
+        {
+          "text": "Look under the car for fresh fluid leaks or hanging components."
+        }
+      ]
+    },
+    {
+      "title": "Lights and signals",
+      "items": [
+        {
+          "text": "Test both low and high beam headlights for output and aim."
+        },
+        {
+          "text": "Check brake lights and the center high-mount stop lamp.",
+          "note": "Use a wall reflection or a helper to confirm brake lights at the rear."
+        },
+        {
+          "text": "Verify front and rear turn signals and hazard lights flash correctly."
+        },
+        {
+          "text": "Test reverse lights and the rear license plate light."
+        },
+        {
+          "text": "Check parking, fog and daytime running lights where fitted."
+        },
+        {
+          "text": "Confirm no warning lights stay lit on the dashboard after start-up."
+        }
+      ]
+    },
+    {
+      "title": "Tires and wheels",
+      "items": [
+        {
+          "text": "Check tire pressure on all tires against the door-jamb sticker."
+        },
+        {
+          "text": "Measure tread depth and confirm it is above the legal minimum."
+        },
+        {
+          "text": "Look for uneven wear, cuts, bulges or embedded objects."
+        },
+        {
+          "text": "Confirm all lug nuts are present and wheel covers are secure."
+        },
+        {
+          "text": "Inspect the spare tire's pressure and condition."
+        },
+        {
+          "text": "Verify the TPMS light is off or address the warning."
+        }
+      ]
+    },
+    {
+      "title": "Brakes and steering",
+      "items": [
+        {
+          "text": "Test the brake pedal for firm, consistent feel without sinking."
+        },
+        {
+          "text": "Listen for grinding or squealing when braking.",
+          "note": "Grinding usually means worn pads; have the brakes inspected immediately."
+        },
+        {
+          "text": "Confirm the parking brake holds the car on an incline."
+        },
+        {
+          "text": "Check the steering for excessive play, pulling or vibration."
+        },
+        {
+          "text": "Verify the ABS and brake warning lights are off."
+        },
+        {
+          "text": "Listen for clunks over bumps that suggest worn suspension."
+        }
+      ]
+    },
+    {
+      "title": "Fluids and under the hood",
+      "items": [
+        {
+          "text": "Check engine oil level and condition on the dipstick."
+        },
+        {
+          "text": "Verify coolant level in the reservoir when the engine is cold."
+        },
+        {
+          "text": "Check brake fluid and power steering fluid levels."
+        },
+        {
+          "text": "Top up windshield washer fluid."
+        },
+        {
+          "text": "Inspect belts and hoses for cracks, fraying or leaks."
+        },
+        {
+          "text": "Check the battery terminals are clean, tight and corrosion-free."
+        }
+      ]
+    },
+    {
+      "title": "Interior and safety equipment",
+      "items": [
+        {
+          "text": "Test the horn for a clear, loud sound."
+        },
+        {
+          "text": "Check that wipers clear the glass and washers spray properly."
+        },
+        {
+          "text": "Confirm all seatbelts latch, retract and are undamaged."
+        },
+        {
+          "text": "Verify the defroster, heater and ventilation work."
+        },
+        {
+          "text": "Check that warning, oil and fuel gauges read correctly."
+        },
+        {
+          "text": "Confirm a warning triangle, first-aid kit and required items are aboard."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a car inspection checklist?",
+      "a": "It's a step-by-step list for checking your own car's safety and condition — lights, tires, brakes, fluids and wipers — against pass or fail criteria, so owners can catch faults early and prepare for an official inspection."
+    },
+    {
+      "q": "How often should I inspect my car?",
+      "a": "Do a quick safety walkaround monthly, a fuller inspection before long trips and seasonal changes, and a complete review ahead of any official or emissions inspection. Always investigate a warning light promptly."
+    },
+    {
+      "q": "Does this replace an official vehicle inspection?",
+      "a": "No. This is a self-inspection to catch issues early. It does not replace a licensed inspection station, your jurisdiction's required tests, or a mechanic's diagnosis of any fault you find."
+    },
+    {
+      "q": "What should I do about a fault I can't assess?",
+      "a": "Note and, if possible, photograph it, then have a qualified mechanic diagnose it. Do not drive a car with a serious brake, steering, tire or lighting defect until it is repaired."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the car inspection checklist to walk around the car, or download the PDF to complete on your phone and flag items needing repair."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/car-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/car-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Car Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/car-inspection-checklist)",
+  "updated": "2026-10-20"
+}

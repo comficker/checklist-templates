@@ -1,0 +1,156 @@
+{
+  "id": "earthquake-checklist",
+  "name": "Earthquake Checklist",
+  "description": "A before, during and after earthquake checklist to secure your home and keep your family safe.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "emergency",
+    "preparedness",
+    "family",
+    "earthquake"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Before: Secure Your Home",
+      "items": [
+        {
+          "text": "Anchor tall bookcases, cabinets and shelving to wall studs"
+        },
+        {
+          "text": "Strap the water heater and major appliances to the wall"
+        },
+        {
+          "text": "Install latches on cabinets to keep doors shut"
+        },
+        {
+          "text": "Move heavy and breakable items to low, secure shelves"
+        },
+        {
+          "text": "Keep beds away from windows and heavy hanging objects"
+        },
+        {
+          "text": "Know how to shut off gas, water and electricity"
+        }
+      ]
+    },
+    {
+      "title": "Before: Build Your Kit and Plan",
+      "items": [
+        {
+          "text": "Store one gallon of water per person per day for three days"
+        },
+        {
+          "text": "Keep a three-day supply of non-perishable food and a can opener"
+        },
+        {
+          "text": "Pack a first aid kit, medications and sturdy shoes by each bed",
+          "note": "Broken glass after a quake makes shoes essential right where you sleep"
+        },
+        {
+          "text": "Add flashlights, a radio, spare batteries and a whistle"
+        },
+        {
+          "text": "Identify safe spots in every room away from windows"
+        },
+        {
+          "text": "Set a family meeting place and an out-of-area contact"
+        }
+      ]
+    },
+    {
+      "title": "Before: Practice and Plan",
+      "items": [
+        {
+          "text": "Practice Drop, Cover and Hold On with everyone in the home"
+        },
+        {
+          "text": "Teach children how and when to call for help"
+        },
+        {
+          "text": "Keep copies of key documents in a waterproof container"
+        },
+        {
+          "text": "Plan how to reunite if family members are apart"
+        },
+        {
+          "text": "Review the plan and refresh supplies twice a year"
+        }
+      ]
+    },
+    {
+      "title": "During: Drop, Cover and Hold On",
+      "items": [
+        {
+          "text": "Drop to your hands and knees right where you are"
+        },
+        {
+          "text": "Take cover under a sturdy table or against an interior wall"
+        },
+        {
+          "text": "Hold on and protect your head and neck until shaking stops"
+        },
+        {
+          "text": "Stay indoors and away from windows, mirrors and heavy furniture"
+        },
+        {
+          "text": "If outdoors, move to an open area away from buildings and power lines"
+        },
+        {
+          "text": "If driving, pull over safely and stay in the vehicle"
+        }
+      ]
+    },
+    {
+      "title": "After: Check for Hazards",
+      "items": [
+        {
+          "text": "Expect aftershocks and be ready to Drop, Cover and Hold On again"
+        },
+        {
+          "text": "Check yourself and others for injuries and give first aid"
+        },
+        {
+          "text": "Smell for gas; if you suspect a leak, shut it off and leave"
+        },
+        {
+          "text": "Stay clear of downed power lines and broken glass"
+        },
+        {
+          "text": "Inspect your home for damage before re-entering or staying"
+        },
+        {
+          "text": "Listen to a battery radio for official information and updates"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I do during an earthquake?",
+      "a": "Drop, Cover and Hold On. Drop to your hands and knees, take cover under a sturdy table or against an interior wall, and hold on until the shaking stops. Stay where you are rather than running outside, where falling debris is most dangerous."
+    },
+    {
+      "q": "How do I prepare my home for an earthquake?",
+      "a": "Fasten tall furniture, water heaters and shelving to wall studs, secure heavy items low, and use latches on cabinets. Know how to shut off gas and water, and identify safe spots in each room away from windows."
+    },
+    {
+      "q": "How much water and food should I store for an earthquake?",
+      "a": "Keep at least one gallon of water per person per day and a three-day supply of non-perishable food, following Red Cross and Ready.gov guidance. Aim for two weeks at home, since utilities and water lines may be damaged."
+    },
+    {
+      "q": "What are the biggest dangers after an earthquake?",
+      "a": "Aftershocks, gas leaks, downed power lines, broken glass and weakened structures. Check for hazards before moving around, expect aftershocks, and only re-enter damaged buildings once they are confirmed safe."
+    },
+    {
+      "q": "Is this earthquake checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep a copy with your kit, and review the Before, During and After steps with your family twice a year."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/earthquake-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/earthquake-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Earthquake Checklist by ChecklistForge (https://checklistforge.com/checklist/earthquake-checklist)",
+  "updated": "2026-10-17"
+}

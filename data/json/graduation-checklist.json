@@ -1,0 +1,182 @@
+{
+  "id": "graduation-checklist",
+  "name": "Graduation Checklist",
+  "description": "A checklist to prepare for and enjoy a graduation ceremony.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "grads",
+    "graduation",
+    "ceremony",
+    "celebration"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Confirm the essentials",
+      "items": [
+        {
+          "text": "Verify your eligibility and that you've met all requirements."
+        },
+        {
+          "text": "Apply or register to participate in the ceremony."
+        },
+        {
+          "text": "Confirm the date, time and venue location."
+        },
+        {
+          "text": "Note the arrival time and any check-in process."
+        },
+        {
+          "text": "Review the dress code and ceremony rules."
+        },
+        {
+          "text": "Add every key deadline to your calendar."
+        }
+      ]
+    },
+    {
+      "title": "Attire and regalia",
+      "items": [
+        {
+          "text": "Order or rent your cap, gown and any cords.",
+          "note": "Order regalia early — sizes can sell out close to the date."
+        },
+        {
+          "text": "Try everything on and steam out wrinkles."
+        },
+        {
+          "text": "Choose comfortable clothing to wear underneath."
+        },
+        {
+          "text": "Pick comfortable shoes for walking and standing."
+        },
+        {
+          "text": "Learn how to wear the cap and tassel correctly."
+        },
+        {
+          "text": "Prepare any honor cords, stoles or pins you've earned."
+        }
+      ]
+    },
+    {
+      "title": "Tickets and guests",
+      "items": [
+        {
+          "text": "Find out how many guest tickets you receive."
+        },
+        {
+          "text": "Request extra tickets early if you need more."
+        },
+        {
+          "text": "Invite family and friends and confirm who's coming."
+        },
+        {
+          "text": "Share the date, venue and arrival time with guests."
+        },
+        {
+          "text": "Send save-the-dates or invitations if you'd like."
+        },
+        {
+          "text": "Note any livestream option for distant guests."
+        }
+      ]
+    },
+    {
+      "title": "Travel and logistics",
+      "items": [
+        {
+          "text": "Book travel and lodging for out-of-town guests."
+        },
+        {
+          "text": "Plan parking and a meeting point at the venue."
+        },
+        {
+          "text": "Map your route and allow extra time for crowds."
+        },
+        {
+          "text": "Confirm accessibility needs for any guests."
+        },
+        {
+          "text": "Plan transportation between events for the day."
+        },
+        {
+          "text": "Have a backup plan for bad weather."
+        }
+      ]
+    },
+    {
+      "title": "Photos and memories",
+      "items": [
+        {
+          "text": "Schedule any professional or studio photos in advance."
+        },
+        {
+          "text": "Choose photo spots and a backup location."
+        },
+        {
+          "text": "Assign someone to capture the walk across the stage."
+        },
+        {
+          "text": "Charge phones and cameras and clear storage."
+        },
+        {
+          "text": "Plan a family group photo time and place."
+        },
+        {
+          "text": "Save the announcement to commemorate the milestone."
+        }
+      ]
+    },
+    {
+      "title": "Day-of and celebration",
+      "items": [
+        {
+          "text": "Lay out your attire and items the night before."
+        },
+        {
+          "text": "Eat a good meal and stay hydrated before the ceremony."
+        },
+        {
+          "text": "Arrive early and check in on time."
+        },
+        {
+          "text": "Silence your phone during the ceremony."
+        },
+        {
+          "text": "Plan a meeting point with guests afterward."
+        },
+        {
+          "text": "Book or set up the post-ceremony celebration."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How early should I prepare for graduation?",
+      "a": "Order your cap and gown and confirm ceremony details several weeks ahead. Handle invitations, guest tickets and travel a few weeks out, then confirm the schedule and attire in the final days."
+    },
+    {
+      "q": "How many guests can attend graduation?",
+      "a": "Many ceremonies limit tickets per graduate because of venue capacity. Confirm your allotment early, ask about extra tickets if needed, and check whether livestreaming is available for guests who can't attend."
+    },
+    {
+      "q": "What should I wear under a graduation gown?",
+      "a": "Choose comfortable, weather-appropriate clothing that won't show under the gown, plus comfortable shoes you can walk and stand in. Lighter layers help if the venue is warm or crowded."
+    },
+    {
+      "q": "When should I plan graduation photos?",
+      "a": "Schedule any professional or studio photos before the ceremony, and plan family photo spots and timing for the day. Crowds form fast, so pick meeting points and a backup location in advance."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each task as you prepare for graduation day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/graduation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/graduation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Graduation Checklist by ChecklistForge (https://checklistforge.com/checklist/graduation-checklist)",
+  "updated": "2026-10-17"
+}

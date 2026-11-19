@@ -1,0 +1,183 @@
+{
+  "id": "classroom-organization-checklist",
+  "name": "Classroom Organization Checklist",
+  "description": "A step-by-step checklist for organizing a classroom into clear zones, storage and student systems.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "storage",
+    "classroom",
+    "teacher",
+    "teaching",
+    "classroom-organization"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Declutter and assess",
+      "items": [
+        {
+          "text": "Empty shelves and surfaces to see what you have."
+        },
+        {
+          "text": "Sort items into keep, donate, store and toss piles."
+        },
+        {
+          "text": "Remove broken, outdated or duplicate materials."
+        },
+        {
+          "text": "Group like items together before deciding where they live."
+        },
+        {
+          "text": "Note what storage and containers you still need."
+        },
+        {
+          "text": "Clean shelves and bins before refilling them."
+        }
+      ]
+    },
+    {
+      "title": "Plan functional zones",
+      "items": [
+        {
+          "text": "Map a teaching zone near the board and screen."
+        },
+        {
+          "text": "Define student seating and work areas."
+        },
+        {
+          "text": "Create a small-group or reading zone if space allows."
+        },
+        {
+          "text": "Set a clear location for the supply station."
+        },
+        {
+          "text": "Designate a turn-in and returned-work area."
+        },
+        {
+          "text": "Keep high-traffic zones away from your desk.",
+          "note": "Separate busy areas to reduce interruptions while you teach."
+        }
+      ]
+    },
+    {
+      "title": "Storage and containers",
+      "items": [
+        {
+          "text": "Choose bins and baskets sized to their contents."
+        },
+        {
+          "text": "Store frequently used items within student reach."
+        },
+        {
+          "text": "Keep teacher-only materials in a separate area."
+        },
+        {
+          "text": "Use vertical space with shelves and wall pockets."
+        },
+        {
+          "text": "Store seasonal or rarely used items out of the way."
+        },
+        {
+          "text": "Keep heavy items low and light items high."
+        }
+      ]
+    },
+    {
+      "title": "Labels and signage",
+      "items": [
+        {
+          "text": "Label every bin, basket and shelf clearly."
+        },
+        {
+          "text": "Add pictures to labels for younger students."
+        },
+        {
+          "text": "Color-code by subject, group or category."
+        },
+        {
+          "text": "Label student mailboxes, folders and cubbies."
+        },
+        {
+          "text": "Post signs for each zone and its purpose."
+        },
+        {
+          "text": "Keep label style consistent across the room."
+        }
+      ]
+    },
+    {
+      "title": "Materials management",
+      "items": [
+        {
+          "text": "Organize the supply station for easy self-service."
+        },
+        {
+          "text": "Set up a clear book or classroom library system."
+        },
+        {
+          "text": "Arrange manipulatives and tools by subject."
+        },
+        {
+          "text": "Create a copy and paper management area."
+        },
+        {
+          "text": "Keep a restock list for consumable supplies."
+        },
+        {
+          "text": "Store technology and chargers in one place."
+        }
+      ]
+    },
+    {
+      "title": "Student systems",
+      "items": [
+        {
+          "text": "Set up turn-in trays for each class or subject."
+        },
+        {
+          "text": "Create a system for returning graded work."
+        },
+        {
+          "text": "Designate storage for backpacks and personal items."
+        },
+        {
+          "text": "Build a classroom job or helper rotation."
+        },
+        {
+          "text": "Teach students where materials belong and how to reset."
+        },
+        {
+          "text": "Set a routine for end-of-day tidy and restock."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Where should I start organizing my classroom?",
+      "a": "Begin by decluttering and removing anything broken, outdated or unused, so you only organize what you actually need. From there, plan functional zones and tackle one area at a time rather than trying to overhaul the whole room at once."
+    },
+    {
+      "q": "What classroom zones should I set up?",
+      "a": "Common zones include a teaching area, student work seating, a small-group or reading space, a supply station, and a turn-in and storage area. Defining clear zones helps students know where activities happen and keeps materials where they belong."
+    },
+    {
+      "q": "How do labels help classroom organization?",
+      "a": "Labels tell students and helpers exactly where things go, so materials get returned to the right place and the system holds up over time. Clear, consistent labels on bins, shelves and folders reduce questions and cut down on daily clutter."
+    },
+    {
+      "q": "What student systems keep a classroom organized?",
+      "a": "Set up systems for turning in and returning work, storing personal items, accessing supplies, and managing classroom jobs. When students can manage these routines themselves, the room stays organized without the teacher handling every small task."
+    },
+    {
+      "q": "Is this classroom organization checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to carry as you work through the room, then tick off each task so your classroom zones, storage and student systems are fully organized."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/classroom-organization-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/classroom-organization-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Classroom Organization Checklist by ChecklistForge (https://checklistforge.com/checklist/classroom-organization-checklist)",
+  "updated": "2026-10-17"
+}

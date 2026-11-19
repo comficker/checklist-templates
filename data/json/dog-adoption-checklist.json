@@ -1,0 +1,182 @@
+{
+  "id": "dog-adoption-checklist",
+  "name": "Dog Adoption Checklist",
+  "description": "A dog adoption checklist guiding new owners through adopting a dog, from shelter visit to the first days home.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "adoption",
+    "dogs",
+    "new-dog"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Before you adopt a dog",
+      "items": [
+        {
+          "text": "Assess your space, yard, and time for walks and training."
+        },
+        {
+          "text": "Decide on a size, age, and activity level that fits your life."
+        },
+        {
+          "text": "Confirm housing rules, breed restrictions, and deposits if you rent."
+        },
+        {
+          "text": "Budget for food, vet care, grooming, and supplies."
+        },
+        {
+          "text": "Discuss responsibilities and a daily routine with your household."
+        },
+        {
+          "text": "Consider how a dog will fit with children or existing pets."
+        }
+      ]
+    },
+    {
+      "title": "Visiting the shelter or rescue",
+      "items": [
+        {
+          "text": "Research reputable shelters, humane societies, and breed rescues."
+        },
+        {
+          "text": "Confirm hours and whether you need an appointment.",
+          "note": "Call ahead to be sure a dog is still available."
+        },
+        {
+          "text": "Observe how dogs respond to people and to the kennel environment."
+        },
+        {
+          "text": "Ask staff about each dog's history, health, and temperament."
+        },
+        {
+          "text": "Note which dogs match your criteria for a follow-up meet."
+        },
+        {
+          "text": "Be patient if the right dog is not there on your first visit."
+        }
+      ]
+    },
+    {
+      "title": "Meeting and matching",
+      "items": [
+        {
+          "text": "Spend unhurried one-on-one time with a dog before deciding."
+        },
+        {
+          "text": "Watch body language for comfort, fear, or stress signals."
+        },
+        {
+          "text": "Take the dog for a short walk if the shelter allows it."
+        },
+        {
+          "text": "Introduce household members and existing dogs in a controlled meet."
+        },
+        {
+          "text": "Ask about energy, training, and any behavior challenges."
+        },
+        {
+          "text": "Choose based on fit, not only appearance."
+        }
+      ]
+    },
+    {
+      "title": "Adoption paperwork and fees",
+      "items": [
+        {
+          "text": "Confirm the adoption fee and what it includes."
+        },
+        {
+          "text": "Collect vaccination, spay or neuter, and microchip records."
+        },
+        {
+          "text": "Sign the adoption contract and keep your copy."
+        },
+        {
+          "text": "Update the microchip registration to your details."
+        },
+        {
+          "text": "Get the dog's current food and feeding schedule."
+        },
+        {
+          "text": "Ask about any recommended follow-up vet care."
+        }
+      ]
+    },
+    {
+      "title": "Preparing your home for a dog",
+      "items": [
+        {
+          "text": "Dog-proof rooms by removing hazards and securing trash."
+        },
+        {
+          "text": "Set up a crate or quiet space where the dog can decompress."
+        },
+        {
+          "text": "Gather a collar, ID tag, leash, harness, bed, and bowls."
+        },
+        {
+          "text": "Stock the food the dog is already eating to avoid stomach upset."
+        },
+        {
+          "text": "Check that the yard and fences are secure with no gaps."
+        },
+        {
+          "text": "Schedule a first wellness visit with your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "First days home",
+      "items": [
+        {
+          "text": "Keep the homecoming calm and the dog leashed at first."
+        },
+        {
+          "text": "Introduce one room before opening up the whole house."
+        },
+        {
+          "text": "Establish a feeding, potty, and walk routine right away."
+        },
+        {
+          "text": "Give plenty of decompression time and limit visitors."
+        },
+        {
+          "text": "Introduce existing pets slowly and under supervision."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Schedule a checkup and consult a veterinarian about vaccinations, parasite prevention, and your dog's health."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I choose the right dog to adopt?",
+      "a": "Match a dog's energy, size, age, and temperament to your home, schedule, and experience. Spend time with the dog, ask the shelter about behavior and history, and be honest about what you can handle. The right fit makes adoption far easier for both of you."
+    },
+    {
+      "q": "What should I ask the shelter about a dog?",
+      "a": "Ask about the dog's age, health, vaccination and spay or neuter status, known behaviors, history with people and other animals, energy level, and any special needs. Reputable shelters share what they know so you can prepare for your veterinarian visit."
+    },
+    {
+      "q": "What do I need for the first days with an adopted dog?",
+      "a": "Have food, bowls, a collar with ID, a leash, a bed, and a crate or safe space ready. Keep the first days calm and predictable, limit new experiences, and give your dog time to decompress. Our New Dog Checklist covers settling in step by step."
+    },
+    {
+      "q": "How is this different from the new puppy checklist?",
+      "a": "This dog adoption checklist focuses on adopting a dog of any age and the shelter process. If you are bringing home a young puppy, our New Puppy Checklist and Puppy Checklist add crate training, vaccinations, and first-year milestones."
+    },
+    {
+      "q": "Can I download this dog adoption checklist as a PDF?",
+      "a": "Yes. You can print it for shelter visits or download it as a PDF to your phone, so new dog owners can reference it while choosing and settling a dog."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-adoption-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-adoption-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Adoption Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-adoption-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,198 @@
+{
+  "id": "baby-essentials-checklist",
+  "name": "Baby Essentials Checklist",
+  "description": "The must-have items a newborn needs through the first few months.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "newborn",
+    "baby-essentials",
+    "first-months",
+    "new-parents"
+  ],
+  "item_count": 39,
+  "sections": [
+    {
+      "title": "Safe Sleep",
+      "items": [
+        {
+          "text": "Set up a crib or bassinet that meets current safety standards"
+        },
+        {
+          "text": "Add a firm, snug-fitting mattress and a few fitted sheets"
+        },
+        {
+          "text": "Keep the sleep space bare, with no pillows, bumpers, or loose blankets"
+        },
+        {
+          "text": "Use wearable blankets or sleep sacks for warmth"
+        },
+        {
+          "text": "Have a couple of swaddle blankets on hand",
+          "note": "Stop swaddling once your baby shows signs of rolling."
+        },
+        {
+          "text": "Place a baby monitor where you can see and hear easily"
+        }
+      ]
+    },
+    {
+      "title": "Feeding",
+      "items": [
+        {
+          "text": "Gather a few bottles in a couple of sizes"
+        },
+        {
+          "text": "Keep a bottle brush and drying rack near the sink"
+        },
+        {
+          "text": "Stock burp cloths, eight to ten of them"
+        },
+        {
+          "text": "Have a nursing pillow ready if you plan to breastfeed"
+        },
+        {
+          "text": "Keep formula on hand if you plan to use it",
+          "note": "Ask your pediatrician about choosing and preparing formula."
+        },
+        {
+          "text": "Set up a comfortable feeding spot with water and snacks nearby"
+        }
+      ]
+    },
+    {
+      "title": "Diapering",
+      "items": [
+        {
+          "text": "Stock newborn and size 1 diapers"
+        },
+        {
+          "text": "Keep fragrance-free wipes within arm's reach"
+        },
+        {
+          "text": "Set up a changing pad with a washable cover"
+        },
+        {
+          "text": "Have diaper cream ready for irritation"
+        },
+        {
+          "text": "Use a covered pail or sealed system for soiled diapers"
+        },
+        {
+          "text": "Pack a small portable changing kit for outings"
+        }
+      ]
+    },
+    {
+      "title": "Clothing & Layers",
+      "items": [
+        {
+          "text": "Stock six to eight onesies in newborn and 0 to 3 month sizes"
+        },
+        {
+          "text": "Have several footed sleepers with easy snaps or zippers"
+        },
+        {
+          "text": "Keep socks, hats, and scratch mittens on hand"
+        },
+        {
+          "text": "Add weather-appropriate layers like a sweater or bunting"
+        },
+        {
+          "text": "Keep a few extra swaddles and receiving blankets nearby"
+        }
+      ]
+    },
+    {
+      "title": "Bath & Skin Care",
+      "items": [
+        {
+          "text": "Use a baby bathtub or a soft sink insert"
+        },
+        {
+          "text": "Keep hooded towels and soft washcloths ready"
+        },
+        {
+          "text": "Stock fragrance-free baby wash and lotion"
+        },
+        {
+          "text": "Have baby nail clippers or a file and a soft hairbrush"
+        },
+        {
+          "text": "Start with sponge baths until the cord stump heals",
+          "note": "Check with your pediatrician about cord care."
+        }
+      ]
+    },
+    {
+      "title": "Health & Comfort",
+      "items": [
+        {
+          "text": "Keep a digital thermometer for checking temperature"
+        },
+        {
+          "text": "Have a nasal aspirator for stuffy noses"
+        },
+        {
+          "text": "Stock a basic baby first aid kit"
+        },
+        {
+          "text": "Run a humidifier during dry-air seasons"
+        },
+        {
+          "text": "Try a couple of pacifiers if you choose to offer one"
+        },
+        {
+          "text": "Keep your pediatrician's number saved and easy to find"
+        }
+      ]
+    },
+    {
+      "title": "On the Go",
+      "items": [
+        {
+          "text": "Install an infant car seat and learn to buckle it correctly"
+        },
+        {
+          "text": "Keep a stroller or carrier ready for walks and errands"
+        },
+        {
+          "text": "Pack a roomy diaper bag with spare clothes and supplies"
+        },
+        {
+          "text": "Stash a clean change of clothes for yourself, just in case"
+        },
+        {
+          "text": "Carry a small blanket and a backup pacifier if you use one"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a newborn really need in the first month?",
+      "a": "The core essentials are a safe place to sleep, diapers and wipes, a way to feed, a handful of basic outfits, and supplies for bath and skin care. Everything else is optional. Focus on these needs first, then add comfort items gradually as you learn your baby's preferences."
+    },
+    {
+      "q": "How many onesies and outfits should I have?",
+      "a": "Plan for about six to eight onesies and a similar number of sleepers in newborn and 0 to 3 month sizes. Babies go through several outfits a day thanks to spit-up and diaper leaks. Having enough on hand means fewer urgent laundry days during those tiring early weeks."
+    },
+    {
+      "q": "How many diapers does a newborn use per day?",
+      "a": "Newborns commonly go through eight to twelve diapers a day, so keep a steady supply on hand. Buy a couple of packs in newborn size and a few in size 1, since babies grow quickly. Avoid stockpiling too many of one size before your baby arrives."
+    },
+    {
+      "q": "Do I need a special baby bathtub?",
+      "a": "A baby bathtub is helpful but not strictly required; a clean sink with a soft insert can work too. Until the umbilical cord stump falls off, sponge baths are typical. Always keep one hand on your baby in water and never leave them unattended, even for a moment."
+    },
+    {
+      "q": "What baby items can I skip at first?",
+      "a": "You can usually skip wipe warmers, shoes, fancy outfits, and most single-use gadgets in the early months. Many comfort and entertainment items can wait until your baby is older. Start with the essentials, then add a few extras only once you see what your baby and your routine need."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/baby-essentials-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/baby-essentials-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Baby Essentials Checklist by ChecklistForge (https://checklistforge.com/checklist/baby-essentials-checklist)",
+  "updated": "2026-10-17"
+}

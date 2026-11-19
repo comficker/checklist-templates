@@ -1,0 +1,182 @@
+{
+  "id": "cat-care-checklist",
+  "name": "Cat Care Checklist",
+  "description": "A cat care checklist organizing daily, weekly, and monthly routines that keep a cat healthy and happy.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "cat-care",
+    "grooming"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Daily care",
+      "items": [
+        {
+          "text": "Serve measured meals at consistent times and refresh water."
+        },
+        {
+          "text": "Scoop the litter box and check for anything unusual."
+        },
+        {
+          "text": "Offer interactive play to keep your cat active."
+        },
+        {
+          "text": "Spend calm time bonding and observing behavior."
+        },
+        {
+          "text": "Wipe up spills and keep feeding areas clean."
+        },
+        {
+          "text": "Check appetite, energy, and mood for changes."
+        }
+      ]
+    },
+    {
+      "title": "Weekly care",
+      "items": [
+        {
+          "text": "Brush your cat's coat, more for long-haired breeds."
+        },
+        {
+          "text": "Wash bedding and clean food and water bowls thoroughly."
+        },
+        {
+          "text": "Fully change the litter and wipe down the box."
+        },
+        {
+          "text": "Check ears, eyes, and teeth for buildup or odor."
+        },
+        {
+          "text": "Inspect the scratching post and rotate toys."
+        },
+        {
+          "text": "Confirm ID tag and any escape-prone areas are secure."
+        }
+      ]
+    },
+    {
+      "title": "Monthly care",
+      "items": [
+        {
+          "text": "Give parasite prevention for fleas and worms on schedule.",
+          "note": "Follow your veterinarian's recommended products and timing."
+        },
+        {
+          "text": "Weigh your cat and note any changes."
+        },
+        {
+          "text": "Trim nails if they have grown too long."
+        },
+        {
+          "text": "Review and refill any medications or supplements."
+        },
+        {
+          "text": "Restock food, litter, and supplies before they run out."
+        },
+        {
+          "text": "Confirm microchip and ID details are current."
+        }
+      ]
+    },
+    {
+      "title": "Feeding and nutrition",
+      "items": [
+        {
+          "text": "Feed a quality, age-appropriate cat food in measured portions."
+        },
+        {
+          "text": "Provide clean, fresh water and encourage hydration."
+        },
+        {
+          "text": "Limit treats and avoid foods toxic to cats."
+        },
+        {
+          "text": "Transition any food change gradually over several days."
+        },
+        {
+          "text": "Adjust portions for age, weight, and activity."
+        },
+        {
+          "text": "Note appetite changes or vomiting for your vet."
+        }
+      ]
+    },
+    {
+      "title": "Litter and hygiene",
+      "items": [
+        {
+          "text": "Keep litter boxes clean, accessible, and away from food."
+        },
+        {
+          "text": "Provide enough boxes for a multi-cat home."
+        },
+        {
+          "text": "Watch for changes in urine, stool, or box use."
+        },
+        {
+          "text": "Clean around feeding and litter areas regularly."
+        },
+        {
+          "text": "Check coat and skin for fleas, mats, and lumps."
+        },
+        {
+          "text": "Maintain dental care as your vet recommends."
+        }
+      ]
+    },
+    {
+      "title": "Health and wellness",
+      "items": [
+        {
+          "text": "Keep up with routine wellness exams and vaccinations."
+        },
+        {
+          "text": "Watch energy, appetite, weight, and litter habits."
+        },
+        {
+          "text": "Give prescribed medications exactly as directed."
+        },
+        {
+          "text": "Provide perches, enrichment, and safe scratching outlets."
+        },
+        {
+          "text": "Keep emergency vet contacts handy."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your cat's health, diet, and medications."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does daily cat care involve?",
+      "a": "Daily cat care means measured meals and fresh water, scooping the litter box, interactive play, and a quick check of mood and behavior. This cat care checklist groups these so the essentials happen every day."
+    },
+    {
+      "q": "How often should I clean the litter box?",
+      "a": "Scoop the litter box at least once a day and fully change the litter regularly, cleaning the box itself periodically. A clean box encourages good habits and helps you notice changes in your cat's urine or stool that may warrant a vet visit."
+    },
+    {
+      "q": "How often should I groom my cat?",
+      "a": "Most cats benefit from regular brushing, more often for long-haired breeds, plus occasional nail trims and dental care. Brushing reduces hairballs and shedding and lets you check skin and coat. Ask your veterinarian about a routine for your cat."
+    },
+    {
+      "q": "How is this different from the new cat checklist?",
+      "a": "This cat care checklist is the ongoing daily, weekly, and monthly routine. Our New Cat Checklist covers settling a newly arrived cat into your home for the first time. Many owners use both together."
+    },
+    {
+      "q": "Can I download this cat care checklist as a PDF?",
+      "a": "Yes. You can print it for the kitchen or download it as a PDF so the whole household can keep your cat's daily, weekly, and monthly care consistent."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cat-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cat-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cat Care Checklist by ChecklistForge (https://checklistforge.com/checklist/cat-care-checklist)",
+  "updated": "2026-10-17"
+}

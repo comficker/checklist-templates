@@ -1,0 +1,183 @@
+{
+  "id": "homeschool-checklist",
+  "name": "Homeschool Checklist",
+  "description": "A complete checklist for planning and running a successful homeschool year.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "records",
+    "parents",
+    "teaching",
+    "homeschool",
+    "curriculum"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Legal and administrative",
+      "items": [
+        {
+          "text": "Research the homeschool laws for your area."
+        },
+        {
+          "text": "File any required notice of intent or registration."
+        },
+        {
+          "text": "Note attendance and instructional-day requirements."
+        },
+        {
+          "text": "Identify required assessments or portfolio reviews."
+        },
+        {
+          "text": "Set up a system for required record-keeping.",
+          "note": "Keep copies of every filing and deadline confirmation."
+        },
+        {
+          "text": "Mark all reporting deadlines on your calendar."
+        }
+      ]
+    },
+    {
+      "title": "Curriculum and planning",
+      "items": [
+        {
+          "text": "Set learning goals for each child and subject."
+        },
+        {
+          "text": "Choose curriculum that fits your child's level and style."
+        },
+        {
+          "text": "Gather core subjects: reading, math, science, history."
+        },
+        {
+          "text": "Add electives, arts and physical activity."
+        },
+        {
+          "text": "Map out the year into terms or units."
+        },
+        {
+          "text": "Plan field trips, co-ops and enrichment activities."
+        }
+      ]
+    },
+    {
+      "title": "Schedule and routine",
+      "items": [
+        {
+          "text": "Set a weekly schedule with subjects and time blocks."
+        },
+        {
+          "text": "Build a consistent daily start and routine."
+        },
+        {
+          "text": "Balance focused lessons with breaks and free time."
+        },
+        {
+          "text": "Plan for outings, lessons and social activities."
+        },
+        {
+          "text": "Create a family calendar for the homeschool year."
+        },
+        {
+          "text": "Leave flexibility for sick days and catch-up time."
+        }
+      ]
+    },
+    {
+      "title": "Learning space and supplies",
+      "items": [
+        {
+          "text": "Set up a dedicated, organized learning area."
+        },
+        {
+          "text": "Stock core supplies, books and materials."
+        },
+        {
+          "text": "Organize storage for each child's work and resources."
+        },
+        {
+          "text": "Set up any technology and learning platforms."
+        },
+        {
+          "text": "Create a quiet space for focused independent work."
+        },
+        {
+          "text": "Display a schedule, calendar and reference charts."
+        }
+      ]
+    },
+    {
+      "title": "Records and documentation",
+      "items": [
+        {
+          "text": "Track attendance and instructional days."
+        },
+        {
+          "text": "Keep samples of work for each subject."
+        },
+        {
+          "text": "Record grades or progress notes regularly."
+        },
+        {
+          "text": "Maintain a reading and activity log."
+        },
+        {
+          "text": "Build a portfolio for each child."
+        },
+        {
+          "text": "Store transcripts and required documents safely."
+        }
+      ]
+    },
+    {
+      "title": "Assessment and review",
+      "items": [
+        {
+          "text": "Check progress against your learning goals regularly."
+        },
+        {
+          "text": "Use quizzes, projects or required tests to assess."
+        },
+        {
+          "text": "Adjust pacing and curriculum where needed."
+        },
+        {
+          "text": "Complete any required end-of-year assessments."
+        },
+        {
+          "text": "Review what worked and plan improvements."
+        },
+        {
+          "text": "Celebrate progress and set goals for next term."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What legal steps are required to homeschool?",
+      "a": "Requirements vary by location and may include filing a notice of intent, following an approved curriculum, keeping attendance, and submitting assessments or portfolios. Check your local rules early so you meet every deadline and keep the documentation your area requires."
+    },
+    {
+      "q": "How do I choose a homeschool curriculum?",
+      "a": "Match the curriculum to your child's level, learning style and your teaching approach, whether that is structured, literature-based or hands-on. Review samples, consider your budget and time, and stay flexible, since you can adjust if something is not working."
+    },
+    {
+      "q": "How many hours a day should we homeschool?",
+      "a": "Home learning is usually more efficient than a full school day, so younger children may need only a couple of focused hours and older students a few more. Focus on covering your objectives and your child's progress rather than counting hours."
+    },
+    {
+      "q": "What records should homeschoolers keep?",
+      "a": "Keep attendance, samples of work, grades or progress notes, reading lists, and any required assessments. Good records show progress, satisfy legal requirements, and create a portfolio that is useful for transcripts, college applications or returning to school."
+    },
+    {
+      "q": "Is this homeschool checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep in your planner, then tick off each task so your homeschool year is organized from legal requirements and curriculum to records and assessment."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/homeschool-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/homeschool-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Homeschool Checklist by ChecklistForge (https://checklistforge.com/checklist/homeschool-checklist)",
+  "updated": "2026-10-17"
+}

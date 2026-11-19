@@ -1,0 +1,176 @@
+{
+  "id": "senior-cat-checklist",
+  "name": "Senior Cat Checklist",
+  "description": "A checklist to help owners care for an aging cat with regular vet checks, kidney and dental care, mobility support, and comfort.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "pets",
+    "cats",
+    "care",
+    "senior"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Regular Vet Care",
+      "items": [
+        {
+          "text": "Schedule more frequent senior wellness exams"
+        },
+        {
+          "text": "Ask about bloodwork and urine tests for kidney health"
+        },
+        {
+          "text": "Keep vaccines and parasite prevention up to date"
+        },
+        {
+          "text": "Discuss dental checks and professional cleanings"
+        },
+        {
+          "text": "Track findings and follow-up steps after each visit",
+          "note": "Ask your vet how often your senior cat should be seen"
+        }
+      ]
+    },
+    {
+      "title": "Kidney & Dental Health",
+      "items": [
+        {
+          "text": "Watch for increased thirst or urination"
+        },
+        {
+          "text": "Note any drop in appetite or weight loss"
+        },
+        {
+          "text": "Provide easy access to plenty of fresh water"
+        },
+        {
+          "text": "Check for bad breath or trouble eating"
+        },
+        {
+          "text": "Ask about a diet suited to kidney or dental needs",
+          "note": "Discuss any special diet with your vet before starting"
+        }
+      ]
+    },
+    {
+      "title": "Mobility & Litter Access",
+      "items": [
+        {
+          "text": "Provide steps or ramps to favorite high spots"
+        },
+        {
+          "text": "Use a litter box with low sides for easy entry"
+        },
+        {
+          "text": "Place food, water, and litter on the main level"
+        },
+        {
+          "text": "Offer soft, warm, accessible bedding"
+        },
+        {
+          "text": "Keep nails trimmed for comfort and footing"
+        }
+      ]
+    },
+    {
+      "title": "Daily Comfort & Routine",
+      "items": [
+        {
+          "text": "Keep a calm, predictable daily routine"
+        },
+        {
+          "text": "Provide warm, quiet resting spots away from drafts"
+        },
+        {
+          "text": "Help with gentle grooming if your cat slows down"
+        },
+        {
+          "text": "Offer easy play and enrichment for the mind"
+        },
+        {
+          "text": "Give plenty of gentle attention and contact"
+        }
+      ]
+    },
+    {
+      "title": "Changes to Monitor",
+      "items": [
+        {
+          "text": "Appetite, thirst, and weight changes"
+        },
+        {
+          "text": "Hiding, vocalizing, or behavior shifts"
+        },
+        {
+          "text": "Stiffness or trouble jumping and climbing"
+        },
+        {
+          "text": "Litter box accidents or straining"
+        },
+        {
+          "text": "Coat, skin, vision, or hearing changes",
+          "note": "Report new or worsening signs to your vet promptly"
+        }
+      ]
+    },
+    {
+      "title": "Quality of Life",
+      "items": [
+        {
+          "text": "Note daily comfort, appetite, and mood"
+        },
+        {
+          "text": "Track good days versus difficult days"
+        },
+        {
+          "text": "Discuss pain management options with your vet"
+        },
+        {
+          "text": "Adapt the home as your cat's needs change"
+        },
+        {
+          "text": "Keep open conversations with your vet about care"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; an aging cat's needs depend on its health and individual condition, so always consult a licensed veterinarian",
+          "note": "For any emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When is a cat considered a senior?",
+      "a": "Cats are often viewed as senior in their later years, but the timing varies between individuals. Ask your veterinarian when your cat enters its senior stage and how its care should change."
+    },
+    {
+      "q": "Why are kidney checks important for older cats?",
+      "a": "Kidney disease is common in aging cats and develops slowly. Routine bloodwork and urine tests can catch it early, when diet and care can help most. Ask your vet which screenings your cat needs."
+    },
+    {
+      "q": "How can I help a senior cat that struggles to jump?",
+      "a": "Provide steps or ramps to favorite spots, lower-sided litter boxes, and soft, accessible bedding. If your cat is stiff or reluctant to move, talk to your veterinarian about supportive options."
+    },
+    {
+      "q": "Does dental care matter for older cats?",
+      "a": "Yes. Dental disease is common and can be painful and affect eating and overall health. Regular dental checks and care at home help keep your senior cat comfortable. Ask your vet for guidance."
+    },
+    {
+      "q": "Is this senior cat checklist printable?",
+      "a": "Yes. Print it or download the PDF, track vet visits and changes, and use it to keep your aging cat comfortable and well cared for."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/senior-cat-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/senior-cat-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Senior Cat Checklist by ChecklistForge (https://checklistforge.com/checklist/senior-cat-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "office-opening-checklist",
+  "name": "Office Opening Checklist",
+  "description": "A step-by-step routine for opening the office safely and smoothly every morning.",
+  "category": "office-management",
+  "category_name": "Office Management",
+  "tags": [
+    "office",
+    "workplace",
+    "office-management",
+    "opening"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Arrive and Secure Entry",
+      "items": [
+        {
+          "text": "Approach the building and check the exterior for damage, forced entry or anything out of place before entering."
+        },
+        {
+          "text": "Unlock the main entrance and any secondary doors required for staff access."
+        },
+        {
+          "text": "Disarm the security alarm within the allowed time window using your code.",
+          "note": "Keep the monitoring company number handy in case of accidental triggering."
+        },
+        {
+          "text": "Confirm CCTV and access control systems are powered and recording."
+        },
+        {
+          "text": "Prop open or unlock internal doors that staff need throughout the day."
+        }
+      ]
+    },
+    {
+      "title": "Power On Building Systems",
+      "items": [
+        {
+          "text": "Switch on main lighting in entrances, corridors and shared areas."
+        },
+        {
+          "text": "Adjust heating or air conditioning to a comfortable temperature for the day."
+        },
+        {
+          "text": "Turn on shared printers, copiers and scanners and check for paper and toner."
+        },
+        {
+          "text": "Power up reception screens, signage and any visitor sign-in systems."
+        },
+        {
+          "text": "Confirm Wi-Fi and the network are online and reachable."
+        }
+      ]
+    },
+    {
+      "title": "Safety and Security Scan",
+      "items": [
+        {
+          "text": "Walk the floor and check that fire exits and walkways are clear and unobstructed."
+        },
+        {
+          "text": "Look for spills, leaks or trip hazards and address them before staff arrive.",
+          "note": "Place wet-floor signs if cleaning has left surfaces damp."
+        },
+        {
+          "text": "Check that emergency exit doors open freely and are not blocked or locked."
+        },
+        {
+          "text": "Confirm first aid kits are in place and visible."
+        },
+        {
+          "text": "Note any maintenance issues and log them for follow-up."
+        }
+      ]
+    },
+    {
+      "title": "Prepare Common Areas",
+      "items": [
+        {
+          "text": "Wipe down reception and shared desks if needed and tidy any clutter left overnight."
+        },
+        {
+          "text": "Switch on the kitchen, fill and start the coffee machine and check the kettle and water dispenser."
+        },
+        {
+          "text": "Restock the breakroom with milk, tea, coffee and clean mugs.",
+          "note": "Check fridge dates and remove anything spoiled."
+        },
+        {
+          "text": "Empty the dishwasher and run any waiting load."
+        },
+        {
+          "text": "Set out fresh hand towels and refill soap and sanitizer dispensers."
+        }
+      ]
+    },
+    {
+      "title": "Ready the Workspaces",
+      "items": [
+        {
+          "text": "Open blinds or curtains to let in natural light."
+        },
+        {
+          "text": "Check meeting rooms are clean, chairs are arranged and screens or conferencing kit are working."
+        },
+        {
+          "text": "Turn on shared monitors, phones and reception equipment."
+        },
+        {
+          "text": "Bring in and sort any deliveries or post left at the door."
+        },
+        {
+          "text": "Review the day's calendar for visitors, deliveries or meetings that need setup."
+        }
+      ]
+    },
+    {
+      "title": "Final Walkthrough",
+      "items": [
+        {
+          "text": "Confirm all systems are running and no error lights or alerts are showing."
+        },
+        {
+          "text": "Check that the reception area looks welcoming and presentable."
+        },
+        {
+          "text": "Verify staff entrances are accessible and visitor doors are appropriately secured."
+        },
+        {
+          "text": "Report any unresolved issues to the office manager or facilities team."
+        },
+        {
+          "text": "Sign and date the opening log to confirm the routine is complete."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Who should be responsible for opening the office?",
+      "a": "Assign a primary opener and at least one trained backup. Give both the alarm code, keys or fob access, and a copy of this checklist so cover is seamless when the main person is away."
+    },
+    {
+      "q": "How long should opening the office take?",
+      "a": "Most offices can complete the full routine in 10 to 15 minutes. Building familiarity speeds it up, but never skip the safety scan or alarm steps to save time."
+    },
+    {
+      "q": "What should I do if the alarm goes off by mistake?",
+      "a": "Stay calm, enter your disarm code, and call the monitoring company with your account password to cancel the dispatch. Keep the password and phone number on a card near the panel."
+    },
+    {
+      "q": "Can I customize this opening checklist for my office?",
+      "a": "Yes. Download the printable PDF, then add building-specific steps such as opening shutters, switching on signage, unlocking gates or starting machinery relevant to your workplace."
+    },
+    {
+      "q": "Should the opening checklist be done every day?",
+      "a": "Yes, run it every business day, including days with reduced staff. A consistent daily routine is what prevents forgotten steps like unlocked doors or systems left offline."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/office-opening-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/office-opening-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Office Opening Checklist by ChecklistForge (https://checklistforge.com/checklist/office-opening-checklist)",
+  "updated": "2026-10-17"
+}

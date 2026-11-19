@@ -1,0 +1,174 @@
+{
+  "id": "warehouse-safety-checklist",
+  "name": "Warehouse Safety Checklist",
+  "description": "A warehouse safety check covering forklifts, racking, manual handling and loading docks.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "warehouse-safety",
+    "forklift",
+    "material-handling"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Forklift and Pedestrian Safety",
+      "items": [
+        {
+          "text": "Confirm only trained and authorized operators use powered trucks."
+        },
+        {
+          "text": "Verify daily pre-use forklift inspections are completed and logged."
+        },
+        {
+          "text": "Check that pedestrian walkways are marked and separated from traffic.",
+          "note": "Use barriers at crossing points where traffic and people mix."
+        },
+        {
+          "text": "Confirm speed limits, horns and right-of-way rules are enforced."
+        },
+        {
+          "text": "Verify visibility aids such as mirrors and lights at blind corners."
+        },
+        {
+          "text": "Confirm charging and refueling areas are safe and ventilated."
+        }
+      ]
+    },
+    {
+      "title": "Racking and Storage",
+      "items": [
+        {
+          "text": "Inspect racking uprights and beams for damage or deflection."
+        },
+        {
+          "text": "Confirm maximum load capacities are labeled and not exceeded."
+        },
+        {
+          "text": "Check that loads are stable, secured and not overhanging.",
+          "note": "Remove damaged racking from use until it is repaired."
+        },
+        {
+          "text": "Verify heavier items are stored low and lighter items higher."
+        },
+        {
+          "text": "Confirm rack protectors and anchors are in place and intact."
+        }
+      ]
+    },
+    {
+      "title": "Manual Handling",
+      "items": [
+        {
+          "text": "Confirm workers are trained in safe lifting and carrying techniques."
+        },
+        {
+          "text": "Provide trolleys, hoists or aids for heavy or awkward loads."
+        },
+        {
+          "text": "Check that team lifts are used for loads beyond one person."
+        },
+        {
+          "text": "Verify load weights are marked where practical."
+        },
+        {
+          "text": "Confirm repetitive tasks are rotated or broken up to reduce strain."
+        }
+      ]
+    },
+    {
+      "title": "Housekeeping and Floors",
+      "items": [
+        {
+          "text": "Keep aisles, exits and walkways clear of stock and obstructions."
+        },
+        {
+          "text": "Clean spills promptly and use warning signs while drying."
+        },
+        {
+          "text": "Confirm floor surfaces are even and free of damage and debris.",
+          "note": "Keep exits and fire equipment access unobstructed at all times."
+        },
+        {
+          "text": "Verify lighting is adequate throughout aisles and work areas."
+        },
+        {
+          "text": "Confirm waste and packaging are removed regularly."
+        }
+      ]
+    },
+    {
+      "title": "Loading Dock Safety",
+      "items": [
+        {
+          "text": "Confirm dock levelers, plates and edges are in good condition."
+        },
+        {
+          "text": "Verify trailers are chocked or restrained before loading."
+        },
+        {
+          "text": "Check that dock edges and drop-offs are guarded or marked.",
+          "note": "Use wheel chocks or vehicle restraints on every trailer."
+        },
+        {
+          "text": "Confirm communication signals between drivers and dock staff."
+        },
+        {
+          "text": "Verify lighting and weather protection at dock doors."
+        }
+      ]
+    },
+    {
+      "title": "Fire and Emergency",
+      "items": [
+        {
+          "text": "Confirm extinguishers are present, charged and accessible."
+        },
+        {
+          "text": "Verify exits, alarms and emergency lighting are clear and working."
+        },
+        {
+          "text": "Check that flammables are stored correctly and away from ignition."
+        },
+        {
+          "text": "Confirm first aid kits are stocked and first aiders are available."
+        },
+        {
+          "text": "Verify evacuation routes and assembly points are posted and known."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training or your employer's safety program; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the biggest warehouse safety hazards?",
+      "a": "Forklift and pedestrian collisions, falling loads from damaged or overloaded racking, manual handling injuries, slips and trips, and loading dock incidents are among the most common and serious warehouse hazards."
+    },
+    {
+      "q": "How do you keep forklifts and pedestrians apart?",
+      "a": "Use marked, separated walkways, barriers at crossing points, clear signage, and good visibility at corners. Enforce speed limits, require horns at intersections, and keep pedestrians out of active forklift zones wherever possible."
+    },
+    {
+      "q": "How often should warehouse racking be inspected?",
+      "a": "Carry out regular visual checks for damage, overloading and missing components, and arrange periodic expert inspections. Label maximum load capacities clearly and report any damaged upright or beam immediately."
+    },
+    {
+      "q": "Who can operate a forklift in a warehouse?",
+      "a": "Only operators who are trained, evaluated and authorized for the specific truck type may operate a forklift. Operators must complete daily pre-use checks and follow safe operating procedures every shift."
+    },
+    {
+      "q": "Does this checklist replace OSHA rules or training?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal training, your employer's safety program, or a qualified person. Always confirm the standards that apply to your warehouse operations."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/warehouse-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/warehouse-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Warehouse Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/warehouse-safety-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "pet-emergency-kit-checklist",
+  "name": "Pet Emergency Kit Checklist",
+  "description": "A checklist to help pet owners stock a complete first aid kit and a disaster go-bag so they are ready for any emergency.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "emergency",
+    "first-aid",
+    "travel",
+    "pets"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "First Aid Supplies",
+      "items": [
+        {
+          "text": "Gauze pads and rolls for wounds"
+        },
+        {
+          "text": "Non-stick bandages and adhesive tape"
+        },
+        {
+          "text": "Blunt-tipped scissors and tweezers"
+        },
+        {
+          "text": "Digital thermometer and disposable gloves"
+        },
+        {
+          "text": "Saline solution and a pet-safe wound cleaner",
+          "note": "Ask your vet what to add for your pet's needs"
+        }
+      ]
+    },
+    {
+      "title": "Medications & Health Items",
+      "items": [
+        {
+          "text": "A few days of any prescription medicines"
+        },
+        {
+          "text": "Flea, tick, and parasite prevention on hand"
+        },
+        {
+          "text": "Written dosing instructions for each medicine"
+        },
+        {
+          "text": "Any supplements your pet takes"
+        },
+        {
+          "text": "A cool pack or pouch if medicine needs it",
+          "note": "Do not include human medicines unless your vet directs"
+        }
+      ]
+    },
+    {
+      "title": "Food, Water & Bowls",
+      "items": [
+        {
+          "text": "Several days of food in a sealed container"
+        },
+        {
+          "text": "Bottled water for each pet"
+        },
+        {
+          "text": "Collapsible food and water bowls"
+        },
+        {
+          "text": "A manual can opener if using canned food"
+        },
+        {
+          "text": "Treats to reduce stress during an emergency"
+        }
+      ]
+    },
+    {
+      "title": "Records & Identification",
+      "items": [
+        {
+          "text": "Copies of vaccination and medical records"
+        },
+        {
+          "text": "Microchip number and registration details"
+        },
+        {
+          "text": "A current photo of you with your pet"
+        },
+        {
+          "text": "Vet and emergency hospital contact details"
+        },
+        {
+          "text": "A list of medications and feeding instructions"
+        }
+      ]
+    },
+    {
+      "title": "Disaster Go-Bag",
+      "items": [
+        {
+          "text": "A sturdy carrier or crate for transport"
+        },
+        {
+          "text": "Spare leash, collar, and ID tags"
+        },
+        {
+          "text": "Waste bags, litter, and a small litter tray"
+        },
+        {
+          "text": "A blanket, towel, and a familiar toy"
+        },
+        {
+          "text": "A flashlight and batteries for night use"
+        }
+      ]
+    },
+    {
+      "title": "Maintain the Kit",
+      "items": [
+        {
+          "text": "Label the kit and store it where you can grab it"
+        },
+        {
+          "text": "Check expiry dates a few times a year"
+        },
+        {
+          "text": "Replace used or outdated supplies promptly"
+        },
+        {
+          "text": "Update records, photos, and medications"
+        },
+        {
+          "text": "Keep a copy of this list inside the kit"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; a kit supports but does not replace professional care, so always consult a licensed veterinarian",
+          "note": "In any emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be in a pet first aid kit?",
+      "a": "Common items include gauze, non-stick bandages, adhesive tape, blunt scissors, tweezers, a digital thermometer, gloves, saline, and a pet-safe wound cleaner. Add anything your vet recommends for your specific pet."
+    },
+    {
+      "q": "How much food and water should a pet go-bag hold?",
+      "a": "Many guides suggest several days of food and water for each pet, stored in sealed containers. Adjust the amount to your pet's size and rotate it before it expires so supplies stay fresh."
+    },
+    {
+      "q": "What records should I keep in the kit?",
+      "a": "Pack copies of vaccination and medical records, your pet's microchip number, a current photo, your vet's contact details, and medication instructions. These help with boarding, identification, and care if you are separated."
+    },
+    {
+      "q": "How often should I check my pet emergency kit?",
+      "a": "Review it a few times a year. Replace expired food, water, and medicine, update records and photos, and confirm the bag still fits your pet's current needs and size."
+    },
+    {
+      "q": "Is this pet emergency kit checklist printable?",
+      "a": "Yes. Print it or download the PDF, check off each item as you pack, and tape a copy inside the kit so you can restock it easily."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-emergency-kit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-emergency-kit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Emergency Kit Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-emergency-kit-checklist)",
+  "updated": "2026-10-17"
+}

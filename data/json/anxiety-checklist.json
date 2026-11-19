@@ -1,0 +1,166 @@
+{
+  "id": "anxiety-checklist",
+  "name": "Anxiety Checklist",
+  "description": "Calming, practical coping tools to help you steady yourself during anxious moments.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "wellness",
+    "mental-health",
+    "anxiety",
+    "self-care"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "In the Moment: Steady Yourself",
+      "items": [
+        {
+          "text": "Pause and remind yourself that this feeling is temporary",
+          "note": "Anxiety peaks and then eases; you can ride the wave."
+        },
+        {
+          "text": "Slow your breathing, making the out-breath a little longer"
+        },
+        {
+          "text": "Plant your feet on the floor and feel the ground beneath you"
+        },
+        {
+          "text": "Unclench your jaw, drop your shoulders, and relax your hands"
+        },
+        {
+          "text": "Sip some water and move slowly rather than rushing"
+        }
+      ]
+    },
+    {
+      "title": "Grounding Techniques",
+      "items": [
+        {
+          "text": "Name five things you can see, four you can hear, three you can touch"
+        },
+        {
+          "text": "Hold something cool or textured and focus on the sensation"
+        },
+        {
+          "text": "Press your feet down and notice the support beneath you"
+        },
+        {
+          "text": "Describe your surroundings in simple, factual detail"
+        },
+        {
+          "text": "Splash cool water on your face or hold a cold object",
+          "note": "A cool sensation can gently calm a racing body."
+        }
+      ]
+    },
+    {
+      "title": "Calm Your Thoughts",
+      "items": [
+        {
+          "text": "Notice anxious thoughts without believing every one of them"
+        },
+        {
+          "text": "Ask yourself what you would tell a friend feeling this way"
+        },
+        {
+          "text": "Write down the worry to get it out of your head"
+        },
+        {
+          "text": "Separate what you can control from what you cannot"
+        },
+        {
+          "text": "Postpone problem-solving until you feel calmer"
+        }
+      ]
+    },
+    {
+      "title": "Care for Your Body",
+      "items": [
+        {
+          "text": "Go for a short walk or move to release tension"
+        },
+        {
+          "text": "Try gentle stretching or a few slow yoga poses"
+        },
+        {
+          "text": "Eat something steady and avoid skipping meals"
+        },
+        {
+          "text": "Reduce caffeine, which can heighten anxious feelings",
+          "note": "Caffeine can mimic or worsen the physical signs of anxiety."
+        },
+        {
+          "text": "Aim for regular sleep, since tiredness can fuel anxiety"
+        }
+      ]
+    },
+    {
+      "title": "Reduce Triggers and Build Routine",
+      "items": [
+        {
+          "text": "Take breaks from news and social media when anxious"
+        },
+        {
+          "text": "Keep a simple, predictable daily routine where you can"
+        },
+        {
+          "text": "Limit alcohol, which can worsen anxiety later"
+        },
+        {
+          "text": "Plan ahead for situations you find stressful"
+        },
+        {
+          "text": "Make time each day for something calming you enjoy"
+        }
+      ]
+    },
+    {
+      "title": "Reach Out and Get Support",
+      "items": [
+        {
+          "text": "Tell someone you trust how you are feeling"
+        },
+        {
+          "text": "Ask for company or help with something overwhelming"
+        },
+        {
+          "text": "Consider speaking with a doctor or mental-health professional"
+        },
+        {
+          "text": "Important: This checklist is general self-care information, not treatment or medical advice. If anxiety affects your daily life, please consult a qualified mental-health professional."
+        },
+        {
+          "text": "If you are in crisis or having thoughts of self-harm, contact a crisis line or emergency services right away. You are not alone and help is available."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What can I do in the moment when anxiety hits?",
+      "a": "Slow your breathing, plant your feet, and try a grounding exercise such as naming five things you can see and four you can hear. Reminding yourself that the feeling is uncomfortable but temporary, and will pass, can help you ride it out."
+    },
+    {
+      "q": "What is grounding and why does it help?",
+      "a": "Grounding brings your attention back to the present using your senses, like noticing what you can see, hear, touch, and smell. It can gently interrupt spiraling thoughts and help your body feel a bit safer and calmer in the moment."
+    },
+    {
+      "q": "How does breathing reduce anxiety?",
+      "a": "Slow, longer out-breaths can help calm your body's stress response. Try breathing in for about four counts and out for six, or any pace that feels comfortable, for a minute or two. Keep it gentle and stop if you feel light-headed."
+    },
+    {
+      "q": "Is this anxiety checklist a treatment or medical advice?",
+      "a": "No. This is general self-care information only, not treatment, diagnosis, or medical advice. If anxiety is frequent, intense, or affects your daily life, please speak with a doctor or a qualified mental-health professional about support and options."
+    },
+    {
+      "q": "When should I seek urgent help?",
+      "a": "If you feel unable to cope, are in crisis, or have any thoughts of harming yourself, please reach out right away. Contact your local crisis line or emergency services, or go to the nearest emergency department. You deserve support, and help is available."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/anxiety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/anxiety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Anxiety Checklist by ChecklistForge (https://checklistforge.com/checklist/anxiety-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,232 @@
+{
+  "id": "marathon-checklist",
+  "name": "Marathon Checklist",
+  "description": "A complete marathon checklist covering training, gear, nutrition, taper, race day, and recovery.",
+  "category": "fitness-exercise",
+  "category_name": "Fitness & Exercise",
+  "tags": [
+    "marathon",
+    "running",
+    "race-day",
+    "endurance-training"
+  ],
+  "item_count": 49,
+  "sections": [
+    {
+      "title": "Training Plan Basics",
+      "items": [
+        {
+          "text": "Choose a training plan that matches your current fitness and gives at least sixteen weeks for beginners."
+        },
+        {
+          "text": "Build a consistent running base before increasing mileage, raising weekly volume by no more than about ten percent."
+        },
+        {
+          "text": "Schedule one weekly long run and extend it gradually to roughly twenty miles before tapering."
+        },
+        {
+          "text": "Include easy runs, rest days, and at least one cross-training or strength session each week."
+        },
+        {
+          "text": "Add tempo or speed work only after a solid base, keeping most miles at an easy conversational pace."
+        },
+        {
+          "text": "Log your runs to track progress, fatigue, and any recurring aches.",
+          "note": "Persistent pain is a sign to rest or see a professional, not to push through."
+        },
+        {
+          "text": "Get medical clearance before starting intense training, especially with prior injuries or health conditions."
+        }
+      ]
+    },
+    {
+      "title": "Gear and Shoes",
+      "items": [
+        {
+          "text": "Buy running shoes fitted to your gait and break them in over many training miles."
+        },
+        {
+          "text": "Choose moisture-wicking apparel and seamless socks tested on long runs to prevent chafing and blisters."
+        },
+        {
+          "text": "Decide on a hydration system—handheld bottle, belt, or vest—and practice with it."
+        },
+        {
+          "text": "Apply anti-chafe balm to common hotspots and protect against blisters with proven products."
+        },
+        {
+          "text": "Have a running watch or app set up to track pace, distance, and splits."
+        },
+        {
+          "text": "Prepare weather-appropriate layers, a hat or visor, and sunglasses for varied conditions.",
+          "note": "Plan a throwaway layer for cold starts you can shed early."
+        },
+        {
+          "text": "Replace shoes nearing the end of their mileage well before race week, never on race day."
+        }
+      ]
+    },
+    {
+      "title": "Nutrition and Hydration",
+      "items": [
+        {
+          "text": "Practice your fueling strategy on long runs, testing gels, chews, or real food you tolerate."
+        },
+        {
+          "text": "Plan to take in carbohydrates regularly during long efforts to maintain energy."
+        },
+        {
+          "text": "Learn the on-course fluids and fuel the race will provide and train with similar products."
+        },
+        {
+          "text": "Hydrate consistently in daily life, adjusting for heat, sweat rate, and electrolyte needs."
+        },
+        {
+          "text": "Eat a familiar, balanced diet rich in carbohydrates as your mileage builds."
+        },
+        {
+          "text": "Avoid new foods, supplements, or untested fuel in the final weeks.",
+          "note": "Stomach issues from new products are a common reason runners struggle late in a race."
+        },
+        {
+          "text": "Dial in a pre-run breakfast during long runs so race morning feels routine."
+        }
+      ]
+    },
+    {
+      "title": "Taper Week",
+      "items": [
+        {
+          "text": "Reduce weekly mileage significantly while keeping some runs at goal pace to stay sharp."
+        },
+        {
+          "text": "Prioritize sleep and recovery, treating rest as part of your training, not a break from it."
+        },
+        {
+          "text": "Continue eating well and gradually emphasize carbohydrates in the final days."
+        },
+        {
+          "text": "Resist the urge to add last-minute workouts or test new training ideas."
+        },
+        {
+          "text": "Keep legs loose with light movement, gentle stretching, and easy walks."
+        },
+        {
+          "text": "Manage taper restlessness by reviewing logistics and visualizing your race.",
+          "note": "Feeling antsy or slightly sluggish during taper is normal and expected."
+        },
+        {
+          "text": "Avoid crowds, illness exposure, and risky activities that could derail race day."
+        }
+      ]
+    },
+    {
+      "title": "Race Week and Gear Bag",
+      "items": [
+        {
+          "text": "Study the course map, elevation, aid-station locations, and your start corral or wave."
+        },
+        {
+          "text": "Pick up your race packet and bib in advance, confirming timing chip and pins."
+        },
+        {
+          "text": "Plan travel, parking, and arrival time to reach the start with margin to spare."
+        },
+        {
+          "text": "Lay out your full race-day outfit and pin your bib the night before."
+        },
+        {
+          "text": "Pack a gear bag with extra layers, fuel, body glide, bandages, sunscreen, and dry clothes for after."
+        },
+        {
+          "text": "Charge your watch and phone, and load any pacing plan or playlist.",
+          "note": "Set two alarms for race morning to avoid oversleeping."
+        },
+        {
+          "text": "Confirm bag-check rules and post-race meeting points with friends or family."
+        }
+      ]
+    },
+    {
+      "title": "Race-Day Morning",
+      "items": [
+        {
+          "text": "Wake early enough to eat your tested breakfast two to three hours before the start."
+        },
+        {
+          "text": "Hydrate steadily without overdoing it, sipping fluids in the hours before the gun."
+        },
+        {
+          "text": "Dress for the conditions, using a throwaway layer if the start is cold."
+        },
+        {
+          "text": "Arrive early, use the restroom before lining up, and budget for long bathroom lines."
+        },
+        {
+          "text": "Do a light warm-up with easy movement and dynamic stretches near your corral."
+        },
+        {
+          "text": "Start conservatively and hold your planned pace rather than chasing the early crowd.",
+          "note": "Going out too fast is the most common race-day mistake."
+        },
+        {
+          "text": "Stick to your fueling and hydration plan, taking on calories and fluids before you feel depleted."
+        }
+      ]
+    },
+    {
+      "title": "Post-Race Recovery",
+      "items": [
+        {
+          "text": "Keep walking after you finish to cool down gradually rather than stopping abruptly."
+        },
+        {
+          "text": "Rehydrate and eat carbohydrates with some protein within about an hour of finishing."
+        },
+        {
+          "text": "Change into dry, warm clothes and add layers to avoid post-race chills."
+        },
+        {
+          "text": "Prioritize sleep and gentle movement in the days that follow to aid recovery."
+        },
+        {
+          "text": "Stretch lightly, consider easy walks or swims, and avoid hard running for a week or two."
+        },
+        {
+          "text": "Watch for unusual pain, swelling, or symptoms and seek medical care if anything feels wrong.",
+          "note": "Listen to your body; recovery is when adaptation and healing happen."
+        },
+        {
+          "text": "Reflect on what worked and what to adjust, then ease back into training gradually."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a marathon checklist?",
+      "a": "It is a step-by-step list that organizes your full marathon preparation—training, gear, nutrition, taper, race-week logistics, and recovery. Using it keeps every detail in one place, reduces last-minute stress, and helps ensure that months of training are not undone by an avoidable oversight."
+    },
+    {
+      "q": "How long should I train for a marathon?",
+      "a": "Most beginners need sixteen to twenty weeks of consistent training, building a base of regular running first. Experienced runners may train for twelve to sixteen. Build mileage gradually, include weekly long runs, and allow recovery. Rushing the timeline raises injury risk and undermines race-day performance."
+    },
+    {
+      "q": "What should I eat the night before a marathon?",
+      "a": "Choose a familiar, carbohydrate-rich meal that is low in fat and fiber—pasta, rice, or potatoes with a light protein. Avoid new foods, heavy sauces, and excess fiber that can upset your stomach. Hydrate well and stop eating early enough to sleep comfortably without feeling overly full."
+    },
+    {
+      "q": "Should I try new gear on race day?",
+      "a": "Never. Race day is not the time to test shoes, socks, apparel, or fuel. Everything you wear and consume should be proven over many training runs, especially long ones. New items can cause blisters, chafing, or stomach trouble that derails an otherwise well-prepared race."
+    },
+    {
+      "q": "How do I recover after a marathon?",
+      "a": "Keep moving with a gentle cooldown walk, rehydrate, and eat carbohydrates and protein within an hour. In the following days, prioritize sleep, light movement, and stretching. Avoid hard running for at least a week or two. Listen to your body and ease back gradually to prevent injury."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/marathon-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/marathon-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Marathon Checklist by ChecklistForge (https://checklistforge.com/checklist/marathon-checklist)",
+  "updated": "2026-10-18"
+}

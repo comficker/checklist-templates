@@ -1,0 +1,171 @@
+{
+  "id": "physical-therapy-checklist",
+  "name": "Physical Therapy Checklist",
+  "description": "A practical physical therapy checklist to help you stay consistent, do home exercises correctly and get the most from every session.",
+  "category": "recovery-senior-care",
+  "category_name": "Recovery & Senior Care",
+  "tags": [
+    "caregiver",
+    "senior-care",
+    "recovery",
+    "physical-therapy"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Before You Start Therapy",
+      "items": [
+        {
+          "text": "Write down your main goals, such as walking farther or climbing stairs without pain"
+        },
+        {
+          "text": "Gather referral paperwork, imaging, and a current medication list"
+        },
+        {
+          "text": "Confirm how many sessions are planned and how often",
+          "note": "Knowing the plan up front helps you budget time and stay committed."
+        },
+        {
+          "text": "Ask whether to ice, heat, or take medication before or after exercises"
+        },
+        {
+          "text": "Set up a small, clear space at home for daily exercises"
+        },
+        {
+          "text": "Prepare any equipment your therapist recommends, like a resistance band or chair"
+        }
+      ]
+    },
+    {
+      "title": "Do Your Home Exercises",
+      "items": [
+        {
+          "text": "Do every prescribed exercise the number of times your therapist set"
+        },
+        {
+          "text": "Move slowly and focus on correct form over speed or extra reps"
+        },
+        {
+          "text": "Warm up gently before harder movements and cool down after"
+        },
+        {
+          "text": "Pick a consistent time of day so exercises become a habit",
+          "note": "Linking them to an existing routine, like after breakfast, helps consistency."
+        },
+        {
+          "text": "Use a mirror or video to check your form against the therapist's demonstration"
+        },
+        {
+          "text": "Stop and rest if you feel dizzy, short of breath, or sharp pain"
+        }
+      ]
+    },
+    {
+      "title": "Stay Consistent and Motivated",
+      "items": [
+        {
+          "text": "Schedule exercise sessions in your calendar like real appointments"
+        },
+        {
+          "text": "Set phone reminders for each daily exercise block"
+        },
+        {
+          "text": "Ask a family member or caregiver to help you stay accountable"
+        },
+        {
+          "text": "Keep going on busy or low-energy days, even with a shorter session"
+        },
+        {
+          "text": "Reward yourself for completing a full week of exercises"
+        }
+      ]
+    },
+    {
+      "title": "Track Your Progress",
+      "items": [
+        {
+          "text": "Log the date, exercises done, and reps after each session"
+        },
+        {
+          "text": "Rate your pain level before and after exercises on a 0 to 10 scale"
+        },
+        {
+          "text": "Note new gains, such as more range of motion or longer walking distance"
+        },
+        {
+          "text": "Record any swelling, stiffness, or setbacks and what may have caused them"
+        },
+        {
+          "text": "Bring this log to every appointment so your therapist can adjust the plan"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Questions for Your Therapist",
+      "items": [
+        {
+          "text": "Ask which exercises matter most if you are short on time"
+        },
+        {
+          "text": "Ask what level of soreness is normal versus a warning sign"
+        },
+        {
+          "text": "Ask when you can safely return to specific activities or sports"
+        },
+        {
+          "text": "Ask how to modify exercises if one is too hard or too easy"
+        },
+        {
+          "text": "Ask what milestones signal you are ready to progress"
+        }
+      ]
+    },
+    {
+      "title": "Follow the Plan Safely",
+      "items": [
+        {
+          "text": "Do not skip ahead or add exercises your therapist has not approved"
+        },
+        {
+          "text": "Attend every scheduled session and reschedule promptly if you must miss one"
+        },
+        {
+          "text": "Keep your doctor and therapist updated on new symptoms or medications"
+        },
+        {
+          "text": "Report falls, new pain, numbness, or sudden weakness right away"
+        },
+        {
+          "text": "Important: this checklist is general information, not medical advice; always follow the specific guidance of your physical therapist and doctor"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I do my physical therapy home exercises?",
+      "a": "Follow the frequency your physical therapist sets — many home programs are done daily or several times a week. Consistency between sessions usually matters more than intensity, so keep to the schedule even on days you feel fine."
+    },
+    {
+      "q": "What should I bring to a physical therapy appointment?",
+      "a": "Bring comfortable clothing you can move in, a list of your current medications, any prior imaging or referral paperwork, your exercise log, and written questions. This checklist's tracking sections make those notes easy to gather."
+    },
+    {
+      "q": "What if an exercise causes pain?",
+      "a": "Mild muscle effort or soreness can be normal, but sharp, increasing, or new pain is a signal to stop and check with your therapist. Note exactly what hurt and when so your care team can adjust the plan."
+    },
+    {
+      "q": "How long does physical therapy take to work?",
+      "a": "It varies widely with the condition, your starting point, and how consistently you do home exercises. Tracking small weekly improvements helps you and your therapist see progress that is easy to miss day to day."
+    },
+    {
+      "q": "Is this physical therapy checklist medical advice?",
+      "a": "No. This is general information to help you stay organized and consistent. It is not medical advice — always follow the specific guidance of your physical therapist and doctor."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/physical-therapy-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/physical-therapy-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Physical Therapy Checklist by ChecklistForge (https://checklistforge.com/checklist/physical-therapy-checklist)",
+  "updated": "2026-10-17"
+}

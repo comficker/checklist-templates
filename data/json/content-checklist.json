@@ -1,0 +1,172 @@
+{
+  "id": "content-checklist",
+  "name": "Content Checklist",
+  "description": "A content checklist that walks through the full creation workflow from research to promotion.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "content",
+    "seo",
+    "workflow"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Research and planning",
+      "items": [
+        {
+          "text": "Define the goal and target reader for the piece."
+        },
+        {
+          "text": "Research the topic and gather credible sources and data."
+        },
+        {
+          "text": "Identify the primary keyword and the search intent behind it."
+        },
+        {
+          "text": "Review top-ranking content to find gaps you can fill."
+        },
+        {
+          "text": "Decide the format, angle and working title."
+        }
+      ]
+    },
+    {
+      "title": "Outline and structure",
+      "items": [
+        {
+          "text": "Draft a logical outline with clear sections and headings."
+        },
+        {
+          "text": "Map each section to a reader question it answers."
+        },
+        {
+          "text": "Plan supporting elements like examples, visuals or quotes."
+        },
+        {
+          "text": "Decide the call to action and where it will appear."
+        },
+        {
+          "text": "Estimate length based on the topic and competing content."
+        }
+      ]
+    },
+    {
+      "title": "Write the draft",
+      "items": [
+        {
+          "text": "Write a hook that states the value in the first lines."
+        },
+        {
+          "text": "Follow the outline and keep one idea per section."
+        },
+        {
+          "text": "Use short paragraphs, lists and subheadings for scanning."
+        },
+        {
+          "text": "Support claims with sources, data or concrete examples."
+        },
+        {
+          "text": "Write in a clear, consistent brand voice."
+        },
+        {
+          "text": "Finish with a strong conclusion and the call to action."
+        }
+      ]
+    },
+    {
+      "title": "Edit and proofread",
+      "items": [
+        {
+          "text": "Revise for clarity, flow and logical structure."
+        },
+        {
+          "text": "Cut filler, repetition and weak sentences."
+        },
+        {
+          "text": "Check every fact, figure and quote for accuracy."
+        },
+        {
+          "text": "Proofread for spelling, grammar and punctuation."
+        },
+        {
+          "text": "Read it aloud or have someone else review it."
+        }
+      ]
+    },
+    {
+      "title": "Optimize for search and readers",
+      "items": [
+        {
+          "text": "Place the primary keyword in the title, intro and a heading."
+        },
+        {
+          "text": "Write an SEO title and meta description that earn clicks."
+        },
+        {
+          "text": "Add internal links to related and conversion pages."
+        },
+        {
+          "text": "Add relevant external links to credible sources."
+        },
+        {
+          "text": "Include images with descriptive, accessible alt text."
+        },
+        {
+          "text": "Set a clean, descriptive URL slug."
+        }
+      ]
+    },
+    {
+      "title": "Publish and promote",
+      "items": [
+        {
+          "text": "Preview the piece on mobile and desktop before publishing."
+        },
+        {
+          "text": "Confirm links, images and the call to action all work."
+        },
+        {
+          "text": "Publish and verify it appears correctly on the live site."
+        },
+        {
+          "text": "Share it across your social channels and email list."
+        },
+        {
+          "text": "Repurpose it into shorter formats for other platforms."
+        },
+        {
+          "text": "Schedule a date to review performance and update it."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a content checklist?",
+      "a": "A content checklist is a workflow that takes a piece of content from idea to promotion. It covers research, outlining, writing, editing, SEO optimization, publishing and distribution so every step is handled consistently."
+    },
+    {
+      "q": "How is a content checklist different from a blog post checklist?",
+      "a": "A content checklist covers the whole creation process across formats and is broader. A blog post checklist focuses on finalizing and publishing a single post, such as formatting, images and the call to action."
+    },
+    {
+      "q": "Can beginners use this content checklist?",
+      "a": "Yes. It breaks content creation into clear, ordered steps so a beginner or small business owner can produce consistent content without missing research or promotion."
+    },
+    {
+      "q": "Can I download this content checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF to use as a repeatable template for every new piece of content."
+    },
+    {
+      "q": "Does this checklist work for video and other formats?",
+      "a": "Yes. The research, outline, optimize and promote steps apply to articles, videos, podcasts and landing pages. Adapt the writing step to your chosen format."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/content-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/content-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Content Checklist by ChecklistForge (https://checklistforge.com/checklist/content-checklist)",
+  "updated": "2026-10-17"
+}

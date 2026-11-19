@@ -1,0 +1,182 @@
+{
+  "id": "fleet-maintenance-checklist",
+  "name": "Fleet Maintenance Checklist",
+  "description": "A framework for managing maintenance across a vehicle fleet — preventive schedules, inspections, record keeping and compliance.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "compliance",
+    "maintenance",
+    "fleet",
+    "vehicles"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Preventive Maintenance Schedule",
+      "items": [
+        {
+          "text": "Set PM intervals from each manufacturer's schedule"
+        },
+        {
+          "text": "Adjust intervals for usage, mileage and conditions"
+        },
+        {
+          "text": "Schedule oil and filter changes by mileage or time"
+        },
+        {
+          "text": "Plan tire rotations, alignments and replacements"
+        },
+        {
+          "text": "Schedule fluid checks, flushes and belt and hose service"
+        },
+        {
+          "text": "Track upcoming PM due dates for each vehicle"
+        }
+      ]
+    },
+    {
+      "title": "Routine Vehicle Inspections",
+      "items": [
+        {
+          "text": "Require driver pre-trip and post-trip inspections"
+        },
+        {
+          "text": "Inspect tires, brakes, lights and steering regularly"
+        },
+        {
+          "text": "Check fluid levels and look for leaks"
+        },
+        {
+          "text": "Inspect wipers, mirrors and safety equipment"
+        },
+        {
+          "text": "Review and act on driver vehicle inspection reports"
+        },
+        {
+          "text": "Log and prioritize defects for repair"
+        }
+      ]
+    },
+    {
+      "title": "Repairs & Work Orders",
+      "items": [
+        {
+          "text": "Open a work order for every repair",
+          "note": "Capture parts, labor and the technician on record"
+        },
+        {
+          "text": "Triage defects by safety and urgency"
+        },
+        {
+          "text": "Use qualified technicians or approved vendors"
+        },
+        {
+          "text": "Track repair costs per vehicle to spot problem units"
+        },
+        {
+          "text": "Verify completed repairs before returning to service"
+        },
+        {
+          "text": "Manage warranty and recall work"
+        }
+      ]
+    },
+    {
+      "title": "Records & Documentation",
+      "items": [
+        {
+          "text": "Keep a complete maintenance history per vehicle"
+        },
+        {
+          "text": "Use fleet software or a central log for records"
+        },
+        {
+          "text": "Record mileage, service dates and costs"
+        },
+        {
+          "text": "Store inspection reports and work orders"
+        },
+        {
+          "text": "Track parts inventory and usage"
+        },
+        {
+          "text": "Document fuel use and monitor efficiency trends"
+        }
+      ]
+    },
+    {
+      "title": "Compliance & Safety",
+      "items": [
+        {
+          "text": "Track registration, insurance and inspection renewals"
+        },
+        {
+          "text": "Monitor emissions and required certifications"
+        },
+        {
+          "text": "Keep driver qualification and licensing records current"
+        },
+        {
+          "text": "Follow the regulations that apply to your fleet"
+        },
+        {
+          "text": "Maintain records to support audits and inspections"
+        },
+        {
+          "text": "Remove unsafe vehicles from service until repaired"
+        }
+      ]
+    },
+    {
+      "title": "Fleet Management & Costs",
+      "items": [
+        {
+          "text": "Set a maintenance budget and track spend per vehicle"
+        },
+        {
+          "text": "Review uptime, downtime and breakdown trends"
+        },
+        {
+          "text": "Plan vehicle replacement based on age and cost"
+        },
+        {
+          "text": "Standardize procedures and checklists across the fleet"
+        },
+        {
+          "text": "Train drivers on inspections and reporting"
+        },
+        {
+          "text": "Review supplier and vendor performance periodically"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is preventive maintenance for a fleet?",
+      "a": "Preventive maintenance is scheduled servicing done at set mileage or time intervals to keep vehicles reliable, such as oil changes, tire rotations and inspections. Following each manufacturer's schedule across the fleet prevents costly breakdowns and extends vehicle life."
+    },
+    {
+      "q": "How do I set maintenance intervals?",
+      "a": "Base intervals on each manufacturer's recommended schedule, then adjust for how the vehicle is used, mileage and operating conditions. Severe-duty use, heavy loads and harsh climates call for shorter intervals, so track usage per vehicle rather than applying one rule to all."
+    },
+    {
+      "q": "Why are maintenance records important?",
+      "a": "Accurate records prove what was done and when, support warranty and resale value, help diagnose recurring issues and demonstrate compliance during audits or inspections. A central log or fleet software keeps history consistent across every vehicle."
+    },
+    {
+      "q": "How does fleet maintenance support compliance?",
+      "a": "Regular inspections, documented repairs, driver vehicle inspection reports and tracking of registrations, emissions and required certifications help keep a fleet compliant with the regulations that apply to it. Keeping records current avoids fines and out-of-service vehicles."
+    },
+    {
+      "q": "Can I print this fleet maintenance checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it with your fleet records and track preventive schedules, inspections, documentation and compliance for every vehicle."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fleet-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fleet-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fleet Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/fleet-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

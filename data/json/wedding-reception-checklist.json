@@ -1,0 +1,207 @@
+{
+  "id": "wedding-reception-checklist",
+  "name": "Wedding Reception Checklist",
+  "description": "A planning checklist for the reception covering venue layout, food and drink, timeline, entertainment, decor, toasts, and send-off.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "planning",
+    "wedding",
+    "reception",
+    "entertainment"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Venue and Layout",
+      "items": [
+        {
+          "text": "Confirm the rental window, capacity, and overtime fees."
+        },
+        {
+          "text": "Choose the floor plan for tables, dance floor, bar, and stage."
+        },
+        {
+          "text": "Decide on a head table or a sweetheart table for the couple."
+        },
+        {
+          "text": "Plan guest flow from cocktail hour into the dining space."
+        },
+        {
+          "text": "Confirm power, parking, restrooms, and accessibility needs.",
+          "note": "Check that the band or DJ has enough outlets and a load-in path."
+        },
+        {
+          "text": "Arrange rentals for tables, chairs, linens, and place settings."
+        }
+      ]
+    },
+    {
+      "title": "Food and Drink",
+      "items": [
+        {
+          "text": "Finalize the menu and confirm the dinner service style."
+        },
+        {
+          "text": "Account for dietary restrictions and allergies."
+        },
+        {
+          "text": "Plan the bar package and choose a signature cocktail."
+        },
+        {
+          "text": "Confirm cocktail-hour passed bites and stations."
+        },
+        {
+          "text": "Order the cake or dessert table and schedule delivery."
+        },
+        {
+          "text": "Arrange vendor meals for the photographer, band, and staff."
+        }
+      ]
+    },
+    {
+      "title": "Seating and Stationery",
+      "items": [
+        {
+          "text": "Finalize the guest list and table count."
+        },
+        {
+          "text": "Build the seating chart once RSVPs are in."
+        },
+        {
+          "text": "Prepare escort cards or a display seating chart."
+        },
+        {
+          "text": "Set place cards and any menu cards on tables."
+        },
+        {
+          "text": "Reserve seats for parents, the wedding party, and special guests."
+        },
+        {
+          "text": "Create clear signage for the bar, guest book, and gifts."
+        }
+      ]
+    },
+    {
+      "title": "Run of Show",
+      "items": [
+        {
+          "text": "Draft the reception timeline from entrance to send-off."
+        },
+        {
+          "text": "Schedule the grand entrance and announcements."
+        },
+        {
+          "text": "Set times for dinner service and toasts."
+        },
+        {
+          "text": "Plan the first dance, parent dances, and cake cutting."
+        },
+        {
+          "text": "Mark when open dancing begins and the bar closes."
+        },
+        {
+          "text": "Share the run of show with the DJ, caterer, and coordinator.",
+          "note": "Give the emcee or DJ a script with name pronunciations and cues."
+        }
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "items": [
+        {
+          "text": "Confirm the band or DJ and their setup needs."
+        },
+        {
+          "text": "Build a must-play list and a do-not-play list."
+        },
+        {
+          "text": "Choose songs for the entrance, first dance, and parent dances."
+        },
+        {
+          "text": "Plan a microphone for toasts and announcements."
+        },
+        {
+          "text": "Arrange any photo booth, lawn games, or special performances."
+        },
+        {
+          "text": "Confirm sound and lighting work in the actual space."
+        }
+      ]
+    },
+    {
+      "title": "Decor and Ambiance",
+      "items": [
+        {
+          "text": "Finalize centerpieces and table florals."
+        },
+        {
+          "text": "Plan lighting such as string lights, uplighting, or candles."
+        },
+        {
+          "text": "Style the head table, cake table, and entrance."
+        },
+        {
+          "text": "Add personal touches like photos or a memory table."
+        },
+        {
+          "text": "Coordinate linens, napkins, and table numbers with your palette."
+        },
+        {
+          "text": "Confirm who handles setup and teardown of all decor."
+        }
+      ]
+    },
+    {
+      "title": "Toasts and Send-Off",
+      "items": [
+        {
+          "text": "Confirm who is giving toasts and the order of speakers."
+        },
+        {
+          "text": "Remind speakers to keep remarks brief and rehearsed."
+        },
+        {
+          "text": "Plan the cake cutting and any cultural traditions."
+        },
+        {
+          "text": "Choose a send-off such as sparklers, bubbles, or petals.",
+          "note": "Check whether your venue permits sparklers or open flames outdoors."
+        },
+        {
+          "text": "Arrange transportation for the couple and any guests."
+        },
+        {
+          "text": "Assign someone to collect gifts, cards, and personal items at the end."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long should a wedding reception last?",
+      "a": "Most receptions run four to five hours, which comfortably fits the entrance, dinner, toasts, dances, cake, and open dancing with time to spare. Shorter cocktail-style receptions can wrap in three hours. Confirm your venue's rental window early, since overtime fees add up quickly once the party gets going."
+    },
+    {
+      "q": "Buffet or plated dinner for the reception?",
+      "a": "A plated dinner feels formal and keeps guests seated, but costs more in service staff. A buffet or stations encourage mingling and offer variety, often at a lower price, though lines can form. Family-style sits between the two. Choose based on your budget, formality, and how social you want the meal to feel."
+    },
+    {
+      "q": "What order do reception events go in?",
+      "a": "A typical flow is the grand entrance, welcome toast, first course or dinner, toasts and speeches, first dance and parent dances, cake cutting, then open dancing and finally the send-off. Adjust the order to fit your venue and energy, but keep speeches near dinner so guests are seated and attentive."
+    },
+    {
+      "q": "How much alcohol do I need for the reception?",
+      "a": "A common guide is about one drink per guest per hour, with a mix of wine, beer, and spirits. Adjust for your crowd's habits and the time of day. Ask your bartender or venue to estimate quantities, and consider a signature cocktail to simplify the bar and control costs."
+    },
+    {
+      "q": "Do I need assigned seating at the reception?",
+      "a": "Assigned seating prevents confusion, ensures everyone has a spot, and helps you seat guests with people they will enjoy. For larger or formal weddings it is strongly recommended. Smaller, casual receptions can do open seating. At minimum, reserve a head table or sweetheart table for the couple and key people."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-reception-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-reception-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Reception Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-reception-checklist)",
+  "updated": "2026-10-17"
+}

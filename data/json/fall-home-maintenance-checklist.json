@@ -1,0 +1,172 @@
+{
+  "id": "fall-home-maintenance-checklist",
+  "name": "Fall Home Maintenance Checklist",
+  "description": "A fall home maintenance checklist of autumn tasks that prepare your home for winter.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "homeowner",
+    "seasonal",
+    "fall",
+    "hvac"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Heating & HVAC",
+      "items": [
+        {
+          "text": "Schedule a professional furnace or heat-pump tune-up"
+        },
+        {
+          "text": "Replace the furnace filter and stock spares for the season",
+          "note": "Check 1-inch filters monthly through heating season"
+        },
+        {
+          "text": "Test the heating system on a cool day before you need it"
+        },
+        {
+          "text": "Bleed radiators or check boiler pressure on hydronic systems"
+        },
+        {
+          "text": "Reverse ceiling fans to clockwise to circulate warm air down"
+        },
+        {
+          "text": "Confirm the thermostat works and replace its batteries"
+        }
+      ]
+    },
+    {
+      "title": "Gutters, Roof & Exterior",
+      "items": [
+        {
+          "text": "Clean gutters and downspouts after most leaves have fallen"
+        },
+        {
+          "text": "Inspect the roof from the ground for loose or missing shingles"
+        },
+        {
+          "text": "Check flashing and seals around chimneys, vents and skylights"
+        },
+        {
+          "text": "Confirm downspouts direct water at least three feet from the foundation"
+        },
+        {
+          "text": "Rake leaves away from the foundation and clear window wells"
+        },
+        {
+          "text": "Trim dead branches that could fall under snow or ice load"
+        }
+      ]
+    },
+    {
+      "title": "Plumbing & Water",
+      "items": [
+        {
+          "text": "Drain and shut off outdoor faucets and sprinkler systems"
+        },
+        {
+          "text": "Disconnect, drain and store garden hoses"
+        },
+        {
+          "text": "Insulate exposed pipes in unheated areas like the garage and crawl space"
+        },
+        {
+          "text": "Test the sump pump before winter storms and snowmelt"
+        },
+        {
+          "text": "Locate the main water shut-off in case a pipe bursts"
+        }
+      ]
+    },
+    {
+      "title": "Seal & Weatherproof",
+      "items": [
+        {
+          "text": "Apply weatherstripping to doors and seal drafty windows"
+        },
+        {
+          "text": "Caulk gaps and cracks where pipes and wires enter the house"
+        },
+        {
+          "text": "Check attic insulation depth and add more if it's thin"
+        },
+        {
+          "text": "Install draft stoppers under exterior doors"
+        },
+        {
+          "text": "Inspect and reverse or remove window AC units"
+        }
+      ]
+    },
+    {
+      "title": "Fireplace & Safety",
+      "items": [
+        {
+          "text": "Hire a certified chimney sweep before lighting the first fire"
+        },
+        {
+          "text": "Test smoke and carbon-monoxide alarms and replace old batteries",
+          "note": "CO risk rises in fall and winter with fuel-burning heat"
+        },
+        {
+          "text": "Check the fireplace damper opens and closes fully"
+        },
+        {
+          "text": "Inspect and recharge the kitchen fire extinguisher"
+        },
+        {
+          "text": "Stock firewood in a dry, covered spot away from the house"
+        }
+      ]
+    },
+    {
+      "title": "Yard & Outdoor Prep",
+      "items": [
+        {
+          "text": "Aerate, fertilize and overseed the lawn before frost"
+        },
+        {
+          "text": "Clean and store outdoor furniture, grills and tools"
+        },
+        {
+          "text": "Service and store the lawn mower; ready the snow blower"
+        },
+        {
+          "text": "Stock up on ice melt and check that snow shovels are usable"
+        },
+        {
+          "text": "Empty and store pots; protect tender plants from frost"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I do fall home maintenance?",
+      "a": "Start in early autumn and finish the major tasks — furnace service, gutter cleaning and pipe winterizing — before temperatures regularly fall below freezing so your home is ready for the first cold snap."
+    },
+    {
+      "q": "Can I download this fall checklist as a PDF?",
+      "a": "Yes. You can print this fall home maintenance checklist or download it as a PDF and tick off tasks over a weekend or across several autumn weekends."
+    },
+    {
+      "q": "Why is fall the best time to service the furnace?",
+      "a": "Servicing in fall confirms the furnace works safely before you rely on it daily, and HVAC technicians are easier to book than during the first winter cold snap when everyone calls at once."
+    },
+    {
+      "q": "Do I really need to winterize outdoor faucets?",
+      "a": "Yes. Water left in outdoor faucets and hoses can freeze, expand and crack pipes, leading to leaks and water damage. Draining and shutting them off is a quick, cheap safeguard."
+    },
+    {
+      "q": "Should I clean the chimney myself in fall?",
+      "a": "Hire a certified chimney sweep for wood-burning fireplaces and stoves. They remove creosote buildup that causes chimney fires and check for blockages and structural issues you can't safely see."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fall-home-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fall-home-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fall Home Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/fall-home-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

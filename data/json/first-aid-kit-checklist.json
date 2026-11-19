@@ -1,0 +1,160 @@
+{
+  "id": "first-aid-kit-checklist",
+  "name": "First Aid Kit Checklist",
+  "description": "A checklist of supplies to stock in a home and car first aid kit, organized by category.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "safety",
+    "health",
+    "medical",
+    "first-aid"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Wound Care and Bandages",
+      "items": [
+        {
+          "text": "Adhesive bandages in assorted sizes"
+        },
+        {
+          "text": "Sterile gauze pads and rolls"
+        },
+        {
+          "text": "Medical tape"
+        },
+        {
+          "text": "Antiseptic wipes or solution"
+        },
+        {
+          "text": "Antibiotic or wound-care ointment"
+        },
+        {
+          "text": "Elastic wrap for sprains"
+        }
+      ]
+    },
+    {
+      "title": "Tools and Protection",
+      "items": [
+        {
+          "text": "Disposable gloves"
+        },
+        {
+          "text": "Scissors and tweezers"
+        },
+        {
+          "text": "A digital thermometer"
+        },
+        {
+          "text": "Safety pins"
+        },
+        {
+          "text": "An instant cold pack"
+        },
+        {
+          "text": "A small flashlight with spare batteries"
+        }
+      ]
+    },
+    {
+      "title": "Medicines and Basics",
+      "items": [
+        {
+          "text": "General pain and fever relief"
+        },
+        {
+          "text": "Allergy relief"
+        },
+        {
+          "text": "Antacids or stomach-settling items"
+        },
+        {
+          "text": "Burn gel or dressings"
+        },
+        {
+          "text": "Hand sanitizer",
+          "note": "Keep all medicines in date and suitable for your household"
+        }
+      ]
+    },
+    {
+      "title": "Car Kit Extras",
+      "items": [
+        {
+          "text": "A foil emergency blanket"
+        },
+        {
+          "text": "Bottled water and a snack"
+        },
+        {
+          "text": "A reflective vest or warning triangle"
+        },
+        {
+          "text": "Work gloves"
+        },
+        {
+          "text": "A phone charger or power bank"
+        }
+      ]
+    },
+    {
+      "title": "Information and Maintenance",
+      "items": [
+        {
+          "text": "A first aid instruction card or booklet"
+        },
+        {
+          "text": "A list of emergency contacts"
+        },
+        {
+          "text": "Notes on any family allergies or conditions"
+        },
+        {
+          "text": "Check expiry dates and replace expired items"
+        },
+        {
+          "text": "Restock anything used and review twice a year",
+          "note": "For emergencies, call your local emergency number such as 911"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; a first aid kit does not replace professional care, so for serious injuries or emergencies call your local emergency number and follow guidance from trained responders",
+          "note": "Consider a recognized first aid training course"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should every first aid kit include?",
+      "a": "Most kits include adhesive bandages, gauze, tape, antiseptic, gloves, scissors, tweezers, and basic medicines. Add items for your family's needs, and keep an emergency contact and instruction card inside."
+    },
+    {
+      "q": "Do I need a separate kit for my car?",
+      "a": "A car kit is helpful for travel and roadside situations. It can mirror your home kit with added items like a blanket and flashlight. Keep it where it stays out of extreme heat when possible."
+    },
+    {
+      "q": "How often should I check my first aid kit?",
+      "a": "Review your kits at least twice a year. Replace anything used, expired, or damaged, and update supplies as your family's needs change so the kit stays ready."
+    },
+    {
+      "q": "Should I include medicines in a first aid kit?",
+      "a": "Basic items like pain relief can be useful, but keep them in date and suitable for your household. For anyone's prescription medicines, follow their doctor's instructions and store them as directed."
+    },
+    {
+      "q": "Is this first aid kit checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep a copy inside each kit, and use it to check supplies and restock after any use."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/first-aid-kit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/first-aid-kit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "First Aid Kit Checklist by ChecklistForge (https://checklistforge.com/checklist/first-aid-kit-checklist)",
+  "updated": "2026-10-17"
+}

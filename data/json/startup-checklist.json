@@ -1,0 +1,194 @@
+{
+  "id": "startup-checklist",
+  "name": "Startup Checklist",
+  "description": "A founder's checklist to launch a scalable, venture-style startup.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "business",
+    "founders",
+    "startup",
+    "mvp"
+  ],
+  "item_count": 39,
+  "sections": [
+    {
+      "title": "Validate the problem",
+      "items": [
+        {
+          "text": "Define the specific problem and who suffers from it most."
+        },
+        {
+          "text": "Interview target users about how they solve it today."
+        },
+        {
+          "text": "Identify your riskiest assumption and a cheap way to test it."
+        },
+        {
+          "text": "Estimate the size of the market you can realistically reach."
+        },
+        {
+          "text": "Map existing alternatives and where they fall short."
+        },
+        {
+          "text": "Test willingness to pay before building anything."
+        },
+        {
+          "text": "Decide go or no-go based on the evidence you gathered."
+        }
+      ]
+    },
+    {
+      "title": "Build and ship an MVP",
+      "items": [
+        {
+          "text": "Define the single core value your MVP must deliver."
+        },
+        {
+          "text": "Cut every feature that isn't essential to that value."
+        },
+        {
+          "text": "Choose a tech stack or no-code tools you can move fast with."
+        },
+        {
+          "text": "Set a realistic timeline to a usable first version."
+        },
+        {
+          "text": "Recruit a small group of early users to test it."
+        },
+        {
+          "text": "Instrument analytics to measure activation and retention."
+        },
+        {
+          "text": "Ship, gather feedback, and iterate in short cycles."
+        }
+      ]
+    },
+    {
+      "title": "Incorporate and protect IP",
+      "items": [
+        {
+          "text": "Choose a legal structure suited to growth and investment.",
+          "note": "Structures and tax treatment vary by country and state — confirm with your official authority or a startup lawyer."
+        },
+        {
+          "text": "Register the company and obtain a tax identification number.",
+          "note": "Registration steps differ by jurisdiction — check locally."
+        },
+        {
+          "text": "Put a founders' agreement in writing covering equity and roles."
+        },
+        {
+          "text": "Set up a vesting schedule for founder shares."
+        },
+        {
+          "text": "Assign intellectual property to the company in writing."
+        },
+        {
+          "text": "Protect key trademarks or domains where appropriate."
+        }
+      ]
+    },
+    {
+      "title": "Set up finances and metrics",
+      "items": [
+        {
+          "text": "Open a business bank account separate from personal funds."
+        },
+        {
+          "text": "Set up bookkeeping and a simple financial model."
+        },
+        {
+          "text": "Track runway and your monthly cash burn."
+        },
+        {
+          "text": "Define the key metrics that prove your business works."
+        },
+        {
+          "text": "Set up billing and a way to collect payments."
+        },
+        {
+          "text": "Establish a basic budget and spending controls."
+        }
+      ]
+    },
+    {
+      "title": "Build the early team",
+      "items": [
+        {
+          "text": "Identify the first one or two critical roles to fill."
+        },
+        {
+          "text": "Decide what to hire for versus do yourself or outsource."
+        },
+        {
+          "text": "Define a simple equity and compensation framework."
+        },
+        {
+          "text": "Write clear role descriptions and expectations."
+        },
+        {
+          "text": "Use written offers and contracts for everyone you bring on.",
+          "note": "Employment rules vary by jurisdiction — verify locally."
+        },
+        {
+          "text": "Document your mission and values to guide hiring."
+        }
+      ]
+    },
+    {
+      "title": "Prepare to fundraise",
+      "items": [
+        {
+          "text": "Clarify how much you need and what milestones it buys."
+        },
+        {
+          "text": "Learn the basics of equity, valuation and dilution."
+        },
+        {
+          "text": "Build a concise pitch deck and a simple financial model."
+        },
+        {
+          "text": "Assemble traction evidence such as users, revenue or growth."
+        },
+        {
+          "text": "Research and shortlist investors that fit your stage."
+        },
+        {
+          "text": "Prepare a data room with key documents organized."
+        },
+        {
+          "text": "Understand basic term sheet concepts before negotiating.",
+          "note": "Investment terms carry legal and tax consequences — seek qualified advice."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is a startup different from a small business?",
+      "a": "A startup is designed to grow fast and scale, often with technology and outside investment. A small business typically aims for steady, sustainable income. This checklist focuses on the validation, MVP and fundraising path that scalable startups follow."
+    },
+    {
+      "q": "Do I need to incorporate before launching?",
+      "a": "You can validate a problem and even build an MVP before incorporating, but you'll want a legal entity in place before signing contracts, raising money or bringing on co-founders with equity. Confirm the right structure with your official authority or a startup lawyer."
+    },
+    {
+      "q": "What is an MVP and why does it matter?",
+      "a": "A minimum viable product is the smallest version of your product that delivers real value and lets you learn from actual users. It matters because it tests demand quickly and cheaply before you invest in a full build."
+    },
+    {
+      "q": "Do I need to raise money to start?",
+      "a": "Not necessarily. Many startups begin bootstrapped. Raise only when capital clearly accelerates growth you can't fund yourself, and learn the basics of equity and dilution before you take any investment."
+    },
+    {
+      "q": "Is there a printable PDF version?",
+      "a": "Yes. Print the startup checklist or download the PDF so your founding team can track milestones and tick off tasks together."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/startup-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/startup-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Startup Checklist by ChecklistForge (https://checklistforge.com/checklist/startup-checklist)",
+  "updated": "2026-10-17"
+}

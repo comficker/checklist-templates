@@ -1,0 +1,162 @@
+{
+  "id": "new-home-checklist",
+  "name": "New Home Checklist",
+  "description": "The first tasks to do after moving into a new home, from testing utilities to changing the locks.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "new-home",
+    "move-in",
+    "home-setup"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Get Utilities On & Tested",
+      "items": [
+        {
+          "text": "Confirm electricity, gas and water are switched on in your name"
+        },
+        {
+          "text": "Test every light switch, outlet and major appliance"
+        },
+        {
+          "text": "Run hot water at each tap and check water pressure"
+        },
+        {
+          "text": "Confirm heating and air conditioning both work",
+          "note": "Test before the first cold or hot night so you have time to call a technician"
+        },
+        {
+          "text": "Verify internet, cable and phone service are active"
+        }
+      ]
+    },
+    {
+      "title": "Secure the Home",
+      "items": [
+        {
+          "text": "Change or rekey every exterior door lock"
+        },
+        {
+          "text": "Test all window and patio-door locks"
+        },
+        {
+          "text": "Check that the garage door opener and codes are reset"
+        },
+        {
+          "text": "Set up or reset any alarm system and codes"
+        },
+        {
+          "text": "Replace batteries and test smoke and carbon-monoxide alarms"
+        }
+      ]
+    },
+    {
+      "title": "Find the Essentials",
+      "items": [
+        {
+          "text": "Locate and label the main water shut-off valve"
+        },
+        {
+          "text": "Find the breaker box and map which breaker controls each room"
+        },
+        {
+          "text": "Locate the gas shut-off and the water heater"
+        },
+        {
+          "text": "Find the fuse for the outdoor outlets and sprinklers"
+        },
+        {
+          "text": "Note where the HVAC filter goes and what size it takes"
+        }
+      ]
+    },
+    {
+      "title": "Deep Clean Before Unpacking",
+      "items": [
+        {
+          "text": "Wipe down and disinfect all kitchen cabinets and drawers"
+        },
+        {
+          "text": "Scrub the bathrooms, including the toilet, tub and shower"
+        },
+        {
+          "text": "Clean inside the refrigerator, oven and dishwasher"
+        },
+        {
+          "text": "Vacuum or mop all floors and wipe baseboards"
+        },
+        {
+          "text": "Replace toilet seats and showerheads if you prefer",
+          "note": "Cheap, quick swaps that make a used home feel like yours"
+        }
+      ]
+    },
+    {
+      "title": "Update Your Address & Accounts",
+      "items": [
+        {
+          "text": "Set up mail forwarding from your old address"
+        },
+        {
+          "text": "Update your address with banks, cards and your employer"
+        },
+        {
+          "text": "Change the address on your driver's license and vehicle registration"
+        },
+        {
+          "text": "Update subscriptions, deliveries and insurance policies"
+        }
+      ]
+    },
+    {
+      "title": "Settle In",
+      "items": [
+        {
+          "text": "Introduce yourself to the immediate neighbors"
+        },
+        {
+          "text": "Locate the nearest hospital, pharmacy and grocery store"
+        },
+        {
+          "text": "Find out the trash and recycling collection days"
+        },
+        {
+          "text": "Save local emergency, utility and handyman numbers"
+        },
+        {
+          "text": "Walk the property and note anything that needs repair"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I do first when moving into a new home?",
+      "a": "Before anything else, confirm the utilities are on, change or rekey the exterior locks, locate the water shut-off and breaker box, and test the smoke and carbon-monoxide alarms. These keep you safe and in control from day one."
+    },
+    {
+      "q": "Should I clean before or after unpacking?",
+      "a": "Deep clean before you unpack. It is far easier to scrub empty cabinets, closets and bathrooms when nothing is in the way, and you start with a fresh, sanitary space."
+    },
+    {
+      "q": "Why should I change the locks in a new home?",
+      "a": "You rarely know how many copies of the old keys exist — previous owners, tradespeople, or former tenants may still have them. Rekeying or replacing exterior locks is a cheap, one-time way to secure the home."
+    },
+    {
+      "q": "How soon should I update my address?",
+      "a": "Set up mail forwarding and update your address with banks, your employer and key services within the first week so nothing important is delayed or lost."
+    },
+    {
+      "q": "Is this new home checklist printable?",
+      "a": "Yes. Print it or download the PDF and tick off each move-in task as you complete it."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-home-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-home-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Home Checklist by ChecklistForge (https://checklistforge.com/checklist/new-home-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "post-construction-checklist",
+  "name": "Post-Construction Checklist",
+  "description": "A post-construction checklist for finishing the work after the build is complete.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "project-management",
+    "construction",
+    "building",
+    "post-construction"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Final cleaning",
+      "items": [
+        {
+          "text": "Remove all construction debris and waste."
+        },
+        {
+          "text": "Clean floors, surfaces and fixtures throughout."
+        },
+        {
+          "text": "Wash interior and exterior windows."
+        },
+        {
+          "text": "Wipe down cabinets, counters and millwork."
+        },
+        {
+          "text": "Clean and test plumbing fixtures and appliances."
+        },
+        {
+          "text": "Remove labels, protective film and packaging."
+        }
+      ]
+    },
+    {
+      "title": "Final inspections",
+      "items": [
+        {
+          "text": "Schedule and pass all code-required final inspections."
+        },
+        {
+          "text": "Confirm the certificate of occupancy is obtained."
+        },
+        {
+          "text": "Conduct an internal quality walkthrough."
+        },
+        {
+          "text": "Verify accessibility and life-safety compliance."
+        },
+        {
+          "text": "Check fire protection and alarm systems."
+        },
+        {
+          "text": "Document inspection results and approvals.",
+          "note": "Occupancy approval depends on your authority having jurisdiction; confirm requirements early."
+        }
+      ]
+    },
+    {
+      "title": "Systems testing and commissioning",
+      "items": [
+        {
+          "text": "Test and balance HVAC systems."
+        },
+        {
+          "text": "Verify electrical systems and emergency power."
+        },
+        {
+          "text": "Confirm plumbing operates without leaks."
+        },
+        {
+          "text": "Test controls, automation and building systems."
+        },
+        {
+          "text": "Verify fire and life-safety systems function."
+        },
+        {
+          "text": "Record commissioning results and settings."
+        }
+      ]
+    },
+    {
+      "title": "Documentation",
+      "items": [
+        {
+          "text": "Collect as-built drawings and updated plans."
+        },
+        {
+          "text": "Gather warranties for systems and materials."
+        },
+        {
+          "text": "Compile operation and maintenance (O&M) manuals."
+        },
+        {
+          "text": "Assemble inspection and test reports."
+        },
+        {
+          "text": "Collect product data sheets and certifications."
+        },
+        {
+          "text": "Organize permits and approval records."
+        }
+      ]
+    },
+    {
+      "title": "Deficiency review",
+      "items": [
+        {
+          "text": "Walk the building and create the final punch list."
+        },
+        {
+          "text": "Prioritize deficiencies by impact and urgency."
+        },
+        {
+          "text": "Assign each item to the responsible trade."
+        },
+        {
+          "text": "Track corrections to completion."
+        },
+        {
+          "text": "Re-inspect resolved items."
+        },
+        {
+          "text": "Document sign-off on completed deficiencies."
+        }
+      ]
+    },
+    {
+      "title": "Handover preparation",
+      "items": [
+        {
+          "text": "Prepare keys, access cards and codes."
+        },
+        {
+          "text": "Schedule the owner walkthrough."
+        },
+        {
+          "text": "Plan systems and equipment training for the owner."
+        },
+        {
+          "text": "Assemble the closeout and warranty package."
+        },
+        {
+          "text": "Confirm outstanding items and timelines."
+        },
+        {
+          "text": "Prepare the final account and payment documents."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the post-construction phase?",
+      "a": "It is the period after physical construction is finished but before final handover, covering cleaning, final inspections, testing, documentation and deficiency resolution. This checklist helps builders bring the project to a truly finished state."
+    },
+    {
+      "q": "What is the difference between post-construction and closeout?",
+      "a": "Post-construction focuses on physically finishing, cleaning, inspecting and preparing the building. Closeout is the contractual and administrative wrap-up — as-builts, warranties, final payment and lien releases. The two phases overlap and feed into each other."
+    },
+    {
+      "q": "What does final construction cleaning include?",
+      "a": "Final cleaning removes construction dust and debris, cleans windows, fixtures, floors and surfaces, and prepares the space for occupancy. A thorough clean is essential before the owner walkthrough and any final inspections."
+    },
+    {
+      "q": "Why review deficiencies before handover?",
+      "a": "Reviewing and resolving deficiencies, often via a punch list, ensures the work meets the contract and quality standards before the owner accepts it. Catching issues now is far easier than after the building is occupied."
+    },
+    {
+      "q": "Is this post-construction checklist available as a printable PDF?",
+      "a": "Yes. Print it for the final-stages walkthrough or download the PDF so project managers can track cleaning, inspections and handover prep from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/post-construction-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/post-construction-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Post-Construction Checklist by ChecklistForge (https://checklistforge.com/checklist/post-construction-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "rabbit-care-checklist",
+  "name": "Rabbit Care Checklist",
+  "description": "A rabbit care checklist covering housing, a hay-based diet, litter, grooming and health.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "pet-care",
+    "grooming",
+    "rabbits",
+    "rabbit-care"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Housing & Space",
+      "items": [
+        {
+          "text": "Provide a large enclosure or rabbit-proofed pen"
+        },
+        {
+          "text": "Allow daily time to run and stretch in a safe area",
+          "note": "Rabbits need exercise well beyond a small hutch"
+        },
+        {
+          "text": "Add a hideout or covered area for security"
+        },
+        {
+          "text": "Keep housing out of extreme heat, cold and drafts"
+        },
+        {
+          "text": "Use solid flooring or soft surfaces to protect feet"
+        }
+      ]
+    },
+    {
+      "title": "Diet",
+      "items": [
+        {
+          "text": "Offer unlimited fresh grass hay at all times"
+        },
+        {
+          "text": "Provide a variety of rabbit-safe leafy greens daily"
+        },
+        {
+          "text": "Give a small measured portion of quality pellets"
+        },
+        {
+          "text": "Limit treats and avoid sugary or starchy foods"
+        },
+        {
+          "text": "Supply clean, fresh water daily in a bowl or bottle"
+        }
+      ]
+    },
+    {
+      "title": "Litter & Cleaning",
+      "items": [
+        {
+          "text": "Set up a litter box with rabbit-safe litter and hay"
+        },
+        {
+          "text": "Spot-clean the litter box daily"
+        },
+        {
+          "text": "Clean the full enclosure and replace bedding regularly"
+        },
+        {
+          "text": "Wash food and water containers"
+        },
+        {
+          "text": "Check corners for soiling outside the box"
+        }
+      ]
+    },
+    {
+      "title": "Grooming",
+      "items": [
+        {
+          "text": "Brush the coat regularly, more often during molts",
+          "note": "Rabbits ingest loose fur when self-grooming"
+        },
+        {
+          "text": "Check and trim nails as needed"
+        },
+        {
+          "text": "Inspect the rear end for soiling, especially in warm weather"
+        },
+        {
+          "text": "Check ears and eyes for discharge or irritation"
+        },
+        {
+          "text": "Never bathe a rabbit unless advised by a vet"
+        }
+      ]
+    },
+    {
+      "title": "Health Monitoring",
+      "items": [
+        {
+          "text": "Watch appetite and droppings daily for changes",
+          "note": "A rabbit not eating or pooping needs urgent vet care"
+        },
+        {
+          "text": "Check teeth alignment and watch for drooling"
+        },
+        {
+          "text": "Observe behavior, posture and energy levels"
+        },
+        {
+          "text": "Feel for lumps or signs of pain during handling"
+        },
+        {
+          "text": "Schedule routine check-ups with a rabbit-savvy vet"
+        }
+      ]
+    },
+    {
+      "title": "Enrichment & Social Needs",
+      "items": [
+        {
+          "text": "Provide chew toys to support dental health"
+        },
+        {
+          "text": "Offer tunnels, boxes and digging or foraging options"
+        },
+        {
+          "text": "Spend daily time interacting at floor level"
+        },
+        {
+          "text": "Consider a bonded companion, as rabbits are social"
+        },
+        {
+          "text": "Rotate toys to keep the environment interesting"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a rabbit eat?",
+      "a": "Unlimited grass hay should make up most of a rabbit's diet, supported by fresh leafy greens, a small measured portion of pellets and limited treats. Constant hay supports digestion and wears down continuously growing teeth."
+    },
+    {
+      "q": "How much space does a pet rabbit need?",
+      "a": "Rabbits need far more room than a small hutch — a large enclosure plus daily time to run and stretch in a safe, rabbit-proofed area. Confinement to a tiny cage harms their health and behavior."
+    },
+    {
+      "q": "Can rabbits use a litter box?",
+      "a": "Yes. Many rabbits litter-train well, especially once spayed or neutered. Place a litter box with rabbit-safe litter and a handful of hay in their favored corner and clean it regularly."
+    },
+    {
+      "q": "When should I take my rabbit to a vet?",
+      "a": "Rabbits hide illness, so see a rabbit-savvy vet for any drop in appetite or droppings, which can signal a serious gut problem. This checklist is general guidance; routine check-ups and spay or neuter are best discussed with a vet."
+    },
+    {
+      "q": "Can I print this rabbit care checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it handy and tick off daily and routine tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/rabbit-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/rabbit-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Rabbit Care Checklist by ChecklistForge (https://checklistforge.com/checklist/rabbit-care-checklist)",
+  "updated": "2026-10-17"
+}

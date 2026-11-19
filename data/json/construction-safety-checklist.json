@@ -1,0 +1,183 @@
+{
+  "id": "construction-safety-checklist",
+  "name": "Construction Safety Checklist",
+  "description": "A construction site safety checklist covering hazards, PPE, fall protection, training and emergency readiness.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "safety",
+    "osha",
+    "construction",
+    "ppe",
+    "site-management"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Safety program and documentation",
+      "items": [
+        {
+          "text": "Maintain a written, site-specific safety and health plan."
+        },
+        {
+          "text": "Post emergency contacts, the OSHA poster and permits on site."
+        },
+        {
+          "text": "Assign a competent person for high-risk activities."
+        },
+        {
+          "text": "Keep safety data sheets accessible for all hazardous materials."
+        },
+        {
+          "text": "Log incidents, near misses and corrective actions."
+        },
+        {
+          "text": "Schedule regular safety walks and document findings.",
+          "note": "These items are general guidance and do not replace OSHA standards or a competent person's judgment."
+        }
+      ]
+    },
+    {
+      "title": "Personal protective equipment (PPE)",
+      "items": [
+        {
+          "text": "Confirm hard hats are worn in all designated areas."
+        },
+        {
+          "text": "Require safety glasses or face shields where hazards exist."
+        },
+        {
+          "text": "Provide and require high-visibility clothing near traffic and equipment."
+        },
+        {
+          "text": "Issue cut-resistant or task-appropriate gloves."
+        },
+        {
+          "text": "Verify hearing protection in high-noise zones."
+        },
+        {
+          "text": "Check that respiratory protection is available and fit-tested where needed."
+        }
+      ]
+    },
+    {
+      "title": "Fall protection",
+      "items": [
+        {
+          "text": "Guard or cover all floor openings, edges and skylights."
+        },
+        {
+          "text": "Provide guardrails or personal fall arrest systems above required heights."
+        },
+        {
+          "text": "Inspect harnesses, lanyards and anchor points before each use."
+        },
+        {
+          "text": "Confirm ladders are rated, secured and used correctly."
+        },
+        {
+          "text": "Verify scaffolds are erected and inspected by a competent person."
+        },
+        {
+          "text": "Restrict access to areas with unprotected fall hazards."
+        }
+      ]
+    },
+    {
+      "title": "Site and hazard controls",
+      "items": [
+        {
+          "text": "Lock out and tag out energized equipment before service."
+        },
+        {
+          "text": "Protect and identify all electrical cords, panels and outlets."
+        },
+        {
+          "text": "Shore, bench or slope excavations and trenches as required."
+        },
+        {
+          "text": "Keep walkways, stairs and exits clear of debris and trip hazards."
+        },
+        {
+          "text": "Store flammables and chemicals safely and label containers."
+        },
+        {
+          "text": "Maintain machine guards and confirm equipment is inspected."
+        }
+      ]
+    },
+    {
+      "title": "Training and communication",
+      "items": [
+        {
+          "text": "Run a safety orientation for every new worker on site."
+        },
+        {
+          "text": "Hold regular toolbox talks on current and upcoming tasks."
+        },
+        {
+          "text": "Verify task-specific training and certifications are current."
+        },
+        {
+          "text": "Communicate hazards through signage, barricades and tags."
+        },
+        {
+          "text": "Confirm workers know how to report hazards and incidents."
+        },
+        {
+          "text": "Document attendance and topics for all safety training."
+        }
+      ]
+    },
+    {
+      "title": "Emergency preparedness",
+      "items": [
+        {
+          "text": "Post and brief the site evacuation plan and assembly points."
+        },
+        {
+          "text": "Stock and inspect first aid kits and emergency supplies."
+        },
+        {
+          "text": "Identify trained first aid and CPR responders on site."
+        },
+        {
+          "text": "Maintain fire extinguishers and confirm clear access."
+        },
+        {
+          "text": "Establish procedures for severe weather and site shutdown."
+        },
+        {
+          "text": "Keep emergency vehicle access routes clear at all times."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the most common construction hazards?",
+      "a": "OSHA's \"Focus Four\" hazards — falls, struck-by, electrocution and caught-in or caught-between — cause most serious construction injuries. This checklist addresses each so contractors can target the risks that matter most on site."
+    },
+    {
+      "q": "How often should safety inspections happen?",
+      "a": "Many sites run a daily safety walk plus more detailed weekly inspections, with frequency rising for high-risk work. Use this checklist for routine walks and audits, and document what you find each time."
+    },
+    {
+      "q": "Does this checklist meet OSHA requirements?",
+      "a": "It reflects standard practice but is general guidance, not a compliance document. Always follow the OSHA standards that apply to your work, your site-specific safety plan, and the direction of a competent person."
+    },
+    {
+      "q": "What is a competent person on a construction site?",
+      "a": "OSHA defines a competent person as someone able to identify hazards and authorized to correct them. Many tasks, such as scaffolding and excavation, require a competent person, which a checklist cannot replace."
+    },
+    {
+      "q": "Is this safety checklist available as a printable PDF?",
+      "a": "Yes. Print it for toolbox talks and site inspections or download the PDF so supervisors and crews can use it during daily safety walks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/construction-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/construction-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Construction Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/construction-safety-checklist)",
+  "updated": "2026-10-17"
+}

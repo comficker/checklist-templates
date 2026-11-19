@@ -1,0 +1,192 @@
+{
+  "id": "beach-vacation-checklist",
+  "name": "Beach Vacation Checklist",
+  "description": "A complete beach vacation checklist covering sun protection, swimwear, beach gear, the day bag and travel essentials.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "family",
+    "travel",
+    "beach",
+    "vacation"
+  ],
+  "item_count": 39,
+  "sections": [
+    {
+      "title": "Sun Protection",
+      "items": [
+        {
+          "text": "Broad-spectrum sunscreen, SPF 30 or higher",
+          "note": "Check the expiry date and replace anything older than a year."
+        },
+        {
+          "text": "Water-resistant sunscreen for swimming"
+        },
+        {
+          "text": "Lip balm with SPF"
+        },
+        {
+          "text": "Wide-brimmed hat or cap"
+        },
+        {
+          "text": "Sunglasses with UV protection"
+        },
+        {
+          "text": "Aloe vera or after-sun lotion"
+        },
+        {
+          "text": "Lightweight cover-up or rash guard"
+        }
+      ]
+    },
+    {
+      "title": "Swimwear and Beachwear",
+      "items": [
+        {
+          "text": "Two swimsuits so one can dry"
+        },
+        {
+          "text": "Quick-dry shorts and tops"
+        },
+        {
+          "text": "Sundresses or light, breathable clothing"
+        },
+        {
+          "text": "Flip-flops or water sandals"
+        },
+        {
+          "text": "An outfit for evenings out"
+        },
+        {
+          "text": "Sleepwear and underwear for the trip length"
+        }
+      ]
+    },
+    {
+      "title": "Beach Gear",
+      "items": [
+        {
+          "text": "Beach towels for each person"
+        },
+        {
+          "text": "Beach umbrella or pop-up sun shade"
+        },
+        {
+          "text": "Beach chairs or a mat"
+        },
+        {
+          "text": "Cooler or insulated bag for drinks"
+        },
+        {
+          "text": "Snorkel set, goggles, or floats"
+        },
+        {
+          "text": "Beach toys for kids: bucket, shovel, ball"
+        },
+        {
+          "text": "Waterproof phone pouch and a small dry bag"
+        }
+      ]
+    },
+    {
+      "title": "Day Bag for the Shore",
+      "items": [
+        {
+          "text": "Reusable water bottles"
+        },
+        {
+          "text": "Snacks and fresh fruit"
+        },
+        {
+          "text": "Sunscreen for reapplying"
+        },
+        {
+          "text": "Wet wipes and hand sanitizer"
+        },
+        {
+          "text": "Plastic bag for wet swimsuits"
+        },
+        {
+          "text": "Cash and ID in a waterproof pouch"
+        },
+        {
+          "text": "A book, magazine, or downloaded entertainment"
+        }
+      ]
+    },
+    {
+      "title": "Toiletries and Health",
+      "items": [
+        {
+          "text": "Travel-sized shampoo, conditioner, and body wash"
+        },
+        {
+          "text": "Toothbrush and toothpaste"
+        },
+        {
+          "text": "Daily medications and a basic first-aid kit"
+        },
+        {
+          "text": "Insect repellent"
+        },
+        {
+          "text": "Motion-sickness remedy if you plan boat trips"
+        },
+        {
+          "text": "Hairbrush and detangler for salt water"
+        }
+      ]
+    },
+    {
+      "title": "Travel Essentials",
+      "items": [
+        {
+          "text": "ID, passport, and booking confirmations"
+        },
+        {
+          "text": "Debit or credit card and cash"
+        },
+        {
+          "text": "Phone, charger, and power bank"
+        },
+        {
+          "text": "Travel insurance details"
+        },
+        {
+          "text": "Reusable shopping bag"
+        },
+        {
+          "text": "Check the local weather and tide times before each beach day"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack for a beach vacation?",
+      "a": "Pack swimwear, sun protection like sunscreen and a hat, beach towels, sandals, and a day bag for the shore. Add quick-dry clothing, a refillable water bottle, and any gear such as an umbrella or snorkel set you plan to use."
+    },
+    {
+      "q": "How much sunscreen should I bring?",
+      "a": "Plan for about an ounce per full-body application and reapply every two hours, so a family can go through a bottle quickly. Bring a broad-spectrum SPF 30 or higher and a water-resistant formula for swimming."
+    },
+    {
+      "q": "What goes in a beach day bag?",
+      "a": "Keep sunscreen, water, snacks, a towel, sunglasses, a phone in a waterproof pouch, and a light cover-up in your beach bag. Pack a small dry bag for valuables and a plastic bag for wet swimsuits on the way back."
+    },
+    {
+      "q": "Can I print this beach vacation checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you pack your suitcase and load your beach bag."
+    },
+    {
+      "q": "How do I keep sand out of my bag?",
+      "a": "Use a beach bag with a mesh or shake-out bottom, bring baby powder to brush sand off skin easily, and pack a separate bag for sandy or wet items so they stay away from clean clothes."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/beach-vacation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/beach-vacation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Beach Vacation Checklist by ChecklistForge (https://checklistforge.com/checklist/beach-vacation-checklist)",
+  "updated": "2026-10-18"
+}

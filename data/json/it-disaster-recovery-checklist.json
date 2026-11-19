@@ -1,0 +1,187 @@
+{
+  "id": "it-disaster-recovery-checklist",
+  "name": "IT Disaster Recovery Checklist",
+  "description": "An IT disaster recovery checklist for small and mid-sized teams: priorities, backups, runbooks, incident response, recovery and testing.",
+  "category": "it-software",
+  "category_name": "IT & Software",
+  "tags": [
+    "security",
+    "it",
+    "disaster-recovery",
+    "backup",
+    "business-continuity"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Scope and Priorities",
+      "items": [
+        {
+          "text": "List every critical system, application and data store"
+        },
+        {
+          "text": "Map which business processes depend on each system"
+        },
+        {
+          "text": "Set a recovery time objective (RTO) for each system"
+        },
+        {
+          "text": "Set a recovery point objective (RPO) for each system",
+          "note": "The RPO sets your backup frequency: a one-hour RPO needs at least hourly backups or replication."
+        },
+        {
+          "text": "Rank systems into recovery tiers, with dependencies first",
+          "note": "Identity, DNS and networking usually have to come back before the applications that rely on them."
+        },
+        {
+          "text": "Get management sign-off on the targets and the budget they need"
+        }
+      ]
+    },
+    {
+      "title": "Backups and Data Protection",
+      "items": [
+        {
+          "text": "Follow the 3-2-1 rule: three copies, two media types, one off-site"
+        },
+        {
+          "text": "Keep at least one immutable or offline backup copy",
+          "note": "Ransomware commonly targets connected backups first, so an offline or immutable copy is your last line of defense."
+        },
+        {
+          "text": "Back up cloud and SaaS data, not just on-premises servers"
+        },
+        {
+          "text": "Encrypt backups and store the keys separately"
+        },
+        {
+          "text": "Use separate credentials with MFA for backup administration"
+        },
+        {
+          "text": "Monitor backup jobs and alert on failures"
+        }
+      ]
+    },
+    {
+      "title": "Recovery Environment",
+      "items": [
+        {
+          "text": "Choose a recovery site: cloud, secondary data center or hot, warm or cold standby"
+        },
+        {
+          "text": "Document network, firewall and DNS settings needed to fail over"
+        },
+        {
+          "text": "Keep spare hardware or a replacement plan for key devices"
+        },
+        {
+          "text": "Store licenses, installers and configuration exports off-site"
+        }
+      ]
+    },
+    {
+      "title": "Runbooks and Contacts",
+      "items": [
+        {
+          "text": "Write step-by-step recovery runbooks for each tier-one system"
+        },
+        {
+          "text": "Assign a recovery owner and a backup person for each system"
+        },
+        {
+          "text": "Keep a contact list for staff, vendors, ISP, insurer and cloud providers"
+        },
+        {
+          "text": "Store the plan where you can reach it if your systems are down",
+          "note": "Keep a printed copy and a copy outside your own network, since the plan is useless if it lives only on the systems that failed."
+        },
+        {
+          "text": "Prepare message templates for staff and customers"
+        }
+      ]
+    },
+    {
+      "title": "During an Incident",
+      "items": [
+        {
+          "text": "Declare the incident and name an incident lead"
+        },
+        {
+          "text": "Contain the problem: isolate infected or failing systems"
+        },
+        {
+          "text": "Preserve logs and evidence before wiping anything in a security incident"
+        },
+        {
+          "text": "Notify management, insurers and any regulators that require it"
+        },
+        {
+          "text": "Log every decision and action with a timestamp"
+        }
+      ]
+    },
+    {
+      "title": "Recovery and Validation",
+      "items": [
+        {
+          "text": "Restore systems in tier order, starting with dependencies"
+        },
+        {
+          "text": "Check restored data is complete and from a clean point in time"
+        },
+        {
+          "text": "Have system owners confirm each service works before go-live"
+        },
+        {
+          "text": "Reset passwords and keys if credentials may be compromised"
+        },
+        {
+          "text": "Watch restored systems closely for errors or reinfection"
+        }
+      ]
+    },
+    {
+      "title": "Testing and Review",
+      "items": [
+        {
+          "text": "Run a test restore of sample files every month"
+        },
+        {
+          "text": "Run a full disaster recovery test or tabletop exercise every year"
+        },
+        {
+          "text": "Measure actual recovery times against your RTO and RPO"
+        },
+        {
+          "text": "Hold a lessons-learned review after every test or real incident"
+        },
+        {
+          "text": "Update the plan after major system, staff or vendor changes"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between RTO and RPO?",
+      "a": "The recovery time objective (RTO) is how long a system can be down before the impact is unacceptable. The recovery point objective (RPO) is how much data, measured in time, you can afford to lose. A four-hour RPO means backups must run at least every four hours."
+    },
+    {
+      "q": "What is the 3-2-1 backup rule?",
+      "a": "Keep at least three copies of your data, on two different types of storage, with one copy off-site. Many teams now add an immutable or offline copy as well, because ransomware often tries to delete or encrypt connected backups first."
+    },
+    {
+      "q": "How is disaster recovery different from business continuity?",
+      "a": "Disaster recovery focuses on restoring IT systems and data. Business continuity is the wider plan for keeping the whole organisation running, including staff, premises, suppliers and customer communication. A disaster recovery plan is one part of business continuity."
+    },
+    {
+      "q": "How often should a disaster recovery plan be tested?",
+      "a": "Test at least once a year and after any major change, such as a new system, a cloud migration or a change of backup provider. Restore individual files more often, for example monthly, to confirm backups are actually usable."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/it-disaster-recovery-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/it-disaster-recovery-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "IT Disaster Recovery Checklist by ChecklistForge (https://checklistforge.com/checklist/it-disaster-recovery-checklist)",
+  "updated": "2026-10-18"
+}

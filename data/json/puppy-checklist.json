@@ -1,0 +1,183 @@
+{
+  "id": "puppy-checklist",
+  "name": "Puppy Checklist",
+  "description": "A puppy checklist covering first-year milestones, including vet care, vaccinations, training, and socialization.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "training",
+    "pets",
+    "dogs",
+    "puppy"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Vet care and vaccinations",
+      "items": [
+        {
+          "text": "Keep every scheduled vaccination and booster appointment."
+        },
+        {
+          "text": "Follow your vet's deworming and parasite-prevention plan."
+        },
+        {
+          "text": "Discuss spay or neuter timing for your puppy."
+        },
+        {
+          "text": "Confirm microchip registration is up to date."
+        },
+        {
+          "text": "Track weight and growth at each visit.",
+          "note": "Ask your veterinarian what is healthy for your breed."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always follow your veterinarian's schedule for vaccinations and health care."
+        }
+      ]
+    },
+    {
+      "title": "House training and crate",
+      "items": [
+        {
+          "text": "Maintain a consistent potty schedule and reward success."
+        },
+        {
+          "text": "Build positive crate association with short, happy sessions."
+        },
+        {
+          "text": "Gradually increase alone-time to prevent separation anxiety."
+        },
+        {
+          "text": "Use enzyme cleaner and stay patient with accidents."
+        },
+        {
+          "text": "Set clear house rules everyone follows consistently."
+        },
+        {
+          "text": "Establish predictable feeding, potty, and rest routines."
+        }
+      ]
+    },
+    {
+      "title": "Socialization",
+      "items": [
+        {
+          "text": "Introduce new people, sounds, and surfaces positively and gradually."
+        },
+        {
+          "text": "Expose your puppy to gentle handling of paws, ears, and mouth."
+        },
+        {
+          "text": "Arrange safe, supervised meetings with vaccinated dogs."
+        },
+        {
+          "text": "Practice calm car rides and short outings."
+        },
+        {
+          "text": "Reward confidence and never force a fearful puppy."
+        },
+        {
+          "text": "Consider a reputable puppy socialization class."
+        }
+      ]
+    },
+    {
+      "title": "Basic training",
+      "items": [
+        {
+          "text": "Teach name recognition and a reliable recall."
+        },
+        {
+          "text": "Start with sit, down, stay, and leave it using rewards."
+        },
+        {
+          "text": "Practice loose-leash walking in short sessions."
+        },
+        {
+          "text": "Redirect biting and chewing to appropriate toys."
+        },
+        {
+          "text": "Keep training short, positive, and consistent."
+        },
+        {
+          "text": "Reinforce calm behavior and gentle greetings."
+        }
+      ]
+    },
+    {
+      "title": "Nutrition and growth",
+      "items": [
+        {
+          "text": "Feed an age-appropriate puppy food in measured meals."
+        },
+        {
+          "text": "Transition foods gradually to avoid stomach upset."
+        },
+        {
+          "text": "Adjust portions as your puppy grows.",
+          "note": "Confirm amounts with your veterinarian."
+        },
+        {
+          "text": "Provide fresh water at all times."
+        },
+        {
+          "text": "Limit treats and avoid foods toxic to dogs."
+        },
+        {
+          "text": "Plan the switch to adult food on your vet's timeline."
+        }
+      ]
+    },
+    {
+      "title": "Grooming and health habits",
+      "items": [
+        {
+          "text": "Brush the coat regularly to build tolerance and reduce shedding."
+        },
+        {
+          "text": "Introduce nail trims, ear checks, and tooth care gently."
+        },
+        {
+          "text": "Bathe occasionally with a puppy-safe shampoo."
+        },
+        {
+          "text": "Check skin and coat for fleas, ticks, and irritation."
+        },
+        {
+          "text": "Watch appetite, energy, and stool for any changes."
+        },
+        {
+          "text": "Provide daily exercise suited to your puppy's stage and breed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What milestones should I track in a puppy's first year?",
+      "a": "Track vaccination boosters, deworming, spay or neuter timing, growth and food transitions, house and crate training, socialization, basic obedience, and grooming tolerance. This puppy checklist organizes these milestones so the first year stays on course."
+    },
+    {
+      "q": "When does a puppy finish its vaccinations?",
+      "a": "Puppies usually receive a series of vaccinations over several months, with the schedule set by your veterinarian based on age and risk. Keep every appointment and follow your vet's guidance, since timing protects your puppy during a vulnerable stage."
+    },
+    {
+      "q": "When should I start socializing my puppy?",
+      "a": "The early socialization window is brief and important. Begin gentle, positive exposure to new people, sounds, surfaces, and handling early, following your veterinarian's advice on safe exposure before vaccinations are complete. Positive experiences build a confident adult dog."
+    },
+    {
+      "q": "How is this different from the new puppy checklist?",
+      "a": "This puppy checklist follows the whole first year of milestones. Our New Puppy Checklist covers just the first day and week of supplies, setup, and the initial vet visit."
+    },
+    {
+      "q": "Can I download this puppy checklist as a PDF?",
+      "a": "Yes. You can print it to track progress month by month or download it as a PDF for vet visits, so new puppy owners stay on top of first-year milestones."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/puppy-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/puppy-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Puppy Checklist by ChecklistForge (https://checklistforge.com/checklist/puppy-checklist)",
+  "updated": "2026-10-17"
+}

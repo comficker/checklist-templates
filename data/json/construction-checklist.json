@@ -1,0 +1,206 @@
+{
+  "id": "construction-checklist",
+  "name": "Construction Checklist",
+  "description": "A complete construction checklist covering every project phase from start to finish.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "project-management",
+    "construction",
+    "building",
+    "contractors"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Pre-construction planning",
+      "items": [
+        {
+          "text": "Confirm the project scope, budget and target completion date."
+        },
+        {
+          "text": "Secure financing and set up the project accounting system."
+        },
+        {
+          "text": "Finalize approved drawings, specifications and the bill of quantities."
+        },
+        {
+          "text": "Obtain all building permits and required approvals."
+        },
+        {
+          "text": "Award contracts to the general contractor and key subcontractors."
+        },
+        {
+          "text": "Establish the project schedule and critical path.",
+          "note": "Identify long-lead items early so procurement does not delay the start."
+        }
+      ]
+    },
+    {
+      "title": "Site mobilization",
+      "items": [
+        {
+          "text": "Set up site access, fencing and temporary roads."
+        },
+        {
+          "text": "Install temporary utilities — power, water and sanitation."
+        },
+        {
+          "text": "Position the site office, storage and material laydown areas."
+        },
+        {
+          "text": "Post required safety, permit and emergency signage."
+        },
+        {
+          "text": "Conduct the site safety orientation for the initial crew."
+        },
+        {
+          "text": "Complete site survey, layout and benchmark control points."
+        }
+      ]
+    },
+    {
+      "title": "Foundation and structure",
+      "items": [
+        {
+          "text": "Clear, excavate and grade the site to plan."
+        },
+        {
+          "text": "Install footings, foundations and below-grade waterproofing."
+        },
+        {
+          "text": "Pass the foundation inspection before backfilling."
+        },
+        {
+          "text": "Erect the structural frame, columns and beams."
+        },
+        {
+          "text": "Pour or place floor slabs and structural decks."
+        },
+        {
+          "text": "Complete the roof structure and weatherproofing."
+        }
+      ]
+    },
+    {
+      "title": "Building systems and envelope",
+      "items": [
+        {
+          "text": "Rough-in electrical, plumbing and HVAC systems."
+        },
+        {
+          "text": "Install windows, exterior doors and cladding."
+        },
+        {
+          "text": "Pass rough-in inspections for all mechanical, electrical and plumbing work."
+        },
+        {
+          "text": "Add insulation and vapor barriers."
+        },
+        {
+          "text": "Hang and finish drywall or interior wall systems."
+        },
+        {
+          "text": "Install fire protection and life-safety systems."
+        }
+      ]
+    },
+    {
+      "title": "Interior finishes",
+      "items": [
+        {
+          "text": "Install flooring, tile and ceiling finishes."
+        },
+        {
+          "text": "Paint walls, ceilings and trim."
+        },
+        {
+          "text": "Set cabinetry, millwork and fixtures."
+        },
+        {
+          "text": "Install fixtures, fittings and equipment per specification."
+        },
+        {
+          "text": "Complete the landscaping and exterior hardscape."
+        },
+        {
+          "text": "Connect and commission all building systems."
+        }
+      ]
+    },
+    {
+      "title": "Inspections and quality control",
+      "items": [
+        {
+          "text": "Schedule and pass all code-required inspections."
+        },
+        {
+          "text": "Walk the site and create the punch list of remaining items."
+        },
+        {
+          "text": "Verify finished work against drawings and specifications."
+        },
+        {
+          "text": "Test and balance HVAC and confirm systems operate correctly."
+        },
+        {
+          "text": "Resolve all punch list items and re-inspect."
+        },
+        {
+          "text": "Obtain the certificate of occupancy.",
+          "note": "Occupancy approvals depend on your authority having jurisdiction; confirm requirements early."
+        }
+      ]
+    },
+    {
+      "title": "Closeout and handover",
+      "items": [
+        {
+          "text": "Collect as-built drawings, warranties and O&M manuals."
+        },
+        {
+          "text": "Reconcile change orders and process final payments."
+        },
+        {
+          "text": "Release retainage and obtain lien waivers."
+        },
+        {
+          "text": "Conduct the owner walkthrough and systems training."
+        },
+        {
+          "text": "Hand over keys, access cards and project documentation."
+        },
+        {
+          "text": "Capture lessons learned and archive the project file."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the main phases of a construction project?",
+      "a": "Most projects move through pre-construction, procurement and mobilization, construction, inspections, and closeout with handover. This checklist groups tasks under those phases so you can track progress and confirm each stage is complete before moving on."
+    },
+    {
+      "q": "Who should use a construction checklist?",
+      "a": "General contractors, builders, project managers, site supervisors and owner's representatives all benefit. It creates a shared reference so everyone knows what is expected at each stage and who is responsible for it."
+    },
+    {
+      "q": "How detailed should a construction checklist be?",
+      "a": "Detailed enough to capture critical milestones, permits, inspections and quality checks, but not so granular that it duplicates your full project schedule. Use it alongside drawings, the schedule and your safety plan."
+    },
+    {
+      "q": "Does this checklist replace local building codes?",
+      "a": "No. It is a planning aid. Always follow your local building codes, permit conditions, approved drawings and the requirements of your authority having jurisdiction, which take precedence over any general checklist."
+    },
+    {
+      "q": "Is this construction checklist available as a printable PDF?",
+      "a": "Yes. Print it for the site office or download the PDF to share with your team and check off tasks across every phase of the project."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/construction-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/construction-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Construction Checklist by ChecklistForge (https://checklistforge.com/checklist/construction-checklist)",
+  "updated": "2026-10-18"
+}

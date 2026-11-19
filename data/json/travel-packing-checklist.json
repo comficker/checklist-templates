@@ -1,0 +1,179 @@
+{
+  "id": "travel-packing-checklist",
+  "name": "Travel Packing Checklist",
+  "description": "A travel packing checklist organized by category — clothes, toiletries, tech, documents, and extras — so you pack everything you need.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "trip",
+    "luggage"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Clothing",
+      "items": [
+        {
+          "text": "Tops and t-shirts for each day or to layer"
+        },
+        {
+          "text": "Bottoms — trousers, shorts, or skirts"
+        },
+        {
+          "text": "Underwear and socks for the trip length"
+        },
+        {
+          "text": "Sleepwear and loungewear"
+        },
+        {
+          "text": "A warm layer or jacket"
+        },
+        {
+          "text": "Weather-appropriate outerwear or rain gear",
+          "note": "Check the forecast before finalizing clothing"
+        },
+        {
+          "text": "A dressier outfit if your plans need one"
+        }
+      ]
+    },
+    {
+      "title": "Footwear and Accessories",
+      "items": [
+        {
+          "text": "Comfortable walking shoes"
+        },
+        {
+          "text": "Sandals or a second pair of shoes"
+        },
+        {
+          "text": "Belt, hat, and sunglasses"
+        },
+        {
+          "text": "Swimwear if relevant"
+        },
+        {
+          "text": "A reusable bag and a day bag"
+        }
+      ]
+    },
+    {
+      "title": "Toiletries and Personal Care",
+      "items": [
+        {
+          "text": "Toothbrush, toothpaste, and floss"
+        },
+        {
+          "text": "Shampoo, soap, and deodorant in travel sizes"
+        },
+        {
+          "text": "Skincare and sunscreen"
+        },
+        {
+          "text": "Razor, comb, and grooming items"
+        },
+        {
+          "text": "Medicines, vitamins, and a small first-aid kit"
+        },
+        {
+          "text": "Glasses, contacts, and solution if needed"
+        }
+      ]
+    },
+    {
+      "title": "Tech and Electronics",
+      "items": [
+        {
+          "text": "Phone and charger"
+        },
+        {
+          "text": "Power bank for long days out"
+        },
+        {
+          "text": "Travel adapter and any converters"
+        },
+        {
+          "text": "Headphones"
+        },
+        {
+          "text": "Camera, laptop, or tablet if needed"
+        },
+        {
+          "text": "Cables organized in a small pouch"
+        }
+      ]
+    },
+    {
+      "title": "Documents and Money",
+      "items": [
+        {
+          "text": "Passport or ID and any visas"
+        },
+        {
+          "text": "Printed and digital booking confirmations"
+        },
+        {
+          "text": "Travel insurance details"
+        },
+        {
+          "text": "Cash, cards, and a travel card"
+        },
+        {
+          "text": "Copies of key documents stored separately"
+        }
+      ]
+    },
+    {
+      "title": "Extras and Comfort",
+      "items": [
+        {
+          "text": "Reusable water bottle"
+        },
+        {
+          "text": "Snacks for travel days"
+        },
+        {
+          "text": "Neck pillow, eye mask, and earplugs"
+        },
+        {
+          "text": "Packing cubes and a laundry bag"
+        },
+        {
+          "text": "Entertainment — book, e-reader, or games"
+        },
+        {
+          "text": "Tissues, wipes, and hand sanitizer"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I decide how much to pack?",
+      "a": "Plan outfits around your trip length and activities, then pack versatile pieces you can mix and match. Doing a small laundry mid-trip often beats hauling a heavy bag, especially for longer journeys."
+    },
+    {
+      "q": "What is the difference between this and a travel checklist?",
+      "a": "This packing checklist lists only what goes in your bags. A travel checklist covers the whole trip — bookings, documents, money, and home prep. Use both together so planning and packing each stay focused."
+    },
+    {
+      "q": "Should I pack documents and medicines in checked luggage?",
+      "a": "Keep passports, tickets, money, electronics, and essential medicines in your carry-on. If checked bags are delayed or lost, you still have everything you truly cannot do without."
+    },
+    {
+      "q": "How do I avoid overpacking?",
+      "a": "Choose a neutral color palette so clothes coordinate, limit shoes to two or three pairs, and use packing cubes to compress and organize. Lay everything out first, then remove a few items you can manage without."
+    },
+    {
+      "q": "Is this packing checklist printable?",
+      "a": "Yes. Print it or download the PDF, tick off each category as you pack, and reuse it for future trips by adjusting quantities to the destination and season."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/travel-packing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/travel-packing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Travel Packing Checklist by ChecklistForge (https://checklistforge.com/checklist/travel-packing-checklist)",
+  "updated": "2026-11-13"
+}

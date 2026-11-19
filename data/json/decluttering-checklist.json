@@ -1,0 +1,167 @@
+{
+  "id": "decluttering-checklist",
+  "name": "Decluttering Checklist",
+  "description": "A step-by-step method to declutter any space using keep, donate, sell, and toss.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "home",
+    "decluttering",
+    "organization",
+    "minimalism"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Set Up the Four-Pile System",
+      "items": [
+        {
+          "text": "Label four containers: keep, donate, sell, and toss"
+        },
+        {
+          "text": "Add a fifth bin for items that belong in another room"
+        },
+        {
+          "text": "Pick one small area and set a 20-minute timer",
+          "note": "Small wins build the momentum to keep going."
+        },
+        {
+          "text": "Empty the chosen area completely onto a flat surface"
+        },
+        {
+          "text": "Commit to handling each item only once"
+        }
+      ]
+    },
+    {
+      "title": "Sort with Clear Decisions",
+      "items": [
+        {
+          "text": "Keep items you have used in the past year"
+        },
+        {
+          "text": "Donate usable items you no longer need or love"
+        },
+        {
+          "text": "Set aside higher-value items to sell"
+        },
+        {
+          "text": "Toss anything broken, expired, or unsafe to use"
+        },
+        {
+          "text": "Relocate misplaced items to the room they belong in",
+          "note": "Wait until the session ends to put them away."
+        }
+      ]
+    },
+    {
+      "title": "Declutter Surfaces and Floors",
+      "items": [
+        {
+          "text": "Clear counters, tables, and desks down to true essentials"
+        },
+        {
+          "text": "Remove anything stored on the floor that has a better home"
+        },
+        {
+          "text": "Sort the junk drawer and discard dead pens and stray parts"
+        },
+        {
+          "text": "Recycle old mail, paperwork, and expired coupons"
+        },
+        {
+          "text": "Wipe each cleared surface before deciding what returns"
+        }
+      ]
+    },
+    {
+      "title": "Tackle Closets and Drawers",
+      "items": [
+        {
+          "text": "Pull every item out and sort into the four piles"
+        },
+        {
+          "text": "Try on questionable clothing and donate what does not fit"
+        },
+        {
+          "text": "Discard single socks, stretched basics, and worn shoes"
+        },
+        {
+          "text": "Keep only the linens and towels you actually use"
+        },
+        {
+          "text": "Group what remains by type before putting it back",
+          "note": "Folding vertically lets you see everything at a glance."
+        }
+      ]
+    },
+    {
+      "title": "Handle Sentimental and Hard Items",
+      "items": [
+        {
+          "text": "Box sentimental items separately and limit yourself to one bin"
+        },
+        {
+          "text": "Photograph keepsakes you want to remember but not store"
+        },
+        {
+          "text": "Set duplicates aside and keep only the best version"
+        },
+        {
+          "text": "Give yourself permission to release guilt gifts"
+        },
+        {
+          "text": "Revisit the maybe pile after a week with fresh eyes"
+        }
+      ]
+    },
+    {
+      "title": "Finish and Follow Through",
+      "items": [
+        {
+          "text": "Take out the toss bags immediately so they do not creep back"
+        },
+        {
+          "text": "Schedule a donation drop-off within the week",
+          "note": "Put the donation box in your car so it actually leaves."
+        },
+        {
+          "text": "List sell items online or set a date for a yard sale"
+        },
+        {
+          "text": "Put keep items away in their assigned homes"
+        },
+        {
+          "text": "Adopt a one-in, one-out rule to stay clutter-free"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the best decluttering method for beginners?",
+      "a": "The four-pile method works best: sort every item into keep, donate, sell, or toss. It forces a single decision per item and prevents the endless shuffling that stalls most beginners."
+    },
+    {
+      "q": "How do I decide what to keep when decluttering?",
+      "a": "Ask whether you have used the item in the past year and whether it earns its space. If it is broken, duplicated, or forgotten, it usually belongs in the donate, sell, or toss pile."
+    },
+    {
+      "q": "Should I declutter or organize first?",
+      "a": "Declutter first. Organizing belongings you do not need just wastes time and storage. Once the excess is gone, what remains is far easier and faster to organize."
+    },
+    {
+      "q": "How often should I declutter my home?",
+      "a": "Do a quick pass each season and a deeper sweep once a year. Frequent light sessions prevent buildup, so you avoid the exhausting marathon cleanouts entirely."
+    },
+    {
+      "q": "Can I print this decluttering checklist?",
+      "a": "Yes. Download the printable PDF, keep it nearby as you work through each area, and check off tasks so you can see exactly how much progress you have made."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/decluttering-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/decluttering-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Decluttering Checklist by ChecklistForge (https://checklistforge.com/checklist/decluttering-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "school-morning-checklist",
+  "name": "School Morning Checklist",
+  "description": "A step-by-step morning routine to get kids to school calmly and on time.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "morning-routine",
+    "parents",
+    "habits",
+    "kids",
+    "school-day"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Wake up",
+      "items": [
+        {
+          "text": "Get out of bed when the first alarm goes off."
+        },
+        {
+          "text": "Open the curtains to let in daylight."
+        },
+        {
+          "text": "Make the bed before leaving the bedroom."
+        },
+        {
+          "text": "Drink a glass of water to wake up."
+        },
+        {
+          "text": "Check the day's weather and schedule."
+        }
+      ]
+    },
+    {
+      "title": "Personal care",
+      "items": [
+        {
+          "text": "Use the bathroom and wash your hands."
+        },
+        {
+          "text": "Brush your teeth thoroughly."
+        },
+        {
+          "text": "Wash your face and tidy your hair."
+        },
+        {
+          "text": "Apply any needed sunscreen or lotion."
+        },
+        {
+          "text": "Take any morning medication.",
+          "note": "Keep it in the same spot as a daily reminder."
+        }
+      ]
+    },
+    {
+      "title": "Get dressed",
+      "items": [
+        {
+          "text": "Put on the clothes laid out the night before."
+        },
+        {
+          "text": "Check the outfit suits the weather and any uniform rules."
+        },
+        {
+          "text": "Put on socks and the right shoes."
+        },
+        {
+          "text": "Add a jacket or layer if it is cold."
+        },
+        {
+          "text": "Place dirty laundry in the hamper."
+        }
+      ]
+    },
+    {
+      "title": "Breakfast",
+      "items": [
+        {
+          "text": "Eat a healthy breakfast at the table."
+        },
+        {
+          "text": "Take any vitamins if your family uses them."
+        },
+        {
+          "text": "Clear your plate and cup after eating."
+        },
+        {
+          "text": "Refill and seal your water bottle."
+        },
+        {
+          "text": "Grab the prepared lunch or lunch money."
+        }
+      ]
+    },
+    {
+      "title": "Final preparation",
+      "items": [
+        {
+          "text": "Do a final backpack check against the list."
+        },
+        {
+          "text": "Add any homework or signed forms."
+        },
+        {
+          "text": "Pack day-specific items like gym kit or instruments."
+        },
+        {
+          "text": "Confirm your device is charged and packed."
+        },
+        {
+          "text": "Put on shoes and gather your jacket."
+        }
+      ]
+    },
+    {
+      "title": "Leave on time",
+      "items": [
+        {
+          "text": "Check the clock against your departure time."
+        },
+        {
+          "text": "Say goodbye and confirm pickup plans."
+        },
+        {
+          "text": "Take keys, bus pass or ID with you."
+        },
+        {
+          "text": "Lock the door on your way out."
+        },
+        {
+          "text": "Head to the bus stop, car or walking route."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I make school mornings less stressful?",
+      "a": "Move as much as possible to the night before, wake everyone with enough buffer time, and use the same routine every day. When children know the order of steps and can follow a checklist themselves, mornings get far calmer and faster."
+    },
+    {
+      "q": "What can we do the night before to help mornings?",
+      "a": "Lay out clothes, pack the backpack, prepare lunch, and decide on breakfast in advance. Each item handled the evening before is one less decision to make while everyone is tired and pressed for time in the morning."
+    },
+    {
+      "q": "How can I get my child to follow the routine alone?",
+      "a": "Post a printable checklist at their eye level and let them tick off each step. Visual ownership builds independence, reduces nagging, and helps younger children remember the sequence without constant reminders from a parent."
+    },
+    {
+      "q": "How much time should we allow for the morning?",
+      "a": "Work backward from departure time and add a 10-to-15-minute buffer for the unexpected. Time the routine on a calm day to see how long it really takes, then set wake-up time to match with a little margin."
+    },
+    {
+      "q": "Is this school morning checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to post on the mirror or fridge so kids and parents can tick off each step and leave for school on time."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/school-morning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/school-morning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "School Morning Checklist by ChecklistForge (https://checklistforge.com/checklist/school-morning-checklist)",
+  "updated": "2026-10-17"
+}

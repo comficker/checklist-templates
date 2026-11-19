@@ -1,0 +1,183 @@
+{
+  "id": "college-move-out-checklist",
+  "name": "College Move-Out Checklist",
+  "description": "An end-of-year checklist for cleaning, packing and moving out of a dorm.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "move-out",
+    "students",
+    "college",
+    "dorm"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Plan ahead",
+      "items": [
+        {
+          "text": "Confirm the exact move-out deadline and check-out hours.",
+          "note": "Late departures often trigger daily fees — confirm the cutoff early."
+        },
+        {
+          "text": "Review the check-out and cleaning requirements."
+        },
+        {
+          "text": "Reserve a vehicle, storage or shipping if needed."
+        },
+        {
+          "text": "Coordinate timing and tasks with your roommate."
+        },
+        {
+          "text": "Gather boxes, tape, bags and labels in advance."
+        },
+        {
+          "text": "Schedule any travel home around the deadline."
+        }
+      ]
+    },
+    {
+      "title": "Sort belongings",
+      "items": [
+        {
+          "text": "Separate items into keep, store, donate and trash."
+        },
+        {
+          "text": "Decide what goes home versus into summer storage."
+        },
+        {
+          "text": "Sell or give away things you no longer need."
+        },
+        {
+          "text": "Set aside donations for a campus or local drop-off."
+        },
+        {
+          "text": "Empty the fridge and toss expired food."
+        },
+        {
+          "text": "Return any borrowed or rented items."
+        }
+      ]
+    },
+    {
+      "title": "Pack and label",
+      "items": [
+        {
+          "text": "Start with off-season and rarely used items."
+        },
+        {
+          "text": "Pack heavy items in small, sturdy boxes."
+        },
+        {
+          "text": "Wrap fragile items and electronics carefully."
+        },
+        {
+          "text": "Keep an essentials bag for your final days."
+        },
+        {
+          "text": "Label each box with contents and destination."
+        },
+        {
+          "text": "Keep important documents and valuables with you."
+        }
+      ]
+    },
+    {
+      "title": "Clean the room",
+      "items": [
+        {
+          "text": "Remove all trash, tape and wall hooks."
+        },
+        {
+          "text": "Dust surfaces and wipe down furniture."
+        },
+        {
+          "text": "Clean the desk, shelves, drawers and closet."
+        },
+        {
+          "text": "Sweep, vacuum and mop the floor."
+        },
+        {
+          "text": "Clean any sink, microwave or fridge in the room."
+        },
+        {
+          "text": "Leave the room as close to move-in condition as possible."
+        }
+      ]
+    },
+    {
+      "title": "Ship or store",
+      "items": [
+        {
+          "text": "Move stored items to a storage unit or service."
+        },
+        {
+          "text": "Ship boxes home if driving isn't practical."
+        },
+        {
+          "text": "Confirm pickup or drop-off times for any service."
+        },
+        {
+          "text": "Insure or photograph valuable shipped items."
+        },
+        {
+          "text": "Keep tracking numbers and receipts."
+        },
+        {
+          "text": "Load your vehicle the night before if possible."
+        }
+      ]
+    },
+    {
+      "title": "Final check-out",
+      "items": [
+        {
+          "text": "Do a final walk-through for forgotten items."
+        },
+        {
+          "text": "Photograph the empty, cleaned room."
+        },
+        {
+          "text": "Complete the official check-out inspection."
+        },
+        {
+          "text": "Return your room key or access card on time.",
+          "note": "Lost keys often mean a re-keying charge against your deposit."
+        },
+        {
+          "text": "Update your mailing address with the school."
+        },
+        {
+          "text": "Confirm your deposit return process and timeline."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start packing for dorm move-out?",
+      "a": "Begin a week or two before the deadline by packing off-season clothes and items you don't use daily. Starting early avoids cramming the whole job into finals week."
+    },
+    {
+      "q": "How do I get my dorm deposit back?",
+      "a": "Clean the room thoroughly, repair or report any damage, remove all belongings, and complete the official check-out process. Compare the room to your move-in condition form to dispute unfair charges."
+    },
+    {
+      "q": "What should I do with stuff I can't take home?",
+      "a": "Sort items into keep, store, donate and trash. Use a summer storage service or a friend nearby for bulky items, and donate or sell what you no longer need."
+    },
+    {
+      "q": "What happens if I miss the move-out deadline?",
+      "a": "Late move-out often results in daily fees and can affect your housing standing. Confirm the exact deadline and check-out hours, and ask early if you need an extension."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each move-out task as you complete it."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/college-move-out-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/college-move-out-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "College Move-Out Checklist by ChecklistForge (https://checklistforge.com/checklist/college-move-out-checklist)",
+  "updated": "2026-10-17"
+}

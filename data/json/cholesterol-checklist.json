@@ -1,0 +1,156 @@
+{
+  "id": "cholesterol-checklist",
+  "name": "Cholesterol Checklist",
+  "description": "A checklist for supporting healthy cholesterol through diet, activity, knowing your numbers, and follow-up testing.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "heart",
+    "cholesterol"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Know Your Numbers",
+      "items": [
+        {
+          "text": "Have your cholesterol tested as your doctor recommends"
+        },
+        {
+          "text": "Record your results with the test date"
+        },
+        {
+          "text": "Ask your doctor what your numbers mean for you"
+        },
+        {
+          "text": "Track results over time to see trends"
+        },
+        {
+          "text": "Note your overall heart-health risk factors",
+          "note": "Ask your doctor about your numbers and your target range"
+        }
+      ]
+    },
+    {
+      "title": "Heart-Healthy Eating",
+      "items": [
+        {
+          "text": "Fill more of your plate with vegetables and fruits"
+        },
+        {
+          "text": "Choose whole grains over refined ones"
+        },
+        {
+          "text": "Include healthy fats like those from nuts and fish"
+        },
+        {
+          "text": "Limit fried and highly processed foods"
+        },
+        {
+          "text": "Cut back on foods high in saturated fat"
+        },
+        {
+          "text": "Add more fiber-rich foods to your meals"
+        }
+      ]
+    },
+    {
+      "title": "Activity and Lifestyle",
+      "items": [
+        {
+          "text": "Aim for regular physical activity as your doctor allows"
+        },
+        {
+          "text": "Maintain a healthy weight"
+        },
+        {
+          "text": "Avoid smoking and secondhand smoke"
+        },
+        {
+          "text": "Limit alcohol"
+        },
+        {
+          "text": "Manage stress and aim for good sleep"
+        }
+      ]
+    },
+    {
+      "title": "Follow-Up and Monitoring",
+      "items": [
+        {
+          "text": "Schedule follow-up tests as recommended"
+        },
+        {
+          "text": "Keep appointments to review your results"
+        },
+        {
+          "text": "Discuss blood pressure and blood sugar too"
+        },
+        {
+          "text": "Take any prescribed medicines exactly as directed"
+        },
+        {
+          "text": "Update your doctor on lifestyle changes you have made"
+        }
+      ]
+    },
+    {
+      "title": "Questions for Your Doctor",
+      "items": [
+        {
+          "text": "Ask what your results mean for your heart health"
+        },
+        {
+          "text": "Ask which lifestyle changes would help most"
+        },
+        {
+          "text": "Ask whether medicine is recommended for you"
+        },
+        {
+          "text": "Ask how often you should be retested"
+        },
+        {
+          "text": "Ask which warning signs to watch for"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; ask your doctor about your numbers, your targets, and any treatment, and follow their guidance based on your full risk picture",
+          "note": "Lifestyle habits support but do not replace care from your doctor"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is cholesterol?",
+      "a": "Cholesterol is a substance in your blood that your body needs in balance. Levels are usually measured with a blood test, and your doctor looks at the results alongside your overall heart-health risk."
+    },
+    {
+      "q": "What are healthy cholesterol numbers?",
+      "a": "In general terms, a healthier balance of the different cholesterol measures is the goal, but the right targets depend on your overall risk. Ask your doctor about your numbers and what is appropriate for you."
+    },
+    {
+      "q": "How can I support healthy cholesterol?",
+      "a": "Helpful habits include eating more vegetables, fruits, whole grains, and healthy fats, limiting highly processed foods, staying active, maintaining a healthy weight, and not smoking. Your doctor can advise what fits you."
+    },
+    {
+      "q": "How often should I have my cholesterol checked?",
+      "a": "Testing frequency depends on your age, risk factors, and past results. Some people are checked every few years and others more often, so ask your doctor how often you should be tested."
+    },
+    {
+      "q": "Is this cholesterol checklist printable?",
+      "a": "Yes. Print it or download the PDF, use it to build heart-healthy habits, and track your test results to discuss with your doctor."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cholesterol-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cholesterol-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cholesterol Checklist by ChecklistForge (https://checklistforge.com/checklist/cholesterol-checklist)",
+  "updated": "2026-10-17"
+}

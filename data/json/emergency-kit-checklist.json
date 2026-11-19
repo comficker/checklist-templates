@@ -1,0 +1,167 @@
+{
+  "id": "emergency-kit-checklist",
+  "name": "Emergency Kit Checklist",
+  "description": "Exactly what goes in a 72-hour home emergency kit, from water and food to first aid, tools and documents.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "emergency",
+    "preparedness",
+    "survival",
+    "kit"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Water",
+      "items": [
+        {
+          "text": "One gallon of water per person per day for at least three days"
+        },
+        {
+          "text": "Extra water for pets and for hot climates"
+        },
+        {
+          "text": "A few collapsible bottles or a refillable container"
+        },
+        {
+          "text": "Water purification tablets or a small filter as a backup",
+          "note": "Useful if your stored water runs out before help arrives"
+        }
+      ]
+    },
+    {
+      "title": "Food",
+      "items": [
+        {
+          "text": "Three-day supply of non-perishable food per person"
+        },
+        {
+          "text": "A manual can opener and basic utensils"
+        },
+        {
+          "text": "Ready-to-eat items that need no cooking or refrigeration"
+        },
+        {
+          "text": "High-energy foods like nuts, dried fruit and protein bars"
+        },
+        {
+          "text": "Special foods for infants, pets and dietary needs"
+        }
+      ]
+    },
+    {
+      "title": "First Aid and Medications",
+      "items": [
+        {
+          "text": "A stocked first aid kit with bandages and antiseptic"
+        },
+        {
+          "text": "A seven-day supply of prescription medications"
+        },
+        {
+          "text": "Pain relievers, antihistamines and any personal medicine"
+        },
+        {
+          "text": "Copies of prescriptions and a list of allergies"
+        },
+        {
+          "text": "Spare glasses, contact supplies and hearing-aid batteries"
+        }
+      ]
+    },
+    {
+      "title": "Tools and Lighting",
+      "items": [
+        {
+          "text": "Flashlights or headlamps with spare batteries"
+        },
+        {
+          "text": "A battery-powered or hand-crank radio"
+        },
+        {
+          "text": "A multi-tool or basic wrench and pliers set"
+        },
+        {
+          "text": "A whistle to signal for help"
+        },
+        {
+          "text": "Duct tape, plastic sheeting and work gloves"
+        },
+        {
+          "text": "Phone chargers and a power bank"
+        }
+      ]
+    },
+    {
+      "title": "Sanitation and Comfort",
+      "items": [
+        {
+          "text": "Moist towelettes, hand sanitizer and garbage bags"
+        },
+        {
+          "text": "Toilet paper, soap and personal hygiene items"
+        },
+        {
+          "text": "A change of clothes and sturdy shoes per person"
+        },
+        {
+          "text": "An emergency blanket or sleeping bag for each person"
+        },
+        {
+          "text": "Dust masks to filter contaminated air"
+        },
+        {
+          "text": "Comfort items and activities for children"
+        }
+      ]
+    },
+    {
+      "title": "Documents and Cash",
+      "items": [
+        {
+          "text": "Copies of IDs, insurance and medical records in a waterproof bag"
+        },
+        {
+          "text": "A list of emergency contacts and meeting points"
+        },
+        {
+          "text": "Cash in small bills in case card systems are down"
+        },
+        {
+          "text": "Spare house and car keys"
+        },
+        {
+          "text": "A paper map of your area in case GPS is unavailable"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be in a basic emergency kit?",
+      "a": "The basics are water, non-perishable food, a first aid kit, flashlight, battery or hand-crank radio, extra batteries, a whistle, medications, sanitation supplies, copies of documents and cash. Ready.gov recommends these as the core of every household kit."
+    },
+    {
+      "q": "How much water and food should the kit hold?",
+      "a": "Pack at least one gallon of water per person per day and a three-day supply of non-perishable food. Choose foods that need no cooking or refrigeration, and include a manual can opener."
+    },
+    {
+      "q": "How long should an emergency kit last?",
+      "a": "Build at least a three-day (72-hour) supply for evacuation, and keep a two-week supply of food and water at home when space allows. The 72-hour kit is the grab-and-go baseline recommended by FEMA and the Red Cross."
+    },
+    {
+      "q": "How often should I check my emergency kit?",
+      "a": "Review it twice a year. Rotate water and food before they expire, replace dead batteries, refresh medications, and update clothing and documents as needs change."
+    },
+    {
+      "q": "Is this emergency kit checklist printable?",
+      "a": "Yes. Print it or download the PDF, tape a copy inside the kit, and check off each item as you pack and restock it."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/emergency-kit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/emergency-kit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Emergency Kit Checklist by ChecklistForge (https://checklistforge.com/checklist/emergency-kit-checklist)",
+  "updated": "2026-10-17"
+}

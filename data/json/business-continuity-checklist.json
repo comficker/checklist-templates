@@ -1,0 +1,182 @@
+{
+  "id": "business-continuity-checklist",
+  "name": "Business Continuity Checklist",
+  "description": "A checklist to build and maintain a business continuity plan.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "business",
+    "continuity",
+    "risk",
+    "small-business"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Assess risks and impact",
+      "items": [
+        {
+          "text": "List the threats most likely to disrupt your business."
+        },
+        {
+          "text": "Assess the likelihood and impact of each threat."
+        },
+        {
+          "text": "Estimate how long you could survive without key operations."
+        },
+        {
+          "text": "Identify single points of failure in your business."
+        },
+        {
+          "text": "Note dependencies on suppliers, systems and key people."
+        },
+        {
+          "text": "Prioritize the risks that need a plan first."
+        }
+      ]
+    },
+    {
+      "title": "Identify critical functions",
+      "items": [
+        {
+          "text": "List the functions that must keep running to serve customers."
+        },
+        {
+          "text": "Set a recovery time objective for each critical function."
+        },
+        {
+          "text": "Identify the people, systems and data each function needs."
+        },
+        {
+          "text": "Cross-train staff so no function relies on one person."
+        },
+        {
+          "text": "Document the minimum resources needed to operate."
+        },
+        {
+          "text": "Rank functions so you know what to restore first."
+        }
+      ]
+    },
+    {
+      "title": "Protect data and backups",
+      "items": [
+        {
+          "text": "Identify the data and records you cannot afford to lose."
+        },
+        {
+          "text": "Set up automatic backups on a regular schedule."
+        },
+        {
+          "text": "Store backups offsite or in the cloud, separate from your systems."
+        },
+        {
+          "text": "Test restoring from a backup to confirm it works."
+        },
+        {
+          "text": "Secure systems with strong access controls and updates."
+        },
+        {
+          "text": "Keep copies of critical documents and credentials securely."
+        }
+      ]
+    },
+    {
+      "title": "Plan communication",
+      "items": [
+        {
+          "text": "Create a contact list for staff, suppliers and key partners."
+        },
+        {
+          "text": "Define who decides and who communicates during a crisis."
+        },
+        {
+          "text": "Prepare message templates for staff, customers and media."
+        },
+        {
+          "text": "Choose backup communication channels if primary ones fail."
+        },
+        {
+          "text": "Plan how to keep customers informed of disruptions."
+        },
+        {
+          "text": "Store contact and communication plans where they're reachable offline."
+        }
+      ]
+    },
+    {
+      "title": "Prepare alternatives and recovery",
+      "items": [
+        {
+          "text": "Identify backup locations or remote work options."
+        },
+        {
+          "text": "Line up alternative suppliers for critical inputs."
+        },
+        {
+          "text": "Confirm insurance covers relevant disruptions.",
+          "note": "Coverage and requirements vary by jurisdiction — confirm with your provider."
+        },
+        {
+          "text": "Build a cash reserve or access to emergency funds."
+        },
+        {
+          "text": "Document step-by-step recovery procedures."
+        },
+        {
+          "text": "Assign clear roles for executing the recovery."
+        }
+      ]
+    },
+    {
+      "title": "Test and maintain the plan",
+      "items": [
+        {
+          "text": "Run a tabletop exercise to walk through a scenario."
+        },
+        {
+          "text": "Test backups and recovery steps in practice."
+        },
+        {
+          "text": "Capture lessons learned and update the plan."
+        },
+        {
+          "text": "Train staff so everyone knows their role."
+        },
+        {
+          "text": "Review the plan at least once a year."
+        },
+        {
+          "text": "Update it after any major change to the business."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a business continuity plan?",
+      "a": "It's a documented plan for how your business keeps operating, or quickly resumes, during and after a disruption. It identifies critical functions, the resources they need, and the steps to recover them."
+    },
+    {
+      "q": "Does a small business really need one?",
+      "a": "Yes. Small businesses are often the most vulnerable to disruption and the least able to absorb lost revenue. Even a short, simple plan dramatically improves your odds of recovering quickly."
+    },
+    {
+      "q": "How often should I update the plan?",
+      "a": "Review it at least once a year, and after any major change such as new systems, locations, suppliers or staff. Test parts of it regularly so gaps surface before a real emergency."
+    },
+    {
+      "q": "What's the difference between continuity and disaster recovery?",
+      "a": "Disaster recovery focuses on restoring IT systems and data, while continuity covers the whole business — people, operations, communication and customers. Disaster recovery is one part of a continuity plan."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the continuity checklist for your emergency folder or download the PDF and store a copy offsite so it's available even if your systems go down."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/business-continuity-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/business-continuity-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Business Continuity Checklist by ChecklistForge (https://checklistforge.com/checklist/business-continuity-checklist)",
+  "updated": "2026-10-17"
+}

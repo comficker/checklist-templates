@@ -1,0 +1,180 @@
+{
+  "id": "home-maintenance-checklist",
+  "name": "Home Maintenance Checklist",
+  "description": "A year-round home maintenance checklist organized by system and area to protect your home.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "safety",
+    "homeowner",
+    "seasonal",
+    "hvac"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Monthly Tasks",
+      "items": [
+        {
+          "text": "Replace or clean the HVAC air filter",
+          "note": "Check 1-inch filters monthly; replace at least every 90 days"
+        },
+        {
+          "text": "Test smoke and carbon-monoxide alarms"
+        },
+        {
+          "text": "Inspect under sinks and around appliances for leaks"
+        },
+        {
+          "text": "Clean the kitchen range hood filter and run the garbage disposal with cold water"
+        },
+        {
+          "text": "Check water pressure and look for slow or clogged drains"
+        },
+        {
+          "text": "Wipe down weatherstripping and check door and window seals"
+        }
+      ]
+    },
+    {
+      "title": "Heating & Cooling (HVAC)",
+      "items": [
+        {
+          "text": "Schedule a professional HVAC tune-up before each heating and cooling season"
+        },
+        {
+          "text": "Clear leaves and debris from around the outdoor condenser unit"
+        },
+        {
+          "text": "Vacuum supply and return vents and registers"
+        },
+        {
+          "text": "Program the thermostat for the season to cut energy use",
+          "note": "Replace thermostat batteries once a year"
+        },
+        {
+          "text": "Check and clear the condensate drain line to prevent overflow"
+        }
+      ]
+    },
+    {
+      "title": "Plumbing & Water",
+      "items": [
+        {
+          "text": "Flush sediment from the water heater once a year"
+        },
+        {
+          "text": "Locate and test the main water shut-off valve"
+        },
+        {
+          "text": "Inspect exposed pipes for corrosion, drips or sweating"
+        },
+        {
+          "text": "Clean faucet aerators and showerheads to clear mineral buildup"
+        },
+        {
+          "text": "Test the sump pump where fitted before the rainy season"
+        },
+        {
+          "text": "Check toilet flappers and seals for silent leaks",
+          "note": "Add food coloring to the tank; color in the bowl means a leak"
+        }
+      ]
+    },
+    {
+      "title": "Roof, Gutters & Exterior",
+      "items": [
+        {
+          "text": "Inspect the roof from the ground with binoculars for damaged or missing shingles"
+        },
+        {
+          "text": "Clean gutters and downspouts and confirm water drains away from the foundation"
+        },
+        {
+          "text": "Check flashing around chimneys, vents and skylights"
+        },
+        {
+          "text": "Reseal cracks in driveways, walkways and exterior caulking"
+        },
+        {
+          "text": "Trim trees and shrubs back from the house and roofline"
+        },
+        {
+          "text": "Wash siding and inspect paint for peeling or rot"
+        }
+      ]
+    },
+    {
+      "title": "Safety & Electrical",
+      "items": [
+        {
+          "text": "Test GFCI outlets in kitchens, bathrooms and outdoors monthly"
+        },
+        {
+          "text": "Check that smoke and CO alarms are under 10 years old and replace expired units"
+        },
+        {
+          "text": "Inspect electrical cords and power strips for fraying or damage"
+        },
+        {
+          "text": "Review and refresh the fire extinguisher near the kitchen"
+        },
+        {
+          "text": "Hire a licensed electrician for any panel work, flickering lights or warm outlets",
+          "note": "Never open or work inside the electrical panel yourself"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal & Annual Jobs",
+      "items": [
+        {
+          "text": "Spring: clean gutters, service the AC and inspect the roof and foundation"
+        },
+        {
+          "text": "Summer: check exterior paint, seal decks and test irrigation"
+        },
+        {
+          "text": "Fall: service the furnace, clean the chimney and winterize outdoor faucets"
+        },
+        {
+          "text": "Winter: monitor for ice dams, check insulation and prevent frozen pipes"
+        },
+        {
+          "text": "Annually: deep-clean the dryer vent to reduce fire risk"
+        },
+        {
+          "text": "Annually: inspect the attic and basement for moisture, pests and insulation gaps"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I do home maintenance?",
+      "a": "Mix the intervals: check smoke alarms and filters monthly, test safety systems and clean gutters quarterly, and tackle bigger seasonal jobs like HVAC service and roof inspection once or twice a year."
+    },
+    {
+      "q": "Can I download this home maintenance checklist as a PDF?",
+      "a": "Yes. You can print this checklist or download it as a PDF, so you can keep it in the garage, share it with family, or tick off tasks offline as you work through your home."
+    },
+    {
+      "q": "What home maintenance tasks should never be DIY?",
+      "a": "Leave electrical panel work, gas appliance repairs, and climbing onto steep or high roofs to licensed professionals. The injury and fire risks far outweigh any savings from doing them yourself."
+    },
+    {
+      "q": "Is this checklist good for new homeowners?",
+      "a": "Yes. New homeowners can use it as a starting routine, noting the age and brand of major systems so they know when service, filter changes, and replacements are due."
+    },
+    {
+      "q": "How much should I budget for home maintenance?",
+      "a": "A common rule of thumb is to set aside about 1% of your home's value each year for maintenance and repairs, adjusting up for older homes or harsh climates."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/home-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/home-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Home Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/home-maintenance-checklist)",
+  "updated": "2026-10-18"
+}

@@ -1,0 +1,152 @@
+{
+  "id": "moving-timeline-checklist",
+  "name": "Moving Timeline Checklist",
+  "description": "An 8-week moving timeline checklist showing exactly what to do each week before moving day.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "packing",
+    "moving-day",
+    "moving-timeline"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "8 Weeks Out",
+      "items": [
+        {
+          "text": "Set your moving budget"
+        },
+        {
+          "text": "Book a moving company or reserve a rental truck"
+        },
+        {
+          "text": "Start decluttering — donate, sell or bin what you won't take"
+        }
+      ]
+    },
+    {
+      "title": "6 Weeks Out",
+      "items": [
+        {
+          "text": "Order boxes and packing supplies"
+        },
+        {
+          "text": "Begin packing rarely used items and seasonal goods"
+        },
+        {
+          "text": "Create a room-by-room inventory"
+        }
+      ]
+    },
+    {
+      "title": "4 Weeks Out",
+      "items": [
+        {
+          "text": "Give notice to your landlord or finalize sale dates"
+        },
+        {
+          "text": "Book time off work for moving day"
+        },
+        {
+          "text": "Arrange childcare and pet care for the day"
+        },
+        {
+          "text": "Pack non-essential rooms and label every box"
+        }
+      ]
+    },
+    {
+      "title": "2 Weeks Out",
+      "items": [
+        {
+          "text": "Set up or transfer utilities and internet"
+        },
+        {
+          "text": "File a change of address and update key accounts"
+        },
+        {
+          "text": "Confirm details and timing with your movers"
+        },
+        {
+          "text": "Use up freezer and pantry food"
+        }
+      ]
+    },
+    {
+      "title": "1 Week Out",
+      "items": [
+        {
+          "text": "Pack everything except daily essentials"
+        },
+        {
+          "text": "Prepare a first-night box and keep it aside"
+        },
+        {
+          "text": "Disassemble large furniture"
+        },
+        {
+          "text": "Confirm parking and access for the truck"
+        }
+      ]
+    },
+    {
+      "title": "Moving Day",
+      "items": [
+        {
+          "text": "Take meter readings and final photos of the empty home"
+        },
+        {
+          "text": "Do a room-by-room walkthrough before the truck leaves"
+        },
+        {
+          "text": "Keep valuables and documents with you"
+        },
+        {
+          "text": "Hand over keys"
+        }
+      ]
+    },
+    {
+      "title": "Week After",
+      "items": [
+        {
+          "text": "Unpack essentials, then one room at a time"
+        },
+        {
+          "text": "Update your license, registration and local records"
+        },
+        {
+          "text": "Test alarms and locate shut-off valves and the fuse box"
+        },
+        {
+          "text": "Confirm final bills from your old providers are settled"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many weeks before a move should I start?",
+      "a": "Eight weeks is ideal. It gives you time to book movers, declutter, and switch services without rushing. If you have less notice, do the early tasks first and compress the middle weeks."
+    },
+    {
+      "q": "What should I do first when moving?",
+      "a": "Set your budget, book your movers or truck, and start decluttering. Doing these first locks in your date and shrinks how much you have to pack later."
+    },
+    {
+      "q": "When should I switch utilities and change my address?",
+      "a": "About two weeks out. Schedule electricity, gas, water, and internet to start at the new place on or before move day, and file your address change so mail follows you."
+    },
+    {
+      "q": "Can I download this moving timeline as a PDF?",
+      "a": "Yes. Download the PDF or print the timeline, add your move date, and use it as the master schedule everyone in the household follows."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/moving-timeline-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/moving-timeline-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Moving Timeline Checklist by ChecklistForge (https://checklistforge.com/checklist/moving-timeline-checklist)",
+  "updated": "2026-10-17"
+}

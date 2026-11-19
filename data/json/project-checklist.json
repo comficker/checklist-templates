@@ -1,0 +1,167 @@
+{
+  "id": "project-checklist",
+  "name": "Project Checklist",
+  "description": "A simple end-to-end task list to plan, run and finish any project with confidence.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "productivity",
+    "project-management",
+    "team",
+    "planning"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Define the Project",
+      "items": [
+        {
+          "text": "Write a one-sentence statement of the project goal"
+        },
+        {
+          "text": "List the key deliverables the project must produce"
+        },
+        {
+          "text": "Set what is in scope and clearly note what is out",
+          "note": "A short out-of-scope list prevents creep later."
+        },
+        {
+          "text": "Name the project sponsor and the main point of contact"
+        },
+        {
+          "text": "Agree on how you will measure success"
+        }
+      ]
+    },
+    {
+      "title": "Plan the Work",
+      "items": [
+        {
+          "text": "Break the project into clear, manageable tasks"
+        },
+        {
+          "text": "Put the tasks in a logical order and note dependencies"
+        },
+        {
+          "text": "Estimate the time each task will take"
+        },
+        {
+          "text": "Set a realistic start and finish date for each task"
+        },
+        {
+          "text": "Identify any tools, materials, or budget you will need"
+        }
+      ]
+    },
+    {
+      "title": "Assign Roles and Resources",
+      "items": [
+        {
+          "text": "Give every task a single accountable owner"
+        },
+        {
+          "text": "Confirm each person has the time and access to deliver"
+        },
+        {
+          "text": "Book any rooms, tools, or services in advance"
+        },
+        {
+          "text": "Share the plan so the whole team knows their part",
+          "note": "One shared document avoids version confusion."
+        },
+        {
+          "text": "Set a regular check-in time to review progress"
+        }
+      ]
+    },
+    {
+      "title": "Run and Track Progress",
+      "items": [
+        {
+          "text": "Start the highest-priority tasks first"
+        },
+        {
+          "text": "Update task status as work is completed"
+        },
+        {
+          "text": "Flag blockers early and decide who will clear them"
+        },
+        {
+          "text": "Track time and spending against the plan"
+        },
+        {
+          "text": "Keep stakeholders informed with a short status update",
+          "note": "A weekly one-paragraph update is usually enough."
+        }
+      ]
+    },
+    {
+      "title": "Review and Adjust",
+      "items": [
+        {
+          "text": "Compare actual progress against the original timeline"
+        },
+        {
+          "text": "Re-prioritize tasks if deadlines or scope change"
+        },
+        {
+          "text": "Confirm quality before marking any deliverable done"
+        },
+        {
+          "text": "Document any changes and tell the people affected"
+        },
+        {
+          "text": "Adjust the budget or schedule if estimates were off"
+        }
+      ]
+    },
+    {
+      "title": "Finish and Close Out",
+      "items": [
+        {
+          "text": "Confirm every deliverable is complete and approved"
+        },
+        {
+          "text": "Get final sign-off from the sponsor or client"
+        },
+        {
+          "text": "Hand over files, access, and documentation"
+        },
+        {
+          "text": "Note what went well and what to improve next time",
+          "note": "A short lessons-learned list saves the next project."
+        },
+        {
+          "text": "Thank the team and formally close the project"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a project checklist?",
+      "a": "It is an ordered list of the tasks needed to plan, run, and finish a project. It keeps goals, owners, deadlines, and deliverables in one place so the work stays on track."
+    },
+    {
+      "q": "How do I create a project checklist?",
+      "a": "Start with the goal, break the work into clear tasks, assign an owner and due date to each, then group them by stage. Review and update the list as the project moves forward."
+    },
+    {
+      "q": "Who should use this project checklist?",
+      "a": "Anyone leading work with multiple steps or people: team leads, managers, freelancers, students, and volunteers. It scales from a small personal project to a cross-team effort."
+    },
+    {
+      "q": "How is a project checklist different from a project plan?",
+      "a": "A plan describes timelines, budgets, and strategy in detail; a checklist turns that plan into bite-sized tasks you can tick off. Use the checklist to make sure the plan actually gets done."
+    },
+    {
+      "q": "Can I print this project checklist?",
+      "a": "Yes. Download the printable PDF, share it with your team, and check off each task as the project moves from kickoff to final review."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/project-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/project-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Project Checklist by ChecklistForge (https://checklistforge.com/checklist/project-checklist)",
+  "updated": "2026-10-17"
+}

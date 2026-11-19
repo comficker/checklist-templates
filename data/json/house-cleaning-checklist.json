@@ -1,0 +1,178 @@
+{
+  "id": "house-cleaning-checklist",
+  "name": "House Cleaning Checklist",
+  "description": "A room-by-room house cleaning checklist to clean your whole home efficiently.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "routine",
+    "bathroom",
+    "bedroom",
+    "kitchen"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Whole-Home Prep",
+      "items": [
+        {
+          "text": "Open windows to ventilate and gather all your cleaning supplies in a caddy",
+          "note": "A portable caddy saves dozens of trips back to the cupboard."
+        },
+        {
+          "text": "Pick up clutter and return stray items to their proper rooms"
+        },
+        {
+          "text": "Empty every trash and recycling bin and put fresh liners in"
+        },
+        {
+          "text": "Strip and start a load of laundry so it runs while you clean"
+        },
+        {
+          "text": "Turn on ceiling fans and dust light fixtures from the top down"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen",
+      "items": [
+        {
+          "text": "Clear and wipe down all countertops, then disinfect high-touch areas"
+        },
+        {
+          "text": "Wash dishes or load and run the dishwasher"
+        },
+        {
+          "text": "Wipe the stovetop, microwave interior, and small appliance exteriors"
+        },
+        {
+          "text": "Clean the sink, scrub the drain, and polish the faucet"
+        },
+        {
+          "text": "Wipe cabinet fronts, handles, and the refrigerator door"
+        },
+        {
+          "text": "Sweep and mop the floor, finishing in the doorway"
+        }
+      ]
+    },
+    {
+      "title": "Bathrooms",
+      "items": [
+        {
+          "text": "Spray the toilet, shower, and tub with cleaner and let it sit",
+          "note": "Letting cleaner dwell a few minutes lets it do the scrubbing for you."
+        },
+        {
+          "text": "Clean the mirror and wipe down the vanity and sink"
+        },
+        {
+          "text": "Scrub the toilet bowl, seat, lid, and base"
+        },
+        {
+          "text": "Scrub the shower walls, tub, and glass door"
+        },
+        {
+          "text": "Replace hand towels and refill soap and toilet paper"
+        },
+        {
+          "text": "Sweep and mop the floor"
+        }
+      ]
+    },
+    {
+      "title": "Bedrooms",
+      "items": [
+        {
+          "text": "Make the beds and change linens if it is laundry day"
+        },
+        {
+          "text": "Dust nightstands, dressers, shelves, and window sills"
+        },
+        {
+          "text": "Wipe down light switches, door handles, and remotes"
+        },
+        {
+          "text": "Tidy surfaces and put away clothes and accessories"
+        },
+        {
+          "text": "Vacuum the carpet or sweep and mop hard floors, including under the bed"
+        }
+      ]
+    },
+    {
+      "title": "Living and Common Areas",
+      "items": [
+        {
+          "text": "Dust shelves, electronics, picture frames, and decor top to bottom"
+        },
+        {
+          "text": "Fluff cushions and fold throw blankets"
+        },
+        {
+          "text": "Wipe down the coffee table, side tables, and remote controls"
+        },
+        {
+          "text": "Clean glass surfaces, mirrors, and TV screens with the right cloth"
+        },
+        {
+          "text": "Vacuum upholstery and under sofa cushions"
+        },
+        {
+          "text": "Vacuum or mop the floors throughout the room"
+        }
+      ]
+    },
+    {
+      "title": "Entry, Hall and Finishing Touches",
+      "items": [
+        {
+          "text": "Shake out or vacuum entry mats and doormats"
+        },
+        {
+          "text": "Wipe down the front door, handles, and light switches"
+        },
+        {
+          "text": "Dust along baseboards and hallway surfaces"
+        },
+        {
+          "text": "Vacuum or mop hallway and entry floors"
+        },
+        {
+          "text": "Take out all collected trash and recycling"
+        },
+        {
+          "text": "Do a final walkthrough to spot anything missed"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does it take to clean a whole house?",
+      "a": "A standard whole-home clean takes roughly 2 to 4 hours depending on the size of your home and how often you clean. Splitting the checklist between two people roughly halves that time."
+    },
+    {
+      "q": "What order should I clean my house in?",
+      "a": "Work top to bottom and from the back of the house toward the door. Dust and wipe surfaces first, then clean floors last so debris that falls during dusting gets picked up."
+    },
+    {
+      "q": "How often should I do a full house clean?",
+      "a": "Most homes benefit from a full clean once a week, with quick daily tidy-ups in between. Busy households can split the rooms across two shorter sessions."
+    },
+    {
+      "q": "Can I print this house cleaning checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each room and task as you complete it."
+    },
+    {
+      "q": "What supplies do I need for a whole-house clean?",
+      "a": "An all-purpose cleaner, glass cleaner, bathroom disinfectant, microfiber cloths, a vacuum, a mop, and trash bags will cover almost every task on this list."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/house-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/house-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "House Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/house-cleaning-checklist)",
+  "updated": "2026-10-18"
+}

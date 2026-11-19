@@ -1,0 +1,174 @@
+{
+  "id": "pet-medication-checklist",
+  "name": "Pet Medication Checklist",
+  "description": "A checklist to help pet owners give and track medications safely with a clear schedule, dose log, storage, and refill reminders.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "medication",
+    "pets",
+    "care"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Set Up the Plan",
+      "items": [
+        {
+          "text": "List each medicine with what it treats"
+        },
+        {
+          "text": "Write down the exact dose and timing your vet set"
+        },
+        {
+          "text": "Note whether to give with or without food"
+        },
+        {
+          "text": "Record the start date and how long to continue"
+        },
+        {
+          "text": "Ask the vet about possible side effects to watch",
+          "note": "Follow your vet's instructions exactly; never change a dose yourself"
+        }
+      ]
+    },
+    {
+      "title": "Build the Schedule",
+      "items": [
+        {
+          "text": "Choose consistent daily times for each dose"
+        },
+        {
+          "text": "Set phone or calendar reminders for every dose"
+        },
+        {
+          "text": "Assign who gives the medicine when sharing duties"
+        },
+        {
+          "text": "Plan around feeding times when food matters"
+        },
+        {
+          "text": "Use a pill organizer or chart for multiple medicines"
+        }
+      ]
+    },
+    {
+      "title": "Giving the Dose",
+      "items": [
+        {
+          "text": "Wash your hands before and after handling medicine"
+        },
+        {
+          "text": "Confirm the right pet, medicine, dose, and time"
+        },
+        {
+          "text": "Follow the method advised, such as with food or directly"
+        },
+        {
+          "text": "Make sure your pet actually swallowed the dose"
+        },
+        {
+          "text": "Offer praise or a small reward if allowed"
+        }
+      ]
+    },
+    {
+      "title": "Dose Log",
+      "items": [
+        {
+          "text": "Record the date and time of each dose given"
+        },
+        {
+          "text": "Note who administered it"
+        },
+        {
+          "text": "Mark any dose that was missed or spit out"
+        },
+        {
+          "text": "Write down any reaction or change you noticed"
+        },
+        {
+          "text": "Bring the log to follow-up visits",
+          "note": "Do not double a dose to make up a missed one without vet advice"
+        }
+      ]
+    },
+    {
+      "title": "Storage & Safety",
+      "items": [
+        {
+          "text": "Keep medicines in their original labeled containers"
+        },
+        {
+          "text": "Store at the temperature the label requires"
+        },
+        {
+          "text": "Keep all products out of reach of pets and children"
+        },
+        {
+          "text": "Separate pet and human medicines clearly"
+        },
+        {
+          "text": "Dispose of expired or unused medicine safely"
+        }
+      ]
+    },
+    {
+      "title": "Refills & Follow-Up",
+      "items": [
+        {
+          "text": "Note the quantity left and the refill date"
+        },
+        {
+          "text": "Order refills before you run out"
+        },
+        {
+          "text": "Confirm whether the dose continues or changes"
+        },
+        {
+          "text": "Schedule any recheck or lab work your vet wants"
+        },
+        {
+          "text": "Keep your vet and pharmacy contacts handy"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; only your vet can set the right medicine and dose for your pet, so always consult a licensed veterinarian",
+          "note": "If your pet has a bad reaction or you suspect an overdose, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I keep track of my pet's medications?",
+      "a": "Keep one written or digital log listing each medicine, the dose your vet set, and the time it was given. A shared log helps everyone in the home avoid missed or doubled doses."
+    },
+    {
+      "q": "What should I do if I miss a dose?",
+      "a": "Do not double up to catch up. Contact your veterinarian or the clinic for advice on how to handle a missed dose, since the right step depends on the specific medication."
+    },
+    {
+      "q": "Can I give my pet human medicine?",
+      "a": "Never give human medicine to a pet unless your veterinarian specifically directs it. Many common human products are toxic to dogs and cats, even in small amounts. Always check first."
+    },
+    {
+      "q": "How should I store pet medications?",
+      "a": "Follow the label for temperature and light, keep products in their original containers, and store them well out of reach of pets and children. Some medicines need refrigeration, so check the instructions."
+    },
+    {
+      "q": "Is this pet medication checklist printable?",
+      "a": "Yes. Print it or download the PDF, fill in each medicine and dose time, and check off doses so your pet's treatment stays on schedule."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-medication-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-medication-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Medication Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-medication-checklist)",
+  "updated": "2026-10-17"
+}

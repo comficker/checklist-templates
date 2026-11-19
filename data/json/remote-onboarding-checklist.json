@@ -1,0 +1,187 @@
+{
+  "id": "remote-onboarding-checklist",
+  "name": "Remote Onboarding Checklist",
+  "description": "A checklist for onboarding a remote or distributed hire, from shipping equipment to virtual intros.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "onboarding",
+    "hr",
+    "new-hire",
+    "remote-teams"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Ship Equipment and Set Up Remotely",
+      "items": [
+        {
+          "text": "Order a laptop and peripherals to the new hire's address early"
+        },
+        {
+          "text": "Pre-configure the device with required software and security"
+        },
+        {
+          "text": "Include clear setup instructions and an IT support contact"
+        },
+        {
+          "text": "Confirm the equipment arrives and powers on before day one"
+        },
+        {
+          "text": "Offer a stipend for desk, chair, or internet if applicable",
+          "note": "Home-office support policies vary; confirm with HR."
+        },
+        {
+          "text": "Schedule a remote setup call to verify everything works"
+        }
+      ]
+    },
+    {
+      "title": "Provision Tools and Access",
+      "items": [
+        {
+          "text": "Create accounts for email, chat, and video conferencing"
+        },
+        {
+          "text": "Grant role-based access to shared drives and project tools"
+        },
+        {
+          "text": "Set up single sign-on and multi-factor authentication"
+        },
+        {
+          "text": "Add the new hire to relevant channels and groups"
+        },
+        {
+          "text": "Provide a written guide to the company's main tools"
+        },
+        {
+          "text": "Test logins together on the first call",
+          "note": "Catch access gaps live rather than over email."
+        }
+      ]
+    },
+    {
+      "title": "Prepare a Virtual Welcome",
+      "items": [
+        {
+          "text": "Send a warm welcome message with the first-day agenda"
+        },
+        {
+          "text": "Share a digital welcome pack and key links"
+        },
+        {
+          "text": "Assign an onboarding buddy for day-to-day questions"
+        },
+        {
+          "text": "Schedule a kickoff call with the manager"
+        },
+        {
+          "text": "Announce the new hire to the team in advance"
+        },
+        {
+          "text": "Mail a small welcome gift if your culture does so",
+          "note": "A thoughtful package eases the remote distance."
+        }
+      ]
+    },
+    {
+      "title": "Run Virtual Introductions",
+      "items": [
+        {
+          "text": "Set up video introductions with the immediate team"
+        },
+        {
+          "text": "Schedule virtual coffee chats with key collaborators"
+        },
+        {
+          "text": "Introduce the new hire to cross-team partners"
+        },
+        {
+          "text": "Add them to recurring team meetings and rituals"
+        },
+        {
+          "text": "Encourage informal channels for non-work connection"
+        },
+        {
+          "text": "Pair them with a peer outside their direct team",
+          "note": "Cross-team ties build belonging."
+        }
+      ]
+    },
+    {
+      "title": "Establish Communication Norms",
+      "items": [
+        {
+          "text": "Explain which tool to use for which kind of message"
+        },
+        {
+          "text": "Clarify expected response times and working hours"
+        },
+        {
+          "text": "Share time zone overlap and core collaboration hours"
+        },
+        {
+          "text": "Set meeting etiquette for cameras and updates"
+        },
+        {
+          "text": "Document where to find help and key information"
+        },
+        {
+          "text": "Encourage over-communication early on",
+          "note": "When in doubt, share more in a remote setting."
+        }
+      ]
+    },
+    {
+      "title": "Support the First Weeks",
+      "items": [
+        {
+          "text": "Hold daily or frequent check-ins during week one"
+        },
+        {
+          "text": "Set clear early goals and a small starter task"
+        },
+        {
+          "text": "Provide self-paced training materials to revisit"
+        },
+        {
+          "text": "Watch for signs of isolation or confusion"
+        },
+        {
+          "text": "Gather feedback on the remote onboarding experience"
+        },
+        {
+          "text": "Transition to a regular one-on-one cadence",
+          "note": "Consistent check-ins keep remote hires on track."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is remote onboarding different from in-person?",
+      "a": "Remote onboarding requires shipping equipment ahead, setting up access digitally, and deliberately designing introductions and communication. Connection and clarity have to be planned rather than happening naturally in an office."
+    },
+    {
+      "q": "When should I ship equipment to a remote hire?",
+      "a": "Ship laptops and gear early enough to arrive and be tested before the start date. Include setup instructions and a support contact so the new hire can get online without frustration."
+    },
+    {
+      "q": "How do I help a remote new hire feel connected?",
+      "a": "Schedule virtual coffee chats and team introductions, assign an onboarding buddy, and create informal touchpoints. Intentional social time prevents the isolation that remote hires often feel early on."
+    },
+    {
+      "q": "What communication norms matter for remote teams?",
+      "a": "Clarify which tools to use for what, expected response times, meeting etiquette, and time zone considerations. Clear norms prevent confusion and help a remote hire collaborate confidently."
+    },
+    {
+      "q": "Can I print this remote onboarding checklist?",
+      "a": "Yes. Download the printable PDF, assign owners across HR and IT, and check off each task before, during, and after the first week of a distributed hire."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/remote-onboarding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/remote-onboarding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Remote Onboarding Checklist by ChecklistForge (https://checklistforge.com/checklist/remote-onboarding-checklist)",
+  "updated": "2026-10-17"
+}

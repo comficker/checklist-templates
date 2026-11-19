@@ -1,0 +1,183 @@
+{
+  "id": "pet-care-checklist",
+  "name": "Pet Care Checklist",
+  "description": "A pet care checklist covering the ongoing daily and weekly routine that keeps any pet healthy and happy.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "routine",
+    "pets",
+    "pet-care",
+    "cats",
+    "dogs"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Daily feeding and water",
+      "items": [
+        {
+          "text": "Serve measured meals at consistent times each day."
+        },
+        {
+          "text": "Provide clean, fresh water and refill it throughout the day."
+        },
+        {
+          "text": "Wash food and water bowls daily to prevent buildup."
+        },
+        {
+          "text": "Stick to vet-recommended food and limit treats and table scraps."
+        },
+        {
+          "text": "Adjust portions for age, weight, and activity over time.",
+          "note": "Ask your veterinarian to confirm the right amount."
+        },
+        {
+          "text": "Note any loss of appetite or unusual eating to mention to the vet."
+        }
+      ]
+    },
+    {
+      "title": "Exercise and enrichment",
+      "items": [
+        {
+          "text": "Provide daily exercise suited to your pet's species and energy."
+        },
+        {
+          "text": "Schedule walks, play, or active time at predictable points in the day."
+        },
+        {
+          "text": "Rotate toys and puzzles to keep your pet mentally stimulated."
+        },
+        {
+          "text": "Offer safe outdoor or window time for fresh air and stimulation."
+        },
+        {
+          "text": "Build in training or trick practice to engage your pet's mind."
+        },
+        {
+          "text": "Make time for calm, undistracted bonding every day."
+        }
+      ]
+    },
+    {
+      "title": "Hygiene and grooming",
+      "items": [
+        {
+          "text": "Brush your pet's coat on a regular schedule to reduce shedding and mats."
+        },
+        {
+          "text": "Bathe as needed for your pet's species and coat type."
+        },
+        {
+          "text": "Check and clean ears, eyes, and teeth as recommended."
+        },
+        {
+          "text": "Trim nails before they get too long or catch."
+        },
+        {
+          "text": "Keep bathroom areas, litter, or cages clean daily."
+        },
+        {
+          "text": "Wash bedding and soft toys weekly."
+        }
+      ]
+    },
+    {
+      "title": "Clean living space",
+      "items": [
+        {
+          "text": "Scoop, change, or clean bathroom areas every day."
+        },
+        {
+          "text": "Vacuum or sweep fur and dander from your pet's main areas."
+        },
+        {
+          "text": "Disinfect food and water stations regularly."
+        },
+        {
+          "text": "Keep the resting area dry, warm, and free of clutter."
+        },
+        {
+          "text": "Store food sealed to keep it fresh and pest-free."
+        },
+        {
+          "text": "Restock supplies before they run out."
+        }
+      ]
+    },
+    {
+      "title": "Health monitoring",
+      "items": [
+        {
+          "text": "Keep up with parasite prevention for fleas, ticks, and worms."
+        },
+        {
+          "text": "Give any prescribed medications exactly as directed."
+        },
+        {
+          "text": "Watch weight, appetite, energy, and bathroom habits for changes."
+        },
+        {
+          "text": "Schedule routine wellness checkups and stay current on vaccines."
+        },
+        {
+          "text": "Check skin and coat for lumps, irritation, or pests."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your pet's health, diet, and medications."
+        }
+      ]
+    },
+    {
+      "title": "Affection and well-being",
+      "items": [
+        {
+          "text": "Give daily attention, gentle handling, and praise."
+        },
+        {
+          "text": "Keep routines predictable to lower stress."
+        },
+        {
+          "text": "Provide a quiet, safe retreat where your pet can rest."
+        },
+        {
+          "text": "Watch body language and respect when your pet wants space."
+        },
+        {
+          "text": "Introduce new people, pets, and places gradually."
+        },
+        {
+          "text": "Spend unhurried time together to strengthen your bond."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is included in basic pet care?",
+      "a": "Basic pet care covers daily feeding and fresh water, exercise and enrichment, hygiene and grooming, a clean living space, health monitoring, and affection. This pet care checklist organizes these into a routine so nothing slips through the cracks."
+    },
+    {
+      "q": "How often should I clean up after my pet?",
+      "a": "Refresh water and clean bowls daily, scoop or clean bathroom areas daily, and wash bedding weekly. A consistent cleaning rhythm keeps your pet comfortable and helps you spot any changes early."
+    },
+    {
+      "q": "How is this different from the pet checklist?",
+      "a": "Our Pet Checklist helps new owners prepare and gather supplies. This pet care checklist is the ongoing routine for an already-settled pet. Many owners start with one and graduate to the other."
+    },
+    {
+      "q": "How do I know if my pet is healthy?",
+      "a": "Watch for steady appetite, normal energy, regular bathroom habits, a clean coat, and clear eyes. Note any change in eating, weight, or behavior and share it with your veterinarian, who can advise on what is normal for your pet."
+    },
+    {
+      "q": "Can I download this pet care checklist as a PDF?",
+      "a": "Yes. You can print it for the kitchen or download it as a PDF so the whole family can follow the same routine and keep care consistent."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Care Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-care-checklist)",
+  "updated": "2026-10-17"
+}

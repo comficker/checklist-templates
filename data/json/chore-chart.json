@@ -1,0 +1,247 @@
+{
+  "id": "chore-chart",
+  "name": "Chore Chart by Age",
+  "description": "Age-appropriate chores from toddler to teen, plus a weekly rotation for the household jobs everyone shares.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "routine",
+    "family",
+    "weekly",
+    "kids",
+    "household"
+  ],
+  "item_count": 53,
+  "sections": [
+    {
+      "title": "Ages 2-3 (toddler)",
+      "items": [
+        {
+          "text": "Put toys into a basket or bin after playing",
+          "note": "At this age the point is the habit, not the result. Expect to do it alongside them for months."
+        },
+        {
+          "text": "Carry their own plastic plate or cup to the sink"
+        },
+        {
+          "text": "Put dirty clothes into the laundry basket"
+        },
+        {
+          "text": "Fill a pet's dry food bowl using a pre-measured scoop",
+          "note": "An adult measures; the child pours. Keep them away from water bowls that get carried."
+        },
+        {
+          "text": "Wipe up their own spills with a cloth"
+        },
+        {
+          "text": "Put books back on a low shelf"
+        }
+      ]
+    },
+    {
+      "title": "Ages 4-5 (preschool)",
+      "items": [
+        {
+          "text": "Make their own bed, loosely",
+          "note": "Pulling the duvet flat counts. Re-making it to adult standard teaches them it was never really their job."
+        },
+        {
+          "text": "Set the table with napkins, cutlery and unbreakable cups"
+        },
+        {
+          "text": "Match clean socks into pairs"
+        },
+        {
+          "text": "Water indoor plants with a small jug"
+        },
+        {
+          "text": "Clear their own place at the table"
+        },
+        {
+          "text": "Sort recycling into the right bin"
+        },
+        {
+          "text": "Dust low surfaces and skirting boards with a dry cloth"
+        }
+      ]
+    },
+    {
+      "title": "Ages 6-8 (early school)",
+      "items": [
+        {
+          "text": "Pack their own school bag the night before",
+          "note": "Keep a short list taped inside the bag for the first few weeks."
+        },
+        {
+          "text": "Fold and put away their own clean laundry"
+        },
+        {
+          "text": "Load and unload the dishwasher, skipping knives"
+        },
+        {
+          "text": "Wipe down the bathroom sink and mirror"
+        },
+        {
+          "text": "Sweep floors and use a dustpan"
+        },
+        {
+          "text": "Feed and water pets without reminders"
+        },
+        {
+          "text": "Take the bins out to the kerb on collection day"
+        },
+        {
+          "text": "Tidy their bedroom floor before bed"
+        }
+      ]
+    },
+    {
+      "title": "Ages 9-11 (tween)",
+      "items": [
+        {
+          "text": "Run a full load of laundry from sorting to folding",
+          "note": "Show them the machine once with the detergent already measured, then let them run it alone."
+        },
+        {
+          "text": "Vacuum a whole room including under furniture edges"
+        },
+        {
+          "text": "Prepare a simple cold meal or packed lunch"
+        },
+        {
+          "text": "Clean the toilet with an age-safe bathroom cleaner",
+          "note": "Check the label and keep bleach-based products out of this age band."
+        },
+        {
+          "text": "Change their own bed linen"
+        },
+        {
+          "text": "Rake leaves, weed a bed, or water the garden"
+        },
+        {
+          "text": "Help write the week's grocery list from what is missing"
+        },
+        {
+          "text": "Wash and dry dishes by hand"
+        }
+      ]
+    },
+    {
+      "title": "Ages 12-18 (teen)",
+      "items": [
+        {
+          "text": "Cook one family dinner a week from start to clean-up",
+          "note": "Fixing the night in advance stops this quietly becoming optional."
+        },
+        {
+          "text": "Mow the lawn or clear snow from paths"
+        },
+        {
+          "text": "Do the full grocery shop from a written list"
+        },
+        {
+          "text": "Clean a bathroom end to end, including the floor"
+        },
+        {
+          "text": "Mind younger siblings for a set, agreed period"
+        },
+        {
+          "text": "Wash the car inside and out"
+        },
+        {
+          "text": "Manage their own schedule, deadlines and appointments"
+        },
+        {
+          "text": "Iron their own clothes"
+        },
+        {
+          "text": "Take responsibility for one recurring household job of their choosing",
+          "note": "Letting them pick it is what turns a chore into a contribution."
+        }
+      ]
+    },
+    {
+      "title": "Shared weekly rotation",
+      "items": [
+        {
+          "text": "Kitchen deep clean: hob, microwave, fridge shelves"
+        },
+        {
+          "text": "Bathrooms: toilets, showers, mirrors, floors"
+        },
+        {
+          "text": "Floors: vacuum and mop every room"
+        },
+        {
+          "text": "Laundry: wash, dry, fold, put away"
+        },
+        {
+          "text": "Bins and recycling out"
+        },
+        {
+          "text": "Change all bed linen"
+        },
+        {
+          "text": "Grocery shop and restock staples"
+        },
+        {
+          "text": "Tidy shared living areas before the week starts"
+        }
+      ]
+    },
+    {
+      "title": "Setting the chart up",
+      "items": [
+        {
+          "text": "Agree the list together before anything goes on the wall",
+          "note": "A chart written by one person and handed down is the one that gets ignored."
+        },
+        {
+          "text": "Give each person no more than three daily chores"
+        },
+        {
+          "text": "Fix a time of day for daily chores, such as before screens or after dinner"
+        },
+        {
+          "text": "Put the chart where it is seen without being fetched"
+        },
+        {
+          "text": "Decide in advance what happens when a chore is skipped"
+        },
+        {
+          "text": "Decide whether chores are paid, and keep that answer consistent"
+        },
+        {
+          "text": "Re-cut the list every school year as ages and schedules change"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What age should children start doing chores?",
+      "a": "Around two to three, with simple one-step jobs like putting toys in a basket or dirty clothes in the laundry. At that age the chore is not about the work getting done — it is about the child learning that the household has jobs and that they are part of it. Useful output arrives around six."
+    },
+    {
+      "q": "How many chores should a child have?",
+      "a": "No more than about three daily chores, plus one or two weekly ones. A short list that actually happens every day beats a long list that collapses in a fortnight. Add the next chore only once the current ones no longer need reminding."
+    },
+    {
+      "q": "Should children be paid for chores?",
+      "a": "Households split on this and both approaches work. A common middle path is to keep basic chores unpaid because they are part of living in the house, and to pay separately for larger optional jobs such as washing the car or clearing the garage. What matters most is picking one rule and not changing it when an argument starts."
+    },
+    {
+      "q": "What is the difference between a chore chart and a chore list?",
+      "a": "A chore list is just the jobs. A chore chart adds who does each job and when, usually as a grid of names against days, so it can be checked at a glance and ticked off. The list below can be used either way: tick it as a list, or copy the names into a weekly grid."
+    },
+    {
+      "q": "How do you stop having to nag about chores?",
+      "a": "Move the reminding onto the chart rather than onto yourself: fix a consistent time of day, put the chart somewhere visible, and agree the consequence for a skipped chore before it is skipped. The conversation then points at the chart instead of turning into a negotiation."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/chore-chart",
+  "pdf_and_editor": "https://checklistforge.com/checklist/chore-chart",
+  "license": "CC-BY-4.0",
+  "credit": "Chore Chart by Age by ChecklistForge (https://checklistforge.com/checklist/chore-chart)",
+  "updated": "2026-11-14"
+}

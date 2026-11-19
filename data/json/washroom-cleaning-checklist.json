@@ -1,0 +1,198 @@
+{
+  "id": "washroom-cleaning-checklist",
+  "name": "Washroom Cleaning Checklist",
+  "description": "A washroom and restroom cleaning checklist for offices, schools, shops and public facilities, with an hourly check log and weekly deep-clean tasks.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "commercial",
+    "facilities",
+    "restroom",
+    "hygiene"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Before You Start",
+      "items": [
+        {
+          "text": "Put up a wet-floor or cleaning-in-progress sign at the entrance"
+        },
+        {
+          "text": "Put on gloves and any eye protection the product label requires"
+        },
+        {
+          "text": "Use separate color-coded cloths for toilets and for sinks and surfaces",
+          "note": "A common scheme is red for toilets and urinals, yellow for sinks and other washroom surfaces."
+        },
+        {
+          "text": "Check the disinfectant's contact time on the label before you begin",
+          "note": "The surface must stay wet for the full contact time or the disinfectant won't work."
+        },
+        {
+          "text": "Open a window or turn on the extractor fan for ventilation"
+        }
+      ]
+    },
+    {
+      "title": "Restock and Waste",
+      "items": [
+        {
+          "text": "Refill toilet paper and keep a spare roll in every cubicle"
+        },
+        {
+          "text": "Refill soap and hand sanitizer dispensers"
+        },
+        {
+          "text": "Refill paper towels or check that hand dryers work"
+        },
+        {
+          "text": "Empty bins and sanitary bins and fit new liners",
+          "note": "Sanitary bins are usually emptied by a specialist contractor; check the service schedule rather than emptying them by hand."
+        },
+        {
+          "text": "Report any broken dispenser, lock or hand dryer"
+        }
+      ]
+    },
+    {
+      "title": "High-Touch Points",
+      "items": [
+        {
+          "text": "Disinfect door handles, push plates and cubicle locks"
+        },
+        {
+          "text": "Disinfect flush handles, taps and dispenser buttons"
+        },
+        {
+          "text": "Wipe light switches and baby-changing tables"
+        }
+      ]
+    },
+    {
+      "title": "Toilets and Urinals",
+      "items": [
+        {
+          "text": "Apply toilet cleaner under the rim and leave it to work"
+        },
+        {
+          "text": "Clean the seat, hinges, lid and outside of the bowl"
+        },
+        {
+          "text": "Scrub the bowl and under the rim, then flush"
+        },
+        {
+          "text": "Clean urinals, including the bowl, wall behind and floor in front"
+        },
+        {
+          "text": "Replace urinal screens or blocks when worn down"
+        },
+        {
+          "text": "Wipe cubicle walls and partitions at hand height"
+        }
+      ]
+    },
+    {
+      "title": "Sinks, Counters and Mirrors",
+      "items": [
+        {
+          "text": "Clean sinks, taps and the area around the overflow"
+        },
+        {
+          "text": "Wipe counters and the wall splashback dry"
+        },
+        {
+          "text": "Clean mirrors with glass cleaner for a streak-free finish"
+        },
+        {
+          "text": "Check the sinks drain freely"
+        }
+      ]
+    },
+    {
+      "title": "Floors and Drains",
+      "items": [
+        {
+          "text": "Sweep or dust-mop the floor first"
+        },
+        {
+          "text": "Mop from the far corner toward the exit with clean solution"
+        },
+        {
+          "text": "Pay attention to the floor around toilet bases and urinals",
+          "note": "Urine splashes around urinals are a common cause of lingering odor."
+        },
+        {
+          "text": "Pour water into floor drains to keep the trap from drying out"
+        },
+        {
+          "text": "Remove the wet-floor sign only when the floor is dry"
+        }
+      ]
+    },
+    {
+      "title": "Hourly Check Log",
+      "items": [
+        {
+          "text": "Time checked: ____"
+        },
+        {
+          "text": "Checked by (initials): ____"
+        },
+        {
+          "text": "Supplies restocked: Yes / No"
+        },
+        {
+          "text": "Floor dry and bins below half full: Yes / No"
+        },
+        {
+          "text": "Issues reported: ____"
+        }
+      ]
+    },
+    {
+      "title": "Weekly Deep Clean",
+      "items": [
+        {
+          "text": "Descale toilets, urinals and taps"
+        },
+        {
+          "text": "Scrub grout and floor edges"
+        },
+        {
+          "text": "Wash walls, cubicle doors and partitions top to bottom"
+        },
+        {
+          "text": "Dust vents, extractor fan covers and high ledges"
+        },
+        {
+          "text": "Clean and disinfect bins inside and out"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should a commercial washroom be cleaned?",
+      "a": "Busy washrooms need a full clean at least once a day plus quick checks every one to two hours to restock, empty bins and wipe spills. Low-traffic washrooms can be checked less often, but still need a daily disinfecting of high-touch points."
+    },
+    {
+      "q": "What order should you clean a washroom in?",
+      "a": "Restock and remove waste first, then disinfect high-touch points, clean toilets and urinals, then sinks, counters and mirrors, and mop the floor last, working from the far wall toward the door so you don't walk over wet, clean floor."
+    },
+    {
+      "q": "Why use color-coded cloths in a washroom?",
+      "a": "Color coding keeps toilet cloths away from sinks and other surfaces. A common scheme uses red for toilets and urinals and yellow for sinks and other washroom surfaces, but any system works if every cleaner follows the same one."
+    },
+    {
+      "q": "What should a washroom check log include?",
+      "a": "Record the time, the initials of the person who checked, and whether supplies were restocked and any issues were found, such as a blocked toilet or a broken dispenser. A visible log shows users the room is looked after and helps supervisors spot missed checks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/washroom-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/washroom-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Washroom Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/washroom-cleaning-checklist)",
+  "updated": "2026-11-13"
+}

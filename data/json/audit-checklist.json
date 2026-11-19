@@ -1,0 +1,182 @@
+{
+  "id": "audit-checklist",
+  "name": "Audit Checklist",
+  "description": "A general audit checklist for planning and conducting an audit end to end.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "risk",
+    "quality",
+    "compliance",
+    "audit"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Plan and prepare",
+      "items": [
+        {
+          "text": "Confirm the purpose and objectives of the audit."
+        },
+        {
+          "text": "Define the scope, including areas, processes and period covered."
+        },
+        {
+          "text": "Identify the criteria to audit against.",
+          "note": "Use applicable standards, policies, contracts and your procedures."
+        },
+        {
+          "text": "Review background documents and prior audit results."
+        },
+        {
+          "text": "Assign auditors who are independent of the area audited."
+        },
+        {
+          "text": "Prepare the audit plan, schedule and notify the auditee."
+        }
+      ]
+    },
+    {
+      "title": "Opening and logistics",
+      "items": [
+        {
+          "text": "Hold an opening meeting to confirm scope and plan."
+        },
+        {
+          "text": "Agree the schedule, contacts and access required."
+        },
+        {
+          "text": "Confirm confidentiality and how findings will be handled."
+        },
+        {
+          "text": "Explain the methods and sampling approach."
+        },
+        {
+          "text": "Confirm safety requirements and site access rules."
+        },
+        {
+          "text": "Set expectations for the closing meeting and report."
+        }
+      ]
+    },
+    {
+      "title": "Gather evidence",
+      "items": [
+        {
+          "text": "Interview relevant staff about how work is done."
+        },
+        {
+          "text": "Observe activities and conditions firsthand."
+        },
+        {
+          "text": "Sample and review records and documents."
+        },
+        {
+          "text": "Trace transactions or items end to end where useful."
+        },
+        {
+          "text": "Take notes and reference each piece of evidence."
+        },
+        {
+          "text": "Verify information from more than one source where possible."
+        }
+      ]
+    },
+    {
+      "title": "Evaluate and record findings",
+      "items": [
+        {
+          "text": "Compare the evidence against the audit criteria."
+        },
+        {
+          "text": "Identify conformities, nonconformities and observations."
+        },
+        {
+          "text": "Classify findings by significance or risk."
+        },
+        {
+          "text": "Confirm findings with the auditee to agree the facts."
+        },
+        {
+          "text": "Document objective evidence for each finding."
+        },
+        {
+          "text": "Note positive findings and good practice."
+        }
+      ]
+    },
+    {
+      "title": "Report results",
+      "items": [
+        {
+          "text": "Hold a closing meeting to summarize findings."
+        },
+        {
+          "text": "Draft a clear, factual audit report."
+        },
+        {
+          "text": "State conclusions against the objectives and criteria."
+        },
+        {
+          "text": "Prioritize findings and recommended actions."
+        },
+        {
+          "text": "Distribute the report to the agreed stakeholders."
+        },
+        {
+          "text": "Keep the report and evidence on file."
+        }
+      ]
+    },
+    {
+      "title": "Follow-up and closure",
+      "items": [
+        {
+          "text": "Agree corrective actions with owners and due dates."
+        },
+        {
+          "text": "Require root cause analysis for significant findings."
+        },
+        {
+          "text": "Track actions to completion."
+        },
+        {
+          "text": "Verify actions are implemented and effective."
+        },
+        {
+          "text": "Close findings once evidence confirms resolution."
+        },
+        {
+          "text": "Capture lessons learned for future audits."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an audit checklist?",
+      "a": "It is a structured guide for running an audit end to end — defining scope and criteria, gathering and evaluating evidence, recording findings, reporting and following up — so audits are consistent, objective and defensible."
+    },
+    {
+      "q": "What is the difference between scope and criteria?",
+      "a": "Scope defines what the audit covers — the areas, processes, sites or period. Criteria are the requirements you audit against, such as standards, policies, procedures or contracts. Findings compare the evidence to the criteria."
+    },
+    {
+      "q": "What counts as audit evidence?",
+      "a": "Audit evidence is objective information gathered through observation, interviews, sampling records and reviewing documents. It should be verifiable and sufficient to support each finding rather than relying on opinion."
+    },
+    {
+      "q": "How is this different from a quality audit checklist?",
+      "a": "This is a general audit process checklist for any audit type. A quality audit checklist is specialized for auditing a quality management system against quality standards and clauses such as ISO 9001."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the audit checklist for the audit, or download the PDF so auditors can record scope, evidence and findings on site and keep records on file to track corrective actions to closure."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/audit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/audit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Audit Checklist by ChecklistForge (https://checklistforge.com/checklist/audit-checklist)",
+  "updated": "2026-10-17"
+}

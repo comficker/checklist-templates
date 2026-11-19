@@ -1,0 +1,169 @@
+{
+  "id": "weekly-meal-planning-checklist",
+  "name": "Weekly Meal Planning Checklist",
+  "description": "A weekly checklist to plan every meal, check your calendar and build the shopping list in one sitting.",
+  "category": "food-kitchen",
+  "category_name": "Food & Kitchen",
+  "tags": [
+    "budget",
+    "groceries",
+    "meal-prep",
+    "family",
+    "meal-planning"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Take Inventory First",
+      "items": [
+        {
+          "text": "Check the fridge for items to use up this week",
+          "note": "Plan meals around what's already nearing its use-by date."
+        },
+        {
+          "text": "Scan the freezer for proteins and ready components"
+        },
+        {
+          "text": "Review pantry staples like rice, pasta, and canned goods"
+        },
+        {
+          "text": "Note fresh produce that needs eating soon"
+        },
+        {
+          "text": "List anything running low that you'll need to restock"
+        }
+      ]
+    },
+    {
+      "title": "Check Your Week's Calendar",
+      "items": [
+        {
+          "text": "Mark nights you'll be out or eating elsewhere"
+        },
+        {
+          "text": "Flag busy evenings that need quick or leftover meals"
+        },
+        {
+          "text": "Find one slot for a longer recipe or batch cook"
+        },
+        {
+          "text": "Note any guests or special occasions to cook for"
+        },
+        {
+          "text": "Decide which night you'll do the grocery shop"
+        }
+      ]
+    },
+    {
+      "title": "Plan Breakfasts and Lunches",
+      "items": [
+        {
+          "text": "Choose two or three repeatable breakfasts for the week"
+        },
+        {
+          "text": "Plan grab-and-go options for rushed mornings"
+        },
+        {
+          "text": "Decide on packed lunches or planned leftovers"
+        },
+        {
+          "text": "Pick lunches that reuse dinner ingredients"
+        },
+        {
+          "text": "Add any work or school lunch requirements"
+        }
+      ]
+    },
+    {
+      "title": "Plan Dinners",
+      "items": [
+        {
+          "text": "Assign a dinner to each night of the week"
+        },
+        {
+          "text": "Repeat a theme like taco night or pasta night to simplify"
+        },
+        {
+          "text": "Choose recipes that share key ingredients"
+        },
+        {
+          "text": "Plan a deliberate leftovers or clean-out-the-fridge night"
+        },
+        {
+          "text": "Balance the week with variety in proteins and vegetables"
+        },
+        {
+          "text": "Keep one easy backup meal for unexpected changes"
+        }
+      ]
+    },
+    {
+      "title": "Plan Snacks and Drinks",
+      "items": [
+        {
+          "text": "List everyday snacks for the household"
+        },
+        {
+          "text": "Add lunchbox or after-school snacks for kids"
+        },
+        {
+          "text": "Plan a few healthier options like fruit and yogurt"
+        },
+        {
+          "text": "Note drinks, coffee, and beverages to restock"
+        }
+      ]
+    },
+    {
+      "title": "Build the Shopping List",
+      "items": [
+        {
+          "text": "Write every ingredient from your planned meals"
+        },
+        {
+          "text": "Cross off anything you confirmed you already have"
+        },
+        {
+          "text": "Group the list by aisle or store section"
+        },
+        {
+          "text": "Add household and staple items that are low"
+        },
+        {
+          "text": "Estimate the total against your weekly budget",
+          "note": "Swap in sale items or cheaper proteins to hit your target."
+        },
+        {
+          "text": "Post the meal plan on the fridge for the family to see"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I plan meals for the week?",
+      "a": "Start by checking what you already have, then assign meals to each day around your calendar. Pick recipes that share ingredients, write them on a planner, and turn the gaps into a shopping list."
+    },
+    {
+      "q": "What should I plan first, meals or the shopping list?",
+      "a": "Plan meals first. Once you know exactly what you'll cook, you can build a shopping list from the recipes and avoid buying random items that never become a meal."
+    },
+    {
+      "q": "How can weekly meal planning save money?",
+      "a": "Planning reduces impulse buys, food waste, and last-minute takeout. Reusing ingredients across multiple meals and shopping a focused list keeps your grocery spend predictable."
+    },
+    {
+      "q": "Can I print this weekly meal planning checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then fill in each day's meals and your shopping list by hand."
+    },
+    {
+      "q": "How do I plan around a busy week?",
+      "a": "Check your calendar first and pencil in quick meals, leftovers, or a slow-cooker dinner on your busiest nights. Save longer recipes for evenings when you actually have time to cook."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/weekly-meal-planning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/weekly-meal-planning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Weekly Meal Planning Checklist by ChecklistForge (https://checklistforge.com/checklist/weekly-meal-planning-checklist)",
+  "updated": "2026-10-17"
+}

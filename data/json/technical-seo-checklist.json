@@ -1,0 +1,195 @@
+{
+  "id": "technical-seo-checklist",
+  "name": "Technical SEO Checklist",
+  "description": "A technical SEO checklist for crawlability, indexation, site speed, structured data, and infrastructure health.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "technical-seo",
+    "crawlability",
+    "site-speed"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Crawlability",
+      "items": [
+        {
+          "text": "Open robots.txt and confirm it does not block CSS, JavaScript, or important page directories."
+        },
+        {
+          "text": "Run a crawl and resolve every broken internal link and redirect chain it reports."
+        },
+        {
+          "text": "Ensure key content is server-rendered or hydrated so crawlers can read it without executing complex scripts."
+        },
+        {
+          "text": "Eliminate infinite crawl spaces created by faceted navigation, filters, or calendar parameters.",
+          "note": "Parameterized URLs can multiply into thousands of near-identical pages and drain crawl budget."
+        },
+        {
+          "text": "Build a logical internal linking structure so every important page is reachable within a few clicks."
+        },
+        {
+          "text": "Review server logs to confirm crawlers are spending time on valuable pages, not junk URLs."
+        }
+      ]
+    },
+    {
+      "title": "Indexation",
+      "items": [
+        {
+          "text": "Audit noindex directives and confirm they appear only on pages you want excluded."
+        },
+        {
+          "text": "Use search console coverage reports to find valid pages that are not being indexed."
+        },
+        {
+          "text": "Resolve 'crawled but not indexed' and 'discovered but not indexed' statuses on priority pages."
+        },
+        {
+          "text": "Remove or consolidate duplicate pages that split indexing signals."
+        },
+        {
+          "text": "Request indexing for new or significantly updated high-value pages."
+        }
+      ]
+    },
+    {
+      "title": "Site Architecture",
+      "items": [
+        {
+          "text": "Map your URL hierarchy and keep important pages close to the homepage in depth."
+        },
+        {
+          "text": "Group related content into clear topic clusters linked to a central hub page."
+        },
+        {
+          "text": "Use descriptive, lowercase, hyphenated URLs without session IDs or tracking parameters."
+        },
+        {
+          "text": "Add breadcrumb navigation to reinforce hierarchy for users and crawlers."
+        },
+        {
+          "text": "Avoid deep folder nesting that buries pages many levels below the root."
+        }
+      ]
+    },
+    {
+      "title": "Core Web Vitals and Speed",
+      "items": [
+        {
+          "text": "Measure largest contentful paint and reduce it by optimizing the main hero image or text block."
+        },
+        {
+          "text": "Cut layout shift by reserving space for images, ads, and embeds before they load."
+        },
+        {
+          "text": "Improve responsiveness by deferring non-critical JavaScript and splitting large bundles."
+        },
+        {
+          "text": "Compress and serve images in modern formats with appropriate dimensions."
+        },
+        {
+          "text": "Enable browser caching, compression, and a content delivery network for static assets.",
+          "note": "A CDN shortens the physical distance between your files and the user, which speeds first load."
+        },
+        {
+          "text": "Remove render-blocking resources from the critical path of above-the-fold content."
+        }
+      ]
+    },
+    {
+      "title": "Mobile and HTTPS",
+      "items": [
+        {
+          "text": "Confirm the site uses responsive design and renders correctly across phone screen sizes."
+        },
+        {
+          "text": "Set a proper viewport meta tag and ensure tap targets are large enough to use comfortably."
+        },
+        {
+          "text": "Force HTTPS site-wide and redirect all HTTP requests to the secure version."
+        },
+        {
+          "text": "Fix mixed-content warnings by serving every asset over HTTPS."
+        },
+        {
+          "text": "Verify the SSL certificate is valid, current, and set to auto-renew."
+        }
+      ]
+    },
+    {
+      "title": "Structured Data",
+      "items": [
+        {
+          "text": "Add JSON-LD markup that matches the content type of each template, such as articles or products."
+        },
+        {
+          "text": "Validate every schema block with a structured data testing tool and fix reported errors."
+        },
+        {
+          "text": "Implement breadcrumb, organization, and site-search markup where appropriate."
+        },
+        {
+          "text": "Avoid marking up content that is not visible to users on the page."
+        },
+        {
+          "text": "Monitor rich result reports for enhancements that lose eligibility after changes."
+        }
+      ]
+    },
+    {
+      "title": "Sitemaps, Robots, and Canonicals",
+      "items": [
+        {
+          "text": "Generate an XML sitemap that lists only canonical, indexable, 200-status URLs."
+        },
+        {
+          "text": "Reference the sitemap in robots.txt and submit it through search console."
+        },
+        {
+          "text": "Split very large sitemaps into multiple files under the per-file URL limit."
+        },
+        {
+          "text": "Set a self-referencing canonical tag on every indexable page."
+        },
+        {
+          "text": "Point duplicate and parameter URLs to their correct canonical version.",
+          "note": "Conflicting canonical and noindex signals confuse crawlers, so keep directives consistent on each URL."
+        },
+        {
+          "text": "Keep the sitemap automatically updated as pages are published, changed, or removed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is technical SEO?",
+      "a": "Technical SEO is the practice of optimizing a website's infrastructure so search engines can crawl, render, and index it without obstacles. It includes site speed, mobile usability, structured data, secure connections, clean sitemaps, and a logical architecture. It does not deal with the actual content, which on-page SEO handles."
+    },
+    {
+      "q": "What are Core Web Vitals?",
+      "a": "Core Web Vitals are a set of speed and stability metrics that measure real user experience. They track how fast the main content loads, how quickly the page responds to input, and how much the layout shifts while loading. Search engines use them as a ranking signal, so passing them protects rankings."
+    },
+    {
+      "q": "How does crawl budget affect my site?",
+      "a": "Crawl budget is how many pages a search engine will crawl on your site in a given period. Large sites with thousands of URLs can exhaust it on low-value or duplicate pages. Blocking junk URLs, fixing redirect chains, and trimming thin pages helps engines spend that budget on pages that matter."
+    },
+    {
+      "q": "Do I need an XML sitemap?",
+      "a": "Yes for most sites. An XML sitemap lists the canonical URLs you want indexed and helps search engines discover new or deep pages faster. It is essential for large sites, new sites with few backlinks, and sites with weak internal linking. Keep it free of redirects, errors, and noindexed pages."
+    },
+    {
+      "q": "What is structured data and why does it matter?",
+      "a": "Structured data is code, usually in JSON-LD, that labels page content so search engines understand it precisely. It can unlock rich results like star ratings, FAQs, and product details in search listings. These enhancements often raise click-through rates without changing your ranking position directly."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/technical-seo-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/technical-seo-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Technical SEO Checklist by ChecklistForge (https://checklistforge.com/checklist/technical-seo-checklist)",
+  "updated": "2026-10-17"
+}

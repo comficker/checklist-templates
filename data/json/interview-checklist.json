@@ -1,0 +1,187 @@
+{
+  "id": "interview-checklist",
+  "name": "Interview Checklist",
+  "description": "An interviewer's checklist to prepare, conduct, and evaluate candidate interviews fairly.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "hiring",
+    "recruiting",
+    "interview"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Review the Role and Candidate",
+      "items": [
+        {
+          "text": "Reread the job description and key requirements"
+        },
+        {
+          "text": "Identify the core competencies you must assess"
+        },
+        {
+          "text": "Review the candidate's resume and application notes"
+        },
+        {
+          "text": "Flag specific points to probe during the interview"
+        },
+        {
+          "text": "Align with the panel on who covers which areas",
+          "note": "Avoid overlapping questions across interviewers."
+        },
+        {
+          "text": "Decide the scoring scale you will use"
+        }
+      ]
+    },
+    {
+      "title": "Build Structured Questions",
+      "items": [
+        {
+          "text": "Write the same core questions for every candidate"
+        },
+        {
+          "text": "Include behavioral questions tied to real scenarios"
+        },
+        {
+          "text": "Add role-specific or technical questions as needed"
+        },
+        {
+          "text": "Prepare follow-up prompts to probe deeper"
+        },
+        {
+          "text": "Map each question to a competency on your rubric"
+        },
+        {
+          "text": "Review questions for fairness and compliance",
+          "note": "Allowed questions vary; follow local laws and consult HR or legal."
+        }
+      ]
+    },
+    {
+      "title": "Handle Logistics",
+      "items": [
+        {
+          "text": "Confirm the date, time, and time zone with the candidate"
+        },
+        {
+          "text": "Book a quiet room or test the video link in advance"
+        },
+        {
+          "text": "Send the candidate clear directions or joining details"
+        },
+        {
+          "text": "Share the agenda and interview format beforehand"
+        },
+        {
+          "text": "Prepare scorecards, notes, and the job description"
+        },
+        {
+          "text": "Plan buffer time between back-to-back interviews",
+          "note": "Rushed transitions hurt the candidate experience."
+        }
+      ]
+    },
+    {
+      "title": "Conduct the Interview",
+      "items": [
+        {
+          "text": "Greet the candidate warmly and explain the format"
+        },
+        {
+          "text": "Ask your structured questions in a consistent order"
+        },
+        {
+          "text": "Listen more than you talk and probe answers"
+        },
+        {
+          "text": "Take clear, specific notes as you go"
+        },
+        {
+          "text": "Give the candidate time to ask their own questions"
+        },
+        {
+          "text": "Close by explaining the next steps and timeline",
+          "note": "Candidates value knowing what happens next."
+        }
+      ]
+    },
+    {
+      "title": "Evaluate the Candidate",
+      "items": [
+        {
+          "text": "Score answers against the rubric soon after the interview"
+        },
+        {
+          "text": "Use specific examples to justify each rating"
+        },
+        {
+          "text": "Assess against the role, not against other candidates' charm"
+        },
+        {
+          "text": "Note clear strengths, concerns, and open questions"
+        },
+        {
+          "text": "Separate skills evidence from personal impressions"
+        },
+        {
+          "text": "Record a clear recommendation with reasoning",
+          "note": "Document why, not just yes or no."
+        }
+      ]
+    },
+    {
+      "title": "Align and Decide",
+      "items": [
+        {
+          "text": "Submit your scorecard before debriefing with the panel"
+        },
+        {
+          "text": "Compare independent scores before sharing opinions"
+        },
+        {
+          "text": "Discuss differences and revisit the evidence"
+        },
+        {
+          "text": "Check the decision against the role's must-haves"
+        },
+        {
+          "text": "Agree on next steps, additional rounds, or an offer"
+        },
+        {
+          "text": "Provide timely, respectful feedback to candidates",
+          "note": "A prompt response protects your employer brand."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How should an interviewer prepare for an interview?",
+      "a": "Review the job description and the candidate's resume, decide which competencies to assess, prepare structured questions, and confirm the logistics. Preparation keeps the interview focused and fair."
+    },
+    {
+      "q": "What is a structured interview?",
+      "a": "A structured interview asks every candidate the same core questions tied to the role's requirements and scores answers against a consistent rubric. It reduces bias and makes candidates easier to compare."
+    },
+    {
+      "q": "How can interviewers reduce bias?",
+      "a": "Use the same questions and scoring criteria for all candidates, take notes during the interview, evaluate against the role rather than gut feel, and compare scores before discussing impressions."
+    },
+    {
+      "q": "What should you avoid asking in an interview?",
+      "a": "Avoid questions about personal characteristics unrelated to the job. Permitted questions vary by location, so follow local laws and consult HR or legal to keep your questions compliant and fair."
+    },
+    {
+      "q": "Can I print this interview checklist?",
+      "a": "Yes. Download the printable PDF, prepare before each interview, and check off every step from setup through evaluation to keep your hiring process structured and consistent."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/interview-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/interview-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Interview Checklist by ChecklistForge (https://checklistforge.com/checklist/interview-checklist)",
+  "updated": "2026-10-17"
+}

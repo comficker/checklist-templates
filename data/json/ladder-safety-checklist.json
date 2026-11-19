@@ -1,0 +1,154 @@
+{
+  "id": "ladder-safety-checklist",
+  "name": "Ladder Safety Checklist",
+  "description": "A checklist for selecting, inspecting and safely using ladders at work.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "fall-protection",
+    "working-at-height",
+    "ladder-safety"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Selecting the Right Ladder",
+      "items": [
+        {
+          "text": "Match the ladder type to the task, such as step, extension or platform."
+        },
+        {
+          "text": "Confirm the duty rating exceeds the worker plus tools and materials."
+        },
+        {
+          "text": "Choose a non-conductive ladder for any work near electricity.",
+          "note": "Never use a metal ladder around live electrical hazards."
+        },
+        {
+          "text": "Select a height that avoids standing on the top rung or cap."
+        },
+        {
+          "text": "Confirm the ladder is rated for the environment and conditions."
+        }
+      ]
+    },
+    {
+      "title": "Pre-Use Inspection",
+      "items": [
+        {
+          "text": "Check rails and rungs for cracks, bends, splits or corrosion."
+        },
+        {
+          "text": "Confirm rungs and steps are tight, clean and free of grease."
+        },
+        {
+          "text": "Inspect feet, slip-resistant pads and spreader locks."
+        },
+        {
+          "text": "Verify ropes, pulleys and rung locks on extension ladders work smoothly.",
+          "note": "Remove any defective ladder from service and tag it immediately."
+        },
+        {
+          "text": "Confirm labels and duty-rating markings are present and legible."
+        }
+      ]
+    },
+    {
+      "title": "Setup and Positioning",
+      "items": [
+        {
+          "text": "Place the ladder on firm, level and dry ground."
+        },
+        {
+          "text": "Set extension ladders at the 4-to-1 angle and secure the base."
+        },
+        {
+          "text": "Extend the ladder about three feet above the landing point."
+        },
+        {
+          "text": "Fully open stepladders and lock the spreaders before climbing.",
+          "note": "Never use a closed stepladder leaning against a wall."
+        },
+        {
+          "text": "Tie off or have the ladder held to prevent slipping or tipping."
+        },
+        {
+          "text": "Keep the ladder clear of doorways, traffic and overhead hazards."
+        }
+      ]
+    },
+    {
+      "title": "Safe Climbing and Use",
+      "items": [
+        {
+          "text": "Maintain three-point contact while climbing up and down."
+        },
+        {
+          "text": "Face the ladder and keep your body centered between the rails."
+        },
+        {
+          "text": "Carry tools in a belt or hoist them rather than in your hands."
+        },
+        {
+          "text": "Do not overreach; move the ladder instead of leaning out.",
+          "note": "Keep your belt buckle between the rails to avoid overreaching."
+        },
+        {
+          "text": "Limit the ladder to one person unless it is rated for more."
+        },
+        {
+          "text": "Avoid standing on the top two rungs of a stepladder."
+        }
+      ]
+    },
+    {
+      "title": "Storage and Maintenance",
+      "items": [
+        {
+          "text": "Store ladders flat or on racks, supported and protected from damage."
+        },
+        {
+          "text": "Keep ladders clean and dry to prevent slips and corrosion."
+        },
+        {
+          "text": "Repair or replace damaged ladders rather than using them."
+        },
+        {
+          "text": "Confirm ladders are inspected periodically beyond pre-use checks."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training, manufacturer instructions or your employer's safety program; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What angle should an extension ladder be set at?",
+      "a": "Use the 4-to-1 rule: place the base one foot away from the wall for every four feet of working height. The extension should also reach about three feet above the landing point."
+    },
+    {
+      "q": "What is three-point contact?",
+      "a": "Three-point contact means keeping two hands and one foot, or two feet and one hand, on the ladder at all times while climbing. Carry tools in a belt or hoist them so your hands stay free."
+    },
+    {
+      "q": "How do I choose the right ladder?",
+      "a": "Match the ladder type and material to the task, confirm the duty rating exceeds the combined weight of the worker and tools, and keep metal ladders away from electrical work. Use the correct height so you never stand on the top cap."
+    },
+    {
+      "q": "When should a ladder be taken out of service?",
+      "a": "Remove any ladder with cracked or bent rails, missing or loose rungs, damaged feet, faulty locks or other defects. Tag it clearly and keep it out of use until it is repaired or replaced."
+    },
+    {
+      "q": "Does this checklist replace OSHA rules or training?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal training, your employer's safety program, manufacturer instructions, or a qualified person. Always confirm the standards that apply to your work."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/ladder-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/ladder-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Ladder Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/ladder-safety-checklist)",
+  "updated": "2026-10-17"
+}

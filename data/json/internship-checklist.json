@@ -1,0 +1,182 @@
+{
+  "id": "internship-checklist",
+  "name": "Internship Checklist",
+  "description": "A full-cycle checklist for finding, landing and succeeding in an internship.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "job-search",
+    "career",
+    "students",
+    "internship"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prepare to apply",
+      "items": [
+        {
+          "text": "Clarify your goals and the fields you want to explore."
+        },
+        {
+          "text": "Update your resume with relevant coursework and projects."
+        },
+        {
+          "text": "Polish your online professional profile."
+        },
+        {
+          "text": "Draft a cover letter you can tailor per role."
+        },
+        {
+          "text": "Gather references and ask permission to list them."
+        },
+        {
+          "text": "Set a target start date and work backward on timelines."
+        }
+      ]
+    },
+    {
+      "title": "Search and apply",
+      "items": [
+        {
+          "text": "Search job boards, your school's portal and company sites."
+        },
+        {
+          "text": "Use career services and faculty connections."
+        },
+        {
+          "text": "Tailor your resume and cover letter to each posting."
+        },
+        {
+          "text": "Track every application, deadline and status.",
+          "note": "Apply early — many programs recruit months in advance."
+        },
+        {
+          "text": "Network with alumni and professionals in your field."
+        },
+        {
+          "text": "Follow up politely on applications you care about."
+        }
+      ]
+    },
+    {
+      "title": "Interview",
+      "items": [
+        {
+          "text": "Research each company and role before interviewing."
+        },
+        {
+          "text": "Prepare answers to common interview questions."
+        },
+        {
+          "text": "Practice talking through your projects and skills."
+        },
+        {
+          "text": "Prepare thoughtful questions to ask the interviewer."
+        },
+        {
+          "text": "Test your tech and setting for virtual interviews."
+        },
+        {
+          "text": "Send a thank-you note after each interview."
+        }
+      ]
+    },
+    {
+      "title": "Accept and prepare",
+      "items": [
+        {
+          "text": "Review the offer details and confirm logistics."
+        },
+        {
+          "text": "Clarify pay, schedule, location and dress code."
+        },
+        {
+          "text": "Complete any paperwork and onboarding forms."
+        },
+        {
+          "text": "Arrange housing or commute if needed."
+        },
+        {
+          "text": "Set up required accounts, tools or equipment."
+        },
+        {
+          "text": "Plan questions and goals for your first week."
+        }
+      ]
+    },
+    {
+      "title": "Onboard and perform",
+      "items": [
+        {
+          "text": "Complete onboarding and learn the team's tools."
+        },
+        {
+          "text": "Set clear expectations and goals with your manager."
+        },
+        {
+          "text": "Take notes and ask questions when you're unsure."
+        },
+        {
+          "text": "Deliver reliable, high-quality work on time."
+        },
+        {
+          "text": "Ask for feedback regularly and act on it."
+        },
+        {
+          "text": "Build genuine relationships across the team."
+        }
+      ]
+    },
+    {
+      "title": "Network and wrap up",
+      "items": [
+        {
+          "text": "Document your accomplishments and impact."
+        },
+        {
+          "text": "Finish your projects and hand them off cleanly."
+        },
+        {
+          "text": "Request feedback and a recommendation if appropriate."
+        },
+        {
+          "text": "Express interest in returning or future roles."
+        },
+        {
+          "text": "Exchange contacts and connect online with colleagues."
+        },
+        {
+          "text": "Send thank-you notes and stay in touch afterward."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start looking for an internship?",
+      "a": "Start several months before you want to begin, since many programs recruit far in advance. Summer internships often open applications in the fall or winter, so research timelines early and apply as soon as postings go live."
+    },
+    {
+      "q": "How do I make my internship application stand out?",
+      "a": "Tailor your resume and cover letter to each role, highlight relevant projects and coursework, and quantify your impact where you can. A clear, specific application that maps to the job's needs beats a generic one."
+    },
+    {
+      "q": "What should I do in the first week of an internship?",
+      "a": "Complete onboarding, learn the tools and team, set expectations with your manager, and ask thoughtful questions. Take notes, be reliable, and clarify your goals for the internship early."
+    },
+    {
+      "q": "How can an internship turn into a job offer?",
+      "a": "Deliver strong work, build genuine relationships, ask for feedback, and express interest in returning. Wrap up your projects cleanly and stay in touch with your team after the internship ends."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each step as you search for, land and complete your internship."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/internship-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/internship-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Internship Checklist by ChecklistForge (https://checklistforge.com/checklist/internship-checklist)",
+  "updated": "2026-10-17"
+}

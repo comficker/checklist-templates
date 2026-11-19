@@ -1,0 +1,176 @@
+{
+  "id": "office-cleaning-checklist",
+  "name": "Office Cleaning Checklist",
+  "description": "A workplace office cleaning checklist covering desks, common areas, restrooms, and kitchens.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "office",
+    "cleaning",
+    "routine",
+    "commercial"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Daily: Desks and Workstations",
+      "items": [
+        {
+          "text": "Disinfect desks, keyboards, mice, and phones at shared stations"
+        },
+        {
+          "text": "Wipe down monitor stands and desk surfaces"
+        },
+        {
+          "text": "Empty desk-side and recycling bins and replace liners"
+        },
+        {
+          "text": "Straighten chairs and clear clutter from walkways"
+        },
+        {
+          "text": "Spot-clean spills and marks on desks and floors"
+        }
+      ]
+    },
+    {
+      "title": "Daily: Common and High-Touch Areas",
+      "items": [
+        {
+          "text": "Disinfect door handles, light switches, and elevator buttons",
+          "note": "Focus on shared touchpoints to limit the spread of germs."
+        },
+        {
+          "text": "Wipe down reception desks and waiting-area surfaces"
+        },
+        {
+          "text": "Sanitize shared equipment like printers and copiers"
+        },
+        {
+          "text": "Tidy meeting rooms and wipe down conference tables"
+        },
+        {
+          "text": "Empty all communal bins and replace liners"
+        },
+        {
+          "text": "Refill hand sanitizer stations"
+        }
+      ]
+    },
+    {
+      "title": "Daily: Restrooms",
+      "items": [
+        {
+          "text": "Clean and disinfect toilets, urinals, and sinks"
+        },
+        {
+          "text": "Wipe down counters, mirrors, and fixtures"
+        },
+        {
+          "text": "Restock toilet paper, paper towels, and soap"
+        },
+        {
+          "text": "Empty restroom bins and replace liners"
+        },
+        {
+          "text": "Mop the restroom floor and check for odors"
+        }
+      ]
+    },
+    {
+      "title": "Daily: Kitchen and Break Room",
+      "items": [
+        {
+          "text": "Wipe down counters, tables, and the sink"
+        },
+        {
+          "text": "Clean the microwave interior and the coffee station"
+        },
+        {
+          "text": "Load or run the dishwasher and put away clean dishes"
+        },
+        {
+          "text": "Empty the kitchen trash and recycling"
+        },
+        {
+          "text": "Restock paper towels, dish soap, and supplies"
+        },
+        {
+          "text": "Wipe down the fridge exterior and discard old food on Fridays"
+        }
+      ]
+    },
+    {
+      "title": "Weekly: Floors and Surfaces",
+      "items": [
+        {
+          "text": "Vacuum all carpets and rugs, including edges and under desks"
+        },
+        {
+          "text": "Mop hard floors throughout the office"
+        },
+        {
+          "text": "Dust surfaces, shelves, and window sills"
+        },
+        {
+          "text": "Clean interior glass, partitions, and door panels"
+        },
+        {
+          "text": "Dust vents, blinds, and light fixtures"
+        },
+        {
+          "text": "Wipe down baseboards and skirting"
+        }
+      ]
+    },
+    {
+      "title": "Weekly: Deep Tasks and Supplies",
+      "items": [
+        {
+          "text": "Deep clean the kitchen, including the fridge interior"
+        },
+        {
+          "text": "Scrub restroom tiles, grout, and floors"
+        },
+        {
+          "text": "Disinfect all shared electronics and equipment thoroughly"
+        },
+        {
+          "text": "Audit and restock all cleaning and restroom supplies"
+        },
+        {
+          "text": "Wipe down upholstered chairs and spot-clean fabric"
+        },
+        {
+          "text": "Inspect each area and note any maintenance issues"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be cleaned in an office daily?",
+      "a": "Empty bins, disinfect high-touch surfaces like door handles and shared keyboards, wipe down restroom fixtures, restock supplies, and clean the break room and kitchen. These daily tasks keep a workplace hygienic."
+    },
+    {
+      "q": "What office tasks are done weekly instead of daily?",
+      "a": "Vacuuming carpets thoroughly, mopping hard floors, dusting surfaces and vents, cleaning glass and partitions, and deeper restroom and kitchen cleaning are typically weekly tasks."
+    },
+    {
+      "q": "How do you keep shared office spaces hygienic?",
+      "a": "Disinfect high-touch surfaces frequently, provide hand sanitizer, empty bins daily, and clean kitchens and restrooms on a set schedule. Assigning tasks with a checklist keeps standards consistent."
+    },
+    {
+      "q": "Who is this office cleaning checklist for?",
+      "a": "It works for office managers, staff on a cleaning rota, and professional commercial cleaning teams. It scales from a small office to a larger multi-room workplace."
+    },
+    {
+      "q": "Can I print this office cleaning checklist?",
+      "a": "Yes. Print it or download the PDF to assign daily and weekly tasks to staff or your cleaning contractor."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/office-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/office-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Office Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/office-cleaning-checklist)",
+  "updated": "2026-10-18"
+}

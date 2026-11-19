@@ -1,0 +1,163 @@
+{
+  "id": "cat-supplies-checklist",
+  "name": "Cat Supplies Checklist",
+  "description": "A category-by-category cat supplies shopping list for new kitten and adult cat owners.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "shopping-list",
+    "supplies",
+    "pets",
+    "cats",
+    "new-kitten"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Food & Feeding",
+      "items": [
+        {
+          "text": "Age-appropriate cat food",
+          "note": "Match kitten, adult or senior formula and keep the cat's current food during the transition"
+        },
+        {
+          "text": "Shallow, non-tip food bowl"
+        },
+        {
+          "text": "Water bowl or pet fountain"
+        },
+        {
+          "text": "Cat treats for bonding and rewards"
+        },
+        {
+          "text": "Airtight food storage container"
+        },
+        {
+          "text": "Measuring scoop for portion control"
+        }
+      ]
+    },
+    {
+      "title": "Litter Box",
+      "items": [
+        {
+          "text": "Litter box sized for the cat",
+          "note": "Low sides for kittens; one box per cat plus one extra"
+        },
+        {
+          "text": "Cat litter of your chosen type"
+        },
+        {
+          "text": "Litter scoop"
+        },
+        {
+          "text": "Litter mat to catch tracking"
+        },
+        {
+          "text": "Lined waste bin near the box"
+        }
+      ]
+    },
+    {
+      "title": "Scratching & Climbing",
+      "items": [
+        {
+          "text": "Scratching post or pad"
+        },
+        {
+          "text": "Cat tree or perch for climbing"
+        },
+        {
+          "text": "Window perch or resting spot"
+        },
+        {
+          "text": "Cozy bed or covered hideaway"
+        }
+      ]
+    },
+    {
+      "title": "Toys & Enrichment",
+      "items": [
+        {
+          "text": "Wand or teaser toys for interactive play"
+        },
+        {
+          "text": "Small balls or mice for solo play"
+        },
+        {
+          "text": "Puzzle feeder or treat-dispensing toy"
+        },
+        {
+          "text": "Catnip or silvervine toys if your cat responds"
+        }
+      ]
+    },
+    {
+      "title": "Grooming",
+      "items": [
+        {
+          "text": "Brush or comb suited to the coat length"
+        },
+        {
+          "text": "Nail clippers"
+        },
+        {
+          "text": "Cat toothbrush and toothpaste"
+        },
+        {
+          "text": "Cat shampoo for occasional baths if needed"
+        },
+        {
+          "text": "De-shedding tool for long-haired cats"
+        }
+      ]
+    },
+    {
+      "title": "Carrier & Travel",
+      "items": [
+        {
+          "text": "Sturdy, ventilated carrier"
+        },
+        {
+          "text": "Soft liner or familiar blanket for the carrier"
+        },
+        {
+          "text": "ID tag and breakaway collar"
+        },
+        {
+          "text": "Microchip registered with current details"
+        },
+        {
+          "text": "Calming spray or familiar-scent item for vet trips"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What supplies do I need before bringing a cat home?",
+      "a": "Have food, food and water bowls, a litter box with litter, a scratching post, a few toys, basic grooming tools and a carrier ready before the cat arrives."
+    },
+    {
+      "q": "How many litter boxes does a cat need?",
+      "a": "A common guideline is one litter box per cat plus one extra, placed in quiet, accessible spots. For a single cat, start with at least one box and add another if the home is large or multi-level."
+    },
+    {
+      "q": "Do kittens and adult cats need different supplies?",
+      "a": "The categories are the same, but kittens need kitten-formula food, a low-sided litter box and smaller toys. Switch to adult food and adjust gear as the kitten grows."
+    },
+    {
+      "q": "Should I ask a vet about diet and parasite prevention?",
+      "a": "Yes. This list is general guidance. Confirm food, vaccinations and flea and worm prevention with a veterinarian for your specific cat."
+    },
+    {
+      "q": "Can I print this cat supplies checklist?",
+      "a": "Yes. Print it or download the PDF so you can carry it to the store and check off each category as you go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cat-supplies-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cat-supplies-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cat Supplies Checklist by ChecklistForge (https://checklistforge.com/checklist/cat-supplies-checklist)",
+  "updated": "2026-10-17"
+}

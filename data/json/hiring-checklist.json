@@ -1,0 +1,186 @@
+{
+  "id": "hiring-checklist",
+  "name": "Hiring Checklist",
+  "description": "A manager's end-to-end process for hiring one role, from defining it to the offer and onboarding handoff.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "managers",
+    "hiring",
+    "recruiting"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Define and Approve the Role",
+      "items": [
+        {
+          "text": "Confirm the business need and headcount approval"
+        },
+        {
+          "text": "Define core responsibilities and expected outcomes"
+        },
+        {
+          "text": "List must-have and nice-to-have skills and experience"
+        },
+        {
+          "text": "Set the level, salary range, and budget",
+          "note": "Pay practices vary; follow local laws and confirm with HR."
+        },
+        {
+          "text": "Agree on how success in the role will be measured"
+        },
+        {
+          "text": "Align with HR or recruiting on the process and timeline"
+        }
+      ]
+    },
+    {
+      "title": "Create the Job Posting",
+      "items": [
+        {
+          "text": "Write a clear, honest job description from the role definition"
+        },
+        {
+          "text": "Highlight key responsibilities and required qualifications"
+        },
+        {
+          "text": "Describe the team, growth, and what makes the role appealing"
+        },
+        {
+          "text": "Use inclusive, bias-aware language throughout"
+        },
+        {
+          "text": "Specify location, work arrangement, and how to apply"
+        },
+        {
+          "text": "Get HR sign-off before publishing the posting",
+          "note": "A clear posting attracts better-fit candidates."
+        }
+      ]
+    },
+    {
+      "title": "Review Applications",
+      "items": [
+        {
+          "text": "Define screening criteria tied to the must-haves"
+        },
+        {
+          "text": "Screen resumes consistently against those criteria"
+        },
+        {
+          "text": "Shortlist candidates who meet the core requirements"
+        },
+        {
+          "text": "Run brief phone screens to confirm fit and interest"
+        },
+        {
+          "text": "Confirm salary expectations and availability early"
+        },
+        {
+          "text": "Keep applicants informed of their status",
+          "note": "Timely updates protect your reputation."
+        }
+      ]
+    },
+    {
+      "title": "Interview Candidates",
+      "items": [
+        {
+          "text": "Plan the interview stages and who is involved"
+        },
+        {
+          "text": "Use structured questions tied to the role"
+        },
+        {
+          "text": "Score each candidate against a consistent rubric"
+        },
+        {
+          "text": "Assess both skills and team fit fairly"
+        },
+        {
+          "text": "Debrief with interviewers using the evidence"
+        },
+        {
+          "text": "Compare candidates against the role, not each other's charm"
+        }
+      ]
+    },
+    {
+      "title": "Make the Decision and Offer",
+      "items": [
+        {
+          "text": "Select the candidate who best meets the criteria"
+        },
+        {
+          "text": "Complete reference and background checks as needed",
+          "note": "Check requirements vary; follow local laws and HR guidance."
+        },
+        {
+          "text": "Confirm the compensation package and start date"
+        },
+        {
+          "text": "Extend a verbal offer, then send it in writing"
+        },
+        {
+          "text": "Negotiate respectfully and confirm acceptance"
+        },
+        {
+          "text": "Notify and thank unsuccessful candidates promptly"
+        }
+      ]
+    },
+    {
+      "title": "Hand Off to Onboarding",
+      "items": [
+        {
+          "text": "Share the signed offer and details with HR and IT"
+        },
+        {
+          "text": "Trigger equipment, accounts, and access setup"
+        },
+        {
+          "text": "Prepare a first-week plan and assign a buddy"
+        },
+        {
+          "text": "Communicate the new hire to the team"
+        },
+        {
+          "text": "Confirm the start date and first-day logistics"
+        },
+        {
+          "text": "Brief the onboarding owner on the role and expectations",
+          "note": "A clean handoff sets the new hire up to succeed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the steps in the hiring process?",
+      "a": "Define and get approval for the role, write the job description, post and review applications, interview shortlisted candidates, check references, make the offer, and hand off to onboarding."
+    },
+    {
+      "q": "How do I define a role before hiring?",
+      "a": "Clarify the core responsibilities, must-have versus nice-to-have skills, level, and how success will be measured. A sharp role definition makes screening and interviewing far easier."
+    },
+    {
+      "q": "How long should hiring one role take?",
+      "a": "It varies by role and market, but a focused process often runs four to eight weeks. Moving quickly between stages and giving prompt feedback keeps strong candidates engaged."
+    },
+    {
+      "q": "What is the difference between hiring and recruitment?",
+      "a": "Hiring is a manager's end-to-end process for one role through to offer and onboarding. Recruitment is the recruiter's broader pipeline of sourcing, screening, and managing many candidates across roles."
+    },
+    {
+      "q": "Can I print this hiring checklist?",
+      "a": "Yes. Download the printable PDF, follow each step in order, and check items off as you move from defining the role to the offer and onboarding handoff."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hiring-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hiring-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hiring Checklist by ChecklistForge (https://checklistforge.com/checklist/hiring-checklist)",
+  "updated": "2026-10-17"
+}

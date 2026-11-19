@@ -1,0 +1,179 @@
+{
+  "id": "low-carb-checklist",
+  "name": "Low Carb Checklist",
+  "description": "A practical low-carb checklist of foods to choose versus limit, with simple meal ideas to get started.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "meal-prep",
+    "family",
+    "healthy-eating",
+    "nutrition",
+    "low-carb"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Proteins to Choose",
+      "items": [
+        {
+          "text": "Chicken, turkey and other poultry"
+        },
+        {
+          "text": "Fish and seafood, including salmon and shrimp"
+        },
+        {
+          "text": "Eggs"
+        },
+        {
+          "text": "Beef, pork and lamb"
+        },
+        {
+          "text": "Tofu and tempeh for plant-based protein"
+        },
+        {
+          "text": "Cheese and plain Greek yogurt",
+          "note": "Protein helps you stay full while cutting carbs."
+        }
+      ]
+    },
+    {
+      "title": "Non-Starchy Vegetables to Choose",
+      "items": [
+        {
+          "text": "Leafy greens: spinach, kale, lettuce"
+        },
+        {
+          "text": "Broccoli, cauliflower and cabbage"
+        },
+        {
+          "text": "Zucchini, peppers and mushrooms"
+        },
+        {
+          "text": "Cucumber, celery and asparagus"
+        },
+        {
+          "text": "Tomatoes and green beans in moderation",
+          "note": "Non-starchy veg add fiber and volume with few carbs."
+        }
+      ]
+    },
+    {
+      "title": "Healthy Fats to Choose",
+      "items": [
+        {
+          "text": "Olive oil and avocado oil"
+        },
+        {
+          "text": "Avocados"
+        },
+        {
+          "text": "Nuts and seeds in sensible portions"
+        },
+        {
+          "text": "Butter or ghee in moderation"
+        },
+        {
+          "text": "Olives",
+          "note": "Fats add flavor and satisfaction to low-carb meals."
+        }
+      ]
+    },
+    {
+      "title": "Foods to Limit",
+      "items": [
+        {
+          "text": "Sugary drinks, soda and sweetened juice"
+        },
+        {
+          "text": "Candy, pastries, cookies and cakes"
+        },
+        {
+          "text": "Bread, bagels and most baked goods"
+        },
+        {
+          "text": "White rice, pasta and potatoes"
+        },
+        {
+          "text": "Breakfast cereals and granola"
+        },
+        {
+          "text": "Very sweet fruits in large amounts",
+          "note": "These are the biggest sources of carbs in most diets."
+        }
+      ]
+    },
+    {
+      "title": "Simple Low-Carb Meals",
+      "items": [
+        {
+          "text": "Breakfast: eggs with spinach and avocado"
+        },
+        {
+          "text": "Lunch: big salad with chicken, olive oil and cheese"
+        },
+        {
+          "text": "Dinner: salmon with roasted broccoli and butter"
+        },
+        {
+          "text": "Snack: a handful of nuts or cheese with cucumber"
+        },
+        {
+          "text": "Swap: cauliflower rice or zucchini noodles for grains and pasta",
+          "note": "Easy swaps make familiar meals lower in carbs."
+        }
+      ]
+    },
+    {
+      "title": "Tips to Succeed",
+      "items": [
+        {
+          "text": "Plan a few meals so you are not caught without options"
+        },
+        {
+          "text": "Read labels for hidden sugar and starches"
+        },
+        {
+          "text": "Stay hydrated and include enough salt and fiber"
+        },
+        {
+          "text": "Choose a carb level that is realistic for the long term"
+        },
+        {
+          "text": "Use this printable checklist when shopping and planning"
+        },
+        {
+          "text": "Important: this is general information, not medical or dietary advice",
+          "note": "If you have diabetes or take medication, consult your doctor or a registered dietitian first."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What counts as low carb?",
+      "a": "There is no single definition, but low carb generally means eating fewer carbohydrates than a typical diet by cutting back on sugar and starchy foods. It is more flexible than keto, which restricts carbs much more strictly. Choose a level of carbs that suits your goals and lifestyle."
+    },
+    {
+      "q": "How is low carb different from keto?",
+      "a": "Keto is a very strict, high-fat version of low carb that aims to keep the body in ketosis, usually under about 20 to 50 grams of carbs a day. General low carb is more relaxed: you reduce sugary and starchy foods but still enjoy some fruit, legumes or whole grains."
+    },
+    {
+      "q": "Can I still eat fruit on a low-carb diet?",
+      "a": "Yes, in moderation. Lower-sugar fruits like berries fit easily, while very sweet fruits are eaten in smaller portions. Pairing fruit with protein or fat can help you feel satisfied."
+    },
+    {
+      "q": "Can I print this low carb checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep on the fridge or take shopping, ticking off the foods that fit your plan."
+    },
+    {
+      "q": "Is this medical or dietary advice?",
+      "a": "No. This is general information, not medical or dietary advice. If you have diabetes, take medication or have a health condition, talk to your doctor or a registered dietitian before making big changes to your carbs."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/low-carb-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/low-carb-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Low Carb Checklist by ChecklistForge (https://checklistforge.com/checklist/low-carb-checklist)",
+  "updated": "2026-11-13"
+}

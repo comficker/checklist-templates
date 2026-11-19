@@ -1,0 +1,148 @@
+{
+  "id": "reading-checklist",
+  "name": "Reading Checklist",
+  "description": "A reading checklist of active reading steps to understand and remember any text.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "college",
+    "study",
+    "reading",
+    "comprehension"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Preview before you read",
+      "items": [
+        {
+          "text": "Read the title, headings and any chapter summary."
+        },
+        {
+          "text": "Skim the introduction and conclusion first."
+        },
+        {
+          "text": "Look at images, charts, bold terms and questions at the end."
+        },
+        {
+          "text": "Note why you are reading this and what you need from it."
+        },
+        {
+          "text": "Estimate how long the reading will take and plan breaks."
+        }
+      ]
+    },
+    {
+      "title": "Set a purpose and questions",
+      "items": [
+        {
+          "text": "Turn each heading into a question to answer as you read."
+        },
+        {
+          "text": "Write down what you already know about the topic."
+        },
+        {
+          "text": "Note the main question the text seems to address."
+        },
+        {
+          "text": "Decide what level of detail the assignment requires."
+        },
+        {
+          "text": "Keep a pen or device ready for notes."
+        }
+      ]
+    },
+    {
+      "title": "Read and annotate actively",
+      "items": [
+        {
+          "text": "Read one section at a time rather than the whole thing at once."
+        },
+        {
+          "text": "Highlight or underline only the key claims and evidence.",
+          "note": "Marking everything is the same as marking nothing."
+        },
+        {
+          "text": "Write questions and reactions in the margins."
+        },
+        {
+          "text": "Circle unfamiliar words and look them up."
+        },
+        {
+          "text": "Number or label the main points as you go."
+        },
+        {
+          "text": "Pause to check the section answered your heading question."
+        }
+      ]
+    },
+    {
+      "title": "Summarize as you go",
+      "items": [
+        {
+          "text": "After each section, look away and recall the main idea."
+        },
+        {
+          "text": "Write a one or two sentence summary in your own words."
+        },
+        {
+          "text": "Note how the section connects to the overall argument."
+        },
+        {
+          "text": "Capture any quotes or data you may need to cite."
+        },
+        {
+          "text": "Flag points you found confusing to revisit."
+        }
+      ]
+    },
+    {
+      "title": "Review after reading",
+      "items": [
+        {
+          "text": "Write a short overall summary of the whole text."
+        },
+        {
+          "text": "Answer your original heading questions from memory."
+        },
+        {
+          "text": "Reread your annotations and confusing sections."
+        },
+        {
+          "text": "Connect the reading to class notes or other sources."
+        },
+        {
+          "text": "List any follow-up questions for class or further study."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is active reading?",
+      "a": "Active reading means engaging with a text rather than just running your eyes over it. You preview, ask questions, annotate, summarize and review, which keeps your mind working and dramatically improves how much you understand and remember."
+    },
+    {
+      "q": "How is this different from a study checklist?",
+      "a": "This reading checklist focuses on getting the most out of a specific text. A study checklist covers a whole study session, which may include reading along with practice, recall and review of many materials."
+    },
+    {
+      "q": "How should I annotate a text?",
+      "a": "Underline or highlight only the key claims, jot questions and reactions in the margins, mark unfamiliar terms to look up, and number or label the main points. Keep it selective so your notes stay useful."
+    },
+    {
+      "q": "How do I remember what I read?",
+      "a": "After each section, look away and summarize the main ideas in your own words, then write a brief overview when you finish. Reviewing your summary and annotations later locks the material into memory."
+    },
+    {
+      "q": "Can I download this reading checklist as a PDF?",
+      "a": "Yes. You can print it as a bookmark or download it as a PDF to your phone and follow the same active reading steps with any text."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/reading-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/reading-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Reading Checklist by ChecklistForge (https://checklistforge.com/checklist/reading-checklist)",
+  "updated": "2026-10-17"
+}

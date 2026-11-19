@@ -1,0 +1,163 @@
+{
+  "id": "horse-care-checklist",
+  "name": "Horse Care Checklist",
+  "description": "A daily and routine horse care checklist covering feeding, turnout, grooming, hooves and health.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "daily-routine",
+    "pets",
+    "grooming",
+    "horses",
+    "horse-care"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Feed & Water",
+      "items": [
+        {
+          "text": "Provide constant access to clean, fresh water"
+        },
+        {
+          "text": "Feed quality forage such as hay or pasture"
+        },
+        {
+          "text": "Give measured concentrates or grain if part of the diet",
+          "note": "Adjust amounts to the horse's weight, age and workload"
+        },
+        {
+          "text": "Offer a salt or mineral block"
+        },
+        {
+          "text": "Check water troughs and buckets for cleanliness and ice"
+        }
+      ]
+    },
+    {
+      "title": "Turnout & Exercise",
+      "items": [
+        {
+          "text": "Turn out for movement and grazing time"
+        },
+        {
+          "text": "Provide daily exercise, riding or groundwork"
+        },
+        {
+          "text": "Check fencing, gates and the paddock for hazards"
+        },
+        {
+          "text": "Ensure shelter from sun, wind and rain"
+        },
+        {
+          "text": "Monitor herd dynamics if turned out with other horses"
+        }
+      ]
+    },
+    {
+      "title": "Grooming",
+      "items": [
+        {
+          "text": "Curry and brush the coat to remove dirt and loose hair"
+        },
+        {
+          "text": "Comb out the mane and tail"
+        },
+        {
+          "text": "Clean around the eyes, nostrils and dock"
+        },
+        {
+          "text": "Check the coat and skin for cuts, lumps or parasites"
+        },
+        {
+          "text": "Apply fly protection in warm seasons"
+        }
+      ]
+    },
+    {
+      "title": "Hoof Care",
+      "items": [
+        {
+          "text": "Pick out each hoof daily"
+        },
+        {
+          "text": "Check for heat, odor, cracks or signs of thrush"
+        },
+        {
+          "text": "Watch for lameness or uneven movement"
+        },
+        {
+          "text": "Schedule regular farrier visits for trimming or shoeing",
+          "note": "Commonly every six to eight weeks"
+        }
+      ]
+    },
+    {
+      "title": "Stall & Environment",
+      "items": [
+        {
+          "text": "Muck out the stall and remove soiled bedding"
+        },
+        {
+          "text": "Add fresh, dry bedding"
+        },
+        {
+          "text": "Refill water and hay"
+        },
+        {
+          "text": "Check the stall for sharp edges or loose fittings"
+        },
+        {
+          "text": "Maintain ventilation and keep the area dry"
+        }
+      ]
+    },
+    {
+      "title": "Health & Records",
+      "items": [
+        {
+          "text": "Observe appetite, manure and behavior for changes"
+        },
+        {
+          "text": "Keep vaccinations current with your vet"
+        },
+        {
+          "text": "Maintain a deworming schedule based on advice"
+        },
+        {
+          "text": "Book routine dental checks"
+        },
+        {
+          "text": "Keep a record of vet, farrier and dental visits"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a horse need every day?",
+      "a": "Daily care includes fresh water, appropriate forage and feed, turnout or exercise, a check of the stall or paddock, and a head-to-hoof look for injuries or changes in behavior and appetite."
+    },
+    {
+      "q": "How often do horses need hoof care?",
+      "a": "Pick out hooves daily and have a farrier trim or shoe roughly every six to eight weeks, adjusted to the individual horse. Watch for heat, odor or lameness, which warrant prompt attention."
+    },
+    {
+      "q": "How much water does a horse drink a day?",
+      "a": "A horse typically drinks many gallons daily and needs constant access to clean, unfrozen water. Intake rises with heat, work and hay-heavy diets, so monitor troughs and buckets closely."
+    },
+    {
+      "q": "When should I call a vet for my horse?",
+      "a": "This checklist is general guidance. Call a veterinarian for signs of colic, lameness, injury, off feed, or any sudden change, and schedule routine vaccinations, dental care and deworming with your vet."
+    },
+    {
+      "q": "Can I print this horse care checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it in the barn and tick off daily and routine tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/horse-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/horse-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Horse Care Checklist by ChecklistForge (https://checklistforge.com/checklist/horse-care-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "checklist-templates",
+  "version": "0.1.0",
+  "description": "Free checklist templates as JSON and Markdown (moving, cleaning, travel packing, wedding, baby, home maintenance, safety inspections…) plus an MCP server. Printable PDF versions on ChecklistForge.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": { "types": "./index.d.ts", "default": "./index.js" },
+    "./data/*": "./data/*"
+  },
+  "bin": {
+    "checklist-templates": "bin/cli.js",
+    "checklist-templates-mcp": "mcp/server.js"
+  },
+  "files": ["index.js", "index.d.ts", "bin", "mcp", "data", "LICENSE", "LICENSE-DATA.md"],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "build:data": "python3 scripts/build-data.py",
+    "build:readme": "node scripts/build-readme.js"
+  },
+  "keywords": ["checklist", "checklist-template", "printable-checklist", "todo", "moving-checklist", "cleaning-checklist", "packing-list", "wedding-checklist", "inspection-checklist", "templates", "json", "markdown", "mcp", "model-context-protocol"],
+  "homepage": "https://checklistforge.com/checklists",
+  "repository": { "type": "git", "url": "git+https://github.com/comficker/checklist-templates.git" },
+  "bugs": { "url": "https://github.com/comficker/checklist-templates/issues" },
+  "author": "ChecklistForge (https://checklistforge.com)",
+  "license": "MIT",
+  "mcpName": "io.github.comficker/checklist-templates",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^3.25.0"
+  }
+}

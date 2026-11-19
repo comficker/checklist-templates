@@ -1,0 +1,154 @@
+{
+  "id": "hospital-discharge-checklist",
+  "name": "Hospital Discharge Checklist",
+  "description": "A checklist for leaving the hospital safely, covering instructions, medicines, follow-up care, equipment, and warning signs.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "caregiver",
+    "hospital"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Understand Your Instructions",
+      "items": [
+        {
+          "text": "Get your diagnosis and discharge summary in writing"
+        },
+        {
+          "text": "Confirm your activity and movement limits"
+        },
+        {
+          "text": "Ask about diet and fluid instructions"
+        },
+        {
+          "text": "Confirm wound, incision, or device care steps"
+        },
+        {
+          "text": "Repeat instructions back to confirm understanding",
+          "note": "Ask the team to explain anything that is unclear"
+        }
+      ]
+    },
+    {
+      "title": "Medications",
+      "items": [
+        {
+          "text": "Get a clear list of medicines to take and when"
+        },
+        {
+          "text": "Confirm which previous medicines to stop or continue"
+        },
+        {
+          "text": "Note the reason for any new medicines"
+        },
+        {
+          "text": "Fill new prescriptions before you go home if possible"
+        },
+        {
+          "text": "Ask your pharmacist about any interactions"
+        }
+      ]
+    },
+    {
+      "title": "Follow-Up Care",
+      "items": [
+        {
+          "text": "Schedule follow-up appointments before leaving"
+        },
+        {
+          "text": "Note which doctors to see and when"
+        },
+        {
+          "text": "Confirm any tests needed after discharge"
+        },
+        {
+          "text": "Get referrals for therapy or home care if needed"
+        },
+        {
+          "text": "Save a phone number to call with questions"
+        }
+      ]
+    },
+    {
+      "title": "Equipment and Home Setup",
+      "items": [
+        {
+          "text": "Confirm any medical equipment you need at home"
+        },
+        {
+          "text": "Learn how to use and clean any devices"
+        },
+        {
+          "text": "Arrange delivery or pickup of supplies"
+        },
+        {
+          "text": "Prepare a safe, comfortable space to recover"
+        },
+        {
+          "text": "Arrange help with transport and daily tasks"
+        }
+      ]
+    },
+    {
+      "title": "Warning Signs to Watch For",
+      "items": [
+        {
+          "text": "Ask which symptoms mean you should call the doctor"
+        },
+        {
+          "text": "Ask which symptoms mean you should seek emergency care"
+        },
+        {
+          "text": "Write down the signs and who to contact"
+        },
+        {
+          "text": "Keep the list visible at home"
+        },
+        {
+          "text": "Share the warning signs with your caregiver",
+          "note": "For severe symptoms, call your local emergency number"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; follow the discharge instructions and care plan from your hospital team and doctor, and contact them with any questions",
+          "note": "If serious symptoms develop at home, call your local emergency number"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I ask before leaving the hospital?",
+      "a": "Ask about your diagnosis, medicines, activity limits, wound or device care, follow-up appointments, and warning signs. Request written instructions and confirm who to call with questions after you get home."
+    },
+    {
+      "q": "How do I manage medicines after discharge?",
+      "a": "Get a clear, current list of what to take, when, and why, including any changes from before. Ask which old medicines to stop, fill new prescriptions promptly, and confirm any interactions with your pharmacist."
+    },
+    {
+      "q": "What warning signs should I watch for at home?",
+      "a": "Ask your care team which symptoms mean you should call the doctor and which mean you should seek emergency care. Write these down so you and your caregiver know exactly what to watch for."
+    },
+    {
+      "q": "What if I do not understand my discharge instructions?",
+      "a": "Ask the team to explain again in plain language before you leave, and repeat it back to confirm. Bring a caregiver to help, and get a phone number to call with questions later."
+    },
+    {
+      "q": "Is this hospital discharge checklist printable?",
+      "a": "Yes. Print it or download the PDF, use it to ask questions before leaving, and keep it with your instructions to stay organized during recovery."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hospital-discharge-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hospital-discharge-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hospital Discharge Checklist by ChecklistForge (https://checklistforge.com/checklist/hospital-discharge-checklist)",
+  "updated": "2026-11-13"
+}

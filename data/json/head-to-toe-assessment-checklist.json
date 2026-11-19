@@ -1,0 +1,200 @@
+{
+  "id": "head-to-toe-assessment-checklist",
+  "name": "Head-to-Toe Assessment Checklist",
+  "description": "A head-to-toe physical assessment checklist for nursing students and new nurses, in the order you would perform it at the bedside.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "nursing",
+    "nursing-students",
+    "physical-assessment",
+    "clinical-skills",
+    "health-assessment"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "General Survey and Vital Signs",
+      "items": [
+        {
+          "text": "Perform hand hygiene, introduce yourself and confirm the patient's identity with two identifiers"
+        },
+        {
+          "text": "Note general appearance, distress, hygiene, posture and behavior"
+        },
+        {
+          "text": "Measure temperature, pulse, respirations, blood pressure and oxygen saturation",
+          "note": "Count respirations without telling the patient, for example while you still appear to be taking the pulse. People breathe differently when they know they are being watched."
+        },
+        {
+          "text": "Rate pain with a scale the patient understands, and note location, quality and onset"
+        },
+        {
+          "text": "Compare vital signs with the last set and the patient's baseline"
+        }
+      ]
+    },
+    {
+      "title": "Neuro",
+      "items": [
+        {
+          "text": "Assess level of consciousness: alert, lethargic, obtunded or unresponsive"
+        },
+        {
+          "text": "Check orientation to person, place, time and situation"
+        },
+        {
+          "text": "Check pupils for PERRLA: equal, round, reactive to light and accommodation"
+        },
+        {
+          "text": "Check hand grip and foot push strength on both sides",
+          "note": "Weakness on one side that is new can be a sign of stroke. Report it right away and follow your facility's stroke protocol."
+        },
+        {
+          "text": "Note speech clarity and the ability to follow commands"
+        }
+      ]
+    },
+    {
+      "title": "HEENT and Neck",
+      "items": [
+        {
+          "text": "Inspect the head and face for symmetry, lesions or injury"
+        },
+        {
+          "text": "Inspect the eyes, ears and nose for drainage"
+        },
+        {
+          "text": "Inspect the mouth for moist mucous membranes, teeth or dentures and lesions"
+        },
+        {
+          "text": "Check that the trachea is midline and look for jugular vein distention"
+        }
+      ]
+    },
+    {
+      "title": "Respiratory",
+      "items": [
+        {
+          "text": "Inspect breathing pattern, effort, use of accessory muscles and chest shape"
+        },
+        {
+          "text": "Auscultate lung sounds front and back, comparing side to side",
+          "note": "Listen on bare skin, not through a gown. Have the patient breathe slowly through the mouth, and listen to a full breath in each spot."
+        },
+        {
+          "text": "Note adventitious sounds, such as crackles, wheezes, rhonchi or stridor"
+        },
+        {
+          "text": "Note cough, sputum color and any oxygen device and flow rate"
+        }
+      ]
+    },
+    {
+      "title": "Cardiovascular",
+      "items": [
+        {
+          "text": "Auscultate heart sounds at the aortic, pulmonic, Erb's point, tricuspid and mitral areas"
+        },
+        {
+          "text": "Count the apical pulse for a full minute if the rhythm is irregular"
+        },
+        {
+          "text": "Palpate radial and pedal pulses on both sides and compare strength"
+        },
+        {
+          "text": "Check capillary refill and skin color and temperature of hands and feet"
+        },
+        {
+          "text": "Check for edema in the feet, ankles and legs and grade it per policy"
+        }
+      ]
+    },
+    {
+      "title": "Abdomen and GU",
+      "items": [
+        {
+          "text": "Inspect the abdomen for shape, distention, scars and wounds"
+        },
+        {
+          "text": "Auscultate bowel sounds in all four quadrants before palpating",
+          "note": "Before you chart bowel sounds as absent, follow your facility's rule for how long to listen in each quadrant, which is often several minutes."
+        },
+        {
+          "text": "Lightly palpate for tenderness, firmness or masses, ending with any painful area"
+        },
+        {
+          "text": "Ask about last bowel movement, nausea, appetite and diet tolerance"
+        },
+        {
+          "text": "Note urine color, amount and any pain or trouble urinating"
+        },
+        {
+          "text": "If a urinary catheter is in place, check that it is secured and the bag hangs below the bladder"
+        }
+      ]
+    },
+    {
+      "title": "Musculoskeletal and Skin",
+      "items": [
+        {
+          "text": "Assess range of motion, muscle strength and gait if safe to walk"
+        },
+        {
+          "text": "Inspect skin color, temperature, moisture, turgor and intact areas"
+        },
+        {
+          "text": "Check pressure points such as the sacrum, heels and elbows for redness or breakdown",
+          "note": "Press on any red area. If it doesn't blanch, it may be an early pressure injury."
+        },
+        {
+          "text": "Score pressure injury risk with the Braden Scale",
+          "note": "Braden scores range from 6 to 23. A lower score means higher risk, and 18 or below is a common cutoff for starting prevention steps."
+        }
+      ]
+    },
+    {
+      "title": "Safety and Documentation",
+      "items": [
+        {
+          "text": "Complete a fall risk assessment with your facility's tool"
+        },
+        {
+          "text": "Inspect IV sites for redness, swelling, pain, leaking and the dressing date"
+        },
+        {
+          "text": "Check drains, tubes and wound dressings"
+        },
+        {
+          "text": "Make sure the bed is low and locked and the call light is within reach"
+        },
+        {
+          "text": "Document findings promptly and report abnormal or changed findings to the nurse or provider"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What order do you do a head-to-toe assessment in?",
+      "a": "Start with the general survey and vital signs, then neuro, HEENT and neck, respiratory, cardiovascular, abdomen, genitourinary, musculoskeletal and skin. Finish with pain, safety checks and documentation. Many schools teach a slightly different order, so follow the one your program grades."
+    },
+    {
+      "q": "Why is the abdomen assessed in a different order?",
+      "a": "For the abdomen, nurses inspect, auscultate, percuss and then palpate. Pressing on the abdomen before listening can change bowel sounds, so you listen first."
+    },
+    {
+      "q": "What does orientation x4 mean?",
+      "a": "The patient knows who they are, where they are, the date or time, and why they are there (the situation). If a patient knows only their name and location, you would chart them as oriented x2."
+    },
+    {
+      "q": "How long should a head-to-toe assessment take?",
+      "a": "With practice, a routine head-to-toe assessment on a stable adult often takes around 10 to 20 minutes. Students are usually slower at first. Speed comes from doing the steps in the same order every time."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/head-to-toe-assessment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/head-to-toe-assessment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Head-to-Toe Assessment Checklist by ChecklistForge (https://checklistforge.com/checklist/head-to-toe-assessment-checklist)",
+  "updated": "2026-10-18"
+}

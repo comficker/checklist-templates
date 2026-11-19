@@ -1,0 +1,185 @@
+{
+  "id": "employee-onboarding-checklist",
+  "name": "Employee Onboarding Checklist",
+  "description": "A complete onboarding program to guide a new hire from offer acceptance through their first 90 days.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "onboarding",
+    "hr",
+    "managers",
+    "new-hire"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Before the First Day",
+      "items": [
+        {
+          "text": "Send a warm welcome email with start date, time, and location"
+        },
+        {
+          "text": "Complete background checks and collect signed offer paperwork"
+        },
+        {
+          "text": "Order equipment and create system accounts in advance",
+          "note": "Ship gear early so it arrives before the start date."
+        },
+        {
+          "text": "Prepare the workspace, badge, and parking or access details"
+        },
+        {
+          "text": "Share a first-week agenda so the new hire knows what to expect"
+        },
+        {
+          "text": "Assign an onboarding buddy and notify the team of the new arrival"
+        }
+      ]
+    },
+    {
+      "title": "Day One Welcome",
+      "items": [
+        {
+          "text": "Greet the new hire and give a tour of the workspace"
+        },
+        {
+          "text": "Confirm equipment, logins, and access all work"
+        },
+        {
+          "text": "Review the day-one agenda and answer immediate questions"
+        },
+        {
+          "text": "Introduce the team, manager, and onboarding buddy"
+        },
+        {
+          "text": "Cover essential policies, safety, and where to get help"
+        },
+        {
+          "text": "Take the new hire to lunch or arrange a team welcome",
+          "note": "A shared meal eases first-day nerves."
+        }
+      ]
+    },
+    {
+      "title": "First Week Setup",
+      "items": [
+        {
+          "text": "Walk through core tools and grant remaining system access"
+        },
+        {
+          "text": "Explain team workflows, meetings, and communication norms"
+        },
+        {
+          "text": "Set up recurring one-on-ones with the manager"
+        },
+        {
+          "text": "Assign a small starter task to build early momentum"
+        },
+        {
+          "text": "Schedule introductions with key cross-team partners"
+        },
+        {
+          "text": "Confirm benefits enrollment and answer payroll questions"
+        }
+      ]
+    },
+    {
+      "title": "First 30 Days",
+      "items": [
+        {
+          "text": "Set clear role expectations and early goals together"
+        },
+        {
+          "text": "Assign first real projects with defined success criteria"
+        },
+        {
+          "text": "Provide role-specific training and reference materials"
+        },
+        {
+          "text": "Hold weekly check-ins to remove blockers and give feedback"
+        },
+        {
+          "text": "Introduce the new hire to company culture and values in practice"
+        },
+        {
+          "text": "Gather early feedback on the onboarding experience",
+          "note": "Fix gaps before they become habits."
+        }
+      ]
+    },
+    {
+      "title": "First 60 Days",
+      "items": [
+        {
+          "text": "Review progress against the first goals and adjust as needed"
+        },
+        {
+          "text": "Expand responsibilities as confidence and skills grow"
+        },
+        {
+          "text": "Deepen relationships across the wider organization"
+        },
+        {
+          "text": "Identify any skill gaps and schedule targeted training"
+        },
+        {
+          "text": "Encourage the new hire to contribute ideas in meetings"
+        },
+        {
+          "text": "Check in on workload, balance, and overall fit"
+        }
+      ]
+    },
+    {
+      "title": "First 90 Days and Review",
+      "items": [
+        {
+          "text": "Hold a 90-day review of accomplishments and growth areas"
+        },
+        {
+          "text": "Set goals for the next quarter with clear priorities"
+        },
+        {
+          "text": "Confirm the new hire understands their full role and impact"
+        },
+        {
+          "text": "Celebrate wins and recognize early contributions"
+        },
+        {
+          "text": "Collect final onboarding feedback to improve the program"
+        },
+        {
+          "text": "Transition the new hire fully into ongoing performance routines",
+          "note": "Onboarding ends; regular coaching continues."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an employee onboarding checklist?",
+      "a": "It is a structured plan that walks a new hire through pre-start prep, day one, the first week, and the first 90 days so nothing important is missed and the employee ramps up quickly."
+    },
+    {
+      "q": "How long should onboarding last?",
+      "a": "Effective onboarding runs well beyond the first day, often across the first 90 days. Spreading milestones over weeks gives the new hire time to learn the role, build relationships, and reach full productivity."
+    },
+    {
+      "q": "Who is responsible for onboarding?",
+      "a": "Onboarding is a shared effort. HR handles paperwork and policies, the hiring manager owns role training and goals, and a buddy or team supports day-to-day questions during the first weeks."
+    },
+    {
+      "q": "What is the difference between onboarding and orientation?",
+      "a": "Orientation is the first-day welcome event covering policies and introductions. Onboarding is the longer program that includes orientation plus training, goal setting, and check-ins over the first months."
+    },
+    {
+      "q": "Can I print this onboarding checklist?",
+      "a": "Yes. Download the printable PDF, assign an owner to each phase, and check off tasks from pre-start through the first 90 days to keep every new hire's start consistent."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/employee-onboarding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/employee-onboarding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Employee Onboarding Checklist by ChecklistForge (https://checklistforge.com/checklist/employee-onboarding-checklist)",
+  "updated": "2026-10-17"
+}

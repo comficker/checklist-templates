@@ -1,0 +1,174 @@
+{
+  "id": "excavation-checklist",
+  "name": "Excavation Checklist",
+  "description": "A trenching and excavation safety check covering protective systems, utilities and access.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "construction",
+    "excavation",
+    "trenching"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Planning and Utilities",
+      "items": [
+        {
+          "text": "Confirm underground utilities are located, marked and protected before digging."
+        },
+        {
+          "text": "Verify the utility locating service was contacted within the required window."
+        },
+        {
+          "text": "Identify overhead power lines and maintain safe clearance distances."
+        },
+        {
+          "text": "Review soil type and site conditions before selecting a protective system.",
+          "note": "Soil classification must be made by the competent person."
+        },
+        {
+          "text": "Confirm surface encumbrances and structures are supported or removed."
+        },
+        {
+          "text": "Check the weather forecast and plan for rain or freeze-thaw effects."
+        }
+      ]
+    },
+    {
+      "title": "Protective Systems",
+      "items": [
+        {
+          "text": "Confirm a protective system is in place for excavations five feet or deeper."
+        },
+        {
+          "text": "Verify sloping or benching matches the soil classification."
+        },
+        {
+          "text": "Check that shoring or shielding is installed and rated for the trench."
+        },
+        {
+          "text": "Confirm trench boxes extend high enough and are used correctly.",
+          "note": "Excavations over twenty feet deep require an engineered design."
+        },
+        {
+          "text": "Verify spoil piles are kept at least two feet from the trench edge."
+        }
+      ]
+    },
+    {
+      "title": "Competent Person and Inspection",
+      "items": [
+        {
+          "text": "Confirm a competent person is assigned and on site."
+        },
+        {
+          "text": "Verify daily inspections are completed before each shift."
+        },
+        {
+          "text": "Check that the excavation is re-inspected after rain, vibration or changes."
+        },
+        {
+          "text": "Confirm the competent person can stop work and order corrections."
+        },
+        {
+          "text": "Verify inspections and findings are documented."
+        }
+      ]
+    },
+    {
+      "title": "Access, Egress and Edge Protection",
+      "items": [
+        {
+          "text": "Confirm a ladder, ramp or steps is within twenty-five feet of workers."
+        },
+        {
+          "text": "Check that the means of egress is in the protected zone."
+        },
+        {
+          "text": "Verify barricades and warning signs are posted around the excavation."
+        },
+        {
+          "text": "Confirm edge protection for adjacent pedestrian and vehicle areas.",
+          "note": "Keep equipment and vehicles back from the trench edge."
+        },
+        {
+          "text": "Check that crossing points over the trench are guarded where used."
+        }
+      ]
+    },
+    {
+      "title": "Atmosphere and Water Hazards",
+      "items": [
+        {
+          "text": "Test the atmosphere where hazardous gases or low oxygen may exist."
+        },
+        {
+          "text": "Provide ventilation or controls if a hazardous atmosphere is present."
+        },
+        {
+          "text": "Confirm water accumulation is controlled with pumps and monitoring."
+        },
+        {
+          "text": "Verify workers do not enter where water control is inadequate.",
+          "note": "Water removal must be monitored by the competent person."
+        },
+        {
+          "text": "Check for hazardous atmospheres before re-entry after a break."
+        }
+      ]
+    },
+    {
+      "title": "Workers and Equipment",
+      "items": [
+        {
+          "text": "Confirm workers wear required PPE and high-visibility clothing."
+        },
+        {
+          "text": "Verify only essential personnel are in or near the excavation."
+        },
+        {
+          "text": "Check that mobile equipment is kept a safe distance from the edge."
+        },
+        {
+          "text": "Confirm a rescue and emergency plan is in place for the excavation."
+        },
+        {
+          "text": "Verify workers are trained on excavation hazards and procedures."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, engineering design, formal training or your employer's safety program; confirm requirements with a qualified or competent person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When is a protective system required in a trench?",
+      "a": "OSHA generally requires a protective system such as sloping, shoring or shielding for excavations five feet deep or more, and for shallower ones where a competent person sees a cave-in hazard. Trenches over twenty feet require an engineered design."
+    },
+    {
+      "q": "Who is the competent person on an excavation?",
+      "a": "A competent person is someone trained to identify cave-in and other hazards and authorized to take prompt corrective action. They must inspect the excavation daily, before each shift and after any change in conditions."
+    },
+    {
+      "q": "How do I keep workers safe from buried utilities?",
+      "a": "Contact the utility locating service before digging, confirm lines are marked, and dig carefully near marked services. Treat all located and unmarked utilities as live until confirmed otherwise."
+    },
+    {
+      "q": "How should workers get in and out of a deep trench?",
+      "a": "Provide a ladder, ramp or steps within twenty-five feet of any worker in a trench four feet deep or more. The means of egress must be in the protected area of the excavation."
+    },
+    {
+      "q": "Does this checklist replace OSHA rules or a competent person?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal training, engineering design, your employer's safety program, or a qualified or competent person. Always confirm the standards that apply to your work."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/excavation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/excavation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Excavation Checklist by ChecklistForge (https://checklistforge.com/checklist/excavation-checklist)",
+  "updated": "2026-10-17"
+}

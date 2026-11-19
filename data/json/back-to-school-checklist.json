@@ -1,0 +1,178 @@
+{
+  "id": "back-to-school-checklist",
+  "name": "Back to School Checklist",
+  "description": "A complete checklist to prepare students and families before the new school year begins.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "back-to-school",
+    "parents",
+    "students",
+    "school-year",
+    "routines"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Supplies and equipment",
+      "items": [
+        {
+          "text": "Find your school or teacher's required supply list for the grade."
+        },
+        {
+          "text": "Inventory supplies you already own before buying anything new."
+        },
+        {
+          "text": "Buy core writing and paper supplies such as pencils, pens and notebooks."
+        },
+        {
+          "text": "Choose a sturdy backpack and lunch bag that fit your child's size."
+        },
+        {
+          "text": "Label all supplies, clothing and devices with your child's name."
+        },
+        {
+          "text": "Pack a small supply kit to keep at home for homework."
+        }
+      ]
+    },
+    {
+      "title": "Paperwork and registration",
+      "items": [
+        {
+          "text": "Confirm your child is registered or re-enrolled for the year."
+        },
+        {
+          "text": "Complete and return all enrollment and emergency contact forms.",
+          "note": "Note any forms with firm deadlines before the first day."
+        },
+        {
+          "text": "Update your address, phone and email with the school office."
+        },
+        {
+          "text": "Set up the school's parent portal, app or communication account."
+        },
+        {
+          "text": "Review and sign any policy, media or field-trip consent forms."
+        },
+        {
+          "text": "Arrange transportation, bus route or carpool details."
+        }
+      ]
+    },
+    {
+      "title": "Health and wellness",
+      "items": [
+        {
+          "text": "Schedule any required physical, dental or eye exams."
+        },
+        {
+          "text": "Confirm immunizations are up to date and records are on file.",
+          "note": "Many schools require proof before attendance."
+        },
+        {
+          "text": "Refill and label any medications the school will need to store."
+        },
+        {
+          "text": "Complete a medical or allergy action plan if your child needs one."
+        },
+        {
+          "text": "Pack hand sanitizer, tissues and a water bottle."
+        }
+      ]
+    },
+    {
+      "title": "Clothing and personal items",
+      "items": [
+        {
+          "text": "Check what still fits and make a list of what to replace."
+        },
+        {
+          "text": "Buy school clothes, shoes and any required uniform pieces."
+        },
+        {
+          "text": "Prepare weather-appropriate outerwear for the first weeks."
+        },
+        {
+          "text": "Sort out gym, sports or activity clothing and footwear."
+        },
+        {
+          "text": "Set aside a complete first-day outfit in advance."
+        }
+      ]
+    },
+    {
+      "title": "Routines and readiness",
+      "items": [
+        {
+          "text": "Shift bedtime and wake time earlier over one to two weeks."
+        },
+        {
+          "text": "Practice the full morning routine on a trial run."
+        },
+        {
+          "text": "Set up a quiet, organized homework space at home."
+        },
+        {
+          "text": "Plan healthy breakfasts and a week of lunch ideas."
+        },
+        {
+          "text": "Create a family calendar for school dates and activities."
+        },
+        {
+          "text": "Talk with your child about expectations and any worries."
+        }
+      ]
+    },
+    {
+      "title": "Before the first day",
+      "items": [
+        {
+          "text": "Attend any orientation, open house or meet-the-teacher event."
+        },
+        {
+          "text": "Walk or drive the route to school and locate the classroom."
+        },
+        {
+          "text": "Pack the backpack the night before with everything needed."
+        },
+        {
+          "text": "Lay out clothes, shoes and the lunch plan for the morning."
+        },
+        {
+          "text": "Charge any required device and confirm logins work."
+        },
+        {
+          "text": "Confirm pickup, aftercare or transport plans for day one."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start back-to-school preparation?",
+      "a": "Begin about three to four weeks before the first day. That gives you time to shop for supplies during sales, schedule any health appointments, complete registration paperwork, and ease your child back into a school sleep schedule without a last-minute rush."
+    },
+    {
+      "q": "What paperwork do schools usually require?",
+      "a": "Most schools ask for proof of address, your child's immunization or health records, an emergency contact form, and any registration or enrollment documents. Check your school's website or office early, since some forms have firm deadlines before the year starts."
+    },
+    {
+      "q": "How do I help my child adjust to the new routine?",
+      "a": "Shift bedtimes and wake times earlier in 15-minute steps over a week or two, practice the morning routine, and talk through what the school day will look like. Predictability and a calm tone help children feel ready and confident."
+    },
+    {
+      "q": "How can I keep back-to-school costs down?",
+      "a": "Shop your home first and reuse last year's supplies, watch for tax-free or sale weeks, buy generic where quality is similar, and split bulk packs with other families. The supplies section lets you mark what you already have before you spend."
+    },
+    {
+      "q": "Is this back-to-school checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep on the fridge or share between parents and students, then tick off each task as the new school year approaches."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/back-to-school-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/back-to-school-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Back to School Checklist by ChecklistForge (https://checklistforge.com/checklist/back-to-school-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,180 @@
+{
+  "id": "pregnancy-nutrition-checklist",
+  "name": "Pregnancy Nutrition Checklist",
+  "description": "A pregnancy nutrition checklist to help you eat well and cover key nutrients while expecting.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "health",
+    "baby",
+    "nutrition",
+    "pregnancy"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Key nutrients to prioritize",
+      "items": [
+        {
+          "text": "Take your prenatal vitamin daily as directed for folic acid and other gaps.",
+          "note": "Folate supports your baby's early development; food sources include leafy greens, beans and fortified grains."
+        },
+        {
+          "text": "Include iron-rich foods such as lean meat, beans, lentils and spinach.",
+          "note": "Pair plant iron with vitamin C foods to help absorption."
+        },
+        {
+          "text": "Get calcium daily from milk, yogurt, cheese or fortified alternatives."
+        },
+        {
+          "text": "Add a protein source to each meal, such as eggs, poultry, fish, tofu or legumes."
+        },
+        {
+          "text": "Choose foods with omega-3s like DHA, such as low-mercury fish, per your provider."
+        },
+        {
+          "text": "Eat colorful fruits and vegetables for fiber, vitamins and antioxidants."
+        },
+        {
+          "text": "Include whole grains for steady energy and added fiber."
+        }
+      ]
+    },
+    {
+      "title": "Build balanced daily meals",
+      "items": [
+        {
+          "text": "Fill half your plate with vegetables and fruit at main meals."
+        },
+        {
+          "text": "Eat small, regular meals or snacks to steady energy and ease nausea."
+        },
+        {
+          "text": "Keep easy, healthy snacks on hand, such as nuts, yogurt or fruit."
+        },
+        {
+          "text": "Choose healthy fats like avocado, olive oil and nuts in moderation."
+        },
+        {
+          "text": "Limit added sugar and ultra-processed snacks."
+        },
+        {
+          "text": "Add a vitamin C food daily to support iron absorption."
+        }
+      ]
+    },
+    {
+      "title": "Foods to limit or avoid",
+      "items": [
+        {
+          "text": "Avoid alcohol completely throughout pregnancy."
+        },
+        {
+          "text": "Limit caffeine; ask your provider about a daily amount that suits you."
+        },
+        {
+          "text": "Skip high-mercury fish such as shark, swordfish, king mackerel and tilefish."
+        },
+        {
+          "text": "Avoid raw or undercooked meat, poultry, fish, shellfish and eggs."
+        },
+        {
+          "text": "Avoid unpasteurized milk, soft cheeses and juices."
+        },
+        {
+          "text": "Heat deli meats and hot dogs until steaming before eating."
+        },
+        {
+          "text": "Wash fruits and vegetables well and practice safe food handling."
+        }
+      ]
+    },
+    {
+      "title": "Hydration and habits",
+      "items": [
+        {
+          "text": "Sip water throughout the day and carry a refillable bottle."
+        },
+        {
+          "text": "Drink more fluids in hot weather or when active."
+        },
+        {
+          "text": "Check urine color; pale yellow generally signals good hydration."
+        },
+        {
+          "text": "Limit sugary drinks and choose water as your main beverage."
+        },
+        {
+          "text": "Eat fiber-rich foods and stay hydrated to help with constipation."
+        }
+      ]
+    },
+    {
+      "title": "Manage common challenges",
+      "items": [
+        {
+          "text": "For nausea, try bland foods like crackers and eat small amounts often."
+        },
+        {
+          "text": "If certain smells trigger nausea, favor cold or room-temperature foods."
+        },
+        {
+          "text": "For heartburn, eat smaller meals and avoid lying down right after eating."
+        },
+        {
+          "text": "Discuss any strong cravings or aversions with your provider."
+        },
+        {
+          "text": "Tell your provider if you cannot keep food or fluids down."
+        }
+      ]
+    },
+    {
+      "title": "Track with your provider",
+      "items": [
+        {
+          "text": "Bring nutrition questions to each prenatal appointment."
+        },
+        {
+          "text": "Ask whether you need extra iron, vitamin D or other support."
+        },
+        {
+          "text": "Review any food allergies or dietary restrictions with your provider."
+        },
+        {
+          "text": "Discuss healthy weight gain goals for your pregnancy."
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Always follow the guidance of your OB-GYN or midwife for your individual needs and any concerns."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the most important nutrients during pregnancy?",
+      "a": "Mainstream guidance highlights folate (folic acid), iron, calcium, protein, and omega-3s like DHA, along with adequate fluids. Your prenatal vitamin helps fill gaps, but food should do most of the work. Ask your OB-GYN or midwife what fits your needs."
+    },
+    {
+      "q": "What foods should I limit or avoid while pregnant?",
+      "a": "Common advice is to avoid raw or undercooked meat, fish and eggs, unpasteurized dairy and juices, deli meats unless heated, high-mercury fish, and to limit caffeine. Skip alcohol entirely. Confirm specifics with your provider, as recommendations can vary."
+    },
+    {
+      "q": "How much water should I drink during pregnancy?",
+      "a": "Pregnancy increases fluid needs, so sip water throughout the day and more in heat or with activity. Pale yellow urine is a general sign you are well hydrated. Your provider can give a target suited to you."
+    },
+    {
+      "q": "Do I really need to eat for two?",
+      "a": "No. Most pregnancies need only a modest calorie increase, mainly in the second and third trimesters. Focus on nutrient-dense foods rather than larger portions. Your OB-GYN or midwife can advise on healthy weight gain."
+    },
+    {
+      "q": "Can I download this pregnancy nutrition checklist as a PDF?",
+      "a": "Yes. You can print it for the fridge or download it as a PDF for your phone, so first-time moms have an easy reference while planning meals and shopping."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pregnancy-nutrition-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pregnancy-nutrition-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pregnancy Nutrition Checklist by ChecklistForge (https://checklistforge.com/checklist/pregnancy-nutrition-checklist)",
+  "updated": "2026-10-17"
+}

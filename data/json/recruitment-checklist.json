@@ -1,0 +1,187 @@
+{
+  "id": "recruitment-checklist",
+  "name": "Recruitment Checklist",
+  "description": "A recruiter's sourcing pipeline checklist covering posting, sourcing, screening, ATS, and metrics.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "hiring",
+    "recruiting",
+    "sourcing"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Set Up the Search",
+      "items": [
+        {
+          "text": "Confirm the role requirements and ideal candidate profile"
+        },
+        {
+          "text": "Agree on the timeline and target start date with the manager"
+        },
+        {
+          "text": "Define the salary range and key selling points"
+        },
+        {
+          "text": "Create the role and stages in your ATS"
+        },
+        {
+          "text": "Decide which sourcing channels to use",
+          "note": "Match channels to where this talent actually is."
+        },
+        {
+          "text": "Set target metrics for the pipeline"
+        }
+      ]
+    },
+    {
+      "title": "Write and Post the Job",
+      "items": [
+        {
+          "text": "Draft a compelling, accurate job posting"
+        },
+        {
+          "text": "Use inclusive language and clear requirements"
+        },
+        {
+          "text": "Add a strong employer pitch and benefits"
+        },
+        {
+          "text": "Publish to chosen job boards and the careers page"
+        },
+        {
+          "text": "Share the role with employees for referrals"
+        },
+        {
+          "text": "Track which channels each application comes from",
+          "note": "Source data tells you where to invest next."
+        }
+      ]
+    },
+    {
+      "title": "Source Candidates",
+      "items": [
+        {
+          "text": "Search talent platforms for matching profiles"
+        },
+        {
+          "text": "Reach out to promising passive candidates with personal messages"
+        },
+        {
+          "text": "Tap referrals, alumni, and past silver-medalist candidates"
+        },
+        {
+          "text": "Build a shortlist of sourced prospects in the ATS"
+        },
+        {
+          "text": "Follow up with interested candidates promptly"
+        },
+        {
+          "text": "Keep the top of the funnel full as roles progress",
+          "note": "A dry pipeline stalls the whole search."
+        }
+      ]
+    },
+    {
+      "title": "Screen Applicants",
+      "items": [
+        {
+          "text": "Review applications against the must-have criteria"
+        },
+        {
+          "text": "Run consistent phone or video screens"
+        },
+        {
+          "text": "Confirm experience, motivation, and salary expectations"
+        },
+        {
+          "text": "Assess availability and notice period"
+        },
+        {
+          "text": "Move qualified candidates to the next stage in the ATS"
+        },
+        {
+          "text": "Send respectful, timely rejections to others",
+          "note": "Every candidate is a potential future hire or referrer."
+        }
+      ]
+    },
+    {
+      "title": "Manage the ATS Pipeline",
+      "items": [
+        {
+          "text": "Keep every candidate's stage and status current"
+        },
+        {
+          "text": "Log notes, scorecards, and communications consistently"
+        },
+        {
+          "text": "Coordinate interview scheduling with managers and panels"
+        },
+        {
+          "text": "Nudge stalled candidates so none go cold"
+        },
+        {
+          "text": "Maintain compliant, complete candidate records",
+          "note": "Data handling varies; follow local laws and privacy rules."
+        },
+        {
+          "text": "Keep hiring managers updated on pipeline status"
+        }
+      ]
+    },
+    {
+      "title": "Track and Improve Metrics",
+      "items": [
+        {
+          "text": "Measure time to fill for each role"
+        },
+        {
+          "text": "Track conversion rates between pipeline stages"
+        },
+        {
+          "text": "Compare source of hire to find the best channels"
+        },
+        {
+          "text": "Monitor candidate response and offer acceptance rates"
+        },
+        {
+          "text": "Spot bottlenecks where candidates drop off"
+        },
+        {
+          "text": "Adjust sourcing and process based on the data",
+          "note": "Let metrics guide where you focus next."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a recruitment pipeline include?",
+      "a": "It spans the job posting, sourcing, screening, interviews, and offers, with candidates tracked in an ATS at each stage. A healthy pipeline keeps enough qualified candidates moving toward a hire."
+    },
+    {
+      "q": "How do recruiters source candidates?",
+      "a": "Through job boards, employee referrals, social platforms, talent communities, and direct outreach to passive candidates. A mix of channels keeps the top of the funnel full and diverse."
+    },
+    {
+      "q": "What recruitment metrics should I track?",
+      "a": "Time to fill, source of hire, pipeline conversion rates, candidate response rates, and offer acceptance. These numbers reveal bottlenecks and show which channels deliver the best candidates."
+    },
+    {
+      "q": "How is recruitment different from hiring?",
+      "a": "Recruitment is the recruiter's broad pipeline of sourcing and screening many candidates across roles. Hiring is a manager's end-to-end process for one specific role through to offer and onboarding."
+    },
+    {
+      "q": "Can I print this recruitment checklist?",
+      "a": "Yes. Download the printable PDF, work through each pipeline stage, and check items off as candidates progress to keep your sourcing organized and measurable."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/recruitment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/recruitment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Recruitment Checklist by ChecklistForge (https://checklistforge.com/checklist/recruitment-checklist)",
+  "updated": "2026-10-17"
+}

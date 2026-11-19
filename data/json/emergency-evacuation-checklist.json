@@ -1,0 +1,173 @@
+{
+  "id": "emergency-evacuation-checklist",
+  "name": "Emergency Evacuation Checklist",
+  "description": "An evacuation plan and drill check covering routes, roles, assembly and accountability.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "emergency-evacuation",
+    "emergency-plan",
+    "workplace-safety"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Plan and Procedures",
+      "items": [
+        {
+          "text": "Confirm a written emergency action plan exists and is current."
+        },
+        {
+          "text": "Verify the plan covers fire, and other relevant emergencies for the site."
+        },
+        {
+          "text": "Check that alarm signals and evacuation triggers are clearly defined.",
+          "note": "Staff must recognize the difference between alarm signals."
+        },
+        {
+          "text": "Confirm the chain of command and decision-makers are identified."
+        },
+        {
+          "text": "Verify the plan names who contacts emergency services."
+        },
+        {
+          "text": "Confirm the plan is reviewed after drills and any changes."
+        }
+      ]
+    },
+    {
+      "title": "Routes and Exits",
+      "items": [
+        {
+          "text": "Confirm primary and alternate escape routes are identified."
+        },
+        {
+          "text": "Check that routes and exits are clear, unobstructed and unlocked."
+        },
+        {
+          "text": "Verify exit and directional signage is visible and illuminated."
+        },
+        {
+          "text": "Test emergency lighting along all escape routes.",
+          "note": "Every route should have a clearly marked alternative."
+        },
+        {
+          "text": "Confirm evacuation maps are posted and match the current layout."
+        }
+      ]
+    },
+    {
+      "title": "Roles and Wardens",
+      "items": [
+        {
+          "text": "Confirm floor wardens and marshals are appointed for each area."
+        },
+        {
+          "text": "Verify wardens are trained in their duties and routes."
+        },
+        {
+          "text": "Check that deputies cover wardens who are absent."
+        },
+        {
+          "text": "Confirm wardens have high-visibility vests or identifiers."
+        },
+        {
+          "text": "Verify wardens know how to sweep their assigned areas safely."
+        }
+      ]
+    },
+    {
+      "title": "Assembly and Accountability",
+      "items": [
+        {
+          "text": "Confirm a safe assembly point is designated and signed."
+        },
+        {
+          "text": "Verify the assembly point is clear of the building and hazards."
+        },
+        {
+          "text": "Check that a current staff and visitor list is available for headcount."
+        },
+        {
+          "text": "Confirm a person is assigned to take and report the headcount.",
+          "note": "Report missing people to responders; do not re-enter the building."
+        },
+        {
+          "text": "Verify a process exists for late arrivals and shift changes."
+        }
+      ]
+    },
+    {
+      "title": "Special Needs and Visitors",
+      "items": [
+        {
+          "text": "Identify anyone who may need assistance to evacuate."
+        },
+        {
+          "text": "Prepare personal emergency evacuation plans where needed."
+        },
+        {
+          "text": "Assign trained helpers and confirm refuge areas or devices."
+        },
+        {
+          "text": "Confirm visitors and contractors are included in the plan."
+        },
+        {
+          "text": "Verify accessible routes and signage for those who need them."
+        }
+      ]
+    },
+    {
+      "title": "Drills and Review",
+      "items": [
+        {
+          "text": "Schedule and conduct evacuation drills at the required frequency."
+        },
+        {
+          "text": "Record drill date, attendance and evacuation time."
+        },
+        {
+          "text": "Debrief to identify confusion, bottlenecks or blocked routes."
+        },
+        {
+          "text": "Update the plan and retrain based on drill findings."
+        },
+        {
+          "text": "Confirm new employees are briefed on the plan during onboarding."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, local codes, formal training or your employer's emergency action plan; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should evacuation drills be held?",
+      "a": "Many workplaces run drills at least annually, with higher-risk sites doing them more often. Confirm the frequency required by your local code and your emergency action plan, and debrief each drill to find improvements."
+    },
+    {
+      "q": "What is a floor warden's role in an evacuation?",
+      "a": "Wardens or marshals guide people to the nearest safe exit, check their assigned areas, assist anyone who needs help, and report to the person doing the headcount at the assembly point so accountability is complete."
+    },
+    {
+      "q": "How do you account for everyone after evacuating?",
+      "a": "Use an up-to-date list of staff and visitors, a sign-in system, and a designated person at the assembly point to confirm a headcount. Report anyone unaccounted for to emergency responders rather than re-entering the building."
+    },
+    {
+      "q": "How should evacuation plans handle people with disabilities?",
+      "a": "Identify anyone who may need assistance in advance, prepare personal emergency evacuation plans, assign trained helpers, and provide refuge areas or evacuation devices where needed. Never assume standard routes work for everyone."
+    },
+    {
+      "q": "Does this checklist replace official emergency planning rules?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, local fire and building codes, formal training, your employer's emergency action plan, or a qualified person. Always confirm the requirements for your premises."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/emergency-evacuation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/emergency-evacuation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Emergency Evacuation Checklist by ChecklistForge (https://checklistforge.com/checklist/emergency-evacuation-checklist)",
+  "updated": "2026-10-17"
+}

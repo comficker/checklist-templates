@@ -1,0 +1,176 @@
+{
+  "id": "dog-first-aid-checklist",
+  "name": "Dog First Aid Checklist",
+  "description": "A dog-specific checklist to help owners respond to choking, bleeding, heatstroke, and paw injuries and know when to call the vet.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "emergency",
+    "health",
+    "first-aid",
+    "pets",
+    "dogs"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Be Prepared",
+      "items": [
+        {
+          "text": "Save your vet and nearest emergency hospital numbers"
+        },
+        {
+          "text": "Keep a pet poison helpline number handy"
+        },
+        {
+          "text": "Stock and check a dog first aid kit"
+        },
+        {
+          "text": "Learn your dog's normal breathing and gum color"
+        },
+        {
+          "text": "Keep a leash, towel, and carrier accessible",
+          "note": "Program emergency numbers into your phone in advance"
+        }
+      ]
+    },
+    {
+      "title": "Choking",
+      "items": [
+        {
+          "text": "Look for pawing at the mouth, gagging, or panic"
+        },
+        {
+          "text": "Open the mouth and remove a visible object if safe"
+        },
+        {
+          "text": "Avoid pushing an object deeper down the throat"
+        },
+        {
+          "text": "Keep your dog as calm as you can"
+        },
+        {
+          "text": "Get to emergency care if breathing is blocked",
+          "note": "Take care, as a panicked dog may bite"
+        }
+      ]
+    },
+    {
+      "title": "Bleeding & Wounds",
+      "items": [
+        {
+          "text": "Apply firm, steady pressure with a clean cloth"
+        },
+        {
+          "text": "Hold pressure rather than lifting to look"
+        },
+        {
+          "text": "Cover the wound loosely once bleeding slows"
+        },
+        {
+          "text": "Keep your dog calm and limit movement"
+        },
+        {
+          "text": "Go to a vet for deep or heavy bleeding",
+          "note": "Heavy or spurting bleeding is an emergency, so go at once"
+        }
+      ]
+    },
+    {
+      "title": "Heatstroke",
+      "items": [
+        {
+          "text": "Watch for heavy panting, drooling, or weakness"
+        },
+        {
+          "text": "Move your dog to shade or air conditioning"
+        },
+        {
+          "text": "Wet the coat with cool, not ice-cold, water"
+        },
+        {
+          "text": "Offer small sips of water if your dog is alert"
+        },
+        {
+          "text": "Get to a vet immediately, even if cooling helps"
+        }
+      ]
+    },
+    {
+      "title": "Paw & Leg Injuries",
+      "items": [
+        {
+          "text": "Check pads for cuts, splinters, or burns"
+        },
+        {
+          "text": "Rinse a minor cut and apply gentle pressure if bleeding"
+        },
+        {
+          "text": "Avoid moving a leg that may be broken"
+        },
+        {
+          "text": "Limit walking and keep your dog still"
+        },
+        {
+          "text": "See a vet for limping, swelling, or deep wounds"
+        }
+      ]
+    },
+    {
+      "title": "Transport to the Vet",
+      "items": [
+        {
+          "text": "Support the body and avoid twisting an injured area"
+        },
+        {
+          "text": "Use a board or blanket as a stretcher for a large dog"
+        },
+        {
+          "text": "Keep your dog warm and calm during the trip"
+        },
+        {
+          "text": "Call ahead so the clinic can prepare"
+        },
+        {
+          "text": "Bring any packaging, medicines, or samples"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; first aid does not replace professional care, so always consult a licensed veterinarian",
+          "note": "In any emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I know if my dog is choking?",
+      "a": "Signs include pawing at the mouth, gagging, drooling, panic, or trouble breathing. Look inside the mouth and remove a visible object only if you can do so safely, then get emergency care right away."
+    },
+    {
+      "q": "What should I do if my dog is bleeding?",
+      "a": "Apply firm, steady pressure with a clean cloth and keep it in place rather than checking repeatedly. Keep your dog calm and limit movement. Heavy or spurting bleeding is an emergency, so go to a vet at once."
+    },
+    {
+      "q": "How do I recognize heatstroke in a dog?",
+      "a": "Watch for heavy panting, drooling, weakness, vomiting, bright red gums, or collapse. Move your dog to a cool, shaded place, offer small sips of water, and contact a vet immediately, as heatstroke is life-threatening."
+    },
+    {
+      "q": "When should I call the vet for my dog?",
+      "a": "Call right away for breathing trouble, severe bleeding, collapse, seizures, suspected poisoning, bloating, or major trauma. When unsure, it is always safer to call your vet or an emergency animal hospital."
+    },
+    {
+      "q": "Is this dog first aid checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep it with your dog's emergency kit, and review it so the steps are familiar before you need them."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-first-aid-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-first-aid-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog First Aid Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-first-aid-checklist)",
+  "updated": "2026-10-17"
+}

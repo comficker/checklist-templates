@@ -1,0 +1,171 @@
+{
+  "id": "daily-work-checklist",
+  "name": "Daily Work Checklist",
+  "description": "A repeatable daily routine to plan, focus, and finish your workday well.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "routine",
+    "productivity",
+    "project-management",
+    "team"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Start the Day",
+      "items": [
+        {
+          "text": "Review your calendar and meetings for the day"
+        },
+        {
+          "text": "Check messages briefly without diving into replies"
+        },
+        {
+          "text": "Update your task list with anything new and urgent"
+        },
+        {
+          "text": "Tidy your workspace so it is ready for focus",
+          "note": "A clear desk makes it easier to start."
+        },
+        {
+          "text": "Set a short intention for what a good day looks like"
+        }
+      ]
+    },
+    {
+      "title": "Plan and Prioritize",
+      "items": [
+        {
+          "text": "Pick your one to three most important tasks"
+        },
+        {
+          "text": "Estimate how long each priority task will take"
+        },
+        {
+          "text": "Schedule those tasks into specific time slots"
+        },
+        {
+          "text": "Move low-value tasks to a later or batched block"
+        },
+        {
+          "text": "Decide what you will say no to today",
+          "note": "Protecting your time is part of planning it."
+        }
+      ]
+    },
+    {
+      "title": "Protect Focus Blocks",
+      "items": [
+        {
+          "text": "Block 60 to 90 minutes for your top task"
+        },
+        {
+          "text": "Silence notifications and close unrelated tabs"
+        },
+        {
+          "text": "Work on a single task until the block ends"
+        },
+        {
+          "text": "Take a short break between focus blocks",
+          "note": "A few minutes away keeps your energy up."
+        },
+        {
+          "text": "Note where you stopped so you can resume fast"
+        }
+      ]
+    },
+    {
+      "title": "Handle Communication",
+      "items": [
+        {
+          "text": "Batch email and messages into set check-in times"
+        },
+        {
+          "text": "Reply to anything time-sensitive promptly"
+        },
+        {
+          "text": "Keep responses short and action-focused"
+        },
+        {
+          "text": "Flag or defer messages that need real work"
+        },
+        {
+          "text": "Update teammates on anything they're waiting for"
+        }
+      ]
+    },
+    {
+      "title": "Manage Energy and Breaks",
+      "items": [
+        {
+          "text": "Step away from the screen for a real lunch break"
+        },
+        {
+          "text": "Move or stretch at least once midday"
+        },
+        {
+          "text": "Drink water and avoid working through fatigue"
+        },
+        {
+          "text": "Switch to lighter tasks during low-energy hours",
+          "note": "Match easy work to your natural slumps."
+        },
+        {
+          "text": "Pause before reacting to anything stressful"
+        }
+      ]
+    },
+    {
+      "title": "Wrap Up the Day",
+      "items": [
+        {
+          "text": "Review what you finished against your top tasks"
+        },
+        {
+          "text": "Update task statuses and close completed items"
+        },
+        {
+          "text": "Capture loose ends and unfinished work"
+        },
+        {
+          "text": "Choose tomorrow's top one to three priorities"
+        },
+        {
+          "text": "Clear your desk and inbox to a calm state",
+          "note": "Ending tidy makes tomorrow's start easier."
+        },
+        {
+          "text": "Log off and step away to recharge"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a daily work checklist?",
+      "a": "It is a repeatable routine for the workday: plan, prioritize, focus, communicate, and wrap up. Following it helps you finish important work instead of just reacting to whatever comes in."
+    },
+    {
+      "q": "How do I prioritize my daily tasks?",
+      "a": "Pick the one to three tasks that matter most and do them first, ideally during your peak focus hours. Tackle urgent-but-minor items later so big work doesn't get squeezed out."
+    },
+    {
+      "q": "What is a focus block?",
+      "a": "A set period, often 60 to 90 minutes, where you work on one task with notifications off. Focus blocks protect deep work from the constant pull of messages and meetings."
+    },
+    {
+      "q": "Why is an end-of-day wrap-up useful?",
+      "a": "It lets you review what you finished, tidy loose ends, and plan tomorrow's top tasks. Closing the day cleanly reduces stress and gives you a running start the next morning."
+    },
+    {
+      "q": "Can I print this daily work checklist?",
+      "a": "Yes. Download the printable PDF, keep it at your desk, and check off each step from your morning plan to your end-of-day wrap-up."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/daily-work-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/daily-work-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Daily Work Checklist by ChecklistForge (https://checklistforge.com/checklist/daily-work-checklist)",
+  "updated": "2026-10-17"
+}

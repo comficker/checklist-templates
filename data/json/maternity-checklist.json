@@ -1,0 +1,209 @@
+{
+  "id": "maternity-checklist",
+  "name": "Maternity Checklist",
+  "description": "A practical guide to preparing for maternity leave and the weeks around birth, from work handover to postpartum recovery.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "planning",
+    "pregnancy",
+    "postpartum",
+    "maternity-leave"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Work Handover",
+      "items": [
+        {
+          "text": "Notify your manager and HR of your leave dates and plan."
+        },
+        {
+          "text": "Document ongoing projects, deadlines, and key contacts in one place."
+        },
+        {
+          "text": "Identify who will cover each of your responsibilities."
+        },
+        {
+          "text": "Schedule handover meetings to brief your team and coverage."
+        },
+        {
+          "text": "Set up an out-of-office message and update shared calendars.",
+          "note": "Decide in advance whether you will be reachable, and how."
+        },
+        {
+          "text": "Tidy your files and access so colleagues can find what they need."
+        }
+      ]
+    },
+    {
+      "title": "Finances and Insurance",
+      "items": [
+        {
+          "text": "Confirm how your maternity leave is paid and for how long."
+        },
+        {
+          "text": "Complete any leave or short-term disability paperwork."
+        },
+        {
+          "text": "Build a budget for the months around birth and early leave."
+        },
+        {
+          "text": "Set aside a small savings buffer for unexpected costs."
+        },
+        {
+          "text": "Review your health insurance coverage and provider network."
+        },
+        {
+          "text": "Note the window to add your baby to your insurance plan.",
+          "note": "These enrollment deadlines are often short, so mark them early."
+        }
+      ]
+    },
+    {
+      "title": "Health and Appointments",
+      "items": [
+        {
+          "text": "Keep up with scheduled prenatal appointments and checkups."
+        },
+        {
+          "text": "Confirm your birth plan and preferences with your provider."
+        },
+        {
+          "text": "Pre-register at your chosen hospital or birth center if possible."
+        },
+        {
+          "text": "Gather questions for your provider as they come up."
+        },
+        {
+          "text": "Arrange any classes, such as childbirth or infant care."
+        },
+        {
+          "text": "Save your provider and hospital contact numbers in your phone."
+        }
+      ]
+    },
+    {
+      "title": "Prepare Your Home",
+      "items": [
+        {
+          "text": "Set up a safe sleep space and the basics for your baby."
+        },
+        {
+          "text": "Stock the kitchen with easy meals and pantry staples."
+        },
+        {
+          "text": "Prepare and freeze a few homemade meals ahead of time."
+        },
+        {
+          "text": "Do a deep clean and tackle lingering household tasks early."
+        },
+        {
+          "text": "Set up a comfortable recovery and feeding spot at home.",
+          "note": "Keep water, snacks, and chargers within easy reach there."
+        },
+        {
+          "text": "Restock everyday supplies so you are not running errands later."
+        }
+      ]
+    },
+    {
+      "title": "Hospital Bag",
+      "items": [
+        {
+          "text": "Pack comfortable clothing, robe, and slippers for your stay."
+        },
+        {
+          "text": "Add toiletries, lip balm, and any personal comfort items."
+        },
+        {
+          "text": "Bring identification, insurance details, and your birth plan."
+        },
+        {
+          "text": "Include phone chargers and a small snack stash."
+        },
+        {
+          "text": "Pack a going-home outfit for you and for your baby."
+        },
+        {
+          "text": "Have the installed car seat ready for the ride home.",
+          "note": "Set the bag by the door a few weeks before your due date."
+        }
+      ]
+    },
+    {
+      "title": "Postpartum Support",
+      "items": [
+        {
+          "text": "Line up help with meals, chores, and errands for the first weeks."
+        },
+        {
+          "text": "Stock recovery supplies and comfortable postpartum clothing."
+        },
+        {
+          "text": "Set a plan and gentle boundaries for early visitors."
+        },
+        {
+          "text": "Save contacts for support lines and new-parent groups."
+        },
+        {
+          "text": "Plan check-ins for your own physical and emotional recovery."
+        },
+        {
+          "text": "Know the warning signs to discuss with your provider.",
+          "note": "Reach out promptly if anything feels off, day or night."
+        }
+      ]
+    },
+    {
+      "title": "Final Preparations",
+      "items": [
+        {
+          "text": "Confirm your transportation plan to the hospital or birth center."
+        },
+        {
+          "text": "Share your due-date plan with key family and friends."
+        },
+        {
+          "text": "Arrange care for pets or other children during the birth."
+        },
+        {
+          "text": "Charge devices and keep important phone numbers accessible."
+        },
+        {
+          "text": "Review the route and parking at your delivery location."
+        },
+        {
+          "text": "Take time to rest and prepare yourself mentally for birth."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start preparing for maternity leave?",
+      "a": "Begin a couple of months before your due date. Start with the work handover and any leave paperwork, since approvals can take time. Use the earlier weeks for finances and insurance, then handle home prep and your hospital bag closer to the end. Confirm exact timelines with your employer's policy."
+    },
+    {
+      "q": "What should I include in a work handover?",
+      "a": "Document your ongoing projects, key contacts, deadlines, and routine tasks in one place. Note who will cover each responsibility and how to reach you for emergencies, if at all. Set up an out-of-office message and brief your team early so the transition feels smooth and nothing falls through the cracks."
+    },
+    {
+      "q": "What goes in a hospital bag?",
+      "a": "Pack comfortable clothes, toiletries, important documents, phone chargers, and a going-home outfit for your baby. Include an infant car seat ready for the trip home. Have the bag ready a few weeks before your due date, and ask your provider or hospital for any specific items they recommend bringing."
+    },
+    {
+      "q": "How do I prepare financially for maternity leave?",
+      "a": "Review your pay during leave, build a small buffer in savings, and map out a realistic budget for the months ahead. Confirm how your leave is paid and for how long. Check your health insurance coverage and the window for adding your baby, since these deadlines are often short and easy to miss."
+    },
+    {
+      "q": "How can I prepare for postpartum recovery?",
+      "a": "Line up help with meals, chores, and errands for the first weeks. Stock recovery supplies, comfortable clothing, and any items your provider suggests. Plan for rest and limit early visitors. Know the warning signs to watch for and keep your provider's contact details handy in case you have concerns."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/maternity-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/maternity-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Maternity Checklist by ChecklistForge (https://checklistforge.com/checklist/maternity-checklist)",
+  "updated": "2026-10-17"
+}

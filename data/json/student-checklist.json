@@ -1,0 +1,174 @@
+{
+  "id": "student-checklist",
+  "name": "Student Checklist",
+  "description": "A student checklist of daily and term essentials to stay organized and on top of school.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "organization",
+    "students",
+    "college",
+    "study",
+    "school"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Start of term setup",
+      "items": [
+        {
+          "text": "Collect the syllabus or course outline for every class."
+        },
+        {
+          "text": "Add all exam dates, project deadlines and breaks to one calendar."
+        },
+        {
+          "text": "Buy or borrow required textbooks and materials for each course."
+        },
+        {
+          "text": "Set up a binder, folder or digital notebook per subject."
+        },
+        {
+          "text": "Save teacher and classmate contact details or class group chats."
+        },
+        {
+          "text": "Note office hours, library hours and tutoring options."
+        }
+      ]
+    },
+    {
+      "title": "Daily school essentials",
+      "items": [
+        {
+          "text": "Check today's class schedule and what is due.",
+          "note": "Glance at your planner the night before too."
+        },
+        {
+          "text": "Pack textbooks, notebooks and any homework to hand in."
+        },
+        {
+          "text": "Bring pens, pencils, charger and calculator if needed."
+        },
+        {
+          "text": "Refill your water bottle and pack a snack or lunch."
+        },
+        {
+          "text": "Add any new assignments from today into your planner."
+        },
+        {
+          "text": "Charge your laptop and phone the night before."
+        }
+      ]
+    },
+    {
+      "title": "Assignments and deadlines",
+      "items": [
+        {
+          "text": "Write down every assignment the moment it is set."
+        },
+        {
+          "text": "Note the due date and an earlier personal start date."
+        },
+        {
+          "text": "Break large projects into smaller steps with mini-deadlines."
+        },
+        {
+          "text": "Check off tasks only once they are submitted."
+        },
+        {
+          "text": "Confirm how and where each assignment must be turned in."
+        },
+        {
+          "text": "Keep copies or screenshots of submitted work as proof."
+        }
+      ]
+    },
+    {
+      "title": "Study and review habits",
+      "items": [
+        {
+          "text": "Review the day's notes for 10 to 15 minutes each evening."
+        },
+        {
+          "text": "Schedule a regular weekly study block for each subject."
+        },
+        {
+          "text": "Use active recall and practice questions, not just rereading."
+        },
+        {
+          "text": "Ask questions in class or at office hours when stuck."
+        },
+        {
+          "text": "Plan revision well before exams instead of cramming."
+        }
+      ]
+    },
+    {
+      "title": "Organization and tools",
+      "items": [
+        {
+          "text": "Keep one planner or app as your single source of truth."
+        },
+        {
+          "text": "File loose handouts and graded work where they belong."
+        },
+        {
+          "text": "Back up digital notes and assignments to the cloud."
+        },
+        {
+          "text": "Tidy your bag and desk at the end of each week."
+        },
+        {
+          "text": "Replace pens, paper and supplies before they run out."
+        }
+      ]
+    },
+    {
+      "title": "Health and self-care",
+      "items": [
+        {
+          "text": "Aim for a consistent bedtime and enough sleep on school nights."
+        },
+        {
+          "text": "Eat regular meals and keep healthy snacks on hand."
+        },
+        {
+          "text": "Build in short breaks during long study sessions."
+        },
+        {
+          "text": "Get some movement or fresh air every day."
+        },
+        {
+          "text": "Reach out to a friend, family member or counselor if overwhelmed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be on a student checklist?",
+      "a": "A student checklist should cover daily supplies and your planner, a way to capture every assignment and deadline, study and review habits, plus self-care basics like sleep, meals and breaks so you stay organized all term."
+    },
+    {
+      "q": "How is this different from a study checklist?",
+      "a": "This student checklist covers your whole school life — supplies, deadlines, routines and self-care. A study checklist focuses only on running one effective study session."
+    },
+    {
+      "q": "Is this checklist good for high school and college?",
+      "a": "Yes. The same essentials apply whether you are in high school or college; college students simply add more independent planning around lectures, syllabi and longer projects."
+    },
+    {
+      "q": "How often should I use a student checklist?",
+      "a": "Use the daily section every school day and review the start-of-term and weekly sections each Sunday and at the beginning of every new semester."
+    },
+    {
+      "q": "Can I download this student checklist as a PDF?",
+      "a": "Yes. You can print it for your binder or download it as a PDF to your phone and check it before you leave for class each day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/student-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/student-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Student Checklist by ChecklistForge (https://checklistforge.com/checklist/student-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "hurricane-checklist",
+  "name": "Hurricane Checklist",
+  "description": "A before, during and after hurricane checklist to protect your home, supplies and family.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "emergency",
+    "preparedness",
+    "family",
+    "hurricane"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Before: Prepare Your Home",
+      "items": [
+        {
+          "text": "Install storm shutters or board up windows with plywood"
+        },
+        {
+          "text": "Bring in or secure outdoor furniture, grills and loose items"
+        },
+        {
+          "text": "Clear gutters, drains and downspouts of debris"
+        },
+        {
+          "text": "Trim trees and remove dead branches near the house"
+        },
+        {
+          "text": "Move valuables and electronics to higher floors",
+          "note": "Helps protect them if flooding reaches the lower level"
+        },
+        {
+          "text": "Know how to shut off water, gas and electricity"
+        }
+      ]
+    },
+    {
+      "title": "Before: Stock Supplies",
+      "items": [
+        {
+          "text": "Store one gallon of water per person per day for several days"
+        },
+        {
+          "text": "Keep a three-day or longer supply of non-perishable food"
+        },
+        {
+          "text": "Fill prescriptions and stock a first aid kit"
+        },
+        {
+          "text": "Charge phones and power banks and gather flashlights"
+        },
+        {
+          "text": "Get cash in small bills in case card systems are down"
+        },
+        {
+          "text": "Fill bathtubs and containers with water for cleaning and flushing"
+        }
+      ]
+    },
+    {
+      "title": "Before: Plan to Evacuate",
+      "items": [
+        {
+          "text": "Know your evacuation zone and at least two routes out"
+        },
+        {
+          "text": "Fuel your vehicles and check tires before roads fill up"
+        },
+        {
+          "text": "Pack a go-bag for each person, plus pets and medications"
+        },
+        {
+          "text": "Identify pet-friendly shelters or lodging in advance"
+        },
+        {
+          "text": "Leave early if an evacuation order is issued"
+        }
+      ]
+    },
+    {
+      "title": "During: Stay Safe Indoors",
+      "items": [
+        {
+          "text": "Stay inside, away from windows, skylights and glass doors"
+        },
+        {
+          "text": "Shelter in an interior room on the lowest safe floor"
+        },
+        {
+          "text": "Keep a battery or hand-crank radio on for official updates"
+        },
+        {
+          "text": "Do not go outside during the calm eye of the storm",
+          "note": "Dangerous winds resume suddenly from the opposite direction"
+        },
+        {
+          "text": "Turn off propane and unplug appliances if flooding nears"
+        },
+        {
+          "text": "Avoid using candles; use flashlights to prevent fires"
+        }
+      ]
+    },
+    {
+      "title": "After: Assess Safely",
+      "items": [
+        {
+          "text": "Wait for the official all-clear before going outside"
+        },
+        {
+          "text": "Stay away from downed power lines and report them"
+        },
+        {
+          "text": "Never drive or walk through floodwater"
+        },
+        {
+          "text": "Check for gas leaks, structural damage and contaminated water"
+        },
+        {
+          "text": "Use generators only outdoors, far from windows and doors"
+        },
+        {
+          "text": "Document damage with photos and contact your insurer"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start preparing for a hurricane?",
+      "a": "Begin as soon as a hurricane watch is issued, typically about 48 hours before tropical-storm conditions. Early action lets you buy supplies, fuel vehicles and secure your home while stores are stocked and roads are clear."
+    },
+    {
+      "q": "How much water and food should I store for a hurricane?",
+      "a": "Store at least one gallon of water per person per day and a three-day supply of non-perishable food, per Ready.gov and FEMA. Aim for a week's worth, since utilities can stay out for days after a major storm."
+    },
+    {
+      "q": "Should I evacuate or stay home during a hurricane?",
+      "a": "Always follow local evacuation orders. If officials tell you to leave, leave early using your planned route. If you can stay, shelter in an interior room away from windows on the lowest safe floor above flood level."
+    },
+    {
+      "q": "What should I do after a hurricane passes?",
+      "a": "Wait for the official all-clear before going out. Watch for downed power lines, gas leaks and flooded roads, never drive through standing water, and document any damage with photos before cleanup."
+    },
+    {
+      "q": "Is this hurricane checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep it with your emergency kit, and check off each task as the storm approaches and passes."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hurricane-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hurricane-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hurricane Checklist by ChecklistForge (https://checklistforge.com/checklist/hurricane-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,174 @@
+{
+  "id": "fire-safety-checklist",
+  "name": "Fire Safety Checklist",
+  "description": "A workplace fire prevention and readiness check covering extinguishers, exits, alarms and hazards.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "workplace-safety",
+    "fire-safety",
+    "fire-prevention"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Fire Extinguishers",
+      "items": [
+        {
+          "text": "Confirm extinguishers are present, charged and within their service date."
+        },
+        {
+          "text": "Check the extinguisher type matches the hazards in each area."
+        },
+        {
+          "text": "Verify extinguishers are mounted, accessible and clearly signed.",
+          "note": "Keep clear access to every extinguisher at all times."
+        },
+        {
+          "text": "Confirm monthly visual checks and annual maintenance are recorded."
+        },
+        {
+          "text": "Check that designated staff are trained if extinguisher use is expected."
+        }
+      ]
+    },
+    {
+      "title": "Exits and Escape Routes",
+      "items": [
+        {
+          "text": "Walk every escape route and confirm it is clear and unobstructed."
+        },
+        {
+          "text": "Check exit doors open easily and are never locked while occupied."
+        },
+        {
+          "text": "Confirm exit and directional signs are visible and illuminated."
+        },
+        {
+          "text": "Test emergency and backup lighting along escape routes.",
+          "note": "Report any failed or flickering emergency light immediately."
+        },
+        {
+          "text": "Verify at least two separate means of escape where required."
+        },
+        {
+          "text": "Confirm assembly point signs are posted and known to staff."
+        }
+      ]
+    },
+    {
+      "title": "Alarms and Detection",
+      "items": [
+        {
+          "text": "Test smoke and heat detectors and confirm they are working."
+        },
+        {
+          "text": "Verify the fire alarm system is tested and audible throughout."
+        },
+        {
+          "text": "Confirm manual call points are accessible and unobstructed."
+        },
+        {
+          "text": "Check that detection covers all required areas including storerooms."
+        },
+        {
+          "text": "Verify alarm monitoring and notification arrangements are in place."
+        }
+      ]
+    },
+    {
+      "title": "Housekeeping and Combustibles",
+      "items": [
+        {
+          "text": "Remove accumulated combustible waste, paper and packaging."
+        },
+        {
+          "text": "Confirm flammable liquids are stored in approved containers and cabinets."
+        },
+        {
+          "text": "Keep combustibles away from heat sources and ignition points.",
+          "note": "Store flammables away from exits and walkways."
+        },
+        {
+          "text": "Verify waste is removed regularly and bins are not overflowing."
+        },
+        {
+          "text": "Confirm aisles, exits and equipment access are kept clear."
+        }
+      ]
+    },
+    {
+      "title": "Electrical and Ignition Sources",
+      "items": [
+        {
+          "text": "Inspect cables, plugs and sockets for damage or overheating."
+        },
+        {
+          "text": "Confirm circuits and extension leads are not overloaded."
+        },
+        {
+          "text": "Check that electrical panels are accessible and unobstructed."
+        },
+        {
+          "text": "Verify heaters and hot work areas follow safe procedures.",
+          "note": "Hot work should follow a permit-to-work system where required."
+        },
+        {
+          "text": "Confirm smoking is restricted to designated, safe areas."
+        }
+      ]
+    },
+    {
+      "title": "Prevention Plan and Drills",
+      "items": [
+        {
+          "text": "Confirm a fire prevention plan is documented and current."
+        },
+        {
+          "text": "Check that fire wardens or marshals are appointed and trained."
+        },
+        {
+          "text": "Verify a recent fire drill has been carried out and logged."
+        },
+        {
+          "text": "Confirm employees know the alarm signal, routes and assembly point."
+        },
+        {
+          "text": "Review arrangements for visitors and anyone needing assistance to evacuate."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, local fire codes, formal training or your employer's fire prevention plan; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should fire extinguishers be checked?",
+      "a": "Give portable extinguishers a quick visual check monthly to confirm they are present, charged and accessible, and have them professionally inspected and maintained annually. Replace or recharge any that fail a check."
+    },
+    {
+      "q": "What is the most common workplace fire hazard?",
+      "a": "Common causes include overloaded electrical circuits, faulty wiring, accumulated combustible waste, improperly stored flammable liquids and unattended heat sources. Good housekeeping and electrical care address most of them."
+    },
+    {
+      "q": "How many fire exits does a workplace need?",
+      "a": "It depends on occupancy, layout and local code, but generally at least two separate, unobstructed means of escape are needed. Exits and routes must stay clear, well lit and never locked while people are inside."
+    },
+    {
+      "q": "Do all employees need fire safety training?",
+      "a": "Employees should know the evacuation plan, alarm signals and escape routes. If your plan expects staff to use extinguishers, those employees must be trained on safe use; otherwise the plan should direct them to evacuate."
+    },
+    {
+      "q": "Does this checklist replace fire code or professional advice?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, local fire codes, formal training, your employer's fire prevention plan, or a qualified person. Always confirm the requirements that apply to your premises."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fire-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fire-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fire Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/fire-safety-checklist)",
+  "updated": "2026-10-17"
+}

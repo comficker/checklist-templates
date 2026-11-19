@@ -1,0 +1,167 @@
+{
+  "id": "boat-safety-checklist",
+  "name": "Boat Safety Checklist",
+  "description": "A pre-departure safety routine covering life jackets, signaling devices, communication, weather and a float plan before heading out on the water.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "vehicles",
+    "boat",
+    "boating"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Life Jackets & Personal Safety",
+      "items": [
+        {
+          "text": "Carry a properly fitting life jacket for every person aboard"
+        },
+        {
+          "text": "Include correctly sized life jackets for children"
+        },
+        {
+          "text": "Have a throwable flotation device if required"
+        },
+        {
+          "text": "Check life jackets for damage and working buckles"
+        },
+        {
+          "text": "Wear life jackets in rough water and by children"
+        }
+      ]
+    },
+    {
+      "title": "Signaling & Distress Equipment",
+      "items": [
+        {
+          "text": "Carry visual distress signals such as flares",
+          "note": "Check expiry dates and regional requirements"
+        },
+        {
+          "text": "Have a sound-producing device like a horn or whistle"
+        },
+        {
+          "text": "Confirm navigation lights work for low light and night"
+        },
+        {
+          "text": "Carry fire extinguishers, charged and within date"
+        },
+        {
+          "text": "Keep a first aid kit stocked and accessible"
+        }
+      ]
+    },
+    {
+      "title": "Communication & Navigation",
+      "items": [
+        {
+          "text": "Test the VHF radio and know the emergency channel"
+        },
+        {
+          "text": "Carry a charged phone in a waterproof case as backup"
+        },
+        {
+          "text": "Have charts or a GPS chartplotter for your area"
+        },
+        {
+          "text": "Check the compass and confirm it reads correctly"
+        },
+        {
+          "text": "Confirm you know local markers and no-go zones"
+        }
+      ]
+    },
+    {
+      "title": "Weather & Conditions",
+      "items": [
+        {
+          "text": "Check the marine forecast before leaving"
+        },
+        {
+          "text": "Note wind, wave height, tides and visibility"
+        },
+        {
+          "text": "Watch for changing skies and storms while underway"
+        },
+        {
+          "text": "Set a turn-back time and stick to it"
+        },
+        {
+          "text": "Plan a route that suits the conditions and your boat"
+        }
+      ]
+    },
+    {
+      "title": "Float Plan & Crew Briefing",
+      "items": [
+        {
+          "text": "Write a float plan with route, crew and return time"
+        },
+        {
+          "text": "Leave the float plan with a trusted person ashore"
+        },
+        {
+          "text": "Brief passengers on life jacket and emergency locations"
+        },
+        {
+          "text": "Explain how to call for help on the radio"
+        },
+        {
+          "text": "Assign a second person who can operate the boat"
+        }
+      ]
+    },
+    {
+      "title": "Boat & Fuel Readiness",
+      "items": [
+        {
+          "text": "Check fuel level and carry a reserve"
+        },
+        {
+          "text": "Confirm the bilge pump works and bilge is clear"
+        },
+        {
+          "text": "Test the engine and steering at the dock"
+        },
+        {
+          "text": "Check the battery is charged and connections secure"
+        },
+        {
+          "text": "Confirm anchor, line and fenders are aboard"
+        },
+        {
+          "text": "Verify drain plug is installed before launching"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many life jackets do I need on board?",
+      "a": "Most regions require a properly fitting, wearable life jacket for every person aboard, plus a throwable device on larger boats. Check sizes for children and confirm condition. Exact requirements vary by region, so follow your local Coast Guard or maritime rules."
+    },
+    {
+      "q": "What safety equipment is legally required?",
+      "a": "Required gear typically includes life jackets, fire extinguishers, visual distress signals, a sound-producing device and navigation lights, but the exact list varies by region and vessel size. Verify the rules with your local Coast Guard or maritime authority before you depart."
+    },
+    {
+      "q": "What is a float plan and why file one?",
+      "a": "A float plan is a written note of where you are going, who is aboard and when you expect to return, left with a trusted person ashore. If you do not return on time, they can alert authorities and speed up any search and rescue."
+    },
+    {
+      "q": "How do I check the weather before boating?",
+      "a": "Review the marine forecast for wind, waves, storms and visibility before leaving and again while underway. Conditions can change fast on the water, so be ready to shorten the trip or return early if the forecast worsens."
+    },
+    {
+      "q": "Can I print this boat safety checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it aboard and run through life jackets, signaling, communication, weather and your float plan before every trip."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/boat-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/boat-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Boat Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/boat-safety-checklist)",
+  "updated": "2026-10-17"
+}

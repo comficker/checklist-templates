@@ -1,0 +1,186 @@
+{
+  "id": "new-manager-checklist",
+  "name": "New Manager Checklist",
+  "description": "A first 30/60/90 day plan for a newly promoted manager to lead a team with confidence.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "onboarding",
+    "hr",
+    "managers",
+    "leadership"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prepare Before You Start",
+      "items": [
+        {
+          "text": "Clarify your responsibilities and authority with your boss"
+        },
+        {
+          "text": "Learn the team's goals, metrics, and current projects"
+        },
+        {
+          "text": "Review each team member's role and recent performance"
+        },
+        {
+          "text": "Understand the budget, tools, and resources you own"
+        },
+        {
+          "text": "Identify a mentor or peer manager for advice",
+          "note": "A trusted peer shortens the learning curve."
+        },
+        {
+          "text": "Reflect on the kind of leader you want to be"
+        }
+      ]
+    },
+    {
+      "title": "First 30 Days: Listen and Learn",
+      "items": [
+        {
+          "text": "Hold one-on-ones with every team member to listen"
+        },
+        {
+          "text": "Ask about their goals, challenges, and what helps them"
+        },
+        {
+          "text": "Observe how the team works before changing anything"
+        },
+        {
+          "text": "Meet key stakeholders and cross-team partners"
+        },
+        {
+          "text": "Learn the existing processes, rituals, and norms"
+        },
+        {
+          "text": "Build trust by following through on small commitments",
+          "note": "Resist the urge to overhaul things in week one."
+        }
+      ]
+    },
+    {
+      "title": "First 60 Days: Build Direction",
+      "items": [
+        {
+          "text": "Share your priorities and expectations with the team"
+        },
+        {
+          "text": "Set or confirm clear team goals and success metrics"
+        },
+        {
+          "text": "Establish a regular cadence of one-on-ones and team meetings"
+        },
+        {
+          "text": "Start delegating instead of doing the work yourself"
+        },
+        {
+          "text": "Address one or two obvious process improvements"
+        },
+        {
+          "text": "Give and invite feedback openly to set the tone",
+          "note": "Model the feedback culture you want."
+        }
+      ]
+    },
+    {
+      "title": "First 90 Days: Drive Results",
+      "items": [
+        {
+          "text": "Own the team's performance and outcomes fully"
+        },
+        {
+          "text": "Coach individuals toward their development goals"
+        },
+        {
+          "text": "Make a meaningful improvement to how the team operates"
+        },
+        {
+          "text": "Deliver an early win that builds momentum and credibility"
+        },
+        {
+          "text": "Review progress against the goals you set at day 60"
+        },
+        {
+          "text": "Plan priorities for the next quarter with the team"
+        }
+      ]
+    },
+    {
+      "title": "Develop Your Team",
+      "items": [
+        {
+          "text": "Identify each person's strengths and growth areas"
+        },
+        {
+          "text": "Create simple development plans together"
+        },
+        {
+          "text": "Recognize good work specifically and often"
+        },
+        {
+          "text": "Hold accountable conversations early and respectfully"
+        },
+        {
+          "text": "Remove blockers so the team can do its best work"
+        },
+        {
+          "text": "Spot and support potential future leaders",
+          "note": "Growing others is your new core job."
+        }
+      ]
+    },
+    {
+      "title": "Grow as a Leader",
+      "items": [
+        {
+          "text": "Block time for management work, not just doing tasks"
+        },
+        {
+          "text": "Seek regular feedback from your manager and team"
+        },
+        {
+          "text": "Take a leadership or people-management training course"
+        },
+        {
+          "text": "Reflect weekly on what is working and what to adjust"
+        },
+        {
+          "text": "Protect your own time and avoid burning out"
+        },
+        {
+          "text": "Set personal leadership goals for the next quarter",
+          "note": "Treat your growth as deliberately as the team's."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a new manager do first?",
+      "a": "Start by listening and learning. Meet each team member, understand current work and challenges, and observe how the team operates before making changes. Trust comes before transformation."
+    },
+    {
+      "q": "What is a 30/60/90 day plan for managers?",
+      "a": "It is a phased plan: the first 30 days focus on learning and relationships, days 30 to 60 on building direction and processes, and days 60 to 90 on driving results and owning the team's performance."
+    },
+    {
+      "q": "What is the biggest mistake new managers make?",
+      "a": "Trying to keep doing their old job while managing, or changing too much too fast. Effective new managers delegate, coach their team, and earn trust before reshaping how things work."
+    },
+    {
+      "q": "How can HR support a newly promoted manager?",
+      "a": "Provide a clear 30/60/90 plan, pair them with a mentor, offer leadership training, and check in regularly. Structured support reduces the stumbles common in a first management role."
+    },
+    {
+      "q": "Can I print this new manager checklist?",
+      "a": "Yes. Download the printable PDF, work through the first 30, 60, and 90 days in order, and check off each milestone as you settle into leading your team."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-manager-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-manager-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Manager Checklist by ChecklistForge (https://checklistforge.com/checklist/new-manager-checklist)",
+  "updated": "2026-10-18"
+}

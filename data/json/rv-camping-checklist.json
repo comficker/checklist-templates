@@ -1,0 +1,213 @@
+{
+  "id": "rv-camping-checklist",
+  "name": "RV Camping Checklist",
+  "description": "A complete RV camping checklist covering departure prep, hookups and setup, kitchen and living supplies, and breaking camp.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "camping",
+    "outdoors",
+    "travel",
+    "road-trip",
+    "rv"
+  ],
+  "item_count": 44,
+  "sections": [
+    {
+      "title": "Pre-Departure Prep",
+      "items": [
+        {
+          "text": "Check tire pressure on the RV and tow vehicle"
+        },
+        {
+          "text": "Inspect the hitch, brakes, and safety chains"
+        },
+        {
+          "text": "Fill the fresh water tank and empty waste tanks"
+        },
+        {
+          "text": "Top off fuel and propane"
+        },
+        {
+          "text": "Test running lights, brake lights, and turn signals"
+        },
+        {
+          "text": "Check the weather and road conditions for your route",
+          "note": "Watch for low clearances and weight-restricted roads."
+        },
+        {
+          "text": "Plan stops and confirm your campsite reservation"
+        }
+      ]
+    },
+    {
+      "title": "Hookup and Electrical Gear",
+      "items": [
+        {
+          "text": "Surge protector and shore power cord"
+        },
+        {
+          "text": "Electrical adapters (30/50 amp)"
+        },
+        {
+          "text": "Drinking-water-safe hose and a backup"
+        },
+        {
+          "text": "Water pressure regulator and inline filter"
+        },
+        {
+          "text": "Sewer hose, fittings, and disposable gloves"
+        },
+        {
+          "text": "Tank treatment chemicals"
+        }
+      ]
+    },
+    {
+      "title": "Leveling and Setup",
+      "items": [
+        {
+          "text": "Leveling blocks and a bubble level"
+        },
+        {
+          "text": "Wheel chocks"
+        },
+        {
+          "text": "Stabilizer jack pads"
+        },
+        {
+          "text": "Awning and outdoor mat"
+        },
+        {
+          "text": "Camp chairs and an outdoor table"
+        },
+        {
+          "text": "Position and level the rig, then connect power, water, and sewer in order"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen and Galley",
+      "items": [
+        {
+          "text": "Pots, pans, and cooking utensils"
+        },
+        {
+          "text": "Plates, bowls, cups, and cutlery"
+        },
+        {
+          "text": "Coffee maker and a kettle"
+        },
+        {
+          "text": "Food, snacks, and drinks for the trip"
+        },
+        {
+          "text": "Dish soap, sponge, and dish towels"
+        },
+        {
+          "text": "Trash bags and storage containers"
+        },
+        {
+          "text": "Secure cabinets and the fridge before driving"
+        }
+      ]
+    },
+    {
+      "title": "Living and Comfort",
+      "items": [
+        {
+          "text": "Bedding, pillows, and blankets"
+        },
+        {
+          "text": "Towels and toiletries"
+        },
+        {
+          "text": "Weather-appropriate clothing and shoes"
+        },
+        {
+          "text": "First-aid kit and medications"
+        },
+        {
+          "text": "Fans or a portable heater for comfort"
+        },
+        {
+          "text": "Entertainment: books, games, downloaded shows"
+        }
+      ]
+    },
+    {
+      "title": "Tools and Safety",
+      "items": [
+        {
+          "text": "Basic tool kit and duct tape"
+        },
+        {
+          "text": "Flashlight, headlamp, and spare batteries"
+        },
+        {
+          "text": "Fire extinguisher and smoke and CO detectors"
+        },
+        {
+          "text": "Roadside emergency kit and warning triangles"
+        },
+        {
+          "text": "Spare fuses, bulbs, and a tire repair kit"
+        },
+        {
+          "text": "Work gloves and a small broom"
+        }
+      ]
+    },
+    {
+      "title": "Breaking Camp",
+      "items": [
+        {
+          "text": "Empty and flush the waste tanks"
+        },
+        {
+          "text": "Disconnect and stow all hookups"
+        },
+        {
+          "text": "Retract the awning, slides, and stabilizers"
+        },
+        {
+          "text": "Secure loose items and latch cabinets"
+        },
+        {
+          "text": "Raise the steps and chock-free the wheels"
+        },
+        {
+          "text": "Do a final walk-around before pulling out",
+          "note": "Confirm hookups are stowed and the hitch is locked."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need for RV camping?",
+      "a": "You need hookup gear like a drinking-water hose, sewer hose, and a surge-protected power cord, plus leveling blocks, wheel chocks, and your usual camping supplies. Add a stocked galley, bedding, and tools for both campsite setup and travel days."
+    },
+    {
+      "q": "How do I set up an RV at a campsite?",
+      "a": "Position and level the RV, chock the wheels, then connect power, water, and sewer in that order. Extend the awning and slides, set up outdoor gear, and test that systems are working before you settle in."
+    },
+    {
+      "q": "What are RV hookups?",
+      "a": "Hookups are the campsite connections for electricity, fresh water, and sewer waste. A full-hookup site offers all three; partial sites may have only power and water, so carry your fresh tank and check what each site provides."
+    },
+    {
+      "q": "Can I print this RV camping checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item during departure prep, campsite setup, and breaking camp."
+    },
+    {
+      "q": "What should I check before driving the RV?",
+      "a": "Before each travel day, secure loose items, retract slides and the awning, disconnect hookups, check tire pressure and lights, confirm the hitch is locked, and walk around the rig. Check the weather and road conditions on your route."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/rv-camping-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/rv-camping-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "RV Camping Checklist by ChecklistForge (https://checklistforge.com/checklist/rv-camping-checklist)",
+  "updated": "2026-10-17"
+}

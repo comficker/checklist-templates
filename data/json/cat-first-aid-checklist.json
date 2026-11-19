@@ -1,0 +1,177 @@
+{
+  "id": "cat-first-aid-checklist",
+  "name": "Cat First Aid Checklist",
+  "description": "A cat-specific checklist to help owners respond to wounds, possible poisoning, and breathing trouble and know when to call the vet.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "emergency",
+    "health",
+    "first-aid",
+    "pets",
+    "cats"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Be Prepared",
+      "items": [
+        {
+          "text": "Save your vet and nearest emergency hospital numbers"
+        },
+        {
+          "text": "Keep a pet poison helpline number handy"
+        },
+        {
+          "text": "Stock and check a cat first aid kit"
+        },
+        {
+          "text": "Learn your cat's normal breathing and gum color"
+        },
+        {
+          "text": "Keep a carrier and towel within easy reach",
+          "note": "Program emergency numbers into your phone in advance"
+        }
+      ]
+    },
+    {
+      "title": "Approach & Handling",
+      "items": [
+        {
+          "text": "Move slowly and speak in a soft, calm voice"
+        },
+        {
+          "text": "Wrap a frightened cat gently in a towel if needed"
+        },
+        {
+          "text": "Support the body and avoid sudden movements"
+        },
+        {
+          "text": "Watch for signs of fear, pain, or aggression"
+        },
+        {
+          "text": "Protect yourself from bites and scratches",
+          "note": "An injured cat may lash out even if usually gentle"
+        }
+      ]
+    },
+    {
+      "title": "Wounds & Bleeding",
+      "items": [
+        {
+          "text": "Apply gentle, steady pressure with a clean cloth"
+        },
+        {
+          "text": "Hold pressure rather than checking repeatedly"
+        },
+        {
+          "text": "Keep your cat calm and limit movement"
+        },
+        {
+          "text": "Note bite wounds, which can hide deep damage"
+        },
+        {
+          "text": "See a vet for deep, dirty, or heavy bleeding",
+          "note": "Heavy or spurting bleeding is an emergency, so go at once"
+        }
+      ]
+    },
+    {
+      "title": "Suspected Poisoning",
+      "items": [
+        {
+          "text": "Note the substance and amount; keep the packaging"
+        },
+        {
+          "text": "Do not induce vomiting unless a vet directs it"
+        },
+        {
+          "text": "Keep your cat away from the source"
+        },
+        {
+          "text": "Watch for drooling, tremors, or vomiting"
+        },
+        {
+          "text": "Call a vet or poison helpline immediately",
+          "note": "Many plants and household items are toxic to cats"
+        }
+      ]
+    },
+    {
+      "title": "Breathing Trouble",
+      "items": [
+        {
+          "text": "Look for open-mouth or rapid, labored breathing"
+        },
+        {
+          "text": "Check gums for a blue or pale color"
+        },
+        {
+          "text": "Keep your cat as calm and still as possible"
+        },
+        {
+          "text": "Avoid stressing or restraining too firmly"
+        },
+        {
+          "text": "Rush to emergency care without delay"
+        }
+      ]
+    },
+    {
+      "title": "Transport to the Vet",
+      "items": [
+        {
+          "text": "Place your cat gently in a secure carrier"
+        },
+        {
+          "text": "Support an injured body and avoid twisting"
+        },
+        {
+          "text": "Keep the carrier warm, dark, and quiet"
+        },
+        {
+          "text": "Call ahead so the clinic can prepare"
+        },
+        {
+          "text": "Bring any packaging, medicines, or samples"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; first aid does not replace professional care, so always consult a licensed veterinarian",
+          "note": "In any emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I treat a cat's wound at first?",
+      "a": "Apply gentle, steady pressure with a clean cloth to stop bleeding and keep your cat calm. Even small bite wounds can become infected, so have a vet examine wounds rather than relying on home care alone."
+    },
+    {
+      "q": "What are signs my cat may be poisoned?",
+      "a": "Watch for drooling, vomiting, tremors, unsteadiness, breathing trouble, or sudden lethargy. Note what they may have contacted, keep any packaging, and call a vet or pet poison helpline immediately for guidance."
+    },
+    {
+      "q": "How can I tell if my cat is having trouble breathing?",
+      "a": "Signs include open-mouth or rapid breathing, sides heaving, blue or pale gums, or hiding while struggling. Breathing trouble is an emergency, so keep your cat calm and get to a vet right away."
+    },
+    {
+      "q": "Why do cats hide when they are sick or hurt?",
+      "a": "Hiding is a natural instinct that can mask pain or illness. If your cat suddenly hides, stops eating, or changes behavior, treat it seriously and contact your veterinarian to be safe."
+    },
+    {
+      "q": "Is this cat first aid checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep it with your cat's emergency kit, and review it so the steps are familiar before you need them."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cat-first-aid-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cat-first-aid-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cat First Aid Checklist by ChecklistForge (https://checklistforge.com/checklist/cat-first-aid-checklist)",
+  "updated": "2026-10-17"
+}

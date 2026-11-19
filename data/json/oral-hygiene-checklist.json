@@ -1,0 +1,165 @@
+{
+  "id": "oral-hygiene-checklist",
+  "name": "Oral Hygiene Checklist",
+  "description": "A daily checklist of brushing, flossing and mouth-care habits that keep your teeth and gums healthy.",
+  "category": "personal-care",
+  "category_name": "Personal Care",
+  "tags": [
+    "personal-care",
+    "wellness",
+    "dental",
+    "oral-hygiene",
+    "daily-routine"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Brush Twice a Day",
+      "items": [
+        {
+          "text": "Brush in the morning and again before bed"
+        },
+        {
+          "text": "Brush for a full two minutes each time",
+          "note": "A timer or an electric brush's built-in timer makes this easy."
+        },
+        {
+          "text": "Use a soft-bristled toothbrush to protect gums and enamel"
+        },
+        {
+          "text": "Hold the brush at a 45-degree angle to the gumline"
+        },
+        {
+          "text": "Use gentle, short strokes rather than hard scrubbing"
+        },
+        {
+          "text": "Cover all surfaces: outer, inner and chewing sides"
+        },
+        {
+          "text": "Brush behind the front teeth, top and bottom"
+        }
+      ]
+    },
+    {
+      "title": "Floss and Clean Between Teeth",
+      "items": [
+        {
+          "text": "Floss once a day, ideally before brushing at night"
+        },
+        {
+          "text": "Use about 18 inches of floss, winding it around your fingers"
+        },
+        {
+          "text": "Curve the floss into a C shape against each tooth"
+        },
+        {
+          "text": "Use a clean section of floss for every gap",
+          "note": "Reusing the same spot just moves plaque around."
+        },
+        {
+          "text": "Try floss picks or interdental brushes if string floss is awkward"
+        },
+        {
+          "text": "Be gentle near the gumline to avoid bleeding and damage"
+        }
+      ]
+    },
+    {
+      "title": "Use Fluoride and Mouth Care",
+      "items": [
+        {
+          "text": "Brush with a fluoride toothpaste to strengthen enamel"
+        },
+        {
+          "text": "Spit out excess toothpaste but avoid rinsing heavily with water",
+          "note": "Leaving a little fluoride behind helps protect your teeth."
+        },
+        {
+          "text": "Clean your tongue with the brush or a tongue scraper"
+        },
+        {
+          "text": "Use an alcohol-free mouthwash if you like, as an extra step not a replacement"
+        },
+        {
+          "text": "Check toothpaste contains fluoride when buying it"
+        }
+      ]
+    },
+    {
+      "title": "Build Good Daily Habits",
+      "items": [
+        {
+          "text": "Wait about 30 minutes to brush after acidic food or drinks",
+          "note": "Acid softens enamel temporarily, so brushing too soon can wear it."
+        },
+        {
+          "text": "Drink water through the day to rinse away food and acid"
+        },
+        {
+          "text": "Limit sugary snacks and sip-all-day sweet drinks"
+        },
+        {
+          "text": "Avoid smoking and tobacco, which harm gums and teeth"
+        },
+        {
+          "text": "Keep a spare brush and travel floss for trips"
+        },
+        {
+          "text": "Replace your toothbrush every three to four months"
+        }
+      ]
+    },
+    {
+      "title": "Watch for Warning Signs",
+      "items": [
+        {
+          "text": "Note bleeding gums when brushing or flossing"
+        },
+        {
+          "text": "Watch for persistent bad breath or a bad taste"
+        },
+        {
+          "text": "Check for tooth sensitivity to hot, cold or sweet"
+        },
+        {
+          "text": "Look for red, swollen or receding gums"
+        },
+        {
+          "text": "Book a dental visit for any pain, loose teeth or sores that linger",
+          "note": "Catching problems early is usually simpler and cheaper to treat."
+        },
+        {
+          "text": "Important: this is general information, not dental advice",
+          "note": "See a dentist for cleanings, checkups and any persistent tooth or gum problem."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I brush my teeth?",
+      "a": "Brush twice a day for two minutes each time, ideally in the morning and before bed. Use a soft-bristled brush and fluoride toothpaste, and replace the brush every three to four months or when the bristles fray."
+    },
+    {
+      "q": "Do I really need to floss every day?",
+      "a": "Yes. Flossing or using an interdental cleaner once a day removes plaque and food between teeth where a brush cannot reach. Skipping it leaves about a third of each tooth uncleaned, raising the risk of cavities and gum disease."
+    },
+    {
+      "q": "Should I rinse with water after brushing?",
+      "a": "It is better to spit out excess toothpaste and avoid rinsing heavily with water right after brushing. Leaving a thin layer of fluoride on your teeth helps protect the enamel between brushings."
+    },
+    {
+      "q": "Can I print this oral hygiene checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off your brushing, flossing and mouth-care habits each morning and night to keep your daily routine on track."
+    },
+    {
+      "q": "Is this medical advice?",
+      "a": "No. This is general information about everyday oral hygiene, not medical or dental advice. See a dentist for cleanings, checkups, or any tooth or gum problem that is painful, bleeding or does not go away."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/oral-hygiene-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/oral-hygiene-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Oral Hygiene Checklist by ChecklistForge (https://checklistforge.com/checklist/oral-hygiene-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "project-kickoff-checklist",
+  "name": "Project Kickoff Checklist",
+  "description": "Everything you need to launch a project cleanly, from charter to kickoff meeting.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "kickoff",
+    "project-management",
+    "team",
+    "planning"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Confirm the Foundations",
+      "items": [
+        {
+          "text": "Review the approved project charter and objectives"
+        },
+        {
+          "text": "Confirm the sponsor and decision-makers are committed"
+        },
+        {
+          "text": "Verify the budget and funding are in place"
+        },
+        {
+          "text": "Check that any required contracts are signed",
+          "note": "Unsigned agreements are a common launch blocker."
+        },
+        {
+          "text": "Confirm the high-level timeline is realistic"
+        }
+      ]
+    },
+    {
+      "title": "Lock Scope and Goals",
+      "items": [
+        {
+          "text": "Write clear, measurable goals for the project"
+        },
+        {
+          "text": "Define what is in scope in plain language"
+        },
+        {
+          "text": "List what is explicitly out of scope"
+        },
+        {
+          "text": "Agree on the criteria for project success"
+        },
+        {
+          "text": "Document key assumptions and constraints"
+        }
+      ]
+    },
+    {
+      "title": "Set Roles and Responsibilities",
+      "items": [
+        {
+          "text": "Name the project manager and confirm their authority"
+        },
+        {
+          "text": "Assign an owner to each major workstream"
+        },
+        {
+          "text": "Clarify who approves decisions and deliverables"
+        },
+        {
+          "text": "Confirm team members' availability and capacity",
+          "note": "Check for competing projects before committing people."
+        },
+        {
+          "text": "Identify any external partners or vendors"
+        }
+      ]
+    },
+    {
+      "title": "Align Stakeholders",
+      "items": [
+        {
+          "text": "List all stakeholders and their level of influence"
+        },
+        {
+          "text": "Capture each stakeholder's expectations and concerns"
+        },
+        {
+          "text": "Agree how and how often you will communicate updates"
+        },
+        {
+          "text": "Set up shared tools and access for the team"
+        },
+        {
+          "text": "Decide how decisions and changes will be approved"
+        }
+      ]
+    },
+    {
+      "title": "Prepare the Kickoff Meeting",
+      "items": [
+        {
+          "text": "Send a clear agenda and goals ahead of time"
+        },
+        {
+          "text": "Invite the right people and confirm attendance"
+        },
+        {
+          "text": "Prepare a short, focused presentation or summary"
+        },
+        {
+          "text": "Gather charter, scope, and timeline documents to share"
+        },
+        {
+          "text": "Book the room or video link and test the setup",
+          "note": "Test screen sharing before remote kickoffs."
+        }
+      ]
+    },
+    {
+      "title": "Run the Kickoff and Follow Up",
+      "items": [
+        {
+          "text": "Present the project purpose, goals, and scope"
+        },
+        {
+          "text": "Walk through the timeline, milestones, and roles"
+        },
+        {
+          "text": "Open the floor for questions and concerns"
+        },
+        {
+          "text": "Agree on immediate next steps and owners"
+        },
+        {
+          "text": "Send meeting notes and action items within a day",
+          "note": "Fast follow-up keeps the momentum going."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a project kickoff?",
+      "a": "It is the official start of a project, where the team aligns on goals, scope, roles, and timeline. A good kickoff turns a plan on paper into a team ready to act."
+    },
+    {
+      "q": "What should a kickoff meeting cover?",
+      "a": "Project purpose and goals, scope and out-of-scope items, roles and responsibilities, timeline and milestones, communication plan, and the immediate next steps for each person."
+    },
+    {
+      "q": "Who should attend the kickoff meeting?",
+      "a": "The core delivery team, the project sponsor, and key stakeholders or client contacts. Keep it to people who own decisions or deliverables so the session stays focused."
+    },
+    {
+      "q": "When should I run a project kickoff?",
+      "a": "Right after the project is approved and the basic plan exists, but before real work begins. Kicking off too early risks confusion; too late risks a messy, uncoordinated start."
+    },
+    {
+      "q": "Can I print this project kickoff checklist?",
+      "a": "Yes. Download the printable PDF, use it to prepare before the meeting, and check off each item during the kickoff so nothing is missed at launch."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/project-kickoff-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/project-kickoff-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Project Kickoff Checklist by ChecklistForge (https://checklistforge.com/checklist/project-kickoff-checklist)",
+  "updated": "2026-10-17"
+}

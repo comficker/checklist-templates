@@ -1,0 +1,185 @@
+{
+  "id": "adhd-cleaning-checklist",
+  "name": "ADHD Cleaning Checklist",
+  "description": "Cleaning broken into steps short enough to start, for anyone who stalls at the size of the job rather than the work itself.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "home",
+    "cleaning",
+    "routine",
+    "focus"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Before you start (two minutes)",
+      "items": [
+        {
+          "text": "Pick ONE room and close the door on the rest"
+        },
+        {
+          "text": "Set a timer for 15 minutes",
+          "note": "The timer is permission to stop, not a target to beat. Stopping when it goes off is the point."
+        },
+        {
+          "text": "Put on music or a podcast you already like"
+        },
+        {
+          "text": "Carry in one bin bag, one laundry basket, one box for things that live elsewhere"
+        },
+        {
+          "text": "Fill a glass of water and bring it with you"
+        },
+        {
+          "text": "Ask someone to sit in the room or stay on a video call",
+          "note": "Working alongside another person helps many people start. It does not matter what they are doing."
+        }
+      ]
+    },
+    {
+      "title": "Round one: rubbish only",
+      "items": [
+        {
+          "text": "Walk the room and put only rubbish in the bag"
+        },
+        {
+          "text": "Do not sort, do not decide, do not keep anything you are unsure about"
+        },
+        {
+          "text": "Take the bag out when it is full or when you have gone round once"
+        }
+      ]
+    },
+    {
+      "title": "Round two: dishes and cups",
+      "items": [
+        {
+          "text": "Collect every cup, plate and bottle onto one tray"
+        },
+        {
+          "text": "Carry the tray to the kitchen"
+        },
+        {
+          "text": "Put them in the dishwasher or leave them in the sink in water",
+          "note": "Washing up is a separate job. Moving them out of the room is the win here."
+        }
+      ]
+    },
+    {
+      "title": "Round three: laundry",
+      "items": [
+        {
+          "text": "Put every piece of dirty clothing in the basket"
+        },
+        {
+          "text": "Put clean clothes in one pile on the bed, unfolded"
+        },
+        {
+          "text": "Start a wash if the machine is empty"
+        }
+      ]
+    },
+    {
+      "title": "Round four: things that live elsewhere",
+      "items": [
+        {
+          "text": "Put everything that belongs in another room into the box"
+        },
+        {
+          "text": "Do not leave the room to deliver them yet",
+          "note": "Leaving mid-task is where the session usually ends."
+        },
+        {
+          "text": "Deliver the box at the very end, in one trip"
+        }
+      ]
+    },
+    {
+      "title": "Round five: one surface",
+      "items": [
+        {
+          "text": "Pick the surface you see first when you walk in"
+        },
+        {
+          "text": "Clear it completely"
+        },
+        {
+          "text": "Wipe it"
+        },
+        {
+          "text": "Put back only what belongs there",
+          "note": "One clear surface changes how the whole room reads, which is why it beats cleaning three things halfway."
+        }
+      ]
+    },
+    {
+      "title": "If it is too much today",
+      "items": [
+        {
+          "text": "Do the five-minute version: rubbish and dishes only"
+        },
+        {
+          "text": "Clear one square metre of floor and stop"
+        },
+        {
+          "text": "Make the bed and count that as done"
+        },
+        {
+          "text": "Set the timer for five minutes instead of fifteen"
+        },
+        {
+          "text": "Leave the list where you can see it and come back tomorrow",
+          "note": "A half-done room is not a failed attempt. It is a room with less in it than yesterday."
+        }
+      ]
+    },
+    {
+      "title": "Making it easier next time",
+      "items": [
+        {
+          "text": "Keep a bin in every room"
+        },
+        {
+          "text": "Put a laundry basket where clothes actually land"
+        },
+        {
+          "text": "Keep cleaning supplies in the room that needs them, not in one cupboard"
+        },
+        {
+          "text": "Use open baskets rather than lidded boxes",
+          "note": "A lid is an extra step, and extra steps are where things get put down instead of away."
+        },
+        {
+          "text": "Pick one daily reset: clear the kitchen counter, or the floor, or the bed"
+        },
+        {
+          "text": "Attach the reset to something you already do, like after dinner"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why break cleaning into such small steps?",
+      "a": "Because the difficulty is usually in starting, not in the work. A step like \"put rubbish in a bag\" needs no decisions and can be finished in a few minutes, so it is easy to begin — and once you have begun, carrying on is far easier than starting was."
+    },
+    {
+      "q": "What is body doubling?",
+      "a": "Having another person present while you work, in the room or on a video call. They do not help or supervise; they are simply there. Many people find a task far easier to begin and stay with when someone else is around, and it costs nothing to try."
+    },
+    {
+      "q": "Why clean one room at a time?",
+      "a": "Carrying things to other rooms is the most common way a cleaning session ends — you leave, find something else, and do not come back. Keeping a box for out-of-room items and delivering them in one trip at the end avoids that."
+    },
+    {
+      "q": "What if I only get halfway?",
+      "a": "Then the room is halfway better, which is the whole design of this list. Each round is ordered to stand on its own, so rubbish out and dishes gone is a real result even if nothing else happens that day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/adhd-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/adhd-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "ADHD Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/adhd-cleaning-checklist)",
+  "updated": "2026-11-17"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "college-dorm-checklist",
+  "name": "College Dorm Checklist",
+  "description": "A room-by-room list of essentials to furnish and set up a college dorm.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "students",
+    "college",
+    "first-year",
+    "dorm"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Sleep area",
+      "items": [
+        {
+          "text": "Add a mattress topper sized to your dorm bed.",
+          "note": "Confirm whether your bed is a standard or extra-long twin first."
+        },
+        {
+          "text": "Set up sheets, a comforter and pillows."
+        },
+        {
+          "text": "Hang or clip a small reading light by the bed."
+        },
+        {
+          "text": "Add a bed riser set to create under-bed storage."
+        },
+        {
+          "text": "Keep a water bottle and tissues within reach."
+        },
+        {
+          "text": "Use a fan or small heater allowed by your dorm."
+        }
+      ]
+    },
+    {
+      "title": "Desk and study zone",
+      "items": [
+        {
+          "text": "Set up a desk lamp with adjustable brightness."
+        },
+        {
+          "text": "Add a desk organizer for pens and supplies."
+        },
+        {
+          "text": "Bring a comfortable chair cushion if seating is hard."
+        },
+        {
+          "text": "Use a corkboard or whiteboard for reminders."
+        },
+        {
+          "text": "Add a power strip with surge protection and USB ports."
+        },
+        {
+          "text": "Keep a small wastebasket beside the desk."
+        }
+      ]
+    },
+    {
+      "title": "Storage and organization",
+      "items": [
+        {
+          "text": "Use stackable bins and under-bed containers."
+        },
+        {
+          "text": "Add closet organizers, hangers and shelf dividers."
+        },
+        {
+          "text": "Hang an over-the-door rack for shoes or supplies."
+        },
+        {
+          "text": "Use drawer organizers for small items."
+        },
+        {
+          "text": "Add command hooks for bags, keys and towels."
+        },
+        {
+          "text": "Label bins so you can find things fast."
+        }
+      ]
+    },
+    {
+      "title": "Mini kitchen",
+      "items": [
+        {
+          "text": "Add a mini-fridge if your dorm allows one."
+        },
+        {
+          "text": "Bring a microwave or use a shared one.",
+          "note": "Check wattage and size limits in your housing rules."
+        },
+        {
+          "text": "Pack a few plates, bowls, cups and utensils."
+        },
+        {
+          "text": "Add a reusable water bottle and travel mug."
+        },
+        {
+          "text": "Bring snacks and a small set of food storage containers."
+        },
+        {
+          "text": "Include dish soap, a sponge and paper towels."
+        }
+      ]
+    },
+    {
+      "title": "Cleaning and laundry",
+      "items": [
+        {
+          "text": "Stock all-purpose cleaner and disinfecting wipes."
+        },
+        {
+          "text": "Add a small broom, dustpan and trash bags."
+        },
+        {
+          "text": "Bring a laundry hamper or bag and detergent."
+        },
+        {
+          "text": "Include a stain remover and dryer sheets."
+        },
+        {
+          "text": "Keep air freshener for a small shared space."
+        },
+        {
+          "text": "Add a roll of paper towels and tissues."
+        }
+      ]
+    },
+    {
+      "title": "Decor and comfort",
+      "items": [
+        {
+          "text": "Add a rug to soften the floor and define the space."
+        },
+        {
+          "text": "Hang posters, photos or removable wall art."
+        },
+        {
+          "text": "Use string lights or a lamp for warm lighting."
+        },
+        {
+          "text": "Add throw pillows and a cozy blanket."
+        },
+        {
+          "text": "Place a small mirror near the door or desk."
+        },
+        {
+          "text": "Include a few plants or simple personal touches."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the most important dorm room essentials?",
+      "a": "Prioritize a good mattress topper and bedding, storage bins, a desk lamp, a power strip and basic cleaning supplies. These items have the biggest impact on comfort and function in a small room."
+    },
+    {
+      "q": "What should I share with my roommate?",
+      "a": "Coordinate large or duplicate items like a mini-fridge, microwave, rug, trash can and decor. Splitting these saves money and prevents a cramped room full of doubles."
+    },
+    {
+      "q": "Are mini-fridges and microwaves allowed in dorms?",
+      "a": "Often yes, but size limits and rules vary by school, and some dorms provide them. Check your housing guidelines before buying any appliance so it isn't turned away on move-in day."
+    },
+    {
+      "q": "How do I make a small dorm room feel bigger?",
+      "a": "Use vertical and under-bed storage, keep surfaces clear, add a mirror, and choose light, layered lighting. Multi-purpose furniture and good organization make a tight room feel open."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each item as you furnish and set up your dorm room."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/college-dorm-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/college-dorm-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "College Dorm Checklist by ChecklistForge (https://checklistforge.com/checklist/college-dorm-checklist)",
+  "updated": "2026-10-17"
+}

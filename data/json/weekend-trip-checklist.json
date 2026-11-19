@@ -1,0 +1,174 @@
+{
+  "id": "weekend-trip-checklist",
+  "name": "Weekend Trip Checklist",
+  "description": "A light-packing weekend getaway checklist covering bookings, a carry-on capsule wardrobe, toiletries, tech and pre-departure tasks.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "packing",
+    "travel",
+    "carry-on",
+    "weekend-getaway",
+    "minimalist"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Before You Go",
+      "items": [
+        {
+          "text": "Confirm travel times and check-in details"
+        },
+        {
+          "text": "Save accommodation address and booking confirmation"
+        },
+        {
+          "text": "Check the weather at your destination"
+        },
+        {
+          "text": "Make a quick plan for meals or activities"
+        },
+        {
+          "text": "Set an out-of-office reply if needed"
+        },
+        {
+          "text": "Arrange care for pets or plants"
+        }
+      ]
+    },
+    {
+      "title": "Documents and Money",
+      "items": [
+        {
+          "text": "ID or passport"
+        },
+        {
+          "text": "Booking confirmations and tickets"
+        },
+        {
+          "text": "Debit or credit card and some cash"
+        },
+        {
+          "text": "Insurance card and emergency contact details"
+        }
+      ]
+    },
+    {
+      "title": "Clothing (Keep It Light)",
+      "items": [
+        {
+          "text": "Two to three versatile outfits",
+          "note": "Pick a single color palette so everything mixes and matches."
+        },
+        {
+          "text": "One pair of comfortable walking shoes"
+        },
+        {
+          "text": "A light jacket or layer for evenings"
+        },
+        {
+          "text": "Underwear and socks for each day plus one spare"
+        },
+        {
+          "text": "Sleepwear"
+        },
+        {
+          "text": "Swimwear if your stay has a pool or beach"
+        }
+      ]
+    },
+    {
+      "title": "Toiletries and Personal Care",
+      "items": [
+        {
+          "text": "Toothbrush and travel-sized toothpaste"
+        },
+        {
+          "text": "Travel-sized shampoo, soap, and deodorant"
+        },
+        {
+          "text": "Skincare and any makeup you use daily"
+        },
+        {
+          "text": "Daily medications and a small first-aid kit"
+        },
+        {
+          "text": "Sunscreen and lip balm"
+        },
+        {
+          "text": "Hairbrush and basic grooming items"
+        }
+      ]
+    },
+    {
+      "title": "Tech and Essentials",
+      "items": [
+        {
+          "text": "Phone and charging cable"
+        },
+        {
+          "text": "Power bank for the day out"
+        },
+        {
+          "text": "Headphones"
+        },
+        {
+          "text": "Sunglasses"
+        },
+        {
+          "text": "Reusable water bottle"
+        },
+        {
+          "text": "A book or downloaded entertainment for the journey"
+        }
+      ]
+    },
+    {
+      "title": "Last-Minute Checks",
+      "items": [
+        {
+          "text": "Charge your phone and devices fully"
+        },
+        {
+          "text": "Empty the fridge of anything that will spoil"
+        },
+        {
+          "text": "Lock windows and doors"
+        },
+        {
+          "text": "Adjust the thermostat and unplug small appliances"
+        },
+        {
+          "text": "Double-check you have keys, wallet, and phone"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack for a weekend trip?",
+      "a": "Pack two to three versatile outfits, one pair of comfortable shoes, travel-sized toiletries, chargers, and your essential documents. Stick to a single carry-on or weekend bag and choose pieces you can mix and match to cut down on volume."
+    },
+    {
+      "q": "How do I pack light for a 2-3 day getaway?",
+      "a": "Plan outfits around a single color palette so everything coordinates, wear your bulkiest items while traveling, and use travel-sized toiletries. Roll clothes to save space and limit yourself to one bag you can carry on."
+    },
+    {
+      "q": "What are the most-forgotten items on a short trip?",
+      "a": "Travelers often forget phone chargers, a toothbrush, any daily medications, and sunglasses. Keep a small pre-packed kit of these essentials so they are ready to grab for every quick trip."
+    },
+    {
+      "q": "Can I print this weekend trip checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you pack your bag and prepare to leave."
+    },
+    {
+      "q": "Do I need to check a bag for a weekend trip?",
+      "a": "Usually no. Two to three days of clothing and toiletries fit comfortably in a carry-on or weekend bag, which saves time at the airport and avoids baggage fees."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/weekend-trip-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/weekend-trip-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Weekend Trip Checklist by ChecklistForge (https://checklistforge.com/checklist/weekend-trip-checklist)",
+  "updated": "2026-10-17"
+}

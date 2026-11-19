@@ -1,0 +1,151 @@
+{
+  "id": "visa-checklist",
+  "name": "Visa Checklist",
+  "description": "A visa checklist for applying for a travel visa, covering research, required documents, the application, appointments, and follow-up.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "travel",
+    "documents",
+    "international-travel",
+    "visa"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Research Requirements",
+      "items": [
+        {
+          "text": "Confirm whether you need a visa for your destination"
+        },
+        {
+          "text": "Identify the correct visa type for your trip"
+        },
+        {
+          "text": "Read the destination's official requirements"
+        },
+        {
+          "text": "Check the processing time against your travel dates"
+        },
+        {
+          "text": "Verify rules with the destination's embassy",
+          "note": "Visa rules vary by country and change often"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Required Documents",
+      "items": [
+        {
+          "text": "Passport valid for the required period"
+        },
+        {
+          "text": "Photos meeting the visa specifications"
+        },
+        {
+          "text": "Proof of funds, such as bank statements"
+        },
+        {
+          "text": "Travel bookings and accommodation details"
+        },
+        {
+          "text": "Any invitation letters or supporting documents"
+        },
+        {
+          "text": "Proof of employment, study, or ties as needed"
+        }
+      ]
+    },
+    {
+      "title": "Complete the Application",
+      "items": [
+        {
+          "text": "Fill in the official application form accurately"
+        },
+        {
+          "text": "Match details exactly to your passport"
+        },
+        {
+          "text": "Attach all required documents in the right format"
+        },
+        {
+          "text": "Review for errors before submitting"
+        },
+        {
+          "text": "Keep a copy of the completed application"
+        }
+      ]
+    },
+    {
+      "title": "Appointment and Fees",
+      "items": [
+        {
+          "text": "Confirm the current visa fee and payment method"
+        },
+        {
+          "text": "Book any required appointment or interview"
+        },
+        {
+          "text": "Prepare for biometrics if needed"
+        },
+        {
+          "text": "Bring originals and copies to your appointment"
+        },
+        {
+          "text": "Note the location and time carefully"
+        }
+      ]
+    },
+    {
+      "title": "Submit and Follow Up",
+      "items": [
+        {
+          "text": "Submit your application by the required method"
+        },
+        {
+          "text": "Keep your receipt and tracking reference"
+        },
+        {
+          "text": "Monitor the application status"
+        },
+        {
+          "text": "Respond quickly to any requests for more documents"
+        },
+        {
+          "text": "Check visa details for errors once issued"
+        },
+        {
+          "text": "Confirm current rules before relying on this list",
+          "note": "Visa requirements, documents, fees, and timelines vary by country and change; always verify with the destination's embassy or official immigration authority"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I know what visa I need?",
+      "a": "The visa you need depends on your nationality, destination, and purpose of travel. Check the destination country's embassy or official immigration site, since rules differ for tourism, work, study, and transit."
+    },
+    {
+      "q": "What documents are usually required for a visa?",
+      "a": "Common requirements include a valid passport, photos, a completed form, proof of funds, travel bookings, and fees. The exact list varies by country and visa type, so confirm with the official source before applying."
+    },
+    {
+      "q": "How early should I apply for a visa?",
+      "a": "Apply as early as your destination allows, often weeks or months ahead, because processing times vary and can lengthen in busy periods. Early application leaves room for appointments and any requests for more documents."
+    },
+    {
+      "q": "How is a visa checklist different from a passport checklist?",
+      "a": "A visa checklist covers applying for permission to enter a destination, while a passport checklist covers getting the travel document itself. You usually need a valid passport before you can apply for a visa."
+    },
+    {
+      "q": "Is this visa checklist printable?",
+      "a": "Yes. Print it or download the PDF, work through it in order, and verify every requirement, document, and fee with the destination's embassy or official immigration authority before you apply."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/visa-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/visa-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Visa Checklist by ChecklistForge (https://checklistforge.com/checklist/visa-checklist)",
+  "updated": "2026-10-17"
+}

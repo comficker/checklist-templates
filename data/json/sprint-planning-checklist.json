@@ -1,0 +1,205 @@
+{
+  "id": "sprint-planning-checklist",
+  "name": "Sprint Planning Checklist",
+  "description": "A sprint planning checklist for running a focused, well-prepared agile sprint planning meeting.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "sprint-planning",
+    "agile",
+    "scrum",
+    "backlog"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Prepare the backlog",
+      "items": [
+        {
+          "text": "Refine and prioritize the backlog before the meeting."
+        },
+        {
+          "text": "Confirm top stories meet the definition of ready."
+        },
+        {
+          "text": "Write clear acceptance criteria for each candidate story."
+        },
+        {
+          "text": "Split stories that are too large to finish in one sprint."
+        },
+        {
+          "text": "Attach designs, specs or links the team will need.",
+          "note": "Remove blockers before planning rather than during it."
+        },
+        {
+          "text": "Order the backlog so the most valuable work is on top."
+        }
+      ]
+    },
+    {
+      "title": "Confirm capacity",
+      "items": [
+        {
+          "text": "Note who is available and for how much of the sprint."
+        },
+        {
+          "text": "Subtract holidays, time off and known meetings."
+        },
+        {
+          "text": "Account for support, on-call and maintenance duties."
+        },
+        {
+          "text": "Review the team's recent velocity as a guide."
+        },
+        {
+          "text": "Agree the sprint length and start and end dates."
+        },
+        {
+          "text": "Set a realistic capacity rather than a stretch target."
+        }
+      ]
+    },
+    {
+      "title": "Set the sprint goal",
+      "items": [
+        {
+          "text": "Have the product owner state the objective for the sprint."
+        },
+        {
+          "text": "Phrase the goal as a single, clear outcome."
+        },
+        {
+          "text": "Connect the goal to the wider product roadmap."
+        },
+        {
+          "text": "Confirm the whole team understands and agrees with it."
+        },
+        {
+          "text": "Use the goal to guide what work makes the cut."
+        },
+        {
+          "text": "Write the goal somewhere visible throughout the sprint."
+        }
+      ]
+    },
+    {
+      "title": "Select and estimate stories",
+      "items": [
+        {
+          "text": "Pull stories from the top of the backlog toward the goal."
+        },
+        {
+          "text": "Discuss each story so the team shares an understanding."
+        },
+        {
+          "text": "Estimate effort with points or a consistent method."
+        },
+        {
+          "text": "Stop adding work once capacity is reached."
+        },
+        {
+          "text": "Confirm acceptance criteria are clear for selected stories."
+        },
+        {
+          "text": "Leave a small buffer for unplanned work."
+        }
+      ]
+    },
+    {
+      "title": "Break down tasks",
+      "items": [
+        {
+          "text": "Decompose each story into concrete tasks."
+        },
+        {
+          "text": "Keep tasks small enough to finish within a day or two."
+        },
+        {
+          "text": "Identify the skills each task needs."
+        },
+        {
+          "text": "Note any spikes or research the team must do first."
+        },
+        {
+          "text": "Sequence tasks so work can start immediately."
+        },
+        {
+          "text": "Make sure no story is owned by one person alone."
+        }
+      ]
+    },
+    {
+      "title": "Identify dependencies and risks",
+      "items": [
+        {
+          "text": "Flag dependencies on other teams or external work."
+        },
+        {
+          "text": "Identify technical unknowns that could slow the sprint."
+        },
+        {
+          "text": "Note stories blocked until something else is done."
+        },
+        {
+          "text": "Agree mitigation or a fallback for each major risk."
+        },
+        {
+          "text": "Assign owners to chase down external dependencies."
+        },
+        {
+          "text": "Decide what to cut first if the sprint runs short."
+        }
+      ]
+    },
+    {
+      "title": "Commit and communicate",
+      "items": [
+        {
+          "text": "Confirm the team agrees the plan is achievable."
+        },
+        {
+          "text": "Record the committed stories and the sprint goal."
+        },
+        {
+          "text": "Update the sprint board with stories and tasks."
+        },
+        {
+          "text": "Share the plan with stakeholders outside the team."
+        },
+        {
+          "text": "Schedule the daily standup and the sprint review."
+        },
+        {
+          "text": "Close the meeting with a clear next action for everyone."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a sprint planning checklist?",
+      "a": "It is a structured guide for running a sprint planning meeting. It covers grooming the backlog, working out capacity, setting a sprint goal, selecting and estimating stories, breaking them into tasks, flagging risks and committing as a team so the sprint starts with a realistic plan."
+    },
+    {
+      "q": "What happens in sprint planning?",
+      "a": "The team reviews a refined backlog, agrees a clear sprint goal, and pulls in the highest-priority stories that fit its capacity. Members estimate the work, break stories into tasks, surface dependencies and risks, then commit to a plan they believe is achievable in the sprint."
+    },
+    {
+      "q": "How do you estimate team capacity?",
+      "a": "Start from the team's typical velocity, then subtract for holidays, time off, meetings and support duties in the coming sprint. Capacity tells you how much work the team can realistically take on, so you commit to a plan that fits rather than overloading the sprint."
+    },
+    {
+      "q": "What makes a good sprint goal?",
+      "a": "A good sprint goal is a short, single statement of the outcome the sprint should achieve, not just a list of tickets. It gives the team a shared focus, helps with trade-off decisions mid-sprint, and makes it clear at review whether the sprint succeeded."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the sprint planning checklist to run the meeting, or download the PDF and reuse it each sprint so preparation, capacity, the sprint goal and the team's commitment are handled the same consistent way every time."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/sprint-planning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/sprint-planning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Sprint Planning Checklist by ChecklistForge (https://checklistforge.com/checklist/sprint-planning-checklist)",
+  "updated": "2026-10-17"
+}

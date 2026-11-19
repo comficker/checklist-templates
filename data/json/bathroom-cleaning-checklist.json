@@ -1,0 +1,167 @@
+{
+  "id": "bathroom-cleaning-checklist",
+  "name": "Bathroom Cleaning Checklist",
+  "description": "A step-by-step bathroom cleaning checklist for the toilet, shower, tiles, mirror, and fixtures.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "routine",
+    "bathroom",
+    "deep-cleaning"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Prep and Spray",
+      "items": [
+        {
+          "text": "Remove rugs, towels, and clutter from surfaces and the floor"
+        },
+        {
+          "text": "Spray the toilet bowl with cleaner and let it sit"
+        },
+        {
+          "text": "Spray the shower, tub, and tiles with cleaner to dwell",
+          "note": "Letting cleaner sit for five minutes dissolves soap scum so you scrub less."
+        },
+        {
+          "text": "Open a window or run the exhaust fan for ventilation"
+        },
+        {
+          "text": "Empty the bathroom trash and add a fresh liner"
+        }
+      ]
+    },
+    {
+      "title": "Mirror and Sink",
+      "items": [
+        {
+          "text": "Clean the mirror until it is streak-free"
+        },
+        {
+          "text": "Wipe down and disinfect the vanity countertop"
+        },
+        {
+          "text": "Scrub the sink basin and clear the drain"
+        },
+        {
+          "text": "Polish the faucet and handles"
+        },
+        {
+          "text": "Wipe down cabinet fronts and organize toiletries"
+        }
+      ]
+    },
+    {
+      "title": "Toilet",
+      "items": [
+        {
+          "text": "Scrub the inside of the bowl, including under the rim"
+        },
+        {
+          "text": "Disinfect the seat, lid, and hinges"
+        },
+        {
+          "text": "Wipe down the tank, handle, and exterior"
+        },
+        {
+          "text": "Clean the base and the floor immediately around the toilet"
+        },
+        {
+          "text": "Replace the toilet paper and refill any holders"
+        }
+      ]
+    },
+    {
+      "title": "Shower, Tub and Tiles",
+      "items": [
+        {
+          "text": "Scrub the shower walls, tub, and basin"
+        },
+        {
+          "text": "Clean the glass door or wash the shower curtain and liner"
+        },
+        {
+          "text": "Scrub grout lines and treat any mildew spots"
+        },
+        {
+          "text": "Descale the showerhead and faucet of mineral buildup"
+        },
+        {
+          "text": "Clear the drain of hair and debris"
+        },
+        {
+          "text": "Wipe down ledges, shelves, and shampoo caddies"
+        }
+      ]
+    },
+    {
+      "title": "Fixtures and Details",
+      "items": [
+        {
+          "text": "Wipe down towel bars, hooks, and the toilet paper holder"
+        },
+        {
+          "text": "Clean light fixtures and switch plates"
+        },
+        {
+          "text": "Wipe the exhaust fan cover and clear visible dust"
+        },
+        {
+          "text": "Polish chrome and metal fixtures to a shine"
+        },
+        {
+          "text": "Wipe down the door, handle, and frame"
+        }
+      ]
+    },
+    {
+      "title": "Floor and Finishing",
+      "items": [
+        {
+          "text": "Sweep or vacuum hair and dust from the floor"
+        },
+        {
+          "text": "Mop the floor, getting into corners and around the toilet base"
+        },
+        {
+          "text": "Wash bath mats and hang fresh towels"
+        },
+        {
+          "text": "Refill hand soap and replace empty supplies"
+        },
+        {
+          "text": "Do a final wipe and inspection of all surfaces"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What order should I clean my bathroom in?",
+      "a": "Spray the toilet, shower, and tub first so the cleaner can work, then clean the mirror and sink while it dwells. Scrub the toilet and shower, and finish with the floor."
+    },
+    {
+      "q": "How often should I clean my bathroom?",
+      "a": "Wipe the sink and counter daily and do a full clean weekly. Deep tasks like scrubbing grout, descaling fixtures, and washing the shower curtain are best done monthly."
+    },
+    {
+      "q": "How do I remove soap scum from shower tiles?",
+      "a": "Spray the tiles with a bathroom cleaner or vinegar solution, let it sit for several minutes, then scrub with a stiff brush. Rinse and wipe dry to prevent new buildup."
+    },
+    {
+      "q": "How do I keep my bathroom mold-free?",
+      "a": "Run the exhaust fan during and after showers, wipe down wet surfaces, and treat early mildew spots quickly. Re-caulk cracked seals where mold tends to start."
+    },
+    {
+      "q": "Can I download this bathroom cleaning checklist?",
+      "a": "Yes. Print it or save the PDF and tick off each task for a quick weekly clean or a deeper scrub."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/bathroom-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/bathroom-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Bathroom Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/bathroom-cleaning-checklist)",
+  "updated": "2026-11-13"
+}

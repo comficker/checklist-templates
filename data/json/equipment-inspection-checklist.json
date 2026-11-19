@@ -1,0 +1,182 @@
+{
+  "id": "equipment-inspection-checklist",
+  "name": "Equipment Inspection Checklist",
+  "description": "A general checklist for inspecting equipment before use.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "maintenance",
+    "inspection",
+    "equipment-inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "General condition",
+      "items": [
+        {
+          "text": "Inspect the body and frame for cracks, dents or corrosion."
+        },
+        {
+          "text": "Check fasteners, bolts and mounts are tight and secure."
+        },
+        {
+          "text": "Verify the data plate and rating labels are present and legible."
+        },
+        {
+          "text": "Confirm no missing or damaged components or panels."
+        },
+        {
+          "text": "Check moving parts for wear, play or misalignment."
+        },
+        {
+          "text": "Verify the equipment is clean and free of debris buildup."
+        }
+      ]
+    },
+    {
+      "title": "Safety devices",
+      "items": [
+        {
+          "text": "Confirm guards and shields are fitted and not bypassed.",
+          "note": "Never operate equipment with a missing guard or defeated safety device."
+        },
+        {
+          "text": "Check emergency stop functions and resets correctly."
+        },
+        {
+          "text": "Verify interlocks and safety switches operate as intended."
+        },
+        {
+          "text": "Confirm warning labels and safety signage are present and legible."
+        },
+        {
+          "text": "Check lockout/tagout points are accessible and functional."
+        },
+        {
+          "text": "Verify any required guarding sensors are clean and working."
+        }
+      ]
+    },
+    {
+      "title": "Function and controls",
+      "items": [
+        {
+          "text": "Confirm controls, switches and buttons operate smoothly."
+        },
+        {
+          "text": "Check the equipment starts, runs and stops normally."
+        },
+        {
+          "text": "Verify gauges, indicators and displays read correctly."
+        },
+        {
+          "text": "Listen for unusual noise, vibration or grinding in operation."
+        },
+        {
+          "text": "Confirm speed, pressure or output stays within rated limits."
+        },
+        {
+          "text": "Check that any safety functions activate as designed."
+        }
+      ]
+    },
+    {
+      "title": "Fluids and leaks",
+      "items": [
+        {
+          "text": "Check fluid levels including oil, coolant and hydraulic fluid."
+        },
+        {
+          "text": "Inspect for leaks, drips or stains under and around the equipment."
+        },
+        {
+          "text": "Verify hoses, lines and fittings are sound and not chafed."
+        },
+        {
+          "text": "Confirm seals and gaskets show no weeping or damage."
+        },
+        {
+          "text": "Check lubrication points are greased per the schedule."
+        },
+        {
+          "text": "Verify filters are clean or replaced as required."
+        }
+      ]
+    },
+    {
+      "title": "Electrical and power",
+      "items": [
+        {
+          "text": "Inspect cords, plugs and cables for damage or fraying."
+        },
+        {
+          "text": "Confirm grounding and GFCI protection are in place where required."
+        },
+        {
+          "text": "Check batteries are charged, secured and free of corrosion."
+        },
+        {
+          "text": "Verify connections are tight and free of overheating signs."
+        },
+        {
+          "text": "Confirm guards are in place over electrical components."
+        },
+        {
+          "text": "Check that the equipment isolates and de-energizes correctly."
+        }
+      ]
+    },
+    {
+      "title": "Records and follow-up",
+      "items": [
+        {
+          "text": "Confirm the equipment has a current inspection and service record."
+        },
+        {
+          "text": "Verify the last maintenance was completed on schedule."
+        },
+        {
+          "text": "Check certifications or calibration are in date where required."
+        },
+        {
+          "text": "Record any defect with severity and a recommended action."
+        },
+        {
+          "text": "Tag out and report any equipment that fails inspection."
+        },
+        {
+          "text": "Sign, date and file the completed inspection record."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an equipment inspection checklist?",
+      "a": "It's a standardized list used to verify equipment is safe and fit for use before operation — covering condition, safety devices, function, fluids and records. Each item is marked pass or fail so defects are caught early."
+    },
+    {
+      "q": "How often should equipment be inspected?",
+      "a": "Perform a pre-use check before each shift or use, plus scheduled maintenance inspections at the intervals set by the manufacturer. Inspect again after any incident, repair or unusual operation."
+    },
+    {
+      "q": "Who should inspect equipment?",
+      "a": "The trained operator handles routine pre-use checks, while a qualified or competent person handles detailed maintenance inspections. Always follow the manufacturer's manual and your site's procedures."
+    },
+    {
+      "q": "What should I do if equipment fails inspection?",
+      "a": "Tag the equipment out of service, isolate it from use, and report the defect for repair by a qualified person. Do not operate equipment with a missing guard, defeated safety device or known fault."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the equipment inspection checklist for your logbook, or download the PDF to complete on a tablet and store with your maintenance records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/equipment-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/equipment-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Equipment Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/equipment-inspection-checklist)",
+  "updated": "2026-10-20"
+}

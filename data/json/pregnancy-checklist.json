@@ -1,0 +1,200 @@
+{
+  "id": "pregnancy-checklist",
+  "name": "Pregnancy Checklist",
+  "description": "A trimester-by-trimester guide to prenatal care and preparing for baby.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "pregnancy",
+    "prenatal-care",
+    "trimester",
+    "expecting"
+  ],
+  "item_count": 40,
+  "sections": [
+    {
+      "title": "Right After You Find Out",
+      "items": [
+        {
+          "text": "Take a prenatal vitamin daily",
+          "note": "Ask your provider which one is right for you."
+        },
+        {
+          "text": "Call to schedule your first prenatal appointment"
+        },
+        {
+          "text": "Confirm your estimated due date with your provider"
+        },
+        {
+          "text": "Review your insurance coverage and out-of-pocket costs"
+        },
+        {
+          "text": "Note your last period date and any early symptoms to share"
+        },
+        {
+          "text": "Stop alcohol and smoking, and review medications with your doctor"
+        }
+      ]
+    },
+    {
+      "title": "First Trimester (Weeks 1 to 13)",
+      "items": [
+        {
+          "text": "Choose an obstetrician, family doctor, or midwife"
+        },
+        {
+          "text": "Attend your first prenatal visit and any early screenings"
+        },
+        {
+          "text": "Adjust your diet toward balanced, regular meals as tolerated"
+        },
+        {
+          "text": "Stay hydrated and rest when fatigue hits"
+        },
+        {
+          "text": "Start a simple folder or app to track appointments and notes"
+        },
+        {
+          "text": "Decide who to tell and when you feel ready"
+        }
+      ]
+    },
+    {
+      "title": "Second Trimester (Weeks 14 to 27)",
+      "items": [
+        {
+          "text": "Attend your anatomy ultrasound around the midpoint"
+        },
+        {
+          "text": "Ask your provider about recommended prenatal classes"
+        },
+        {
+          "text": "Begin gentle, provider-approved movement or exercise"
+        },
+        {
+          "text": "Start your baby registry and compare big-ticket items"
+        },
+        {
+          "text": "Look into parental leave and notify your workplace"
+        },
+        {
+          "text": "Plan the nursery layout and order furniture with lead times in mind"
+        }
+      ]
+    },
+    {
+      "title": "Third Trimester (Weeks 28 to 40)",
+      "items": [
+        {
+          "text": "Attend more frequent prenatal visits as scheduled"
+        },
+        {
+          "text": "Discuss your birth preferences with your provider"
+        },
+        {
+          "text": "Take a childbirth, breastfeeding, or newborn care class"
+        },
+        {
+          "text": "Install and inspect the infant car seat"
+        },
+        {
+          "text": "Learn the signs of labor and when to call your provider",
+          "note": "Write down your provider's after-hours number."
+        },
+        {
+          "text": "Tour the hospital or birth center if offered"
+        }
+      ]
+    },
+    {
+      "title": "Prepare for Baby",
+      "items": [
+        {
+          "text": "Wash and put away newborn clothes and blankets"
+        },
+        {
+          "text": "Set up the sleep space following safe-sleep guidelines"
+        },
+        {
+          "text": "Stock diapers, wipes, and feeding supplies"
+        },
+        {
+          "text": "Pack the hospital bag by around 36 weeks"
+        },
+        {
+          "text": "Prepare and freeze a few easy meals for the early weeks"
+        },
+        {
+          "text": "Choose a pediatrician and schedule the first visit if possible"
+        }
+      ]
+    },
+    {
+      "title": "Paperwork & Planning",
+      "items": [
+        {
+          "text": "Pre-register at your chosen hospital or birth center"
+        },
+        {
+          "text": "Confirm your insurance adds the baby and review the process"
+        },
+        {
+          "text": "Arrange care for pets or older children during your stay"
+        },
+        {
+          "text": "Save key phone numbers and a list of emergency contacts"
+        },
+        {
+          "text": "Plan the route to the hospital and a backup option"
+        }
+      ]
+    },
+    {
+      "title": "Final Weeks Reminders",
+      "items": [
+        {
+          "text": "Keep your phone charged and within reach"
+        },
+        {
+          "text": "Top off the car's gas tank ahead of your due date"
+        },
+        {
+          "text": "Rest and nap when you can to bank energy"
+        },
+        {
+          "text": "Review your birth preferences with your support person"
+        },
+        {
+          "text": "Call your provider promptly with any concerning symptoms"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I schedule my first prenatal appointment?",
+      "a": "Most providers want to see you around 8 weeks, so call as soon as you have a positive test or confirm your pregnancy. Booking early helps establish care and gives you a chance to ask questions. Your provider will then set a schedule for the visits that follow."
+    },
+    {
+      "q": "What should I avoid during pregnancy?",
+      "a": "Common guidance includes avoiding alcohol, smoking, and certain foods like raw fish and unpasteurized cheese. Check medications and supplements with your provider before taking them. Everyone's situation is different, so ask your doctor or midwife about any specific restrictions that apply to your pregnancy."
+    },
+    {
+      "q": "How often will I have prenatal appointments?",
+      "a": "Visits are often monthly in early pregnancy, then more frequent in the third trimester, usually every two weeks and then weekly near your due date. Your provider sets the exact schedule based on your health. Keep a list of questions to bring to each appointment so you don't forget."
+    },
+    {
+      "q": "When should I start preparing the nursery?",
+      "a": "Many parents tackle the nursery in the second trimester, when energy often returns, and finish early in the third. There's no strict rule, so plan around how you feel. Focus on the sleep space and a few essentials first; the rest can come together gradually over the weeks."
+    },
+    {
+      "q": "When do I need to pack a hospital bag?",
+      "a": "Aim to have your bag packed by around 36 weeks, since labor can begin before your due date. Keep it somewhere easy to grab. Packing early removes last-minute stress, so you can focus on getting to the hospital or birth center calmly when contractions start."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pregnancy-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pregnancy-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pregnancy Checklist by ChecklistForge (https://checklistforge.com/checklist/pregnancy-checklist)",
+  "updated": "2026-10-17"
+}

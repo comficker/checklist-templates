@@ -1,0 +1,186 @@
+{
+  "id": "fitness-checklist",
+  "name": "Fitness Checklist",
+  "description": "A well-rounded fitness checklist covering every pillar of a healthy, balanced routine.",
+  "category": "fitness-exercise",
+  "category_name": "Fitness & Exercise",
+  "tags": [
+    "fitness",
+    "exercise",
+    "workout",
+    "cardio",
+    "strength-training"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Set Your Goals",
+      "items": [
+        {
+          "text": "Decide your main goal: general health, strength, endurance, or weight management"
+        },
+        {
+          "text": "Choose how many days per week you can realistically train"
+        },
+        {
+          "text": "Set one measurable target for the next 4 weeks",
+          "note": "For example, walk 8,000 steps daily or do 10 push-ups in a row."
+        },
+        {
+          "text": "Schedule your sessions in your calendar like appointments"
+        },
+        {
+          "text": "Plan how you will track progress over time"
+        }
+      ]
+    },
+    {
+      "title": "Cardio Pillar",
+      "items": [
+        {
+          "text": "Include at least 150 minutes of moderate cardio across the week"
+        },
+        {
+          "text": "Pick activities you enjoy, such as walking, cycling, or swimming"
+        },
+        {
+          "text": "Mix steady sessions with the occasional faster effort as you improve"
+        },
+        {
+          "text": "Warm up for 5 minutes before raising the intensity"
+        },
+        {
+          "text": "Build up duration gradually rather than all at once"
+        }
+      ]
+    },
+    {
+      "title": "Strength Pillar",
+      "items": [
+        {
+          "text": "Train all major muscle groups at least twice a week"
+        },
+        {
+          "text": "Include pushing, pulling, squatting, and core movements"
+        },
+        {
+          "text": "Start with bodyweight or light weights and focus on good form"
+        },
+        {
+          "text": "Progress gradually by adding reps, sets, or resistance",
+          "note": "Small, steady increases reduce injury risk and keep you improving."
+        },
+        {
+          "text": "Rest a muscle group at least one day before training it again"
+        }
+      ]
+    },
+    {
+      "title": "Flexibility and Mobility Pillar",
+      "items": [
+        {
+          "text": "Stretch major muscle groups a few times a week"
+        },
+        {
+          "text": "Do dynamic stretches before workouts and gentle stretches after"
+        },
+        {
+          "text": "Add mobility drills for hips, shoulders, and ankles"
+        },
+        {
+          "text": "Hold static stretches for 15 to 30 seconds without bouncing"
+        },
+        {
+          "text": "Consider yoga or a mobility routine on lighter days"
+        }
+      ]
+    },
+    {
+      "title": "Rest and Recovery",
+      "items": [
+        {
+          "text": "Schedule at least 1 to 2 rest or active-recovery days each week"
+        },
+        {
+          "text": "Aim for 7 to 9 hours of quality sleep per night"
+        },
+        {
+          "text": "Listen to your body and ease off if you feel run down or sore"
+        },
+        {
+          "text": "Use light walking or stretching on recovery days"
+        },
+        {
+          "text": "Avoid training through sharp pain and seek advice if it persists"
+        }
+      ]
+    },
+    {
+      "title": "Nutrition and Hydration",
+      "items": [
+        {
+          "text": "Eat balanced meals with protein, whole grains, and plenty of vegetables"
+        },
+        {
+          "text": "Include protein to support muscle repair and growth"
+        },
+        {
+          "text": "Stay hydrated before, during, and after workouts"
+        },
+        {
+          "text": "Have a light snack before training if you need energy"
+        },
+        {
+          "text": "Limit ultra-processed foods and sugary drinks most of the time"
+        }
+      ]
+    },
+    {
+      "title": "Track and Stay Consistent",
+      "items": [
+        {
+          "text": "Log your workouts and how you felt afterward"
+        },
+        {
+          "text": "Review your week to confirm every pillar was covered"
+        },
+        {
+          "text": "Adjust your plan if any area is consistently being skipped"
+        },
+        {
+          "text": "Celebrate progress and small wins to stay motivated"
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Consult your doctor before starting a new fitness program, especially with a health condition, injury, or pregnancy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many days a week should I work out?",
+      "a": "A balanced week often includes activity on most days: cardio spread across the week plus 2 or more strength sessions, with at least 1 to 2 rest or easy days. General guidance suggests at least 150 minutes of moderate activity weekly. Beginners can start with 3 days and build up."
+    },
+    {
+      "q": "What are the main pillars of fitness?",
+      "a": "Most well-rounded routines cover cardiovascular endurance, muscular strength, flexibility and mobility, and balance. Supporting habits like rest, sleep, hydration, and nutrition tie it all together. This checklist is organized around each of these pillars."
+    },
+    {
+      "q": "Can I get fit at home without equipment?",
+      "a": "Yes. Bodyweight moves like squats, push-ups, lunges, and planks build strength, while brisk walking, jogging, or jumping jacks cover cardio. Stretching and mobility work need no gear at all. Resistance bands or dumbbells are useful but optional."
+    },
+    {
+      "q": "How long until I see results?",
+      "a": "Many people notice improved energy and mood within a couple of weeks, with visible strength and endurance changes over 4 to 8 weeks of consistent training. Consistency matters far more than intensity, especially when you are starting out."
+    },
+    {
+      "q": "Is this checklist medical advice?",
+      "a": "No. This is general information only, not a substitute for personalized medical advice. Check with your doctor before starting a new fitness program, particularly if you have a health condition, an injury, or are pregnant."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fitness-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fitness-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fitness Checklist by ChecklistForge (https://checklistforge.com/checklist/fitness-checklist)",
+  "updated": "2026-10-17"
+}

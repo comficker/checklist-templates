@@ -1,0 +1,153 @@
+{
+  "id": "medicine-checklist",
+  "name": "Medicine Checklist",
+  "description": "A checklist for stocking and maintaining a well-organized home medicine cabinet with safe storage and current supplies.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "home",
+    "health",
+    "medical",
+    "medicine"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Pain, Fever and Aches",
+      "items": [
+        {
+          "text": "General pain and fever relief suitable for your household"
+        },
+        {
+          "text": "A reliable digital thermometer"
+        },
+        {
+          "text": "Hot or cold packs for sprains and aches"
+        },
+        {
+          "text": "Items for muscle aches or minor strains"
+        },
+        {
+          "text": "Separate child-appropriate options if you have kids",
+          "note": "Ask your pharmacist about suitable forms for children"
+        }
+      ]
+    },
+    {
+      "title": "Cold, Allergy and Stomach",
+      "items": [
+        {
+          "text": "Cold and cough comfort items for the season"
+        },
+        {
+          "text": "Allergy relief for sneezing and itching"
+        },
+        {
+          "text": "Antacids or stomach-settling items"
+        },
+        {
+          "text": "Oral rehydration supplies for stomach upsets"
+        },
+        {
+          "text": "Throat lozenges or soothing items"
+        }
+      ]
+    },
+    {
+      "title": "First-Aid Basics",
+      "items": [
+        {
+          "text": "Assorted adhesive bandages and gauze"
+        },
+        {
+          "text": "Antiseptic wipes or solution"
+        },
+        {
+          "text": "Antibiotic or wound-care ointment"
+        },
+        {
+          "text": "Medical tape and small scissors"
+        },
+        {
+          "text": "Tweezers and disposable gloves"
+        }
+      ]
+    },
+    {
+      "title": "Check and Refresh",
+      "items": [
+        {
+          "text": "Check every item's expiry date"
+        },
+        {
+          "text": "Discard anything expired or changed in look or smell"
+        },
+        {
+          "text": "Make a list of items to replace"
+        },
+        {
+          "text": "Restock anything running low"
+        },
+        {
+          "text": "Set a calendar reminder to review again in six months"
+        }
+      ]
+    },
+    {
+      "title": "Safe Storage",
+      "items": [
+        {
+          "text": "Keep medicines in a cool, dry place per the label"
+        },
+        {
+          "text": "Store everything out of reach of children and pets"
+        },
+        {
+          "text": "Use a locked cabinet or high shelf if children are around"
+        },
+        {
+          "text": "Keep items in their original labeled packaging"
+        },
+        {
+          "text": "Dispose of old medicine through a take-back program"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; ask your pharmacist or doctor about which items suit your household, correct use, and safe disposal, and follow their guidance",
+          "note": "Keep prescription medicines tracked and stored according to your doctor's instructions"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a home medicine cabinet contain?",
+      "a": "Keep general basics such as pain and fever relief, cold and allergy items, antiseptics and bandages, a thermometer, and rehydration supplies. Tailor it to your household's needs and ask your pharmacist what to include."
+    },
+    {
+      "q": "How often should I check medicine expiry dates?",
+      "a": "Review your cabinet at least twice a year. Remove anything expired or that has changed color, smell, or texture, and replace items so the cabinet stays ready when you need it."
+    },
+    {
+      "q": "Where is the best place to store medicines?",
+      "a": "A cool, dry, locked cabinet away from heat and humidity is best. A steamy bathroom is often a poor choice. Keep everything out of reach of children and pets, and follow each label's storage instructions."
+    },
+    {
+      "q": "How do I dispose of old medicine safely?",
+      "a": "Do not flush most medicines or toss them loose in the trash. Use a pharmacy take-back program or follow local disposal guidance, and ask your pharmacist if you are unsure how to dispose of a specific item."
+    },
+    {
+      "q": "Is this medicine checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep it inside or near your cabinet, and use it to restock and check expiry dates each season."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/medicine-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/medicine-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Medicine Checklist by ChecklistForge (https://checklistforge.com/checklist/medicine-checklist)",
+  "updated": "2026-10-17"
+}

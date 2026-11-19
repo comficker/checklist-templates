@@ -1,0 +1,168 @@
+{
+  "id": "study-checklist",
+  "name": "Study Checklist",
+  "description": "A study checklist for running one focused, effective study session from start to finish.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "college",
+    "study",
+    "focus",
+    "active-recall"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Set up your space",
+      "items": [
+        {
+          "text": "Choose a quiet, well-lit spot with room to spread out."
+        },
+        {
+          "text": "Clear the desk of clutter and unrelated items."
+        },
+        {
+          "text": "Put your phone on silent or in another room."
+        },
+        {
+          "text": "Gather notes, textbook, pens and water before you start."
+        },
+        {
+          "text": "Close unused tabs and apps on your laptop."
+        }
+      ]
+    },
+    {
+      "title": "Set goals for the session",
+      "items": [
+        {
+          "text": "Decide which subject or topic this session will cover."
+        },
+        {
+          "text": "Write one or two specific goals you can finish today."
+        },
+        {
+          "text": "Estimate how long each goal should take.",
+          "note": "Be realistic so you can actually complete it."
+        },
+        {
+          "text": "Note where you left off last time."
+        },
+        {
+          "text": "Set a timer for your first focus block."
+        }
+      ]
+    },
+    {
+      "title": "Study actively",
+      "items": [
+        {
+          "text": "Read a section, then close the book and recall the key points."
+        },
+        {
+          "text": "Turn notes into questions and quiz yourself out loud."
+        },
+        {
+          "text": "Work through practice problems before checking answers."
+        },
+        {
+          "text": "Explain the idea in your own words as if teaching it."
+        },
+        {
+          "text": "Make flashcards for facts and terms you keep missing."
+        },
+        {
+          "text": "Summarize each topic in a few bullet points from memory."
+        }
+      ]
+    },
+    {
+      "title": "Use spaced practice",
+      "items": [
+        {
+          "text": "Mix in quick review of material from earlier sessions."
+        },
+        {
+          "text": "Interleave related topics instead of one block at a time."
+        },
+        {
+          "text": "Schedule the next review of today's material in a day or two."
+        },
+        {
+          "text": "Revisit flashcards on a spaced schedule, not all at once."
+        },
+        {
+          "text": "Flag weak areas to study again sooner."
+        }
+      ]
+    },
+    {
+      "title": "Take effective breaks",
+      "items": [
+        {
+          "text": "Take a 5 to 10 minute break after each focus block."
+        },
+        {
+          "text": "Stand up, stretch or walk away from the screen."
+        },
+        {
+          "text": "Avoid starting anything hard to stop, like social media."
+        },
+        {
+          "text": "Drink water and have a light snack if needed."
+        },
+        {
+          "text": "Return on time when the break ends."
+        }
+      ]
+    },
+    {
+      "title": "Review and wrap up",
+      "items": [
+        {
+          "text": "Check off the goals you completed this session."
+        },
+        {
+          "text": "Recall the main things you learned without looking."
+        },
+        {
+          "text": "Note any questions or gaps to ask about or revisit."
+        },
+        {
+          "text": "Write down where to start next time."
+        },
+        {
+          "text": "Tidy your space so it is ready for the next session."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes a study session effective?",
+      "a": "An effective study session has a clear goal, a distraction-free space, active techniques like recall and practice problems instead of passive rereading, short timed breaks, and a quick review of what you learned at the end."
+    },
+    {
+      "q": "How is this different from an exam or test prep checklist?",
+      "a": "This study checklist covers one focused session. A test preparation checklist is a multi-day plan, and an exam checklist covers the day of the exam itself."
+    },
+    {
+      "q": "What is active recall and why does it work?",
+      "a": "Active recall means testing yourself to pull information from memory instead of rereading it. The effort of retrieving strengthens memory far more than reviewing, so it is one of the highest-impact study habits."
+    },
+    {
+      "q": "How long should a study session be?",
+      "a": "Most students focus best in blocks of 25 to 50 minutes followed by a 5 to 10 minute break. Use whatever block length keeps your attention and repeat it for a few cycles."
+    },
+    {
+      "q": "Can I download this study checklist as a PDF?",
+      "a": "Yes. You can print it for your desk or download it as a PDF to your phone so the same routine works at home, the library or anywhere you study."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/study-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/study-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Study Checklist by ChecklistForge (https://checklistforge.com/checklist/study-checklist)",
+  "updated": "2026-10-17"
+}

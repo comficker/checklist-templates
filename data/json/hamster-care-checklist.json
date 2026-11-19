@@ -1,0 +1,164 @@
+{
+  "id": "hamster-care-checklist",
+  "name": "Hamster Care Checklist",
+  "description": "A hamster care checklist covering cage setup, bedding, diet, the wheel, cleaning and handling.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "pet-care",
+    "hamsters",
+    "hamster-care",
+    "small-pets"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Cage & Setup",
+      "items": [
+        {
+          "text": "Choose a cage with a large continuous floor area",
+          "note": "Bigger than typical starter cages; secure against escapes"
+        },
+        {
+          "text": "Position the cage away from drafts, direct sun and noise"
+        },
+        {
+          "text": "Add a hideout or sleeping house"
+        },
+        {
+          "text": "Include a sand bath for grooming"
+        },
+        {
+          "text": "Keep the cage out of reach of other pets"
+        }
+      ]
+    },
+    {
+      "title": "Bedding & Substrate",
+      "items": [
+        {
+          "text": "Use deep, dust-free bedding suitable for burrowing"
+        },
+        {
+          "text": "Provide safe nesting material such as plain paper"
+        },
+        {
+          "text": "Avoid pine and cedar shavings",
+          "note": "Their oils can cause respiratory irritation"
+        },
+        {
+          "text": "Spot-remove soiled and damp bedding daily"
+        }
+      ]
+    },
+    {
+      "title": "Diet & Water",
+      "items": [
+        {
+          "text": "Provide a quality hamster food mix or pellets"
+        },
+        {
+          "text": "Offer small amounts of safe fresh vegetables"
+        },
+        {
+          "text": "Give occasional protein or treats in moderation"
+        },
+        {
+          "text": "Supply constant fresh water in a bottle or bowl"
+        },
+        {
+          "text": "Remove uneaten fresh food before it spoils"
+        }
+      ]
+    },
+    {
+      "title": "Exercise & Enrichment",
+      "items": [
+        {
+          "text": "Provide a correctly sized solid-surface wheel"
+        },
+        {
+          "text": "Add tunnels, chews and climbing items"
+        },
+        {
+          "text": "Offer foraging by scattering some food in bedding"
+        },
+        {
+          "text": "Allow supervised time in a safe exercise area"
+        },
+        {
+          "text": "Provide safe chew toys to manage growing teeth"
+        }
+      ]
+    },
+    {
+      "title": "Cleaning Routine",
+      "items": [
+        {
+          "text": "Spot-clean soiled bedding and the toilet corner daily"
+        },
+        {
+          "text": "Wash the water bottle and food bowl regularly"
+        },
+        {
+          "text": "Clean the wheel and accessories weekly"
+        },
+        {
+          "text": "Do a partial deep clean while preserving some old bedding",
+          "note": "Keeping some scent reduces stress"
+        },
+        {
+          "text": "Refresh the sand bath as needed"
+        }
+      ]
+    },
+    {
+      "title": "Handling & Health",
+      "items": [
+        {
+          "text": "Let a new hamster settle before regular handling"
+        },
+        {
+          "text": "Build trust gradually with calm, low handling"
+        },
+        {
+          "text": "Check teeth, eyes, nose and coat for problems"
+        },
+        {
+          "text": "Watch for wet tail, lethargy or weight loss"
+        },
+        {
+          "text": "Consult a small-animal vet for any health concern"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What size cage does a hamster need?",
+      "a": "Hamsters need much more floor space than most starter cages offer, with deep bedding for burrowing. Choose the largest continuous floor area you can, and avoid small wire cages with shallow bases."
+    },
+    {
+      "q": "What should I feed a hamster?",
+      "a": "Offer a quality hamster mix or pellets as a base, with small amounts of fresh vegetables and occasional protein, plus constant fresh water. Avoid sugary, salty or human junk foods and confirm safe extras for your species."
+    },
+    {
+      "q": "Do hamsters need a wheel?",
+      "a": "Yes. A correctly sized, solid-surface wheel lets a hamster run safely each night. The wheel should be large enough that the back stays flat, not arched, and have no rungs or gaps that can trap feet."
+    },
+    {
+      "q": "How do I handle a hamster without stressing it?",
+      "a": "Let a new hamster settle for a few days, then build trust slowly with a calm voice and treats. Handle gently and low to the ground, and for health or behavior concerns consult a vet familiar with small animals."
+    },
+    {
+      "q": "Can I print this hamster care checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it near the cage and tick off daily and weekly tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hamster-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hamster-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hamster Care Checklist by ChecklistForge (https://checklistforge.com/checklist/hamster-care-checklist)",
+  "updated": "2026-10-17"
+}

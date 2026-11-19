@@ -1,0 +1,172 @@
+{
+  "id": "product-launch-checklist",
+  "name": "Product Launch Checklist",
+  "description": "A product launch checklist covering positioning, assets, pricing, launch day and post-launch follow-up.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "campaigns",
+    "strategy",
+    "product-launch"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Positioning and messaging",
+      "items": [
+        {
+          "text": "Define your target customer and the core problem you solve."
+        },
+        {
+          "text": "Write a clear positioning statement and value proposition."
+        },
+        {
+          "text": "List your key differentiators against alternatives."
+        },
+        {
+          "text": "Craft the headline message and supporting talking points."
+        },
+        {
+          "text": "Agree on the product name, tagline and key benefits."
+        }
+      ]
+    },
+    {
+      "title": "Pricing and offer",
+      "items": [
+        {
+          "text": "Set pricing and any launch-period discount or bonus."
+        },
+        {
+          "text": "Define the packages, tiers or bundles you will offer."
+        },
+        {
+          "text": "Confirm checkout, billing and refund processes work."
+        },
+        {
+          "text": "Prepare answers to likely pricing and value objections."
+        },
+        {
+          "text": "Set a goal for launch sales or signups."
+        }
+      ]
+    },
+    {
+      "title": "Assets and content",
+      "items": [
+        {
+          "text": "Build or update the product or landing page."
+        },
+        {
+          "text": "Prepare product images, demo video and screenshots."
+        },
+        {
+          "text": "Write the launch announcement and email sequence."
+        },
+        {
+          "text": "Create social posts and any paid ad creative."
+        },
+        {
+          "text": "Prepare a press kit or media outreach list if relevant."
+        },
+        {
+          "text": "Draft FAQ and support documentation for new customers."
+        }
+      ]
+    },
+    {
+      "title": "Channels and outreach",
+      "items": [
+        {
+          "text": "Choose the channels you will use to reach your audience."
+        },
+        {
+          "text": "Warm up your email list and audience before the date."
+        },
+        {
+          "text": "Line up partners, influencers or affiliates to amplify."
+        },
+        {
+          "text": "Schedule announcement posts and emails in advance."
+        },
+        {
+          "text": "Brief your sales and support teams on the launch."
+        }
+      ]
+    },
+    {
+      "title": "Launch day",
+      "items": [
+        {
+          "text": "Confirm the product page and checkout are live and working."
+        },
+        {
+          "text": "Send the launch email to your list."
+        },
+        {
+          "text": "Publish your social and community announcements."
+        },
+        {
+          "text": "Turn on any scheduled ads and monitor early performance."
+        },
+        {
+          "text": "Watch for and respond quickly to questions and issues."
+        },
+        {
+          "text": "Track sales and signups against your goal in real time."
+        }
+      ]
+    },
+    {
+      "title": "Post-launch follow-up",
+      "items": [
+        {
+          "text": "Thank early customers and request reviews or testimonials."
+        },
+        {
+          "text": "Monitor support tickets and fix any urgent issues fast."
+        },
+        {
+          "text": "Follow up with leads who showed interest but did not buy."
+        },
+        {
+          "text": "Analyze launch results against your goals."
+        },
+        {
+          "text": "Document lessons learned for your next launch."
+        },
+        {
+          "text": "Plan ongoing marketing to sustain post-launch momentum."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a product launch checklist include?",
+      "a": "It should cover positioning and messaging, pricing and offers, marketing and sales assets, the channels you will use, a coordinated launch-day plan, and post-launch follow-up to gather feedback and sustain momentum."
+    },
+    {
+      "q": "How far in advance should I start a product launch?",
+      "a": "Start planning several weeks to a few months ahead depending on scope. Use the planning and asset sections early so launch day is about execution, not last-minute creation."
+    },
+    {
+      "q": "Is this product launch checklist good for beginners?",
+      "a": "Yes. It lays out each phase in clear steps, so a first-time founder or small business can run a coordinated launch without missing positioning, assets or follow-up."
+    },
+    {
+      "q": "Can I download this product launch checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF to coordinate your marketing, sales and product teams during the launch."
+    },
+    {
+      "q": "What should I do after launch day?",
+      "a": "After launch, monitor sales and feedback, respond to questions and reviews, fix early issues quickly, thank early customers, and analyze results to plan your next campaign."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/product-launch-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/product-launch-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Product Launch Checklist by ChecklistForge (https://checklistforge.com/checklist/product-launch-checklist)",
+  "updated": "2026-10-17"
+}

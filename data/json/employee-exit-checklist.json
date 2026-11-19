@@ -1,0 +1,187 @@
+{
+  "id": "employee-exit-checklist",
+  "name": "Employee Exit Checklist",
+  "description": "An exit-day HR administration checklist for final pay, benefits, the exit interview, and returned assets.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "offboarding",
+    "exit-interview",
+    "payroll"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Confirm Final Pay",
+      "items": [
+        {
+          "text": "Calculate the final paycheck including all hours worked"
+        },
+        {
+          "text": "Add accrued, unused vacation or leave where applicable",
+          "note": "Payout rules vary; follow local laws and confirm with payroll."
+        },
+        {
+          "text": "Include owed reimbursements, commissions, or bonuses"
+        },
+        {
+          "text": "Apply any authorized and lawful deductions"
+        },
+        {
+          "text": "Confirm the final pay date and delivery method"
+        },
+        {
+          "text": "Provide pay stubs and year-end tax documents as required"
+        }
+      ]
+    },
+    {
+      "title": "Settle Benefits",
+      "items": [
+        {
+          "text": "Determine the last day of benefits coverage"
+        },
+        {
+          "text": "Explain continuation or conversion options available"
+        },
+        {
+          "text": "Process retirement or savings plan distributions or transfers"
+        },
+        {
+          "text": "Cancel or transfer life and disability coverage as needed"
+        },
+        {
+          "text": "Provide written details on how benefits end and next steps",
+          "note": "Benefit rules differ by region; follow local laws."
+        },
+        {
+          "text": "Remove the employee from benefit provider portals"
+        }
+      ]
+    },
+    {
+      "title": "Conduct the Exit Interview",
+      "items": [
+        {
+          "text": "Schedule the interview for or before the last working day"
+        },
+        {
+          "text": "Use a consistent set of questions about role and culture"
+        },
+        {
+          "text": "Ask why the employee is leaving and what could improve"
+        },
+        {
+          "text": "Create a safe, neutral space for honest feedback"
+        },
+        {
+          "text": "Record themes and notable comments for later review"
+        },
+        {
+          "text": "Thank the employee for their feedback and contributions",
+          "note": "Aggregate feedback over time to spot patterns."
+        }
+      ]
+    },
+    {
+      "title": "Collect Company Assets",
+      "items": [
+        {
+          "text": "Retrieve the laptop, phone, and any issued devices"
+        },
+        {
+          "text": "Collect badges, keys, fobs, and parking passes"
+        },
+        {
+          "text": "Recover company credit cards and corporate accounts"
+        },
+        {
+          "text": "Confirm return of documents, files, and confidential materials"
+        },
+        {
+          "text": "Update the asset register to mark items as returned"
+        },
+        {
+          "text": "Note any unreturned items and the recovery plan",
+          "note": "Document outstanding assets in writing."
+        }
+      ]
+    },
+    {
+      "title": "Complete HR Administration",
+      "items": [
+        {
+          "text": "Confirm and file the resignation or termination letter"
+        },
+        {
+          "text": "Update the HR system to mark the employee inactive"
+        },
+        {
+          "text": "Process any agreed severance or separation paperwork"
+        },
+        {
+          "text": "Remind the employee of confidentiality and post-employment terms"
+        },
+        {
+          "text": "Provide employment verification or reference details if offered"
+        },
+        {
+          "text": "Archive the personnel file per your retention policy",
+          "note": "Retention periods vary; follow local laws and HR guidance."
+        }
+      ]
+    },
+    {
+      "title": "Final Day Wrap-Up",
+      "items": [
+        {
+          "text": "Verify all access has been or will be revoked on schedule"
+        },
+        {
+          "text": "Confirm desk or workspace is cleared and personal items collected"
+        },
+        {
+          "text": "Update internal directories and notify reception or security"
+        },
+        {
+          "text": "Provide the employee with their final documents in writing"
+        },
+        {
+          "text": "Share approved contact details for post-exit questions"
+        },
+        {
+          "text": "Give a respectful send-off and wish them well",
+          "note": "A positive exit supports your reputation and rehires."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an employee exit checklist?",
+      "a": "It is the HR administration list completed around an employee's last day, covering final pay, benefits, the exit interview, and returned assets. It ensures the employment relationship closes correctly and on the record."
+    },
+    {
+      "q": "What should the final paycheck include?",
+      "a": "It typically covers regular wages, accrued unused leave, and any owed expenses or bonuses, minus authorized deductions. Pay timing and rules vary by location, so follow local laws and confirm with payroll."
+    },
+    {
+      "q": "Why conduct an exit interview?",
+      "a": "Exit interviews surface honest feedback about the role, management, and culture that current employees may hesitate to share. The insights help reduce future turnover and improve the employee experience."
+    },
+    {
+      "q": "How is this different from an offboarding checklist?",
+      "a": "This exit checklist covers the final-day HR administration like pay, benefits, and asset returns. Offboarding is the wider process that also includes knowledge transfer and access revocation across the notice period."
+    },
+    {
+      "q": "Can I print this employee exit checklist?",
+      "a": "Yes. Download the printable PDF, complete each item around the last working day, and file it in the employee record so every exit is handled consistently and documented."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/employee-exit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/employee-exit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Employee Exit Checklist by ChecklistForge (https://checklistforge.com/checklist/employee-exit-checklist)",
+  "updated": "2026-10-17"
+}

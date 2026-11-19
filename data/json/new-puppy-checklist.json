@@ -1,0 +1,182 @@
+{
+  "id": "new-puppy-checklist",
+  "name": "New Puppy Checklist",
+  "description": "A new puppy checklist for bringing home a puppy, covering the first day and week of supplies, vet care, crate setup, and schedule.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "dogs",
+    "new-dog",
+    "puppy"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Puppy supplies to buy first",
+      "items": [
+        {
+          "text": "Pick up puppy food and appropriately sized food and water bowls."
+        },
+        {
+          "text": "Get a crate, a soft bed, and washable bedding."
+        },
+        {
+          "text": "Buy a collar with an ID tag, plus a leash and harness."
+        },
+        {
+          "text": "Stock puppy pads or potty supplies and enzyme cleaner for accidents."
+        },
+        {
+          "text": "Choose safe chew toys to soothe teething."
+        },
+        {
+          "text": "Add grooming basics like a soft brush and puppy-safe shampoo."
+        }
+      ]
+    },
+    {
+      "title": "Puppy-proofing the home",
+      "items": [
+        {
+          "text": "Move cords, shoes, and small swallowable items out of reach."
+        },
+        {
+          "text": "Secure toxic plants, foods, trash, and chemicals."
+        },
+        {
+          "text": "Block stairs and off-limits rooms with gates."
+        },
+        {
+          "text": "Set up a confined, easy-to-clean space for unsupervised time."
+        },
+        {
+          "text": "Check the yard and fences for gaps a puppy could squeeze through."
+        },
+        {
+          "text": "Designate a quiet spot for the crate and naps."
+        }
+      ]
+    },
+    {
+      "title": "Crate and potty setup",
+      "items": [
+        {
+          "text": "Size the crate so your puppy can stand, turn, and lie down comfortably."
+        },
+        {
+          "text": "Make the crate positive with treats, toys, and short sessions."
+        },
+        {
+          "text": "Choose a consistent potty spot and route outside.",
+          "note": "Take young puppies out very frequently, including after meals and naps."
+        },
+        {
+          "text": "Reward potty success immediately with praise or a treat."
+        },
+        {
+          "text": "Keep enzyme cleaner ready for the accidents that will happen."
+        },
+        {
+          "text": "Avoid leaving a young puppy crated longer than they can hold it."
+        }
+      ]
+    },
+    {
+      "title": "First vet visit",
+      "items": [
+        {
+          "text": "Schedule a wellness exam within the first few days home."
+        },
+        {
+          "text": "Bring any breeder or shelter records and a stool sample if asked."
+        },
+        {
+          "text": "Ask about the puppy vaccination schedule and timing."
+        },
+        {
+          "text": "Discuss deworming and flea and tick prevention."
+        },
+        {
+          "text": "Confirm the right food and feeding amounts for your puppy's age."
+        },
+        {
+          "text": "Ask when to plan spay or neuter and microchipping."
+        }
+      ]
+    },
+    {
+      "title": "First-week routine",
+      "items": [
+        {
+          "text": "Feed small, frequent meals at consistent times."
+        },
+        {
+          "text": "Offer frequent potty breaks and reward success."
+        },
+        {
+          "text": "Balance short play and handling with plenty of naps."
+        },
+        {
+          "text": "Introduce the crate and alone-time in tiny, positive steps."
+        },
+        {
+          "text": "Keep introductions to people and pets calm and gradual."
+        },
+        {
+          "text": "Start gentle name recognition and basic cues."
+        }
+      ]
+    },
+    {
+      "title": "Health and safety basics",
+      "items": [
+        {
+          "text": "Watch appetite, energy, and stool, and note any concerns."
+        },
+        {
+          "text": "Keep your puppy warm, hydrated, and rested."
+        },
+        {
+          "text": "Limit exposure to unknown dogs until vaccinations are underway."
+        },
+        {
+          "text": "Handle paws, ears, and mouth gently to build tolerance for grooming."
+        },
+        {
+          "text": "Save your vet and nearest emergency clinic numbers."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your puppy's vaccinations, diet, and health."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need to buy before bringing a puppy home?",
+      "a": "Stock food and bowls, a crate and bed, a collar with ID, a leash and harness, puppy pads or potty supplies, safe chew toys, and cleanup supplies. This new puppy checklist groups the must-haves so you are ready before pickup day."
+    },
+    {
+      "q": "How do I set up a crate for a new puppy?",
+      "a": "Choose a crate just big enough for your puppy to stand, turn, and lie down, add soft bedding, and place it in a calm spot. Make it positive with treats and short sessions. Crate setup eases potty training and gives your puppy a safe den."
+    },
+    {
+      "q": "What should the first week with a puppy look like?",
+      "a": "Keep it calm and predictable with frequent potty breaks, small frequent meals, short play, plenty of naps, and gentle handling. Limit overwhelming experiences and start a simple routine. Be home as much as you can to help your puppy settle."
+    },
+    {
+      "q": "How is this different from the puppy checklist?",
+      "a": "This new puppy checklist covers the first day and week of bringing a puppy home. Our broader Puppy Checklist follows the whole first year with vaccination, training, and socialization milestones."
+    },
+    {
+      "q": "Can I download this new puppy checklist as a PDF?",
+      "a": "Yes. You can print it for the fridge or download it as a PDF for shopping and vet trips, so new owners have the first-week essentials in hand."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-puppy-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-puppy-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Puppy Checklist by ChecklistForge (https://checklistforge.com/checklist/new-puppy-checklist)",
+  "updated": "2026-10-17"
+}

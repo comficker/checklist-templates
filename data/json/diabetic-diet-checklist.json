@@ -1,0 +1,173 @@
+{
+  "id": "diabetic-diet-checklist",
+  "name": "Diabetic Diet Checklist",
+  "description": "A blood-sugar-friendly eating checklist covering carb awareness, fiber, portion sizes and balanced plates.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "family",
+    "healthy-eating",
+    "diabetes",
+    "nutrition",
+    "blood-sugar"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Build a Balanced Plate",
+      "items": [
+        {
+          "text": "Fill half your plate with non-starchy vegetables"
+        },
+        {
+          "text": "Add a portion of lean protein (about a quarter of the plate)"
+        },
+        {
+          "text": "Include a controlled portion of carbs (about a quarter of the plate)"
+        },
+        {
+          "text": "Add a small amount of healthy fat such as olive oil or avocado"
+        },
+        {
+          "text": "Pair carbs with protein, fat and fiber",
+          "note": "This can slow how quickly blood sugar rises after a meal."
+        },
+        {
+          "text": "Eat meals at fairly regular times each day"
+        }
+      ]
+    },
+    {
+      "title": "Be Carb Aware",
+      "items": [
+        {
+          "text": "Notice the carb-containing foods at each meal (grains, fruit, starchy veg, dairy, sweets)"
+        },
+        {
+          "text": "Choose whole, less refined carbs over white bread, rice and pastries"
+        },
+        {
+          "text": "Keep carb portions consistent from day to day"
+        },
+        {
+          "text": "Check labels for total carbohydrate, not just sugar",
+          "note": "Total carbs affect blood glucose, including starches."
+        },
+        {
+          "text": "Spread carbs across meals rather than loading them into one"
+        }
+      ]
+    },
+    {
+      "title": "Choose More Fiber",
+      "items": [
+        {
+          "text": "Eat plenty of non-starchy vegetables at meals"
+        },
+        {
+          "text": "Include beans, lentils or chickpeas regularly"
+        },
+        {
+          "text": "Pick whole grains like oats, brown rice or barley"
+        },
+        {
+          "text": "Choose whole fruit over juice for the fiber"
+        },
+        {
+          "text": "Add nuts and seeds in small portions",
+          "note": "Fiber supports fullness and steadier blood sugar."
+        }
+      ]
+    },
+    {
+      "title": "Limit Added Sugar & Refined Carbs",
+      "items": [
+        {
+          "text": "Swap sugary drinks for water or unsweetened options"
+        },
+        {
+          "text": "Keep sweets, pastries and candy as occasional treats"
+        },
+        {
+          "text": "Limit white bread, white rice and refined cereals"
+        },
+        {
+          "text": "Watch for hidden sugar in sauces, dressings and snacks"
+        },
+        {
+          "text": "Choose plain yogurt and add fruit instead of pre-sweetened",
+          "note": "Sweetened products can add several teaspoons of sugar."
+        }
+      ]
+    },
+    {
+      "title": "Smart Daily Habits",
+      "items": [
+        {
+          "text": "Watch portion sizes using a smaller plate or measuring at first"
+        },
+        {
+          "text": "Stay hydrated with water through the day"
+        },
+        {
+          "text": "Plan meals and snacks ahead to avoid impulsive choices"
+        },
+        {
+          "text": "Limit alcohol and never drink on an empty stomach"
+        },
+        {
+          "text": "Pair eating habits with regular physical activity",
+          "note": "Activity can help your body use glucose more effectively."
+        }
+      ]
+    },
+    {
+      "title": "Work With Your Care Team",
+      "items": [
+        {
+          "text": "Confirm your carb goals and blood-sugar targets with your provider"
+        },
+        {
+          "text": "Ask how meal timing fits with any medication or insulin"
+        },
+        {
+          "text": "Monitor blood sugar as advised and note how foods affect you"
+        },
+        {
+          "text": "Use this printable checklist as a starting point to discuss"
+        },
+        {
+          "text": "Important: this is general information, not medical or dietary advice",
+          "note": "Diabetes is a medical condition — consult your doctor or a registered dietitian for a personalized plan."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a diabetic diet?",
+      "a": "There is no single diabetic diet. In general it means eating balanced, regular meals with controlled carbohydrate portions, plenty of non-starchy vegetables, lean protein, healthy fats and fiber, while limiting added sugar and refined carbs. Your exact plan should be set with a healthcare professional."
+    },
+    {
+      "q": "How do carbs affect blood sugar?",
+      "a": "Carbohydrates have the biggest effect on blood glucose because they break down into sugar. Being aware of how many carbs you eat, spacing them through the day and choosing high-fiber, less refined sources can help keep levels steadier."
+    },
+    {
+      "q": "What is the balanced plate method?",
+      "a": "A common approach fills half your plate with non-starchy vegetables, one quarter with lean protein and one quarter with carbohydrate foods like whole grains or starchy veg, plus a little healthy fat. It is a simple way to manage portions without counting everything."
+    },
+    {
+      "q": "Can I print this diabetic diet checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep on the fridge or take shopping, ticking off habits that fit your personalized plan."
+    },
+    {
+      "q": "Is this medical or dietary advice?",
+      "a": "No. This is general information only and is not medical or dietary advice. Diabetes is a medical condition, so always consult your doctor or a registered dietitian for a plan, medication timing and blood-sugar targets tailored to you."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/diabetic-diet-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/diabetic-diet-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Diabetic Diet Checklist by ChecklistForge (https://checklistforge.com/checklist/diabetic-diet-checklist)",
+  "updated": "2026-10-17"
+}

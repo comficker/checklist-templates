@@ -1,0 +1,183 @@
+{
+  "id": "pet-checklist",
+  "name": "Pet Checklist",
+  "description": "A complete pet checklist covering everything a new owner needs to prepare for, supply, and care for a new pet.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "pet-care",
+    "cats",
+    "dogs",
+    "new-pet"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Before you bring a pet home",
+      "items": [
+        {
+          "text": "Research the species and breed to match energy, space, and time to your lifestyle."
+        },
+        {
+          "text": "Confirm housing rules, pet deposits, or landlord approval if you rent."
+        },
+        {
+          "text": "Budget for ongoing costs like food, vet visits, and emergencies."
+        },
+        {
+          "text": "Agree on who handles feeding, walks, and cleanup in your household."
+        },
+        {
+          "text": "Choose a veterinarian and note the nearest emergency clinic.",
+          "note": "Save both numbers in your phone before pickup day."
+        },
+        {
+          "text": "Set a realistic arrival date when you can be home to help your pet settle."
+        }
+      ]
+    },
+    {
+      "title": "Pet-proofing your home",
+      "items": [
+        {
+          "text": "Secure or remove toxic plants, foods, and household chemicals."
+        },
+        {
+          "text": "Tuck away electrical cords, small objects, and choking hazards."
+        },
+        {
+          "text": "Block off unsafe rooms, stairs, or balconies as needed."
+        },
+        {
+          "text": "Set up a quiet, defined space where your pet can rest undisturbed."
+        },
+        {
+          "text": "Secure trash cans and store medications out of reach."
+        },
+        {
+          "text": "Check fences, screens, and doors for gaps an animal could slip through."
+        }
+      ]
+    },
+    {
+      "title": "Essential supplies",
+      "items": [
+        {
+          "text": "Food and water bowls suited to your pet's size."
+        },
+        {
+          "text": "Age- and species-appropriate food recommended for your pet."
+        },
+        {
+          "text": "A comfortable bed and a safe carrier or crate for transport."
+        },
+        {
+          "text": "Collar, harness, leash, or species-appropriate containment."
+        },
+        {
+          "text": "Toys and enrichment to keep your pet stimulated."
+        },
+        {
+          "text": "Grooming basics and cleanup supplies for accidents."
+        }
+      ]
+    },
+    {
+      "title": "Identification and safety",
+      "items": [
+        {
+          "text": "Fit a collar with an ID tag showing your phone number."
+        },
+        {
+          "text": "Ask your veterinarian about microchipping and register your details."
+        },
+        {
+          "text": "Take clear photos of your pet in case they ever go missing."
+        },
+        {
+          "text": "Keep a recent record of weight, markings, and any medical notes."
+        },
+        {
+          "text": "Note your pet's name, age, and habits for sitters or emergencies."
+        },
+        {
+          "text": "Childproof or pet-gate areas to prevent escapes during the first days."
+        }
+      ]
+    },
+    {
+      "title": "First vet visit and health",
+      "items": [
+        {
+          "text": "Book a wellness exam within the first week home."
+        },
+        {
+          "text": "Bring any paperwork, records, or a stool sample if requested."
+        },
+        {
+          "text": "Discuss vaccinations and a schedule that fits your pet's age."
+        },
+        {
+          "text": "Ask about parasite prevention for fleas, ticks, and worms."
+        },
+        {
+          "text": "Talk through spay or neuter options and timing."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your pet's health, diet, and vaccination needs."
+        }
+      ]
+    },
+    {
+      "title": "Building a daily routine",
+      "items": [
+        {
+          "text": "Set consistent feeding times so your pet knows what to expect."
+        },
+        {
+          "text": "Plan exercise, walks, or play suited to your pet's energy."
+        },
+        {
+          "text": "Establish bathroom or litter habits with a predictable schedule."
+        },
+        {
+          "text": "Add daily handling and bonding time to build trust."
+        },
+        {
+          "text": "Keep grooming and cleanup on a simple regular rhythm."
+        },
+        {
+          "text": "Watch eating, drinking, and behavior, and note any changes for the vet."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a new pet owner need first?",
+      "a": "Start with the basics: food and water bowls, age-appropriate food, a bed, a way to contain or confine your pet safely, ID, and a first vet appointment. This pet checklist groups these so nothing essential is missed before pickup day."
+    },
+    {
+      "q": "How soon should a new pet see a veterinarian?",
+      "a": "Schedule a wellness visit within the first week of bringing a pet home, or sooner if anything seems off. Your veterinarian will check overall health and set up vaccinations and parasite prevention. Always follow their guidance on timing and care."
+    },
+    {
+      "q": "How is this different from the pet care checklist?",
+      "a": "This pet checklist focuses on getting set up as a new owner. Our Pet Care Checklist covers the ongoing daily and weekly routine once your pet is settled. Many owners use both together."
+    },
+    {
+      "q": "Does this work for any kind of pet?",
+      "a": "Yes, it covers the universal essentials for most companion animals. For species-specific steps, pair it with our dog, cat, puppy, or kitten checklists, which add details like crate training, litter setup, and breed-specific needs."
+    },
+    {
+      "q": "Can I download this pet checklist as a PDF?",
+      "a": "Yes. You can print it for the fridge or download it as a PDF for shopping and vet trips, so new owners always have the essentials on hand."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-checklist)",
+  "updated": "2026-10-17"
+}

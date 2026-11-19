@@ -1,0 +1,190 @@
+{
+  "id": "small-business-checklist",
+  "name": "Small Business Checklist",
+  "description": "An ongoing checklist for running and managing an established small business.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "business",
+    "small-business",
+    "operations",
+    "finance"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Operations and admin",
+      "items": [
+        {
+          "text": "Review and update standard operating procedures for key tasks."
+        },
+        {
+          "text": "Check inventory or supply levels and reorder as needed."
+        },
+        {
+          "text": "Confirm equipment and tools are maintained and working."
+        },
+        {
+          "text": "Renew software subscriptions and review what you actually use."
+        },
+        {
+          "text": "Back up business data and verify the backup is recoverable."
+        },
+        {
+          "text": "Clear outstanding admin tasks and tidy your filing system."
+        },
+        {
+          "text": "Review supplier performance and renegotiate terms where possible."
+        }
+      ]
+    },
+    {
+      "title": "Finance and bookkeeping",
+      "items": [
+        {
+          "text": "Reconcile bank accounts against your bookkeeping records."
+        },
+        {
+          "text": "Send invoices promptly and chase overdue payments."
+        },
+        {
+          "text": "Pay bills and suppliers on time to protect relationships."
+        },
+        {
+          "text": "Review cash flow and forecast the next few months."
+        },
+        {
+          "text": "Set aside funds for tax obligations as you earn.",
+          "note": "Tax rules and rates vary by country and state — confirm with your authority."
+        },
+        {
+          "text": "Compare actual income and expenses against your budget."
+        },
+        {
+          "text": "Review pricing and margins to make sure you stay profitable."
+        }
+      ]
+    },
+    {
+      "title": "Legal, insurance and compliance",
+      "items": [
+        {
+          "text": "Confirm licenses and permits are current and renewed on time.",
+          "note": "Requirements vary by jurisdiction — check your official government authority."
+        },
+        {
+          "text": "Review business insurance coverage against your current risks."
+        },
+        {
+          "text": "Keep contracts and key agreements organized and up to date."
+        },
+        {
+          "text": "File required tax and regulatory returns by their deadlines."
+        },
+        {
+          "text": "Check that data and privacy practices meet applicable rules."
+        },
+        {
+          "text": "Document important records and store them securely."
+        }
+      ]
+    },
+    {
+      "title": "Marketing and sales",
+      "items": [
+        {
+          "text": "Review which marketing channels bring you the best customers."
+        },
+        {
+          "text": "Publish fresh content or offers to stay visible to your audience."
+        },
+        {
+          "text": "Update your website and listings with current information."
+        },
+        {
+          "text": "Request and respond to customer reviews."
+        },
+        {
+          "text": "Follow up with past customers to encourage repeat business."
+        },
+        {
+          "text": "Track leads and conversion to see what's working."
+        },
+        {
+          "text": "Plan promotions around upcoming busy or slow periods."
+        }
+      ]
+    },
+    {
+      "title": "Customers and service",
+      "items": [
+        {
+          "text": "Respond to customer enquiries and complaints promptly."
+        },
+        {
+          "text": "Collect feedback and look for recurring issues to fix."
+        },
+        {
+          "text": "Review service or delivery times and quality."
+        },
+        {
+          "text": "Update FAQs and self-service resources for common questions."
+        },
+        {
+          "text": "Reward or recognize loyal customers."
+        }
+      ]
+    },
+    {
+      "title": "Team and growth",
+      "items": [
+        {
+          "text": "Check in with team members and address any concerns."
+        },
+        {
+          "text": "Confirm payroll and any benefits are processed correctly.",
+          "note": "Employment obligations vary by jurisdiction — verify locally."
+        },
+        {
+          "text": "Schedule training to close skill gaps."
+        },
+        {
+          "text": "Review staffing levels against your workload."
+        },
+        {
+          "text": "Set goals for the coming quarter and track progress."
+        },
+        {
+          "text": "Identify one improvement to test and grow the business."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I work through this checklist?",
+      "a": "Treat most items as a monthly review, with finance and compliance tasks revisited monthly or quarterly. Some items, like backups and customer follow-up, are best done weekly. Adjust the cadence to your workload."
+    },
+    {
+      "q": "I'm a solo owner — is this still useful?",
+      "a": "Yes. Solo owners benefit most from a routine because there's no one else to catch gaps. Skip team items if they don't apply and focus on operations, finance and marketing."
+    },
+    {
+      "q": "How do I keep my finances healthy as a small business?",
+      "a": "Reconcile accounts regularly, separate business and personal money, watch cash flow closely, and set aside funds for taxes. The finance section here turns those habits into a repeatable routine."
+    },
+    {
+      "q": "Does this cover legal and tax requirements?",
+      "a": "It includes general reminders such as renewing licenses and filing on time. Specific legal and tax obligations vary by country and state, so confirm details with your official government authority or a qualified professional."
+    },
+    {
+      "q": "Can I download this as a printable PDF?",
+      "a": "Yes. Print the checklist for your wall or download the PDF to reuse each month and share with your team or accountant."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/small-business-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/small-business-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Small Business Checklist by ChecklistForge (https://checklistforge.com/checklist/small-business-checklist)",
+  "updated": "2026-10-17"
+}

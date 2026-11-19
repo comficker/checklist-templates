@@ -1,0 +1,201 @@
+{
+  "id": "grocery-checklist",
+  "name": "Grocery Checklist",
+  "description": "A master grocery shopping list organized by aisle to make every trip faster and complete.",
+  "category": "food-kitchen",
+  "category_name": "Food & Kitchen",
+  "tags": [
+    "budget",
+    "groceries",
+    "meal-prep",
+    "family",
+    "shopping-list"
+  ],
+  "item_count": 40,
+  "sections": [
+    {
+      "title": "Produce",
+      "items": [
+        {
+          "text": "Leafy greens such as spinach, lettuce, or kale"
+        },
+        {
+          "text": "Everyday vegetables: onions, carrots, peppers, broccoli"
+        },
+        {
+          "text": "Tomatoes, cucumbers, and salad add-ins"
+        },
+        {
+          "text": "Bananas, apples, and seasonal fruit"
+        },
+        {
+          "text": "Berries or citrus for snacking",
+          "note": "Buy only what you'll eat in a few days to avoid spoilage."
+        },
+        {
+          "text": "Potatoes, garlic, and fresh herbs"
+        }
+      ]
+    },
+    {
+      "title": "Dairy and Eggs",
+      "items": [
+        {
+          "text": "Milk or a plant-based alternative"
+        },
+        {
+          "text": "Eggs"
+        },
+        {
+          "text": "Butter or spread"
+        },
+        {
+          "text": "Cheese: block, shredded, or sliced"
+        },
+        {
+          "text": "Yogurt or cottage cheese"
+        },
+        {
+          "text": "Cream or coffee creamer"
+        }
+      ]
+    },
+    {
+      "title": "Meat, Poultry and Seafood",
+      "items": [
+        {
+          "text": "Chicken breasts or thighs"
+        },
+        {
+          "text": "Ground beef, turkey, or a plant-based mince"
+        },
+        {
+          "text": "Bacon, sausage, or deli meat"
+        },
+        {
+          "text": "Fish or shrimp"
+        },
+        {
+          "text": "Tofu or another protein alternative",
+          "note": "Portion and freeze extra proteins the day you get home."
+        }
+      ]
+    },
+    {
+      "title": "Pantry and Dry Goods",
+      "items": [
+        {
+          "text": "Rice, pasta, or noodles"
+        },
+        {
+          "text": "Bread, tortillas, or wraps"
+        },
+        {
+          "text": "Canned beans, tomatoes, and soup"
+        },
+        {
+          "text": "Cooking oil, vinegar, and condiments"
+        },
+        {
+          "text": "Breakfast cereal or oats"
+        },
+        {
+          "text": "Coffee, tea, or other drinks"
+        },
+        {
+          "text": "Stock, sauces, and seasoning staples"
+        }
+      ]
+    },
+    {
+      "title": "Frozen",
+      "items": [
+        {
+          "text": "Frozen vegetables and stir-fry mixes"
+        },
+        {
+          "text": "Frozen fruit for smoothies"
+        },
+        {
+          "text": "Frozen meals or pizza for busy nights"
+        },
+        {
+          "text": "Ice cream or frozen dessert"
+        },
+        {
+          "text": "Frozen fish fillets or chicken"
+        }
+      ]
+    },
+    {
+      "title": "Snacks and Beverages",
+      "items": [
+        {
+          "text": "Crackers, chips, or pretzels"
+        },
+        {
+          "text": "Nuts, trail mix, or granola bars"
+        },
+        {
+          "text": "Cookies or other treats"
+        },
+        {
+          "text": "Water, juice, or sparkling drinks"
+        },
+        {
+          "text": "Lunchbox snacks for the kids"
+        }
+      ]
+    },
+    {
+      "title": "Household and Personal Care",
+      "items": [
+        {
+          "text": "Paper towels and toilet paper"
+        },
+        {
+          "text": "Dish soap and dishwasher tablets"
+        },
+        {
+          "text": "Laundry detergent"
+        },
+        {
+          "text": "Trash bags and food storage bags"
+        },
+        {
+          "text": "Toothpaste, soap, and shampoo"
+        },
+        {
+          "text": "Cleaning spray and sponges"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I organize a grocery list by aisle?",
+      "a": "Group items into categories that match your store's layout, such as produce, dairy, pantry, proteins, and frozen. This lets you shop in one continuous loop instead of crisscrossing the store."
+    },
+    {
+      "q": "How can a grocery checklist save me money?",
+      "a": "Shopping from a list curbs impulse buys, prevents duplicate purchases, and helps you buy only what you need for planned meals. Checking your pantry first avoids restocking items you already have."
+    },
+    {
+      "q": "How often should I update my grocery list?",
+      "a": "Build a fresh list each week around your meal plan, but keep a running list on the fridge so you can jot down staples the moment they run low."
+    },
+    {
+      "q": "Can I print this grocery checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as it lands in your cart."
+    },
+    {
+      "q": "Should I shop the perimeter of the store first?",
+      "a": "Many shoppers start around the perimeter for fresh produce, dairy, and proteins, then move into the center aisles for pantry and packaged goods. This checklist is ordered to follow that flow."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/grocery-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/grocery-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Grocery Checklist by ChecklistForge (https://checklistforge.com/checklist/grocery-checklist)",
+  "updated": "2026-11-13"
+}

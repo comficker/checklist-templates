@@ -1,0 +1,182 @@
+{
+  "id": "daily-construction-checklist",
+  "name": "Daily Construction Checklist",
+  "description": "A daily construction checklist for running a productive, safe and well-documented site day.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "safety",
+    "construction",
+    "site-management",
+    "daily-log"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Morning start-up",
+      "items": [
+        {
+          "text": "Confirm crew attendance and assignments."
+        },
+        {
+          "text": "Hold a brief huddle on the day's plan and priorities."
+        },
+        {
+          "text": "Review the day's tasks against the schedule."
+        },
+        {
+          "text": "Confirm subcontractors expected on site today."
+        },
+        {
+          "text": "Check that required permits and inspections are arranged."
+        },
+        {
+          "text": "Verify access, utilities and equipment are ready."
+        }
+      ]
+    },
+    {
+      "title": "Weather and conditions",
+      "items": [
+        {
+          "text": "Check today's forecast and any weather alerts."
+        },
+        {
+          "text": "Plan weather-sensitive work such as pours or lifts."
+        },
+        {
+          "text": "Protect exposed materials and open areas."
+        },
+        {
+          "text": "Adjust the plan for heat, cold, wind or rain."
+        },
+        {
+          "text": "Confirm hydration and weather protection for the crew."
+        },
+        {
+          "text": "Record the day's conditions for the log.",
+          "note": "Document weather that affects productivity to support any schedule adjustments."
+        }
+      ]
+    },
+    {
+      "title": "Safety walk",
+      "items": [
+        {
+          "text": "Walk the site and check overall housekeeping."
+        },
+        {
+          "text": "Confirm fall protection and guardrails are in place."
+        },
+        {
+          "text": "Verify PPE is worn in designated areas."
+        },
+        {
+          "text": "Inspect equipment, ladders and scaffolds."
+        },
+        {
+          "text": "Check that hazards are barricaded and signed."
+        },
+        {
+          "text": "Hold a toolbox talk on a relevant topic."
+        }
+      ]
+    },
+    {
+      "title": "Materials and equipment",
+      "items": [
+        {
+          "text": "Confirm deliveries scheduled for today."
+        },
+        {
+          "text": "Inspect delivered materials for quantity and damage."
+        },
+        {
+          "text": "Stage materials where crews need them."
+        },
+        {
+          "text": "Check fuel, consumables and small tools."
+        },
+        {
+          "text": "Confirm equipment is inspected and operational."
+        },
+        {
+          "text": "Flag any shortages that could stop work tomorrow."
+        }
+      ]
+    },
+    {
+      "title": "Progress tracking",
+      "items": [
+        {
+          "text": "Walk active work areas and check progress."
+        },
+        {
+          "text": "Compare actual progress against the schedule."
+        },
+        {
+          "text": "Coordinate handoffs between trades."
+        },
+        {
+          "text": "Verify completed work meets quality standards."
+        },
+        {
+          "text": "Note any delays, conflicts or rework."
+        },
+        {
+          "text": "Update the look-ahead plan as needed."
+        }
+      ]
+    },
+    {
+      "title": "End-of-day log and lockup",
+      "items": [
+        {
+          "text": "Record crew, hours and work completed."
+        },
+        {
+          "text": "Log deliveries, visitors and inspections."
+        },
+        {
+          "text": "Note delays, incidents and safety issues."
+        },
+        {
+          "text": "Photograph progress and any concerns."
+        },
+        {
+          "text": "Secure tools, materials and equipment."
+        },
+        {
+          "text": "Lock the site and confirm it is left safe."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a daily construction log?",
+      "a": "A daily log records the day's crew, weather, work performed, deliveries, delays and incidents. It is a key project record for tracking progress and supporting claims, and this checklist prompts you to capture it consistently."
+    },
+    {
+      "q": "Why review the weather each day?",
+      "a": "Weather affects safety, productivity and certain operations like concrete pours or crane lifts. Checking the forecast lets supervisors plan the day, protect materials, and document conditions that may justify a schedule adjustment."
+    },
+    {
+      "q": "What should a daily safety walk cover?",
+      "a": "A daily walk checks housekeeping, fall protection, PPE use, hazards and equipment condition. It is general guidance and does not replace OSHA standards, formal inspections, or the judgment of a competent person on site."
+    },
+    {
+      "q": "Who should complete the daily construction checklist?",
+      "a": "Usually the site supervisor or foreman, often with input from trade leads. Completing it each day keeps the crew aligned, surfaces issues early, and builds an accurate, defensible record of the project."
+    },
+    {
+      "q": "Is this daily checklist available as a printable PDF?",
+      "a": "Yes. Print a stack for the site trailer or download the PDF so supervisors can complete the daily routine and log from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/daily-construction-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/daily-construction-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Daily Construction Checklist by ChecklistForge (https://checklistforge.com/checklist/daily-construction-checklist)",
+  "updated": "2026-10-17"
+}

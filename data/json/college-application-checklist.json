@@ -1,0 +1,182 @@
+{
+  "id": "college-application-checklist",
+  "name": "College Application Checklist",
+  "description": "A complete checklist of every step and document needed to apply to college.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "students",
+    "college",
+    "application",
+    "admissions"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Plan and organize",
+      "items": [
+        {
+          "text": "Finalize your list of schools and their deadlines."
+        },
+        {
+          "text": "Note which application platform each school accepts."
+        },
+        {
+          "text": "Create a spreadsheet to track tasks per school."
+        },
+        {
+          "text": "Mark early and regular deadlines on a calendar."
+        },
+        {
+          "text": "List the required documents for each application."
+        },
+        {
+          "text": "Set personal target dates ahead of every deadline."
+        }
+      ]
+    },
+    {
+      "title": "Tests and scores",
+      "items": [
+        {
+          "text": "Check each school's testing policy and requirements."
+        },
+        {
+          "text": "Register for any required entrance tests early."
+        },
+        {
+          "text": "Study with practice exams before test day."
+        },
+        {
+          "text": "Take or retake tests with time to spare."
+        },
+        {
+          "text": "Send official scores to the schools that need them."
+        },
+        {
+          "text": "Save copies of your score reports."
+        }
+      ]
+    },
+    {
+      "title": "Transcripts and records",
+      "items": [
+        {
+          "text": "Request official transcripts from your school registrar.",
+          "note": "Submit requests early — processing can take a week or more."
+        },
+        {
+          "text": "Confirm your school will send transcripts on time."
+        },
+        {
+          "text": "Gather records of awards, activities and honors."
+        },
+        {
+          "text": "List your extracurriculars, jobs and volunteer work."
+        },
+        {
+          "text": "Note hours, roles and dates for each activity."
+        },
+        {
+          "text": "Keep digital copies of certificates and documentation."
+        }
+      ]
+    },
+    {
+      "title": "Essays and writing",
+      "items": [
+        {
+          "text": "Read each school's essay prompts carefully."
+        },
+        {
+          "text": "Brainstorm topics that show who you really are."
+        },
+        {
+          "text": "Write a first draft of your main personal essay."
+        },
+        {
+          "text": "Draft any school-specific supplemental essays."
+        },
+        {
+          "text": "Revise for clarity, tone and word limits."
+        },
+        {
+          "text": "Proofread and have someone else review each essay."
+        }
+      ]
+    },
+    {
+      "title": "Recommendations",
+      "items": [
+        {
+          "text": "Choose recommenders who know you well."
+        },
+        {
+          "text": "Ask each one at least three to four weeks ahead."
+        },
+        {
+          "text": "Give them your resume and key accomplishments."
+        },
+        {
+          "text": "Share each school's deadline and submission method."
+        },
+        {
+          "text": "Send a polite reminder a week before the due date."
+        },
+        {
+          "text": "Thank every recommender once letters are submitted."
+        }
+      ]
+    },
+    {
+      "title": "Submit and confirm",
+      "items": [
+        {
+          "text": "Fill in every section of each application completely."
+        },
+        {
+          "text": "Double-check your personal and contact details."
+        },
+        {
+          "text": "Pay application fees or submit a fee waiver."
+        },
+        {
+          "text": "Review the full application before final submission."
+        },
+        {
+          "text": "Submit before the deadline, not at the last minute."
+        },
+        {
+          "text": "Confirm each school received all parts of your file."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many colleges should I apply to?",
+      "a": "A common approach is to apply to a balanced list of around six to ten schools, including reach, match and safety options. Apply to enough to have choices without spreading your essays and effort too thin."
+    },
+    {
+      "q": "When are most college application deadlines?",
+      "a": "Early action and early decision deadlines often fall in November, while regular deadlines cluster in January. Deadlines vary by school, so confirm each one and add it to your calendar as soon as you find it."
+    },
+    {
+      "q": "How early should I ask for recommendation letters?",
+      "a": "Ask at least three to four weeks before your earliest deadline. Give each recommender your resume, a deadline and a gentle reminder a week before it's due."
+    },
+    {
+      "q": "Do I need to send test scores?",
+      "a": "It depends on the school. Some require entrance tests, some are test-optional and some are test-blind. Check each school's policy and send scores only where they help or are required."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each task and document as you complete it for every school."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/college-application-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/college-application-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "College Application Checklist by ChecklistForge (https://checklistforge.com/checklist/college-application-checklist)",
+  "updated": "2026-10-17"
+}

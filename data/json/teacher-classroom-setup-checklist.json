@@ -1,0 +1,183 @@
+{
+  "id": "teacher-classroom-setup-checklist",
+  "name": "Teacher Classroom Setup Checklist",
+  "description": "A step-by-step checklist for teachers setting up a classroom before the school year begins.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "classroom",
+    "teacher",
+    "teaching",
+    "classroom-setup",
+    "new-school-year"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Plan and clear the space",
+      "items": [
+        {
+          "text": "Confirm your room assignment and get keys and access codes."
+        },
+        {
+          "text": "Empty, wipe down and clean all surfaces and furniture."
+        },
+        {
+          "text": "Sketch a floor plan before moving anything heavy."
+        },
+        {
+          "text": "Locate power outlets, the internet drop and light switches."
+        },
+        {
+          "text": "Check the heating, cooling and window blinds work."
+        },
+        {
+          "text": "Remove or store any furniture you will not use."
+        }
+      ]
+    },
+    {
+      "title": "Arrange layout and furniture",
+      "items": [
+        {
+          "text": "Position student desks or tables in your chosen layout."
+        },
+        {
+          "text": "Place your desk where you can see the whole room."
+        },
+        {
+          "text": "Set up a clear teaching zone near the board and screen."
+        },
+        {
+          "text": "Create a small-group or reading area if space allows."
+        },
+        {
+          "text": "Keep clear traffic paths to the door and supply areas."
+        },
+        {
+          "text": "Test sightlines to the board from every seat.",
+          "note": "Sit in the back row to check what students will see."
+        }
+      ]
+    },
+    {
+      "title": "Materials and supplies stations",
+      "items": [
+        {
+          "text": "Set up a labeled supply station for shared materials."
+        },
+        {
+          "text": "Organize your teacher supplies within easy reach."
+        },
+        {
+          "text": "Create turn-in trays or bins for each class or subject."
+        },
+        {
+          "text": "Stock and label storage for paper, books and manipulatives."
+        },
+        {
+          "text": "Set up a technology charging or device storage area."
+        },
+        {
+          "text": "Prepare a first-week materials kit for each student."
+        }
+      ]
+    },
+    {
+      "title": "Displays and walls",
+      "items": [
+        {
+          "text": "Hang a welcome sign and your name at the door."
+        },
+        {
+          "text": "Post the daily schedule, calendar and objective board."
+        },
+        {
+          "text": "Put up classroom rules and procedure posters."
+        },
+        {
+          "text": "Set aside bulletin board space for student work."
+        },
+        {
+          "text": "Display essential references such as alphabet or word walls."
+        },
+        {
+          "text": "Leave some walls open to fill with student work later."
+        }
+      ]
+    },
+    {
+      "title": "Classroom systems and routines",
+      "items": [
+        {
+          "text": "Set up an attendance and lunch-count system."
+        },
+        {
+          "text": "Create a clear procedure for turning in and returning work."
+        },
+        {
+          "text": "Establish a hall pass or restroom sign-out system."
+        },
+        {
+          "text": "Plan signals for attention, transitions and noise level."
+        },
+        {
+          "text": "Build a job or classroom-helper chart."
+        },
+        {
+          "text": "Prepare seating charts and a substitute folder."
+        }
+      ]
+    },
+    {
+      "title": "Technology and final checks",
+      "items": [
+        {
+          "text": "Power on and test the computer, projector and speakers."
+        },
+        {
+          "text": "Confirm internet, logins and learning platforms work."
+        },
+        {
+          "text": "Set up the document camera or interactive display."
+        },
+        {
+          "text": "Route and secure cables safely along walls or floors."
+        },
+        {
+          "text": "Prepare an emergency map, kit and posted procedures."
+        },
+        {
+          "text": "Walk the finished room as a student would on day one."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should teachers set up their classroom?",
+      "a": "Start one to two weeks before students return, once the building reopens and the room is cleaned. That gives you time to plan the layout, arrange furniture, build systems and test technology without rushing the welcome displays in the final days."
+    },
+    {
+      "q": "How should I arrange classroom seating?",
+      "a": "Choose a layout that matches how you teach, such as rows for focus, pairs for partner work, or groups for collaboration. Keep clear sightlines to the board, easy traffic paths, and your own ability to reach every student quickly."
+    },
+    {
+      "q": "What classroom systems should be ready on day one?",
+      "a": "Have routines and visible signals in place for attendance, turning in work, supplies, restroom passes, and transitions. Setting up these systems before students arrive lets you teach the procedures from the very first day and keeps the room calm."
+    },
+    {
+      "q": "What technology should I test before students arrive?",
+      "a": "Confirm the computer, projector or display, speakers, document camera and internet all work, and that your accounts and platforms log in. Locate outlets and cables early so devices are powered and positioned where you actually teach."
+    },
+    {
+      "q": "Is this classroom setup checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to carry around the room as you work, then tick off each setup task so your classroom is fully ready before the new school year begins."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/teacher-classroom-setup-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/teacher-classroom-setup-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Teacher Classroom Setup Checklist by ChecklistForge (https://checklistforge.com/checklist/teacher-classroom-setup-checklist)",
+  "updated": "2026-10-17"
+}

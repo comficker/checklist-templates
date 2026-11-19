@@ -1,0 +1,185 @@
+{
+  "id": "pet-boarding-checklist",
+  "name": "Pet Boarding Checklist",
+  "description": "A pet boarding checklist for owners covering booking, vaccines, supplies and instructions.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "dogs",
+    "boarding"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Choose and book a facility",
+      "items": [
+        {
+          "text": "Research facilities and read recent reviews."
+        },
+        {
+          "text": "Tour the facility and check cleanliness and safety."
+        },
+        {
+          "text": "Ask about staff ratios, supervision and emergency plans."
+        },
+        {
+          "text": "Confirm pricing, hours and drop-off and pickup times."
+        },
+        {
+          "text": "Book early, especially around holidays."
+        },
+        {
+          "text": "Ask whether a trial day or meet-and-greet is required."
+        }
+      ]
+    },
+    {
+      "title": "Vaccines and health",
+      "items": [
+        {
+          "text": "Request the facility's required vaccine list and timing."
+        },
+        {
+          "text": "Confirm rabies and other core vaccines are current."
+        },
+        {
+          "text": "Check whether kennel cough protection is required for dogs."
+        },
+        {
+          "text": "Ensure flea, tick and parasite prevention is up to date."
+        },
+        {
+          "text": "Bring proof of vaccination records to drop-off."
+        },
+        {
+          "text": "Confirm your pet is healthy enough to board.",
+          "note": "Verify vaccine and health requirements with your veterinarian beforehand."
+        }
+      ]
+    },
+    {
+      "title": "Supplies to pack",
+      "items": [
+        {
+          "text": "Pack enough food for the full stay plus a few extra days."
+        },
+        {
+          "text": "Pre-portion meals to make feeding easy for staff."
+        },
+        {
+          "text": "Bring medications with clear dosing instructions."
+        },
+        {
+          "text": "Add a familiar blanket, bed or toy for comfort."
+        },
+        {
+          "text": "Include a collar with ID and a leash if needed."
+        },
+        {
+          "text": "Label every item clearly with your pet's name."
+        }
+      ]
+    },
+    {
+      "title": "Care instructions",
+      "items": [
+        {
+          "text": "Write out feeding amounts and a clear schedule."
+        },
+        {
+          "text": "List medications, doses and timing in detail."
+        },
+        {
+          "text": "Note allergies, dietary restrictions and sensitivities."
+        },
+        {
+          "text": "Describe your pet's routine, quirks and comforts."
+        },
+        {
+          "text": "Flag any anxieties, fears or behavior triggers."
+        },
+        {
+          "text": "Explain how your pet usually signals needs or stress."
+        }
+      ]
+    },
+    {
+      "title": "Emergency information",
+      "items": [
+        {
+          "text": "Provide your contact number and travel dates."
+        },
+        {
+          "text": "List an emergency backup contact who can act for you."
+        },
+        {
+          "text": "Share your veterinarian's name and phone number."
+        },
+        {
+          "text": "Authorize emergency care and note any cost limits."
+        },
+        {
+          "text": "Include microchip details and a recent photo."
+        },
+        {
+          "text": "Note any conditions staff should watch for closely."
+        }
+      ]
+    },
+    {
+      "title": "Drop-off day",
+      "items": [
+        {
+          "text": "Confirm the reservation and required paperwork."
+        },
+        {
+          "text": "Hand over food, medications and comfort items."
+        },
+        {
+          "text": "Review feeding and medication instructions with staff."
+        },
+        {
+          "text": "Keep the goodbye calm and brief to ease stress."
+        },
+        {
+          "text": "Confirm how the facility will reach you if needed."
+        },
+        {
+          "text": "Verify pickup time and any pickup requirements."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Confirm vaccine and health requirements with the facility and your veterinarian before boarding your pet."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What vaccines does my pet need for boarding?",
+      "a": "Most facilities require core vaccines such as rabies and, for dogs, often kennel cough protection. Requirements vary by facility and region, so ask for their exact list and timing in advance. Confirm your pet is up to date with your veterinarian before drop-off."
+    },
+    {
+      "q": "What should I pack for boarding?",
+      "a": "Pack enough food for the stay plus extra, any medications with clear instructions, and a familiar item like a blanket or toy. Label everything with your pet's name. Ask the facility what they provide so you avoid duplicating bedding or bowls."
+    },
+    {
+      "q": "How far in advance should I book boarding?",
+      "a": "Book early, especially around holidays and busy seasons when spots fill quickly. Reserving ahead also gives time to tour the facility and complete paperwork. Confirm vaccine records and any trial day requirements before your reservation date."
+    },
+    {
+      "q": "How do I help my pet adjust to boarding?",
+      "a": "Visit the facility beforehand, bring familiar comforts, and keep drop-off calm and brief. Share your pet's routine, quirks and any anxieties with staff. For pets with significant stress or medical needs, discuss options with your veterinarian first."
+    },
+    {
+      "q": "Can I download this pet boarding checklist as a PDF?",
+      "a": "Yes. You can print it for drop-off day or download it as a PDF for your phone, so owners can book, pack and prepare clear instructions before boarding their pet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-boarding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-boarding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Boarding Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-boarding-checklist)",
+  "updated": "2026-10-17"
+}

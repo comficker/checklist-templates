@@ -1,0 +1,182 @@
+{
+  "id": "dog-walking-checklist",
+  "name": "Dog Walking Checklist",
+  "description": "A dog walking checklist for owners covering gear, route, weather, etiquette and cleanup.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "exercise",
+    "pets",
+    "dogs",
+    "walking"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Gear and supplies",
+      "items": [
+        {
+          "text": "Fit a comfortable collar or harness that will not slip."
+        },
+        {
+          "text": "Use a sturdy leash suited to your dog and route."
+        },
+        {
+          "text": "Confirm ID tags and microchip details are up to date."
+        },
+        {
+          "text": "Pack enough waste bags for the walk."
+        },
+        {
+          "text": "Bring water and a collapsible bowl on warm or long walks."
+        },
+        {
+          "text": "Carry a few treats for training and recall."
+        }
+      ]
+    },
+    {
+      "title": "Plan the route",
+      "items": [
+        {
+          "text": "Choose a route that matches your dog's fitness and age."
+        },
+        {
+          "text": "Pick quieter paths if your dog is nervous or in training."
+        },
+        {
+          "text": "Note shade and water stops on longer walks."
+        },
+        {
+          "text": "Avoid areas with known hazards or aggressive dogs."
+        },
+        {
+          "text": "Vary routes for enrichment and new sniffing spots."
+        },
+        {
+          "text": "Tell someone your route if walking somewhere remote."
+        }
+      ]
+    },
+    {
+      "title": "Check the weather",
+      "items": [
+        {
+          "text": "Check the forecast and temperature before heading out."
+        },
+        {
+          "text": "Walk in cooler hours on hot days to protect paws."
+        },
+        {
+          "text": "Test the pavement with your hand for excess heat."
+        },
+        {
+          "text": "Add a coat for cold-sensitive dogs in winter."
+        },
+        {
+          "text": "Wipe paws after walks on salted or icy ground."
+        },
+        {
+          "text": "Shorten or skip walks in extreme heat or cold.",
+          "note": "Ask your veterinarian about safe exercise in extreme weather."
+        }
+      ]
+    },
+    {
+      "title": "On-walk etiquette",
+      "items": [
+        {
+          "text": "Keep your dog leashed where required by local rules."
+        },
+        {
+          "text": "Give space to other dogs, people and cyclists."
+        },
+        {
+          "text": "Ask before allowing your dog to greet others."
+        },
+        {
+          "text": "Keep your dog off private lawns and gardens."
+        },
+        {
+          "text": "Reward loose-leash walking and check-ins."
+        },
+        {
+          "text": "Stay aware of traffic and hazards along the way."
+        }
+      ]
+    },
+    {
+      "title": "Cleanup",
+      "items": [
+        {
+          "text": "Pick up waste promptly with a bag."
+        },
+        {
+          "text": "Tie bags securely to avoid leaks."
+        },
+        {
+          "text": "Dispose of waste in an appropriate bin."
+        },
+        {
+          "text": "Carry extra bags in case of a second stop."
+        },
+        {
+          "text": "Use hand sanitizer or wash up after the walk."
+        },
+        {
+          "text": "Keep public spaces and trails clean for everyone."
+        }
+      ]
+    },
+    {
+      "title": "After the walk",
+      "items": [
+        {
+          "text": "Offer water and let your dog cool down and rest."
+        },
+        {
+          "text": "Check paws for cuts, debris, burrs or salt."
+        },
+        {
+          "text": "Look over the coat for ticks after grassy walks."
+        },
+        {
+          "text": "Wipe down muddy or wet fur as needed."
+        },
+        {
+          "text": "Watch for limping, excessive panting or fatigue."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult your veterinarian about safe exercise and a professional trainer for leash or reactivity issues."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long should I walk my dog?",
+      "a": "Walk length depends on age, breed, fitness and health. Some dogs thrive on long walks, while puppies and seniors need shorter, gentler outings. Watch for tiredness and overheating. Ask your veterinarian about safe exercise limits for your individual dog."
+    },
+    {
+      "q": "What should I bring on a dog walk?",
+      "a": "Bring a well-fitted collar or harness, a sturdy leash, ID tags, waste bags, and water on warm or long walks. Treats help with training and recall. A reflective item or light is useful for low-light walks to keep you both visible."
+    },
+    {
+      "q": "How hot is too hot for a walk?",
+      "a": "On hot days, walk in the cooler early morning or evening and test the pavement with your hand; if it is too hot for your hand, it is too hot for paws. Watch for heavy panting and signs of overheating, and consult your veterinarian if concerned."
+    },
+    {
+      "q": "How do I handle other dogs on a walk?",
+      "a": "Keep your dog on a leash, give other dogs space, and ask before allowing greetings. Watch body language and move on if either dog is uncomfortable. For pulling, lunging or reactivity, work with a professional trainer to build calmer walks."
+    },
+    {
+      "q": "Can I download this dog walking checklist as a PDF?",
+      "a": "Yes. You can print it for the entryway or download it as a PDF for your phone, so owners can run a quick pre-walk check before every outing with their dog."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/dog-walking-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/dog-walking-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Dog Walking Checklist by ChecklistForge (https://checklistforge.com/checklist/dog-walking-checklist)",
+  "updated": "2026-10-17"
+}

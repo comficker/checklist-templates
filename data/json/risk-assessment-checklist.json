@@ -1,0 +1,182 @@
+{
+  "id": "risk-assessment-checklist",
+  "name": "Risk Assessment Checklist",
+  "description": "A risk assessment checklist for identifying hazards and evaluating and controlling risk.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "safety",
+    "risk",
+    "compliance",
+    "risk-assessment"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prepare the assessment",
+      "items": [
+        {
+          "text": "Define the task, area or activity being assessed."
+        },
+        {
+          "text": "Gather relevant information, incident history and data sheets."
+        },
+        {
+          "text": "Choose a risk rating method or matrix.",
+          "note": "Follow OSHA, ISO 45001 or your organization's method and standards."
+        },
+        {
+          "text": "Involve the people who do the work in the assessment."
+        },
+        {
+          "text": "Confirm who is responsible for completing and approving it."
+        },
+        {
+          "text": "Set the scope and any limits of the assessment."
+        }
+      ]
+    },
+    {
+      "title": "Identify the hazards",
+      "items": [
+        {
+          "text": "Walk through the area and observe the activity."
+        },
+        {
+          "text": "Identify physical, mechanical and electrical hazards."
+        },
+        {
+          "text": "Identify chemical, biological and environmental hazards."
+        },
+        {
+          "text": "Consider ergonomic, manual handling and psychosocial hazards."
+        },
+        {
+          "text": "Review past incidents, near misses and complaints."
+        },
+        {
+          "text": "Note hazards from non-routine and emergency situations."
+        }
+      ]
+    },
+    {
+      "title": "Identify who is at risk",
+      "items": [
+        {
+          "text": "Identify workers directly exposed to each hazard."
+        },
+        {
+          "text": "Consider contractors, visitors and members of the public."
+        },
+        {
+          "text": "Account for vulnerable groups such as new or young workers."
+        },
+        {
+          "text": "Consider those who may be affected indirectly."
+        },
+        {
+          "text": "Note how and where people could be harmed."
+        },
+        {
+          "text": "Estimate the number of people potentially exposed."
+        }
+      ]
+    },
+    {
+      "title": "Evaluate the risk",
+      "items": [
+        {
+          "text": "Estimate the likelihood of harm for each hazard."
+        },
+        {
+          "text": "Estimate the severity of the potential harm."
+        },
+        {
+          "text": "Combine likelihood and severity into a risk rating."
+        },
+        {
+          "text": "Account for existing controls already in place."
+        },
+        {
+          "text": "Prioritize the highest risks for action."
+        },
+        {
+          "text": "Decide whether the current risk is acceptable."
+        }
+      ]
+    },
+    {
+      "title": "Decide and apply controls",
+      "items": [
+        {
+          "text": "Apply the hierarchy of controls, starting with elimination."
+        },
+        {
+          "text": "Consider substitution and engineering controls."
+        },
+        {
+          "text": "Add administrative controls such as procedures and training."
+        },
+        {
+          "text": "Specify personal protective equipment as a last line."
+        },
+        {
+          "text": "Assign owners and target dates for each control."
+        },
+        {
+          "text": "Confirm controls are reasonable and practical to implement."
+        }
+      ]
+    },
+    {
+      "title": "Record and review",
+      "items": [
+        {
+          "text": "Record the hazards, who is at risk and the controls."
+        },
+        {
+          "text": "Document the residual risk after controls are applied."
+        },
+        {
+          "text": "Communicate findings and controls to affected staff."
+        },
+        {
+          "text": "Set a date to review the assessment."
+        },
+        {
+          "text": "Review after incidents, changes or new equipment."
+        },
+        {
+          "text": "Keep the assessment on file as evidence."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a risk assessment?",
+      "a": "A risk assessment is a systematic process of identifying hazards, judging how likely and how serious the resulting harm could be, and deciding on controls to reduce the risk to an acceptable level, then recording and reviewing the findings."
+    },
+    {
+      "q": "What are the five steps of risk assessment?",
+      "a": "The widely used approach is: identify the hazards, decide who might be harmed and how, evaluate the risks and decide on controls, record your findings, and review and update the assessment as conditions change."
+    },
+    {
+      "q": "How is this different from a hazard assessment?",
+      "a": "Risk assessment evaluates the likelihood and severity of harm from hazards and decides on controls. A hazard assessment, often job-step based (JHA/JSA), focuses on identifying hazards within each step of a task before assigning controls."
+    },
+    {
+      "q": "How do I rate likelihood and severity?",
+      "a": "Estimate how likely harm is and how serious it would be, often combining them in a risk matrix to give a rating. Use the rating to prioritize action; follow OSHA, ISO 45001 or your organization's method."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the risk assessment checklist for a walkthrough, or download the PDF so you can record hazards, risk ratings, controls and review dates and keep completed assessments on file."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/risk-assessment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/risk-assessment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Risk Assessment Checklist by ChecklistForge (https://checklistforge.com/checklist/risk-assessment-checklist)",
+  "updated": "2026-10-17"
+}

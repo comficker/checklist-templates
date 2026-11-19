@@ -1,0 +1,152 @@
+{
+  "id": "school-backpack-checklist",
+  "name": "School Backpack Checklist",
+  "description": "A daily list of what students should pack in their school backpack.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "packing",
+    "daily-routine",
+    "parents",
+    "students",
+    "backpack"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Daily essentials",
+      "items": [
+        {
+          "text": "Pack the student planner or assignment notebook."
+        },
+        {
+          "text": "Add a pencil case with pencils, pens and an eraser."
+        },
+        {
+          "text": "Include a small ruler and a highlighter."
+        },
+        {
+          "text": "Add hand sanitizer and a pack of tissues."
+        },
+        {
+          "text": "Pack any keys, ID card or bus pass needed.",
+          "note": "Keep these in the same pocket every day."
+        }
+      ]
+    },
+    {
+      "title": "Books and class materials",
+      "items": [
+        {
+          "text": "Check the timetable and pack only that day's subjects."
+        },
+        {
+          "text": "Add completed homework and any assignments due."
+        },
+        {
+          "text": "Include the right notebooks, folders and binders."
+        },
+        {
+          "text": "Pack any textbooks or reading books required."
+        },
+        {
+          "text": "Add signed forms or notes to return to the teacher."
+        },
+        {
+          "text": "Remove papers and books not needed today."
+        }
+      ]
+    },
+    {
+      "title": "Technology",
+      "items": [
+        {
+          "text": "Add the fully charged tablet, laptop or Chromebook."
+        },
+        {
+          "text": "Pack the charger if the device may run low.",
+          "note": "Many students forget the cable, not the device."
+        },
+        {
+          "text": "Include labeled headphones or earbuds."
+        },
+        {
+          "text": "Add a calculator if a class requires one."
+        },
+        {
+          "text": "Confirm any required logins or files are ready."
+        }
+      ]
+    },
+    {
+      "title": "Food and water",
+      "items": [
+        {
+          "text": "Pack lunch or lunch money in a known pocket."
+        },
+        {
+          "text": "Add a healthy snack for break time."
+        },
+        {
+          "text": "Fill a sealed, reusable water bottle."
+        },
+        {
+          "text": "Include any utensils or napkins needed."
+        },
+        {
+          "text": "Pack any medication or snack for medical needs."
+        }
+      ]
+    },
+    {
+      "title": "Day-specific items",
+      "items": [
+        {
+          "text": "Add gym kit and sports shoes on PE days."
+        },
+        {
+          "text": "Pack returned library books on library day."
+        },
+        {
+          "text": "Include instruments or music folders for lessons."
+        },
+        {
+          "text": "Add project materials or items for show and tell."
+        },
+        {
+          "text": "Pack appropriate gear for after-school clubs."
+        },
+        {
+          "text": "Include weather items like an umbrella or sunhat."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When is the best time to pack a school backpack?",
+      "a": "Pack the night before, not in the morning rush. Evening packing gives students time to find missing items, finish forgotten homework, and start the day calmly instead of scrambling while half-asleep before the bus arrives."
+    },
+    {
+      "q": "How heavy should a school backpack be?",
+      "a": "A loaded backpack should weigh no more than about 10 to 15 percent of a child's body weight. Use both shoulder straps, pack heavier books closest to the back, and clear out old papers regularly so the bag stays light and comfortable."
+    },
+    {
+      "q": "How do I stop my child forgetting things?",
+      "a": "Use the same short checklist every evening so packing becomes automatic. Keep a fixed spot for the backpack, charge devices in one place, and pack day-specific items, like gym kit or library books, the moment they come to mind."
+    },
+    {
+      "q": "What should always stay in the backpack?",
+      "a": "Keep a small permanent kit so it is never missing: a spare pencil and pen, a refillable water bottle, hand sanitizer, tissues, and the student planner. Restock these once a week so the essentials are always there."
+    },
+    {
+      "q": "Is this backpack checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to hang near the backpack or save on a student's phone, then tick off each item while packing the night before."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/school-backpack-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/school-backpack-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "School Backpack Checklist by ChecklistForge (https://checklistforge.com/checklist/school-backpack-checklist)",
+  "updated": "2026-10-17"
+}

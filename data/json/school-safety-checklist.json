@@ -1,0 +1,160 @@
+{
+  "id": "school-safety-checklist",
+  "name": "School Safety Checklist",
+  "description": "A campus safety checklist covering drills, security, hazards and emergency plans.",
+  "category": "school-operations",
+  "category_name": "School Operations",
+  "tags": [
+    "staff",
+    "school-safety",
+    "campus-security",
+    "emergency-plans",
+    "drills"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Emergency preparedness",
+      "items": [
+        {
+          "text": "Confirm written plans for fire, lockdown and evacuation."
+        },
+        {
+          "text": "Schedule and run required drills on time.",
+          "note": "Vary conditions so responses become automatic."
+        },
+        {
+          "text": "Post evacuation maps and assembly points clearly."
+        },
+        {
+          "text": "Test fire alarms, smoke detectors and sprinklers."
+        },
+        {
+          "text": "Inspect extinguishers for charge and access."
+        },
+        {
+          "text": "Check first-aid kits and AED units are stocked and current."
+        }
+      ]
+    },
+    {
+      "title": "Access and security",
+      "items": [
+        {
+          "text": "Verify all exterior doors lock and latch properly."
+        },
+        {
+          "text": "Confirm no entry doors are propped open."
+        },
+        {
+          "text": "Test the intercom, buzzer or entry system."
+        },
+        {
+          "text": "Check that security cameras are working and recording."
+        },
+        {
+          "text": "Review who holds keys and access credentials."
+        },
+        {
+          "text": "Secure perimeter fencing and gates."
+        }
+      ]
+    },
+    {
+      "title": "Hazard prevention",
+      "items": [
+        {
+          "text": "Walk hallways and stairs for trip and slip hazards."
+        },
+        {
+          "text": "Confirm exits and walkways are clear and unblocked."
+        },
+        {
+          "text": "Store cleaning chemicals locked and labeled."
+        },
+        {
+          "text": "Check playground equipment for damage and wear."
+        },
+        {
+          "text": "Inspect electrical outlets, cords and lighting."
+        },
+        {
+          "text": "Verify proper signage for wet floors and hazards."
+        }
+      ]
+    },
+    {
+      "title": "Visitor and supervision policy",
+      "items": [
+        {
+          "text": "Route visitors through one monitored entrance."
+        },
+        {
+          "text": "Require visitor sign-in and photo identification."
+        },
+        {
+          "text": "Issue and collect visible visitor badges."
+        },
+        {
+          "text": "Confirm staff supervision coverage at key times."
+        },
+        {
+          "text": "Verify authorized-pickup procedures are followed."
+        },
+        {
+          "text": "Keep a current record of who is on campus."
+        }
+      ]
+    },
+    {
+      "title": "Communication",
+      "items": [
+        {
+          "text": "Confirm the mass notification system works."
+        },
+        {
+          "text": "Update emergency contact lists for staff and families."
+        },
+        {
+          "text": "Post emergency numbers in every classroom."
+        },
+        {
+          "text": "Confirm two-way radios are charged and working."
+        },
+        {
+          "text": "Review the plan for communicating with parents."
+        },
+        {
+          "text": "Brief all staff on their emergency roles."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should we run safety drills?",
+      "a": "Fire, lockdown, and evacuation drills should run on a regular schedule throughout the year, often each term or as your local regulations require. Vary timing and conditions so staff and students practice responding even when the situation is unexpected."
+    },
+    {
+      "q": "What are the most overlooked school safety issues?",
+      "a": "Common gaps include propped or unlocked exterior doors, expired or blocked fire extinguishers, outdated emergency contact lists, unsecured cleaning chemicals, and visitors who bypass sign-in. Regular walkthroughs against a checklist surface these before they cause harm."
+    },
+    {
+      "q": "Who is responsible for school safety?",
+      "a": "Safety is a shared duty across administrators, teachers, support staff, and facilities teams, usually coordinated by a designated safety officer or committee. Assigning clear owners for each area keeps tasks from falling through the cracks."
+    },
+    {
+      "q": "How do we manage visitors safely?",
+      "a": "Route all visitors through a single monitored entrance, require sign-in and identification, issue visible badges, and ensure staff know to challenge anyone without one. Keep a record of who is on campus in case of an emergency."
+    },
+    {
+      "q": "Is this school safety checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF for staff and administrators to use during walkthroughs, then tick off each item and assign follow-up for anything that needs attention."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/school-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/school-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "School Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/school-safety-checklist)",
+  "updated": "2026-10-17"
+}

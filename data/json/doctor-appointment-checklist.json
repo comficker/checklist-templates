@@ -1,0 +1,153 @@
+{
+  "id": "doctor-appointment-checklist",
+  "name": "Doctor Appointment Checklist",
+  "description": "A checklist for preparing for a doctor's visit so you arrive organized and make the most of your time together.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "appointment",
+    "patient"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Track Your Symptoms",
+      "items": [
+        {
+          "text": "Note when each symptom started and how often it occurs"
+        },
+        {
+          "text": "Record what makes symptoms better or worse"
+        },
+        {
+          "text": "Describe how symptoms affect your daily activities"
+        },
+        {
+          "text": "List any new or changing symptoms"
+        },
+        {
+          "text": "Rate severity or pain on a simple scale if helpful",
+          "note": "Concrete details help your doctor understand the problem"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Your Questions",
+      "items": [
+        {
+          "text": "Write your top three concerns to raise first"
+        },
+        {
+          "text": "List questions about diagnosis and possible causes"
+        },
+        {
+          "text": "Note questions about tests and what they mean"
+        },
+        {
+          "text": "Ask about treatment options and side effects"
+        },
+        {
+          "text": "Ask which warning signs should prompt a call back"
+        }
+      ]
+    },
+    {
+      "title": "Gather Your Information",
+      "items": [
+        {
+          "text": "Bring a current list of all medicines and supplements"
+        },
+        {
+          "text": "Note any allergies to medicines or other things"
+        },
+        {
+          "text": "Summarize your medical and family history"
+        },
+        {
+          "text": "Collect recent test results or records to share"
+        },
+        {
+          "text": "List other doctors or specialists you see"
+        }
+      ]
+    },
+    {
+      "title": "Practical Items to Bring",
+      "items": [
+        {
+          "text": "Insurance card and photo ID"
+        },
+        {
+          "text": "Referral or paperwork if required"
+        },
+        {
+          "text": "A notebook or phone to take notes"
+        },
+        {
+          "text": "A list of pharmacies you use"
+        },
+        {
+          "text": "A trusted person to accompany you if you wish"
+        }
+      ]
+    },
+    {
+      "title": "Before You Leave the Office",
+      "items": [
+        {
+          "text": "Confirm you understand the diagnosis or next steps"
+        },
+        {
+          "text": "Ask for instructions in writing if possible"
+        },
+        {
+          "text": "Confirm any new prescriptions and how to take them"
+        },
+        {
+          "text": "Schedule follow-up appointments or tests"
+        },
+        {
+          "text": "Ask how and when you will get test results"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; share full and honest details with your doctor and follow the guidance they give you",
+          "note": "If you have an urgent or severe symptom, seek care promptly or call your local emergency number"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I bring to a doctor's appointment?",
+      "a": "Bring a current medication list, your insurance and ID, a summary of symptoms, your questions, and any relevant records or test results. Having these ready helps the doctor understand your situation quickly."
+    },
+    {
+      "q": "How do I describe my symptoms clearly?",
+      "a": "Note when symptoms started, how often they happen, what makes them better or worse, and how they affect daily life. Specific, honest details help your doctor understand what is going on."
+    },
+    {
+      "q": "What questions should I ask the doctor?",
+      "a": "Ask about the cause of your symptoms, what tests or next steps are needed, treatment options and side effects, and warning signs to watch for. Write the answers down so you remember them."
+    },
+    {
+      "q": "Can I bring someone to my appointment?",
+      "a": "Yes. A trusted family member, friend, or caregiver can help you remember details, ask questions, and take notes. Let the office know if you would like someone to join you."
+    },
+    {
+      "q": "Is this doctor appointment checklist printable?",
+      "a": "Yes. Print it or download the PDF, complete it before your visit, and use the notes section to record instructions and follow-up steps."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/doctor-appointment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/doctor-appointment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Doctor Appointment Checklist by ChecklistForge (https://checklistforge.com/checklist/doctor-appointment-checklist)",
+  "updated": "2026-10-17"
+}

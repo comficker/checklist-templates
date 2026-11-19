@@ -1,0 +1,189 @@
+{
+  "id": "website-launch-checklist",
+  "name": "Website Launch Checklist",
+  "description": "A website launch checklist for pre-launch QA, launch day and post-launch tasks.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "seo",
+    "qa",
+    "website"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Content and design QA",
+      "items": [
+        {
+          "text": "Proofread every page for spelling, grammar and consistency."
+        },
+        {
+          "text": "Replace all placeholder text, images and dummy contact details."
+        },
+        {
+          "text": "Check the site renders correctly on mobile, tablet and desktop."
+        },
+        {
+          "text": "Test the site in major browsers including Chrome, Safari and Firefox."
+        },
+        {
+          "text": "Confirm favicon, logo and brand colors are correct throughout."
+        },
+        {
+          "text": "Verify contact details and business hours are accurate."
+        }
+      ]
+    },
+    {
+      "title": "SEO readiness",
+      "items": [
+        {
+          "text": "Remove any noindex tags or robots blocks left over from staging."
+        },
+        {
+          "text": "Confirm every page has a unique title tag and meta description."
+        },
+        {
+          "text": "Set up 301 redirects from old URLs to new ones."
+        },
+        {
+          "text": "Create and submit an XML sitemap."
+        },
+        {
+          "text": "Add structured data where relevant, such as organization or product."
+        },
+        {
+          "text": "Check canonical tags point to the correct URLs."
+        }
+      ]
+    },
+    {
+      "title": "Performance and technical",
+      "items": [
+        {
+          "text": "Run a speed test and optimize images and scripts."
+        },
+        {
+          "text": "Confirm HTTPS is active with a valid SSL certificate."
+        },
+        {
+          "text": "Force a single domain version, www or non-www, with redirects."
+        },
+        {
+          "text": "Set up a custom 404 page that helps visitors recover."
+        },
+        {
+          "text": "Verify caching and compression are enabled."
+        }
+      ]
+    },
+    {
+      "title": "Links, forms and functionality",
+      "items": [
+        {
+          "text": "Click every internal and external link to confirm it works."
+        },
+        {
+          "text": "Submit each form and confirm it sends to the right inbox."
+        },
+        {
+          "text": "Test checkout or payment flows end to end if applicable."
+        },
+        {
+          "text": "Check that search, filters and interactive features work."
+        },
+        {
+          "text": "Confirm downloads, calls to action and buttons function correctly."
+        }
+      ]
+    },
+    {
+      "title": "Analytics and legal",
+      "items": [
+        {
+          "text": "Install analytics and confirm it records a test visit."
+        },
+        {
+          "text": "Set up conversion goals and event tracking."
+        },
+        {
+          "text": "Add a privacy policy, terms and any required disclaimers."
+        },
+        {
+          "text": "Configure cookie consent in line with applicable regulations."
+        },
+        {
+          "text": "Verify tracking tags fire correctly through a tag manager."
+        }
+      ]
+    },
+    {
+      "title": "Launch day",
+      "items": [
+        {
+          "text": "Take a full backup of the previous site if you are replacing one."
+        },
+        {
+          "text": "Point the domain or DNS to the live environment."
+        },
+        {
+          "text": "Confirm the live site loads on a clean device and network."
+        },
+        {
+          "text": "Re-check that search engines can crawl the live site."
+        },
+        {
+          "text": "Announce the launch across your channels."
+        }
+      ]
+    },
+    {
+      "title": "Post-launch",
+      "items": [
+        {
+          "text": "Monitor analytics for traffic, errors and unusual drop-offs."
+        },
+        {
+          "text": "Check Search Console for crawl and indexing issues."
+        },
+        {
+          "text": "Re-test key forms and payments in the live environment."
+        },
+        {
+          "text": "Watch site speed and uptime for the first days."
+        },
+        {
+          "text": "Collect early user feedback and fix any reported issues."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I check before launching a website?",
+      "a": "Before launch, verify content and proofreading, SEO basics like titles and redirects, page speed, working links and forms, analytics tracking, and legal pages such as privacy policy and cookie consent."
+    },
+    {
+      "q": "What is the most common website launch mistake?",
+      "a": "The most common mistakes are leaving the site blocked from search engines, broken or missing redirects from old URLs, untested forms, and analytics that was never installed. This checklist flags all of them."
+    },
+    {
+      "q": "Is this website launch checklist good for beginners?",
+      "a": "Yes. It explains each step in plain terms, so a small business owner or beginner can launch a site without missing critical SEO, legal or tracking tasks."
+    },
+    {
+      "q": "Can I download this website launch checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and tick off each item with your team during the launch."
+    },
+    {
+      "q": "What should I do right after launching?",
+      "a": "After launch, submit your sitemap, confirm indexing is allowed, test the live site on real devices, watch analytics and error logs, and verify forms and payments work in production."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/website-launch-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/website-launch-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Website Launch Checklist by ChecklistForge (https://checklistforge.com/checklist/website-launch-checklist)",
+  "updated": "2026-10-17"
+}

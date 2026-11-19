@@ -1,0 +1,186 @@
+{
+  "id": "offboarding-checklist",
+  "name": "Offboarding Checklist",
+  "description": "A complete process for offboarding a departing employee, from knowledge transfer to access revocation.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "managers",
+    "offboarding",
+    "it-setup"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "When Notice Is Given",
+      "items": [
+        {
+          "text": "Confirm the resignation or termination details in writing"
+        },
+        {
+          "text": "Record the agreed last working day and notice period"
+        },
+        {
+          "text": "Notify HR, IT, payroll, and facilities of the departure",
+          "note": "Early notice gives every team time to plan."
+        },
+        {
+          "text": "Review any contract terms, notice obligations, or agreements"
+        },
+        {
+          "text": "Plan the communication to the team and clients"
+        },
+        {
+          "text": "Outline the knowledge transfer and handover plan"
+        }
+      ]
+    },
+    {
+      "title": "Plan Knowledge Transfer",
+      "items": [
+        {
+          "text": "List the departing employee's key responsibilities and projects"
+        },
+        {
+          "text": "Identify who will take over each task or account"
+        },
+        {
+          "text": "Have the employee document processes and login locations"
+        },
+        {
+          "text": "Schedule handover sessions with the receiving teammates"
+        },
+        {
+          "text": "Transfer ownership of files, documents, and shared resources"
+        },
+        {
+          "text": "Capture contacts, vendor details, and ongoing commitments",
+          "note": "Write down what only this person knows."
+        }
+      ]
+    },
+    {
+      "title": "Transition Work and Projects",
+      "items": [
+        {
+          "text": "Reassign open tasks and active projects to new owners"
+        },
+        {
+          "text": "Update project tools and trackers with the new assignees"
+        },
+        {
+          "text": "Introduce successors to clients and external partners"
+        },
+        {
+          "text": "Reroute the employee's email and shared inbox responsibilities"
+        },
+        {
+          "text": "Confirm deadlines and deliverables are covered after the last day"
+        },
+        {
+          "text": "Document any unfinished work and its current status"
+        }
+      ]
+    },
+    {
+      "title": "Revoke Access and Secure Data",
+      "items": [
+        {
+          "text": "Schedule account deactivation for the end of the last day"
+        },
+        {
+          "text": "Disable email, single sign-on, and VPN access on schedule"
+        },
+        {
+          "text": "Remove the employee from all systems, apps, and groups"
+        },
+        {
+          "text": "Revoke building badges, keys, and physical access codes"
+        },
+        {
+          "text": "Reset shared passwords the employee had access to",
+          "note": "Rotate any credentials they knew, not just personal ones."
+        },
+        {
+          "text": "Back up and transfer needed data before closing accounts"
+        }
+      ]
+    },
+    {
+      "title": "Collect Equipment and Assets",
+      "items": [
+        {
+          "text": "List all company equipment assigned to the employee"
+        },
+        {
+          "text": "Arrange return of laptop, phone, monitor, and accessories"
+        },
+        {
+          "text": "Collect badges, keys, credit cards, and parking passes"
+        },
+        {
+          "text": "For remote staff, send a prepaid return label and instructions"
+        },
+        {
+          "text": "Inspect returned equipment and update the asset log"
+        },
+        {
+          "text": "Wipe and reissue or store returned devices securely",
+          "note": "Confirm data is removed before redeployment."
+        }
+      ]
+    },
+    {
+      "title": "Close Out and Say Goodbye",
+      "items": [
+        {
+          "text": "Confirm final pay, expenses, and benefits with payroll and HR"
+        },
+        {
+          "text": "Hold an exit interview to gather candid feedback"
+        },
+        {
+          "text": "Communicate the departure and new contacts to the team"
+        },
+        {
+          "text": "Update the org chart, directory, and distribution lists"
+        },
+        {
+          "text": "Thank the employee and acknowledge their contributions"
+        },
+        {
+          "text": "Archive the employee record per your retention policy",
+          "note": "Retention rules vary; follow local laws and HR guidance."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is offboarding?",
+      "a": "Offboarding is the structured process of managing an employee's departure, including knowledge transfer, access revocation, equipment return, and final administration. It protects data and preserves knowledge for the remaining team."
+    },
+    {
+      "q": "When should offboarding start?",
+      "a": "Begin as soon as notice is given. Starting early leaves time for proper knowledge transfer and a planned, secure shutdown of access rather than a rushed last-minute scramble."
+    },
+    {
+      "q": "Why is knowledge transfer important during offboarding?",
+      "a": "Departing employees hold processes, contacts, and context that can otherwise be lost. Documenting their work and handing it to teammates keeps projects moving and avoids gaps after they leave."
+    },
+    {
+      "q": "How is offboarding different from an exit checklist?",
+      "a": "Offboarding is the broad process across the notice period, including handover and access cleanup. An exit checklist focuses on the final-day HR administration such as final pay, returns, and the exit interview."
+    },
+    {
+      "q": "Can I print this offboarding checklist?",
+      "a": "Yes. Download the printable PDF, assign owners across HR, IT, and the manager, and check off each task from notice through the last day to keep the departure secure and organized."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/offboarding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/offboarding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Offboarding Checklist by ChecklistForge (https://checklistforge.com/checklist/offboarding-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "local-seo-checklist",
+  "name": "Local SEO Checklist",
+  "description": "A local SEO checklist for ranking in maps and local search through profiles, citations, reviews, and local pages.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "citations",
+    "local-seo",
+    "google-business-profile"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Google Business Profile Setup",
+      "items": [
+        {
+          "text": "Claim and verify your business profile for each physical location."
+        },
+        {
+          "text": "Choose the most accurate primary category and add relevant secondary categories."
+        },
+        {
+          "text": "Complete every field including hours, services, attributes, and a detailed description."
+        },
+        {
+          "text": "Upload high-quality photos of your storefront, interior, team, and products."
+        },
+        {
+          "text": "Keep hours current and mark special hours for holidays in advance.",
+          "note": "Wrong holiday hours frustrate customers and erode the trust signals that help you rank."
+        },
+        {
+          "text": "Post regular updates, offers, and events to show the profile stays active."
+        }
+      ]
+    },
+    {
+      "title": "NAP Consistency",
+      "items": [
+        {
+          "text": "Define one canonical version of your business name, address, and phone number."
+        },
+        {
+          "text": "Match those exact details on your website footer and contact page."
+        },
+        {
+          "text": "Audit existing listings for mismatched or abbreviated address formats."
+        },
+        {
+          "text": "Correct outdated phone numbers and addresses across every platform."
+        },
+        {
+          "text": "Use a local phone number rather than a generic call-center line where possible."
+        }
+      ]
+    },
+    {
+      "title": "Citations and Directories",
+      "items": [
+        {
+          "text": "List the business in major general directories and industry-specific platforms."
+        },
+        {
+          "text": "Submit consistent NAP details to the core data aggregators that feed many listings."
+        },
+        {
+          "text": "Find and remove duplicate listings that split your local signals."
+        },
+        {
+          "text": "Add categories, photos, and descriptions to each citation where the platform allows."
+        },
+        {
+          "text": "Track all listings in one sheet so updates stay synchronized."
+        }
+      ]
+    },
+    {
+      "title": "Reviews and Reputation",
+      "items": [
+        {
+          "text": "Create a simple, direct link that sends happy customers to leave a review."
+        },
+        {
+          "text": "Ask for reviews at the natural moment of satisfaction, in person or by follow-up."
+        },
+        {
+          "text": "Respond promptly and professionally to every review, positive or negative."
+        },
+        {
+          "text": "Address negative feedback with a solution rather than a defensive reply."
+        },
+        {
+          "text": "Aim for a steady stream of recent reviews instead of occasional bursts.",
+          "note": "Review recency matters; a rush of old reviews looks less natural than a consistent flow."
+        },
+        {
+          "text": "Never buy or incentivize fake reviews, which can get the listing penalized."
+        }
+      ]
+    },
+    {
+      "title": "Local Landing Pages and Keywords",
+      "items": [
+        {
+          "text": "Build a dedicated page for each location with unique address and content."
+        },
+        {
+          "text": "Target local keywords that combine your service with the city or neighborhood."
+        },
+        {
+          "text": "Embed a map and add directions to reinforce the physical location."
+        },
+        {
+          "text": "Include location-specific testimonials, photos, and service details on each page."
+        },
+        {
+          "text": "Add local business structured data with address and opening hours."
+        },
+        {
+          "text": "Avoid copying the same text across location pages to prevent duplication."
+        }
+      ]
+    },
+    {
+      "title": "Local Link Building",
+      "items": [
+        {
+          "text": "Earn links from local newspapers, blogs, and community websites."
+        },
+        {
+          "text": "Sponsor or partner with local events and organizations for relevant mentions."
+        },
+        {
+          "text": "Join the local chamber of commerce and reputable business associations."
+        },
+        {
+          "text": "Build relationships with complementary local businesses for referral links."
+        },
+        {
+          "text": "Pursue mentions on resource pages relevant to your area and industry."
+        }
+      ]
+    },
+    {
+      "title": "Maps and Local Tracking",
+      "items": [
+        {
+          "text": "Confirm the map pin sits on the exact correct location on the map."
+        },
+        {
+          "text": "Define an accurate service area if you travel to customers."
+        },
+        {
+          "text": "Monitor your rankings for target keywords from within your local area."
+        },
+        {
+          "text": "Track calls, direction requests, and clicks from the business profile insights."
+        },
+        {
+          "text": "Review competitor listings to spot categories and features you are missing.",
+          "note": "Competitor profiles often reveal categories or attributes worth adding to your own."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is local SEO?",
+      "a": "Local SEO is the practice of optimizing a business to appear in location-based searches and map results. It focuses on signals like your business profile, consistent contact details, customer reviews, local citations, and location pages. The goal is to rank when nearby customers search for the products or services you offer."
+    },
+    {
+      "q": "Why is NAP consistency important?",
+      "a": "NAP stands for name, address, and phone number. When these details match exactly across your website, profiles, and directory listings, search engines trust the information and rank you more confidently. Inconsistent or outdated details split signals, confuse customers, and can quietly suppress your visibility in local results."
+    },
+    {
+      "q": "How do reviews affect local rankings?",
+      "a": "Reviews are a strong local ranking and conversion signal. A steady flow of recent, positive reviews with genuine detail builds trust with both search engines and customers. Responding to every review, including negative ones, shows engagement. Never buy fake reviews, which violate platform policies and risk removal of your listing."
+    },
+    {
+      "q": "What are local citations?",
+      "a": "Local citations are online mentions of your business name, address, and phone number, usually in directories and review sites. Consistent citations across reputable platforms reinforce that your business is real and located where you claim. Prioritize accuracy over volume, and fix or remove duplicate and outdated listings."
+    },
+    {
+      "q": "How long does local SEO take to work?",
+      "a": "Many businesses see early movement within a few weeks after claiming and fully completing their profile and fixing citations. Competitive rankings in busy markets usually take three to six months of consistent reviews, local content, and link building. Results last longer when you maintain the listing instead of treating it as one-time work."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/local-seo-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/local-seo-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Local SEO Checklist by ChecklistForge (https://checklistforge.com/checklist/local-seo-checklist)",
+  "updated": "2026-10-17"
+}

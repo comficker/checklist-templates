@@ -1,0 +1,184 @@
+{
+  "id": "baby-feeding-checklist",
+  "name": "Baby Feeding Checklist",
+  "description": "A baby feeding checklist covering the basics from breast or bottle to first solids.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "health",
+    "baby",
+    "feeding",
+    "newborn"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Breastfeeding basics",
+      "items": [
+        {
+          "text": "Feed on cue and watch for early hunger signs."
+        },
+        {
+          "text": "Aim for a deep, comfortable latch and switch sides as needed."
+        },
+        {
+          "text": "Look for steady swallowing during feeds."
+        },
+        {
+          "text": "Stay hydrated and eat regular, nourishing meals."
+        },
+        {
+          "text": "Ask about a vitamin D supplement for your baby, per your pediatrician."
+        },
+        {
+          "text": "Reach out to a lactation consultant if latching or pain is an issue."
+        }
+      ]
+    },
+    {
+      "title": "Formula feeding basics",
+      "items": [
+        {
+          "text": "Choose an iron-fortified infant formula your pediatrician recommends."
+        },
+        {
+          "text": "Prepare and mix formula exactly per the package instructions."
+        },
+        {
+          "text": "Clean and sterilize bottles and nipples as advised."
+        },
+        {
+          "text": "Test the temperature and never warm formula in the microwave."
+        },
+        {
+          "text": "Hold your baby semi-upright and pace the feed gently."
+        },
+        {
+          "text": "Discard leftover formula after a feeding to keep it safe."
+        }
+      ]
+    },
+    {
+      "title": "Hunger and fullness cues",
+      "items": [
+        {
+          "text": "Watch for early cues: rooting, lip-smacking and hands to mouth."
+        },
+        {
+          "text": "Treat crying as a late hunger sign and respond before then when you can."
+        },
+        {
+          "text": "Let your baby set the pace and pause during feeds."
+        },
+        {
+          "text": "Notice fullness signs: turning away, slowing down or releasing the nipple."
+        },
+        {
+          "text": "Avoid pressuring your baby to finish a bottle."
+        },
+        {
+          "text": "Feed on demand rather than strictly by the clock in the early weeks."
+        }
+      ]
+    },
+    {
+      "title": "Feeding schedule by age",
+      "items": [
+        {
+          "text": "Newborns: feed often, roughly every 2 to 3 hours, day and night."
+        },
+        {
+          "text": "Around 2 to 4 months: feeds may grow larger and space out a bit."
+        },
+        {
+          "text": "Around 4 to 6 months: continue breast milk or formula as the main nutrition."
+        },
+        {
+          "text": "Around 6 months: introduce solids alongside milk feeds, per your pediatrician."
+        },
+        {
+          "text": "6 to 12 months: keep milk as the primary source while solids expand."
+        },
+        {
+          "text": "Track wet and dirty diapers and growth as signs of enough intake."
+        }
+      ]
+    },
+    {
+      "title": "Burping and comfort",
+      "items": [
+        {
+          "text": "Burp your baby partway through and after each feed."
+        },
+        {
+          "text": "Try over-the-shoulder, sitting upright or lying-across positions."
+        },
+        {
+          "text": "Pat or rub the back gently to release trapped air."
+        },
+        {
+          "text": "Keep your baby upright for a short time after feeding."
+        },
+        {
+          "text": "Expect some spit-up, which is common in healthy babies."
+        },
+        {
+          "text": "Tell your pediatrician about forceful or frequent vomiting."
+        }
+      ]
+    },
+    {
+      "title": "Starting solids around 6 months",
+      "items": [
+        {
+          "text": "Confirm readiness signs: sits with support, steady head and interest in food."
+        },
+        {
+          "text": "Introduce single-ingredient foods one at a time, a few days apart."
+        },
+        {
+          "text": "Offer iron-rich first foods, such as fortified cereal or pureed meat."
+        },
+        {
+          "text": "Avoid honey before age one and skip added salt and sugar."
+        },
+        {
+          "text": "Discuss introducing common allergens early with your pediatrician."
+        },
+        {
+          "text": "Always supervise eating and avoid choking hazards like whole grapes and nuts."
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Always follow your pediatrician for feeding decisions, starting solids, allergens, and any concerns about your baby's intake or growth."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I know when my baby is hungry?",
+      "a": "Early hunger cues include rooting, lip-smacking, sucking on hands and increased alertness; crying is a late sign. Feeding on cue rather than strictly by the clock helps. Your pediatrician can guide amounts and timing for your baby."
+    },
+    {
+      "q": "How often should a baby eat?",
+      "a": "Newborns often feed every 2 to 3 hours, and feedings gradually space out as babies grow. Watch for steady weight gain and regular wet and dirty diapers. Your pediatrician can confirm a pattern that suits your baby."
+    },
+    {
+      "q": "When can I start solids?",
+      "a": "Mainstream guidance suggests starting solids around 6 months, when your baby can sit with support, holds their head steady and shows interest in food. Breast milk or formula stays the main nutrition this first year. Check timing with your pediatrician."
+    },
+    {
+      "q": "How do I know my baby is getting enough?",
+      "a": "Steady weight gain, regular wet and dirty diapers, and a content baby after feeds are good signs. If you are worried about intake, fewer wet diapers, or feeding difficulties, contact your pediatrician."
+    },
+    {
+      "q": "Can I download this baby feeding checklist as a PDF?",
+      "a": "Yes. You can print it for the kitchen or download it as a PDF for your phone, so first-time moms have feeding basics handy during the day and night."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/baby-feeding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/baby-feeding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Baby Feeding Checklist by ChecklistForge (https://checklistforge.com/checklist/baby-feeding-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "homeschool-supplies-checklist",
+  "name": "Homeschool Supplies Checklist",
+  "description": "A complete shopping and stocking list of supplies and materials for homeschooling.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "parents",
+    "teaching",
+    "homeschool",
+    "curriculum",
+    "school-supplies"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Curriculum and books",
+      "items": [
+        {
+          "text": "Core curriculum for each subject and grade level."
+        },
+        {
+          "text": "Workbooks and consumable lesson materials."
+        },
+        {
+          "text": "Reading books at each child's level."
+        },
+        {
+          "text": "Reference books such as a dictionary and atlas."
+        },
+        {
+          "text": "Teacher guides and answer keys."
+        },
+        {
+          "text": "A library card and list of free online resources."
+        }
+      ]
+    },
+    {
+      "title": "Writing and paper",
+      "items": [
+        {
+          "text": "Pencils, pens, erasers and a sharpener."
+        },
+        {
+          "text": "Notebooks, composition books and loose-leaf paper."
+        },
+        {
+          "text": "Highlighters, colored pencils and markers."
+        },
+        {
+          "text": "Construction and chart paper for projects."
+        },
+        {
+          "text": "Index cards and sticky notes."
+        },
+        {
+          "text": "A whiteboard with dry-erase markers.",
+          "note": "Great for modeling math and quick lessons."
+        }
+      ]
+    },
+    {
+      "title": "Hands-on learning materials",
+      "items": [
+        {
+          "text": "Math manipulatives such as counters and blocks."
+        },
+        {
+          "text": "A science kit and basic experiment supplies."
+        },
+        {
+          "text": "Art materials: paint, glue, scissors and clay."
+        },
+        {
+          "text": "Measuring tools, rulers and a calculator."
+        },
+        {
+          "text": "Maps, globes and timeline materials."
+        },
+        {
+          "text": "Building sets, puzzles and educational games."
+        }
+      ]
+    },
+    {
+      "title": "Organization and storage",
+      "items": [
+        {
+          "text": "Binders, folders and dividers for each subject."
+        },
+        {
+          "text": "Labeled bins and baskets for supplies."
+        },
+        {
+          "text": "A separate storage spot for each child's work."
+        },
+        {
+          "text": "A filing system for records and portfolios."
+        },
+        {
+          "text": "A planner or calendar for the homeschool schedule."
+        },
+        {
+          "text": "A bookshelf or cart for curriculum and supplies."
+        }
+      ]
+    },
+    {
+      "title": "Technology and tools",
+      "items": [
+        {
+          "text": "A computer or tablet for lessons and research."
+        },
+        {
+          "text": "Reliable internet access for online curriculum."
+        },
+        {
+          "text": "A printer with paper and spare ink."
+        },
+        {
+          "text": "Headphones for focused or online work."
+        },
+        {
+          "text": "Educational apps and subscription logins."
+        },
+        {
+          "text": "A backup or cloud storage for files and records."
+        }
+      ]
+    },
+    {
+      "title": "Extras and enrichment",
+      "items": [
+        {
+          "text": "Art and craft supplies for creative projects."
+        },
+        {
+          "text": "Musical instruments or audio resources."
+        },
+        {
+          "text": "Materials for physical activity and outdoor play."
+        },
+        {
+          "text": "A field-trip bag with clipboard and supplies."
+        },
+        {
+          "text": "Rewards, stickers or a progress chart."
+        },
+        {
+          "text": "Seasonal and holiday learning materials."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What basic supplies does every homeschool need?",
+      "a": "Stock writing tools, paper, notebooks, a planner, and storage for each child's work, plus core curriculum and books. These basics support daily lessons across subjects, and you can add specialized materials as particular units and activities call for them."
+    },
+    {
+      "q": "How can I keep homeschool supply costs down?",
+      "a": "Reuse materials between children, buy used curriculum and books, shop sales and library resources, and only purchase consumables as you need them. Marking what you already own before shopping is the simplest way to avoid buying things twice."
+    },
+    {
+      "q": "What supplies help with hands-on learning?",
+      "a": "Manipulatives, science kits, art materials, building sets and measuring tools turn abstract concepts into hands-on lessons. Choose items that fit your curriculum and your children's ages, and store them so they are easy to pull out when a lesson calls for them."
+    },
+    {
+      "q": "Do homeschoolers need special technology?",
+      "a": "A computer or tablet with reliable internet covers most online curriculum, research and lessons. Add a printer for worksheets and records, and consider headphones for focused work. Keep technology simple and tied to what your curriculum actually requires."
+    },
+    {
+      "q": "Is this homeschool supplies checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to carry while shopping, then tick off each item so your homeschool is fully stocked with curriculum, writing, hands-on and tech materials."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/homeschool-supplies-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/homeschool-supplies-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Homeschool Supplies Checklist by ChecklistForge (https://checklistforge.com/checklist/homeschool-supplies-checklist)",
+  "updated": "2026-10-17"
+}

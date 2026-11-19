@@ -1,0 +1,138 @@
+{
+  "id": "moving-house-checklist",
+  "name": "Moving House Checklist",
+  "description": "A homeowner's moving house checklist covering meter readings, mail redirects and handover.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "packing",
+    "moving-day",
+    "utilities",
+    "home"
+  ],
+  "item_count": 24,
+  "sections": [
+    {
+      "title": "6 Weeks Before",
+      "items": [
+        {
+          "text": "Confirm your moving date and book a removal company"
+        },
+        {
+          "text": "Declutter and start a donate, sell and dispose pile"
+        },
+        {
+          "text": "Get quotes for any work needed before or after the move"
+        },
+        {
+          "text": "Start a folder for contracts, quotes and important documents"
+        }
+      ]
+    },
+    {
+      "title": "3 Weeks Before",
+      "items": [
+        {
+          "text": "Notify utility providers (gas, electricity, water) of your move date"
+        },
+        {
+          "text": "Arrange broadband and phone at the new address",
+          "note": "Installation slots book up — schedule early"
+        },
+        {
+          "text": "Update your address with banks, insurers, employer and subscriptions"
+        },
+        {
+          "text": "Tell the council and update the electoral roll"
+        },
+        {
+          "text": "Set up a mail redirect with your postal service"
+        }
+      ]
+    },
+    {
+      "title": "1 Week Before",
+      "items": [
+        {
+          "text": "Confirm timings and access with your removal company"
+        },
+        {
+          "text": "Pack an essentials box for the first night"
+        },
+        {
+          "text": "Run down the freezer and pantry"
+        },
+        {
+          "text": "Service or disconnect appliances you're taking"
+        },
+        {
+          "text": "Arrange care for children and pets on moving day"
+        }
+      ]
+    },
+    {
+      "title": "Moving Day",
+      "items": [
+        {
+          "text": "Take final meter readings and photograph them"
+        },
+        {
+          "text": "Do a final walkthrough of every room, loft and shed"
+        },
+        {
+          "text": "Keep documents, valuables and chargers with you"
+        },
+        {
+          "text": "Leave keys, manuals and bin days for the new owners"
+        },
+        {
+          "text": "Lock up and confirm handover of keys"
+        }
+      ]
+    },
+    {
+      "title": "After You Move In",
+      "items": [
+        {
+          "text": "Submit opening meter readings to your new suppliers"
+        },
+        {
+          "text": "Test smoke and carbon-monoxide alarms; locate the stopcock and fuse box"
+        },
+        {
+          "text": "Register with a local doctor, dentist and the council"
+        },
+        {
+          "text": "Check window and door locks; consider changing exterior locks"
+        },
+        {
+          "text": "Update your address on your driving license and vehicle documents"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I do with utility meters when moving house?",
+      "a": "Take photos of the gas, electricity and water meter readings on moving day at both homes. Send final readings to your old suppliers and opening readings to your new ones to avoid being billed for someone else's usage."
+    },
+    {
+      "q": "How do I redirect my post when moving house?",
+      "a": "Set up a mail redirect with your postal service a week or two before you move, then update your address with banks, employers, insurers, and subscriptions so important post reaches you."
+    },
+    {
+      "q": "What should I leave for the new owners?",
+      "a": "Leave all keys, garage and gate remotes, appliance manuals, alarm codes, warranty paperwork, and bin-collection days. A short note on quirks of the house is a kind touch."
+    },
+    {
+      "q": "Is this moving house checklist printable?",
+      "a": "Yes. Print it or download the PDF so you can carry it through completion day and tick off both the packing and the paperwork."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/moving-house-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/moving-house-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Moving House Checklist by ChecklistForge (https://checklistforge.com/checklist/moving-house-checklist)",
+  "updated": "2026-10-17"
+}

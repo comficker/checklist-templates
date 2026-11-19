@@ -1,0 +1,170 @@
+{
+  "id": "heart-healthy-diet-checklist",
+  "name": "Heart-Healthy Diet Checklist",
+  "description": "A heart-friendly eating checklist focused on less sodium and saturated fat, more fiber, omega-3 and fruit and vegetables.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "family",
+    "healthy-eating",
+    "nutrition",
+    "heart-health",
+    "low-sodium"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Eat More Fruit & Vegetables",
+      "items": [
+        {
+          "text": "Fill at least half your plate with vegetables and fruit"
+        },
+        {
+          "text": "Aim for a variety of colors across the week"
+        },
+        {
+          "text": "Choose fresh, frozen or no-salt-added canned produce"
+        },
+        {
+          "text": "Add an extra serving of veg to soups, pasta and stir-fries"
+        },
+        {
+          "text": "Snack on fruit or raw veg instead of chips",
+          "note": "Produce adds fiber, potassium and antioxidants with little sodium."
+        }
+      ]
+    },
+    {
+      "title": "Limit Sodium",
+      "items": [
+        {
+          "text": "Cook more meals at home so you control the salt"
+        },
+        {
+          "text": "Compare labels and choose lower-sodium products"
+        },
+        {
+          "text": "Rinse canned beans and vegetables to cut sodium"
+        },
+        {
+          "text": "Season with herbs, spices, citrus and vinegar instead of salt"
+        },
+        {
+          "text": "Go easy on cured and processed meats, broths and sauces",
+          "note": "Most dietary sodium comes from packaged and restaurant foods."
+        }
+      ]
+    },
+    {
+      "title": "Choose Healthy Fats",
+      "items": [
+        {
+          "text": "Cook with olive or canola oil instead of butter"
+        },
+        {
+          "text": "Eat oily fish like salmon, mackerel or sardines once or twice a week"
+        },
+        {
+          "text": "Snack on unsalted nuts and add seeds to meals"
+        },
+        {
+          "text": "Limit fatty and processed meats and full-fat dairy"
+        },
+        {
+          "text": "Avoid fried and packaged foods with artificial trans fats",
+          "note": "Unsaturated fats and omega-3s support heart health."
+        }
+      ]
+    },
+    {
+      "title": "Pick High-Fiber Whole Grains & Legumes",
+      "items": [
+        {
+          "text": "Choose whole-grain bread, pasta and cereals"
+        },
+        {
+          "text": "Start the day with oats or another whole grain"
+        },
+        {
+          "text": "Swap white rice for brown rice, quinoa or barley"
+        },
+        {
+          "text": "Include beans, lentils or chickpeas several times a week"
+        },
+        {
+          "text": "Make whole grain the first ingredient on labels",
+          "note": "Soluble fiber from oats and beans can help lower cholesterol."
+        }
+      ]
+    },
+    {
+      "title": "Cut Added Sugar & Limit Alcohol",
+      "items": [
+        {
+          "text": "Swap sugary drinks for water or unsweetened options"
+        },
+        {
+          "text": "Keep desserts and pastries as occasional treats"
+        },
+        {
+          "text": "Watch for added sugar in sauces, snacks and cereals"
+        },
+        {
+          "text": "Limit alcohol, or avoid it, in line with your provider's advice"
+        },
+        {
+          "text": "Choose plain yogurt and add your own fruit",
+          "note": "Excess added sugar and alcohol can affect heart health and weight."
+        }
+      ]
+    },
+    {
+      "title": "Lasting Heart-Healthy Habits",
+      "items": [
+        {
+          "text": "Watch portion sizes and eat to comfortable fullness"
+        },
+        {
+          "text": "Cook in batches so healthy meals are ready on busy days"
+        },
+        {
+          "text": "Pair eating habits with regular physical activity"
+        },
+        {
+          "text": "Use this printable checklist to stay consistent"
+        },
+        {
+          "text": "Important: this is general information, not medical or dietary advice",
+          "note": "Consult your doctor or a registered dietitian for a heart-health plan suited to you."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a heart-healthy diet?",
+      "a": "It is an eating pattern that supports cardiovascular health: rich in vegetables, fruit, whole grains, beans, fish, nuts and healthy oils, and lower in sodium, saturated fat, added sugar and ultra-processed foods. The Mediterranean and DASH styles are well-known examples."
+    },
+    {
+      "q": "How much sodium should I aim for?",
+      "a": "Many heart-health bodies suggest aiming for under about 2,300 mg of sodium a day, with an even lower target near 1,500 mg ideal for many adults. Most sodium comes from packaged and restaurant foods, so cooking at home helps."
+    },
+    {
+      "q": "Which fats are best for heart health?",
+      "a": "Favor unsaturated fats from olive oil, nuts, seeds, avocado and oily fish, and limit saturated fat from fatty and processed meats and full-fat dairy. Avoid artificial trans fats found in some fried and packaged foods."
+    },
+    {
+      "q": "Can I print this heart-healthy diet checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep on the fridge or take shopping, ticking off habits as you adopt them."
+    },
+    {
+      "q": "Is this medical advice?",
+      "a": "No. This is general information aligned with mainstream heart-health guidance, not medical or dietary advice. Heart health is a medical matter — consult your doctor or a registered dietitian for advice tailored to you."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/heart-healthy-diet-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/heart-healthy-diet-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Heart-Healthy Diet Checklist by ChecklistForge (https://checklistforge.com/checklist/heart-healthy-diet-checklist)",
+  "updated": "2026-10-17"
+}

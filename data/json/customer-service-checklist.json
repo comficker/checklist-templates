@@ -1,0 +1,167 @@
+{
+  "id": "customer-service-checklist",
+  "name": "Customer Service Checklist",
+  "description": "A checklist for handling support interactions and meeting service standards from greeting to follow-up.",
+  "category": "sales-customer",
+  "category_name": "Sales & Customer",
+  "tags": [
+    "customer",
+    "service",
+    "support",
+    "quality"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Prepare for the Interaction",
+      "items": [
+        {
+          "text": "Review the customer's history and any open tickets before responding."
+        },
+        {
+          "text": "Confirm you have the tools, macros and knowledge base ready."
+        },
+        {
+          "text": "Check service-level targets so you know the response window."
+        },
+        {
+          "text": "Clear distractions so you can give the customer full attention.",
+          "note": "Context before contact prevents 'can you repeat that' moments."
+        }
+      ]
+    },
+    {
+      "title": "Greet and Connect",
+      "items": [
+        {
+          "text": "Greet the customer warmly and use their name."
+        },
+        {
+          "text": "Introduce yourself and confirm you are here to help."
+        },
+        {
+          "text": "Match the customer's tone and acknowledge any frustration."
+        },
+        {
+          "text": "Set a positive, professional tone from the first line."
+        },
+        {
+          "text": "Verify identity politely when account access is involved."
+        }
+      ]
+    },
+    {
+      "title": "Understand the Issue",
+      "items": [
+        {
+          "text": "Let the customer explain fully without interrupting."
+        },
+        {
+          "text": "Ask clarifying questions to pinpoint the real problem."
+        },
+        {
+          "text": "Restate the issue back to confirm you understood it.",
+          "note": "A quick recap stops you from solving the wrong problem."
+        },
+        {
+          "text": "Show empathy and acknowledge the impact on the customer."
+        },
+        {
+          "text": "Gather any details or screenshots needed to resolve it."
+        }
+      ]
+    },
+    {
+      "title": "Resolve and Take Action",
+      "items": [
+        {
+          "text": "Offer a clear solution or explain the next steps."
+        },
+        {
+          "text": "Set realistic expectations on timing and any limitations."
+        },
+        {
+          "text": "Escalate to the right team if the issue is beyond your scope."
+        },
+        {
+          "text": "Take ownership and avoid passing the customer around."
+        },
+        {
+          "text": "Confirm the customer is satisfied that the issue is resolved."
+        },
+        {
+          "text": "Offer a proactive tip to prevent the problem recurring."
+        }
+      ]
+    },
+    {
+      "title": "Close and Follow Up",
+      "items": [
+        {
+          "text": "Summarize what was done and what happens next."
+        },
+        {
+          "text": "Ask if there is anything else you can help with."
+        },
+        {
+          "text": "Thank the customer for their time and patience."
+        },
+        {
+          "text": "Send a follow-up to confirm the fix held, if needed.",
+          "note": "A short check-in turns a fix into a loyalty moment."
+        },
+        {
+          "text": "Invite feedback or a satisfaction rating on the interaction."
+        }
+      ]
+    },
+    {
+      "title": "Document and Improve",
+      "items": [
+        {
+          "text": "Log the interaction and resolution accurately in the system."
+        },
+        {
+          "text": "Tag the issue type so trends can be tracked over time."
+        },
+        {
+          "text": "Update the knowledge base if you found a gap or a better answer."
+        },
+        {
+          "text": "Flag recurring problems to the relevant team for a root-cause fix."
+        },
+        {
+          "text": "Review your own interactions against the service standards weekly.",
+          "note": "Self-review against the checklist speeds up coaching."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a customer service checklist?",
+      "a": "It is a list of the steps and standards an agent follows on every support interaction — greeting, understanding the issue, resolving it, following up and meeting quality benchmarks — so service stays consistent across the team."
+    },
+    {
+      "q": "Does this checklist work for phone, email and chat?",
+      "a": "Yes. The same core steps apply across every channel. Adjust the greeting and tone for the medium, but the flow of greet, understand, resolve and follow up stays the same on calls, tickets and chat."
+    },
+    {
+      "q": "How does a service checklist improve customer satisfaction?",
+      "a": "It removes inconsistency. When every agent confirms the real issue, sets clear expectations and closes the loop, customers get the same reliable experience, which lifts satisfaction and trust over time."
+    },
+    {
+      "q": "Can I print this checklist or save it as a PDF?",
+      "a": "Yes. The checklist prints cleanly on one page and downloads as a PDF, so agents can keep it at their desk and managers can use it for training and quality reviews."
+    },
+    {
+      "q": "How do I use this checklist for quality assurance?",
+      "a": "Score sample interactions against the checklist items, share results in coaching, and track which steps get missed most so you can target training and improve the team's overall quality."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/customer-service-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/customer-service-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Customer Service Checklist by ChecklistForge (https://checklistforge.com/checklist/customer-service-checklist)",
+  "updated": "2026-10-17"
+}

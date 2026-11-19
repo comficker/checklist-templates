@@ -1,0 +1,184 @@
+{
+  "id": "road-trip-car-checklist",
+  "name": "Road Trip Car Checklist",
+  "description": "A checklist for preparing your car before a road trip.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "maintenance",
+    "vehicles",
+    "cars",
+    "road-trip"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Fluids and engine",
+      "items": [
+        {
+          "text": "Check engine oil level and condition; change it if a service is due."
+        },
+        {
+          "text": "Verify coolant level when cold and that it suits the climate ahead.",
+          "note": "Long highway driving in heat raises engine temperatures — coolant matters."
+        },
+        {
+          "text": "Top up windshield washer fluid for bug and grime removal."
+        },
+        {
+          "text": "Check brake, power steering and transmission fluid levels."
+        },
+        {
+          "text": "Inspect belts and hoses for cracks, fraying or leaks."
+        },
+        {
+          "text": "Look under the car for any fresh fluid leaks."
+        }
+      ]
+    },
+    {
+      "title": "Tires and wheels",
+      "items": [
+        {
+          "text": "Set all tire pressures to the door-jamb spec, allowing for a loaded car."
+        },
+        {
+          "text": "Check tread depth and look for cuts, bulges or uneven wear."
+        },
+        {
+          "text": "Confirm the spare is inflated and the jack and tools are present.",
+          "note": "Know how to change a tire safely before you rely on the spare."
+        },
+        {
+          "text": "Verify lug nuts are tight and the TPMS light is off."
+        },
+        {
+          "text": "Consider a tire rotation or alignment if wear is uneven."
+        },
+        {
+          "text": "Pack a tire inflator or sealant for minor punctures."
+        }
+      ]
+    },
+    {
+      "title": "Brakes and steering",
+      "items": [
+        {
+          "text": "Confirm the brake pedal is firm and braking is straight and quiet."
+        },
+        {
+          "text": "Have brakes inspected if you hear grinding or feel pulsing."
+        },
+        {
+          "text": "Check the parking brake holds on a slope."
+        },
+        {
+          "text": "Verify the steering is centered with no pulling or vibration."
+        },
+        {
+          "text": "Confirm ABS and brake warning lights are off."
+        },
+        {
+          "text": "Listen for suspension clunks over bumps."
+        }
+      ]
+    },
+    {
+      "title": "Lights and visibility",
+      "items": [
+        {
+          "text": "Test headlights, high beams, brake lights and turn signals."
+        },
+        {
+          "text": "Check reverse, fog and hazard lights."
+        },
+        {
+          "text": "Replace worn wiper blades and fill washer fluid."
+        },
+        {
+          "text": "Clean the windshield, mirrors and headlights inside and out."
+        },
+        {
+          "text": "Confirm the defroster and demister clear the glass."
+        },
+        {
+          "text": "Pack spare bulbs and fuses if your car uses serviceable ones."
+        }
+      ]
+    },
+    {
+      "title": "Emergency kit and tools",
+      "items": [
+        {
+          "text": "Pack jumper cables or a portable jump starter."
+        },
+        {
+          "text": "Carry a flashlight with spare batteries and a warning triangle."
+        },
+        {
+          "text": "Stock a first-aid kit and any personal medications."
+        },
+        {
+          "text": "Bring drinking water, snacks and weather-appropriate supplies."
+        },
+        {
+          "text": "Pack basic tools, gloves, a tow strap and duct tape."
+        },
+        {
+          "text": "Keep a phone charger, power bank and printed backup directions."
+        }
+      ]
+    },
+    {
+      "title": "Final pre-departure checks",
+      "items": [
+        {
+          "text": "Confirm your insurance, registration and roadside assistance are current."
+        },
+        {
+          "text": "Fill the fuel tank or plan charging stops along the route."
+        },
+        {
+          "text": "Adjust mirrors, seat and headrest before you set off."
+        },
+        {
+          "text": "Test the horn, climate control and infotainment."
+        },
+        {
+          "text": "Secure cargo so nothing shifts or blocks visibility."
+        },
+        {
+          "text": "Do a final walkaround for tires, lights and fluid leaks."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a road trip car checklist?",
+      "a": "It's a pre-trip inspection that prepares your car for a long drive — fluids, tires, brakes, lights and an emergency kit — so drivers catch faults before departure rather than on the side of a highway."
+    },
+    {
+      "q": "When should I check my car before a road trip?",
+      "a": "Run the checklist several days before you leave so there is time to book a service or buy parts if needed. Do a final quick walkaround the morning of departure to confirm tires, lights and fluids."
+    },
+    {
+      "q": "What should be in a road trip emergency kit?",
+      "a": "Carry a spare tire and tools, jumper cables or a jump pack, a flashlight, warning triangle, first-aid kit, water, basic tools, and weather-appropriate items. Add a phone charger and printed route or maps as backup."
+    },
+    {
+      "q": "Should I get my car serviced before a long trip?",
+      "a": "If a service is due or close, do it before you go. For any leak, warning light or unusual noise, have a qualified mechanic inspect the car before a long drive rather than risk a breakdown away from home."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the road trip car checklist to work through in the driveway, or download the PDF to complete on your phone before you set off."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/road-trip-car-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/road-trip-car-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Road Trip Car Checklist by ChecklistForge (https://checklistforge.com/checklist/road-trip-car-checklist)",
+  "updated": "2026-10-17"
+}

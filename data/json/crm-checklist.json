@@ -1,0 +1,168 @@
+{
+  "id": "crm-checklist",
+  "name": "CRM Checklist",
+  "description": "A checklist for setting up and maintaining a CRM with clean data, clear stages, automation and adoption.",
+  "category": "sales-customer",
+  "category_name": "Sales & Customer",
+  "tags": [
+    "sales",
+    "crm",
+    "pipeline",
+    "reporting"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Data Fields and Structure",
+      "items": [
+        {
+          "text": "Define the core objects you track — leads, contacts, accounts and deals."
+        },
+        {
+          "text": "Choose required fields and keep them minimal to protect adoption.",
+          "note": "Every required field is a tax on the rep entering it."
+        },
+        {
+          "text": "Standardize picklists for industry, source, status and region."
+        },
+        {
+          "text": "Set naming conventions for accounts, deals and records."
+        },
+        {
+          "text": "Document what each field means and who owns it."
+        }
+      ]
+    },
+    {
+      "title": "Data Hygiene",
+      "items": [
+        {
+          "text": "Import existing data and map every field to the right place."
+        },
+        {
+          "text": "Find and merge duplicate contacts and accounts."
+        },
+        {
+          "text": "Fill or flag records with missing critical information."
+        },
+        {
+          "text": "Archive or update stale records on a regular cadence.",
+          "note": "Schedule a recurring cleanup so decay never piles up."
+        },
+        {
+          "text": "Set validation rules to keep new entries consistent."
+        }
+      ]
+    },
+    {
+      "title": "Pipeline Stages",
+      "items": [
+        {
+          "text": "Define pipeline stages that match how deals actually progress."
+        },
+        {
+          "text": "Write clear exit criteria for moving a deal to the next stage."
+        },
+        {
+          "text": "Set default probabilities and expected close dates per stage."
+        },
+        {
+          "text": "Define what counts as won, lost and disqualified."
+        },
+        {
+          "text": "Confirm the whole team agrees on stage definitions.",
+          "note": "Shared definitions make the forecast trustworthy."
+        }
+      ]
+    },
+    {
+      "title": "Contacts and Relationships",
+      "items": [
+        {
+          "text": "Link contacts to the correct accounts and deals."
+        },
+        {
+          "text": "Capture roles, decision-makers and relationship strength."
+        },
+        {
+          "text": "Log key activities — calls, emails and meetings — consistently."
+        },
+        {
+          "text": "Record communication preferences and consent where required."
+        },
+        {
+          "text": "Keep a single source of truth so no contact is duplicated."
+        }
+      ]
+    },
+    {
+      "title": "Automation and Integrations",
+      "items": [
+        {
+          "text": "Connect email, calendar and marketing tools to the CRM."
+        },
+        {
+          "text": "Automate data capture to reduce manual entry for reps."
+        },
+        {
+          "text": "Set up lead routing and assignment rules."
+        },
+        {
+          "text": "Create task reminders and follow-up triggers for each stage."
+        },
+        {
+          "text": "Test every workflow before rolling it out to the team.",
+          "note": "One broken automation can quietly corrupt data for weeks."
+        }
+      ]
+    },
+    {
+      "title": "Reporting and Adoption",
+      "items": [
+        {
+          "text": "Build dashboards for pipeline, forecast and activity."
+        },
+        {
+          "text": "Define the metrics leadership reviews and how often."
+        },
+        {
+          "text": "Train the team on the agreed process and why it matters."
+        },
+        {
+          "text": "Monitor adoption and coach reps who fall behind on data entry."
+        },
+        {
+          "text": "Review the CRM setup periodically and refine fields and stages.",
+          "note": "Treat the CRM as a living system, not a one-time setup."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a CRM checklist?",
+      "a": "It is a list of tasks for setting up and maintaining a CRM — covering data fields and hygiene, pipeline stages, contacts, automation, reporting and adoption — so the system stays clean, trusted and useful over time."
+    },
+    {
+      "q": "How often should I run the CRM maintenance steps?",
+      "a": "Run the setup sections once at implementation. Revisit the data hygiene and reporting sections monthly or quarterly so records stay fresh and forecasts stay accurate as the team grows."
+    },
+    {
+      "q": "Why does CRM data hygiene matter so much?",
+      "a": "Dirty data breaks everything downstream — forecasts, automation and reporting all rely on clean records. Duplicates, blanks and stale fields erode trust until reps stop using the CRM altogether."
+    },
+    {
+      "q": "Can I print this checklist or download it as a PDF?",
+      "a": "Yes. The checklist prints cleanly on one page and downloads as a PDF, so CRM admins can keep it with their setup notes and share a consistent reference with sales and operations."
+    },
+    {
+      "q": "How do I improve CRM adoption with this checklist?",
+      "a": "Keep required fields minimal, automate data entry where you can, train the team on the agreed process, and tie reporting to the data reps enter, then save the standards as a shared PDF."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/crm-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/crm-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "CRM Checklist by ChecklistForge (https://checklistforge.com/checklist/crm-checklist)",
+  "updated": "2026-10-17"
+}

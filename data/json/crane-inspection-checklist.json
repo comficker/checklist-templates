@@ -1,0 +1,182 @@
+{
+  "id": "crane-inspection-checklist",
+  "name": "Crane Inspection Checklist",
+  "description": "A pre-use inspection checklist for cranes.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "crane-inspection",
+    "rigging"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Rigging and hooks",
+      "items": [
+        {
+          "text": "Inspect slings for cuts, fraying, kinks and broken wires."
+        },
+        {
+          "text": "Check shackles, hooks and fittings for wear, cracks and deformation.",
+          "note": "Remove from service any hook with cracks, excessive throat opening or twist."
+        },
+        {
+          "text": "Verify hook safety latches close and function."
+        },
+        {
+          "text": "Confirm rigging is rated for the load and within its capacity."
+        },
+        {
+          "text": "Check tags and certifications on rigging are current."
+        },
+        {
+          "text": "Verify the load is correctly secured and balanced before lifting."
+        }
+      ]
+    },
+    {
+      "title": "Wire rope and hoist",
+      "items": [
+        {
+          "text": "Inspect wire rope for broken wires, kinks, birdcaging and corrosion."
+        },
+        {
+          "text": "Check rope spooling is even on the drum with no overlap."
+        },
+        {
+          "text": "Verify the rope is correctly seated in sheaves."
+        },
+        {
+          "text": "Inspect sheaves and drums for wear and grooving."
+        },
+        {
+          "text": "Confirm rope end connections are secure and undamaged."
+        },
+        {
+          "text": "Check lubrication of the rope and reeving."
+        }
+      ]
+    },
+    {
+      "title": "Controls and instruments",
+      "items": [
+        {
+          "text": "Confirm all controls operate smoothly and return to neutral."
+        },
+        {
+          "text": "Check the load moment indicator and readouts function."
+        },
+        {
+          "text": "Verify gauges, warning lights and alarms read normally."
+        },
+        {
+          "text": "Test hoist, swing, boom and travel functions."
+        },
+        {
+          "text": "Confirm brakes hold and operate correctly."
+        },
+        {
+          "text": "Check the cab, mirrors and visibility are clear."
+        }
+      ]
+    },
+    {
+      "title": "Load chart and capacity",
+      "items": [
+        {
+          "text": "Confirm the correct load chart for the configuration is in the cab."
+        },
+        {
+          "text": "Verify the load weight is known and within capacity."
+        },
+        {
+          "text": "Check boom length, radius and angle against the chart."
+        },
+        {
+          "text": "Confirm counterweight matches the configuration."
+        },
+        {
+          "text": "Verify the lift plan accounts for wind and ground conditions."
+        },
+        {
+          "text": "Confirm clearances from power lines and obstructions."
+        }
+      ]
+    },
+    {
+      "title": "Outriggers and stability",
+      "items": [
+        {
+          "text": "Confirm outriggers are fully extended and pinned per the chart."
+        },
+        {
+          "text": "Check outrigger pads and cribbing are rated and on firm ground."
+        },
+        {
+          "text": "Verify the crane is level within tolerance."
+        },
+        {
+          "text": "Confirm tires are off the ground when fully on outriggers."
+        },
+        {
+          "text": "Check the ground bearing capacity supports the loads."
+        },
+        {
+          "text": "Verify the swing area is clear and barricaded."
+        }
+      ]
+    },
+    {
+      "title": "Safety devices and records",
+      "items": [
+        {
+          "text": "Test the anti-two-block device and warning."
+        },
+        {
+          "text": "Confirm limit switches and overload protection function."
+        },
+        {
+          "text": "Check the horn, alarms and signaling work."
+        },
+        {
+          "text": "Verify the fire extinguisher is charged and mounted."
+        },
+        {
+          "text": "Confirm operator certification and inspection records are current."
+        },
+        {
+          "text": "Record defects, take unsafe cranes out of service, then sign and file."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a crane inspection checklist?",
+      "a": "It's a pre-use list used to confirm a crane is safe to lift, covering rigging, wire rope, controls, load chart, outriggers and safety devices. Each item is marked pass or fail by a competent person before operation."
+    },
+    {
+      "q": "How often must a crane be inspected?",
+      "a": "A competent person must perform a documented inspection before each shift, with more detailed monthly and annual inspections per OSHA and the manufacturer. Inspect again after any modification, repair or overload event."
+    },
+    {
+      "q": "Who is qualified to inspect a crane?",
+      "a": "Shift inspections are done by a competent person, often the crane operator. Periodic and post-incident inspections require a qualified person, and annual inspections must follow OSHA 1926 subpart CC and manufacturer requirements."
+    },
+    {
+      "q": "When should a crane be taken out of service?",
+      "a": "Immediately, if any safety device, wire rope, hook or structural component shows a defect that meets removal-from-service criteria. Do not lift until a qualified person inspects, repairs and clears the crane."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the crane inspection checklist for the cab or logbook, or download the PDF to complete on a tablet and store with your crane and lift records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/crane-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/crane-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Crane Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/crane-inspection-checklist)",
+  "updated": "2026-10-20"
+}

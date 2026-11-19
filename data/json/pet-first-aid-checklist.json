@@ -1,0 +1,176 @@
+{
+  "id": "pet-first-aid-checklist",
+  "name": "Pet First Aid Checklist",
+  "description": "A checklist to help pet owners respond calmly to common emergencies and know when to call the veterinarian right away.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "emergency",
+    "health",
+    "first-aid",
+    "pets"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Stay Ready",
+      "items": [
+        {
+          "text": "Save your vet and nearest emergency hospital numbers"
+        },
+        {
+          "text": "Keep a pet poison helpline number handy"
+        },
+        {
+          "text": "Stock and check a pet first aid kit"
+        },
+        {
+          "text": "Know your pet's normal breathing and gum color"
+        },
+        {
+          "text": "Keep a carrier or towel accessible at all times",
+          "note": "Program emergency numbers into your phone in advance"
+        }
+      ]
+    },
+    {
+      "title": "Assess the Situation",
+      "items": [
+        {
+          "text": "Stay calm and keep yourself safe first"
+        },
+        {
+          "text": "Approach slowly and speak in a soothing voice"
+        },
+        {
+          "text": "Check if your pet is breathing and responsive"
+        },
+        {
+          "text": "Look for bleeding, injuries, or distress"
+        },
+        {
+          "text": "Call your vet to describe what you see",
+          "note": "Use a towel or muzzle if a frightened pet may bite"
+        }
+      ]
+    },
+    {
+      "title": "Bleeding & Wounds",
+      "items": [
+        {
+          "text": "Apply gentle, steady pressure with a clean cloth"
+        },
+        {
+          "text": "Keep pressure on rather than peeking repeatedly"
+        },
+        {
+          "text": "Cover the wound loosely once bleeding slows"
+        },
+        {
+          "text": "Keep your pet calm and limit movement"
+        },
+        {
+          "text": "Get to a vet for deep or heavy bleeding",
+          "note": "Heavy or spurting bleeding is an emergency, so go at once"
+        }
+      ]
+    },
+    {
+      "title": "Choking & Breathing Trouble",
+      "items": [
+        {
+          "text": "Look for pawing at the mouth or struggling to breathe"
+        },
+        {
+          "text": "Open the mouth and remove a visible object if you can"
+        },
+        {
+          "text": "Avoid pushing an object deeper into the throat"
+        },
+        {
+          "text": "Keep airways clear and the pet as calm as possible"
+        },
+        {
+          "text": "Rush to emergency care for ongoing breathing trouble"
+        }
+      ]
+    },
+    {
+      "title": "Poisoning & Heat Emergencies",
+      "items": [
+        {
+          "text": "Note the substance and amount; keep the packaging"
+        },
+        {
+          "text": "Do not induce vomiting unless a vet directs it"
+        },
+        {
+          "text": "For overheating, move to shade and cool air"
+        },
+        {
+          "text": "Offer small sips of water if your pet is alert"
+        },
+        {
+          "text": "Call a vet or poison helpline immediately",
+          "note": "Do not give human medicines to your pet"
+        }
+      ]
+    },
+    {
+      "title": "Transport to the Vet",
+      "items": [
+        {
+          "text": "Support the body and avoid twisting an injured area"
+        },
+        {
+          "text": "Use a carrier, board, or blanket as a stretcher"
+        },
+        {
+          "text": "Keep your pet warm and calm during the trip"
+        },
+        {
+          "text": "Call ahead so the clinic can prepare"
+        },
+        {
+          "text": "Bring any packaging, medicines, or samples"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; first aid does not replace professional care, so always consult a licensed veterinarian",
+          "note": "In any emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I take my pet to an emergency vet?",
+      "a": "Seek emergency care for trouble breathing, severe bleeding, collapse, seizures, suspected poisoning, bloating, repeated vomiting, or major trauma. When in doubt, call your vet or an emergency animal hospital right away rather than waiting."
+    },
+    {
+      "q": "How do I handle an injured pet safely?",
+      "a": "Even gentle pets may bite or scratch when hurt or scared. Move slowly, speak calmly, support the body, and use a towel or carrier. Protect yourself while you get your pet to care."
+    },
+    {
+      "q": "What should I do if my pet may have been poisoned?",
+      "a": "Do not wait for symptoms. Note what and how much they may have taken, keep the packaging, and contact your veterinarian, an emergency hospital, or a pet poison helpline immediately for guidance."
+    },
+    {
+      "q": "Can pet first aid replace seeing a vet?",
+      "a": "No. First aid is meant to stabilize your pet on the way to care, not to treat the problem. Always follow up with a veterinarian, even if your pet seems to recover."
+    },
+    {
+      "q": "Is this pet first aid checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep it with your emergency kit, and review it so the steps are familiar before you ever need them."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-first-aid-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-first-aid-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet First Aid Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-first-aid-checklist)",
+  "updated": "2026-10-17"
+}

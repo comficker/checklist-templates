@@ -1,0 +1,174 @@
+{
+  "id": "site-safety-checklist",
+  "name": "Site Safety Checklist",
+  "description": "A daily job-site safety walk covering access, PPE, equipment, hazards and housekeeping.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "construction",
+    "job-site",
+    "site-safety"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Site Access and Boundaries",
+      "items": [
+        {
+          "text": "Confirm site fencing, gates and barriers are secure and intact."
+        },
+        {
+          "text": "Check that authorized-personnel and warning signs are posted and legible."
+        },
+        {
+          "text": "Verify pedestrian routes are separated from vehicle and plant movement.",
+          "note": "Mark and barricade any shared crossing points clearly."
+        },
+        {
+          "text": "Confirm visitor and contractor sign-in and induction procedures are in place."
+        },
+        {
+          "text": "Check access roads, ramps and walkways are firm, level and clear."
+        },
+        {
+          "text": "Verify adequate lighting for early, late or enclosed work areas."
+        }
+      ]
+    },
+    {
+      "title": "PPE and Worker Readiness",
+      "items": [
+        {
+          "text": "Confirm all personnel wear hard hats, eye protection and high-visibility clothing."
+        },
+        {
+          "text": "Check that safety footwear and task-specific PPE are worn correctly."
+        },
+        {
+          "text": "Verify hearing and respiratory protection is used where required.",
+          "note": "Match respirator and hearing protection to the actual hazard and exposure."
+        },
+        {
+          "text": "Confirm workers are fit for duty and briefed on the day's tasks."
+        },
+        {
+          "text": "Check that toolbox talks or pre-task briefings have been delivered and logged."
+        }
+      ]
+    },
+    {
+      "title": "Plant, Tools and Equipment",
+      "items": [
+        {
+          "text": "Inspect powered tools and leads for damage and correct guarding."
+        },
+        {
+          "text": "Confirm ladders, scaffolds and access equipment are tagged and in good condition."
+        },
+        {
+          "text": "Check that mobile plant has been pre-start checked and operators are certified."
+        },
+        {
+          "text": "Verify lifting equipment, chains and slings are inspected and rated for the load.",
+          "note": "Remove any damaged or out-of-date equipment from service immediately."
+        },
+        {
+          "text": "Confirm fuel, gas and chemicals are stored and labeled correctly."
+        }
+      ]
+    },
+    {
+      "title": "Fall, Electrical and Excavation Hazards",
+      "items": [
+        {
+          "text": "Check guardrails, covers and edge protection at all open edges and openings."
+        },
+        {
+          "text": "Confirm fall protection is in place for work above the trigger height."
+        },
+        {
+          "text": "Verify temporary power, leads and outlets are protected and undamaged."
+        },
+        {
+          "text": "Check overhead and buried services are identified and protected."
+        },
+        {
+          "text": "Confirm any excavation has protective systems and safe access in place.",
+          "note": "Excavations require a competent person to inspect protective systems."
+        }
+      ]
+    },
+    {
+      "title": "Housekeeping and Materials",
+      "items": [
+        {
+          "text": "Clear walkways and work areas of debris, offcuts and trip hazards."
+        },
+        {
+          "text": "Confirm materials are stacked stably and not blocking access or exits."
+        },
+        {
+          "text": "Check waste and recycling are segregated and removed regularly."
+        },
+        {
+          "text": "Verify spills are cleaned up and absorbents are available."
+        },
+        {
+          "text": "Confirm nails, sharps and protruding rebar are removed or capped."
+        }
+      ]
+    },
+    {
+      "title": "Emergency and Welfare",
+      "items": [
+        {
+          "text": "Confirm first aid kits, eye wash and trained first aiders are available."
+        },
+        {
+          "text": "Check fire extinguishers are present, charged and unobstructed."
+        },
+        {
+          "text": "Verify emergency routes, assembly points and signage are clear and current."
+        },
+        {
+          "text": "Confirm emergency contact numbers and site address are posted."
+        },
+        {
+          "text": "Check welfare facilities, drinking water and rest areas are clean and stocked."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training or your employer's safety program; confirm requirements with a qualified or competent person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should a site safety walk be done?",
+      "a": "Run a documented walk at the start of every shift and re-check after weather changes, deliveries or major work changes. Some sites add a mid-shift and end-of-day sweep on high-risk projects."
+    },
+    {
+      "q": "Who should carry out the site safety inspection?",
+      "a": "A site supervisor, competent person or appointed safety officer typically leads the walk. Crew leads and workers should report hazards as they find them, but one person should own the checklist and follow-up."
+    },
+    {
+      "q": "What should I do if I find a serious hazard?",
+      "a": "Stop work in the affected area, isolate or barricade the hazard, and correct it before work resumes. Record the finding and the corrective action so the issue is tracked to closure."
+    },
+    {
+      "q": "Can I use this for any type of job site?",
+      "a": "Yes. Download the printable PDF and adapt it to your trade and site, adding items such as excavation, scaffolding, hot work or confined spaces as your project requires."
+    },
+    {
+      "q": "Does this checklist replace OSHA requirements or training?",
+      "a": "No. It is general guidance for routine inspections and does not replace OSHA regulations, formal safety training, your employer's safety program, or a qualified or competent person. Always confirm the standards that apply to your work."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/site-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/site-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Site Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/site-safety-checklist)",
+  "updated": "2026-10-17"
+}

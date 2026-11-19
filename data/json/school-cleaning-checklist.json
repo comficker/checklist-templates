@@ -1,0 +1,160 @@
+{
+  "id": "school-cleaning-checklist",
+  "name": "School Cleaning Checklist",
+  "description": "A janitorial routine for cleaning classrooms, restrooms and common areas in a school.",
+  "category": "school-operations",
+  "category_name": "School Operations",
+  "tags": [
+    "school-cleaning",
+    "janitorial",
+    "facilities",
+    "staff",
+    "sanitizing"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Classrooms",
+      "items": [
+        {
+          "text": "Empty all trash and replace liners."
+        },
+        {
+          "text": "Disinfect desks, tables and chair surfaces."
+        },
+        {
+          "text": "Wipe down high-touch points like door handles and switches."
+        },
+        {
+          "text": "Clean the whiteboard or chalkboard and tray."
+        },
+        {
+          "text": "Sweep and mop or vacuum the floor."
+        },
+        {
+          "text": "Tidy supplies and straighten furniture."
+        }
+      ]
+    },
+    {
+      "title": "Restrooms",
+      "items": [
+        {
+          "text": "Clean and disinfect all toilets and urinals."
+        },
+        {
+          "text": "Scrub and sanitize sinks and faucet handles."
+        },
+        {
+          "text": "Restock soap, paper towels and toilet paper."
+        },
+        {
+          "text": "Empty trash and sanitary bins."
+        },
+        {
+          "text": "Mop floors with disinfectant.",
+          "note": "Place wet-floor signs while cleaning."
+        },
+        {
+          "text": "Wipe mirrors, partitions and door handles."
+        }
+      ]
+    },
+    {
+      "title": "Cafeteria",
+      "items": [
+        {
+          "text": "Wipe and disinfect all tables and benches."
+        },
+        {
+          "text": "Sweep and mop the dining and serving floors."
+        },
+        {
+          "text": "Clean and sanitize serving and counter surfaces."
+        },
+        {
+          "text": "Empty and sanitize trash and recycling bins."
+        },
+        {
+          "text": "Wipe down high-touch points and seating."
+        },
+        {
+          "text": "Check for spills and sticky residue under tables."
+        }
+      ]
+    },
+    {
+      "title": "Common areas",
+      "items": [
+        {
+          "text": "Sweep and mop hallways and entryways."
+        },
+        {
+          "text": "Disinfect handrails, lockers and water fountains."
+        },
+        {
+          "text": "Empty trash bins in shared spaces."
+        },
+        {
+          "text": "Clean entry glass and high-touch doors."
+        },
+        {
+          "text": "Wipe down office and reception surfaces."
+        },
+        {
+          "text": "Spot-clean walls and remove visible marks."
+        }
+      ]
+    },
+    {
+      "title": "Weekly deep tasks",
+      "items": [
+        {
+          "text": "Scrub and machine-clean hard floors."
+        },
+        {
+          "text": "Dust vents, blinds and high surfaces."
+        },
+        {
+          "text": "Wash interior windows and glass."
+        },
+        {
+          "text": "Deep-clean and descale restrooms."
+        },
+        {
+          "text": "Disinfect shared keyboards and devices."
+        },
+        {
+          "text": "Inspect and refill all supply stations."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be cleaned daily in a school?",
+      "a": "Daily tasks include emptying trash, disinfecting high-touch surfaces like door handles and desks, cleaning and restocking restrooms, sweeping and mopping high-traffic floors, and wiping down the cafeteria. These keep germs in check during the busiest hours."
+    },
+    {
+      "q": "Which surfaces matter most for stopping illness?",
+      "a": "High-touch points spread germs fastest: door handles, light switches, desks, shared keyboards, faucet handles, and railings. Disinfecting these frequently, especially during cold and flu season, does more to reduce illness than scrubbing rarely-touched areas."
+    },
+    {
+      "q": "How do I split daily and weekly cleaning tasks?",
+      "a": "Handle hygiene-critical work, like restrooms, trash, and high-touch surfaces, every day. Reserve deeper jobs, such as floor scrubbing, dusting vents, washing windows, and detailed restroom care, for a weekly rotation so they get done without overloading any single shift."
+    },
+    {
+      "q": "How should cleaning supplies be stored?",
+      "a": "Keep all chemicals labeled, sealed, and locked away from students in a dedicated closet. Follow the dilution and contact-time instructions on each product, keep safety data sheets accessible, and ensure staff have the right protective gear."
+    },
+    {
+      "q": "Is this school cleaning checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to post in the custodial closet for staff, then tick off each daily and weekly task to keep the campus consistently clean."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/school-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/school-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "School Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/school-cleaning-checklist)",
+  "updated": "2026-10-17"
+}

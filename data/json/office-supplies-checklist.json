@@ -1,0 +1,186 @@
+{
+  "id": "office-supplies-checklist",
+  "name": "Office Supplies Checklist",
+  "description": "A category-by-category list of supplies to stock and reorder for a well-run office.",
+  "category": "office-management",
+  "category_name": "Office Management",
+  "tags": [
+    "office",
+    "workplace",
+    "office-management",
+    "supplies",
+    "inventory"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Stationery and Desk Supplies",
+      "items": [
+        {
+          "text": "Restock pens, pencils, highlighters and permanent markers."
+        },
+        {
+          "text": "Check printer and notebook paper, sticky notes and notepads."
+        },
+        {
+          "text": "Refill staplers, staples, paper clips, binder clips and rubber bands."
+        },
+        {
+          "text": "Stock tape, glue, scissors and a spare hole punch."
+        },
+        {
+          "text": "Replenish folders, binders, dividers and document wallets."
+        },
+        {
+          "text": "Check envelopes, stamps and shipping labels for outgoing mail."
+        },
+        {
+          "text": "Top up whiteboard markers, erasers and flip-chart pads."
+        }
+      ]
+    },
+    {
+      "title": "Printer and Tech Consumables",
+      "items": [
+        {
+          "text": "Check ink and toner cartridges for every printer model in use.",
+          "note": "Keep at least one spare cartridge per active printer."
+        },
+        {
+          "text": "Stock printer and copier paper in all sizes you use."
+        },
+        {
+          "text": "Replenish labels, receipt rolls and specialty printing media."
+        },
+        {
+          "text": "Check spare batteries for keyboards, mice and remotes."
+        },
+        {
+          "text": "Keep cleaning wipes and air dusters for screens and equipment."
+        }
+      ]
+    },
+    {
+      "title": "Kitchen and Breakroom",
+      "items": [
+        {
+          "text": "Restock coffee, tea, sugar, sweetener and long-life milk."
+        },
+        {
+          "text": "Check disposable cups, plates, cutlery and napkins."
+        },
+        {
+          "text": "Replenish dishwasher tablets, dish soap and washing-up sponges."
+        },
+        {
+          "text": "Stock paper towels and kitchen roll for the breakroom."
+        },
+        {
+          "text": "Top up bottled water, filters or water-cooler supplies.",
+          "note": "Order replacement cooler bottles before the last one runs out."
+        },
+        {
+          "text": "Check snacks, condiments and any team treats you provide."
+        }
+      ]
+    },
+    {
+      "title": "Cleaning Supplies",
+      "items": [
+        {
+          "text": "Restock surface cleaner, glass cleaner and disinfectant spray."
+        },
+        {
+          "text": "Replenish bin bags in all sizes used around the office."
+        },
+        {
+          "text": "Check hand soap, hand sanitizer and soap dispenser refills."
+        },
+        {
+          "text": "Stock toilet paper, paper towels and bathroom hand towels."
+        },
+        {
+          "text": "Keep cleaning cloths, sponges, gloves and a spare mop head."
+        },
+        {
+          "text": "Top up air fresheners and antibacterial wipes for shared areas."
+        }
+      ]
+    },
+    {
+      "title": "Tech Accessories",
+      "items": [
+        {
+          "text": "Stock spare charging cables and USB-C and power adapters."
+        },
+        {
+          "text": "Keep extra HDMI, display and network cables for meeting rooms."
+        },
+        {
+          "text": "Check power strips, extension leads and surge protectors."
+        },
+        {
+          "text": "Replenish USB drives, SD cards and external storage if used."
+        },
+        {
+          "text": "Keep spare mice, keyboards and headsets for quick swaps.",
+          "note": "Hold at least one spare of each high-use peripheral."
+        },
+        {
+          "text": "Stock webcam covers, laptop stands and other desk accessories."
+        }
+      ]
+    },
+    {
+      "title": "First Aid and Safety",
+      "items": [
+        {
+          "text": "Check first aid kit contents and replace anything used or expired."
+        },
+        {
+          "text": "Restock plasters, bandages, antiseptic wipes and gloves."
+        },
+        {
+          "text": "Replenish pain relief and any over-the-counter basics you stock."
+        },
+        {
+          "text": "Check eye-wash, burn gel and any specialist first aid items."
+        },
+        {
+          "text": "Confirm fire extinguishers, smoke alarms and emergency lighting are serviced.",
+          "note": "Log service dates rather than reordering these as consumables."
+        },
+        {
+          "text": "Keep spare batteries for smoke detectors and emergency torches."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I check office supplies?",
+      "a": "Do a quick stock walk weekly and a full inventory check monthly. Frequent small checks prevent running out of fast-moving items like paper, coffee and cleaning products."
+    },
+    {
+      "q": "How do I know how much of each item to keep?",
+      "a": "Set a minimum stock level for each item based on how fast your team uses it, then reorder whenever you hit that threshold. Note your par levels on the printable PDF."
+    },
+    {
+      "q": "Who should be in charge of ordering office supplies?",
+      "a": "Assign one office manager or admin as the primary buyer, with a backup. Centralizing orders avoids duplicate purchases and makes it easier to track spending."
+    },
+    {
+      "q": "Can I customize this supplies checklist for my office?",
+      "a": "Yes. Download the printable PDF and add or remove categories and items to match your workplace, such as warehouse supplies, branded stationery or specialist equipment."
+    },
+    {
+      "q": "How can I save money on office supplies?",
+      "a": "Buy high-use items like paper and toner in bulk, compare suppliers, set par levels to avoid panic buying, and review the list quarterly to cut items nobody actually uses."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/office-supplies-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/office-supplies-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Office Supplies Checklist by ChecklistForge (https://checklistforge.com/checklist/office-supplies-checklist)",
+  "updated": "2026-10-17"
+}

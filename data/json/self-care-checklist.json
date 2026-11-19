@@ -1,0 +1,181 @@
+{
+  "id": "self-care-checklist",
+  "name": "Self-Care Checklist",
+  "description": "A holistic checklist for caring for your physical, emotional, social, and practical wellbeing.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "mental-health",
+    "self-care"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Physical Self-Care",
+      "items": [
+        {
+          "text": "Drink water regularly throughout the day"
+        },
+        {
+          "text": "Eat balanced meals and avoid skipping food when busy",
+          "note": "Steady meals support your mood and energy, not just your body."
+        },
+        {
+          "text": "Move your body in a way you enjoy for at least a few minutes"
+        },
+        {
+          "text": "Aim for 7 to 9 hours of quality sleep"
+        },
+        {
+          "text": "Step outside for fresh air and natural light"
+        },
+        {
+          "text": "Rest when you are tired instead of pushing through"
+        }
+      ]
+    },
+    {
+      "title": "Emotional Self-Care",
+      "items": [
+        {
+          "text": "Name how you are feeling without judging yourself"
+        },
+        {
+          "text": "Write in a journal or note what is on your mind"
+        },
+        {
+          "text": "Allow yourself to cry, vent, or process difficult feelings"
+        },
+        {
+          "text": "Practice self-compassion and speak to yourself kindly",
+          "note": "Talk to yourself as you would to a good friend."
+        },
+        {
+          "text": "Do something that genuinely makes you smile or laugh"
+        },
+        {
+          "text": "Take a break from anything draining your emotional energy"
+        }
+      ]
+    },
+    {
+      "title": "Mental Self-Care",
+      "items": [
+        {
+          "text": "Take short breaks from screens and information overload"
+        },
+        {
+          "text": "Spend a few minutes on mindfulness or slow breathing"
+        },
+        {
+          "text": "Do something creative or learn something just for fun"
+        },
+        {
+          "text": "Limit doomscrolling and curate your feeds"
+        },
+        {
+          "text": "Break overwhelming tasks into smaller, manageable steps"
+        },
+        {
+          "text": "Give yourself permission to do nothing for a while"
+        }
+      ]
+    },
+    {
+      "title": "Social Self-Care",
+      "items": [
+        {
+          "text": "Reach out to a friend or family member you trust"
+        },
+        {
+          "text": "Spend quality time with people who lift you up"
+        },
+        {
+          "text": "Ask for help or support when you need it",
+          "note": "Letting others help is a form of self-care, not weakness."
+        },
+        {
+          "text": "Set gentle boundaries and say no when you are stretched"
+        },
+        {
+          "text": "Take a break from people or groups that drain you"
+        },
+        {
+          "text": "Plan something to look forward to with someone you like"
+        }
+      ]
+    },
+    {
+      "title": "Practical Self-Care",
+      "items": [
+        {
+          "text": "Tidy a small space to reduce visual stress"
+        },
+        {
+          "text": "Handle one nagging task you have been avoiding"
+        },
+        {
+          "text": "Review your finances or pay a bill so it stops looming"
+        },
+        {
+          "text": "Plan meals or prep something to make the week easier"
+        },
+        {
+          "text": "Book that appointment you have been putting off"
+        },
+        {
+          "text": "Set up your space so tomorrow feels a little smoother"
+        }
+      ]
+    },
+    {
+      "title": "Check in With Yourself",
+      "items": [
+        {
+          "text": "Pause and ask what you actually need right now"
+        },
+        {
+          "text": "Notice which area of self-care you have been neglecting"
+        },
+        {
+          "text": "Pick one small, realistic act to do today"
+        },
+        {
+          "text": "Celebrate the self-care you already managed, however small"
+        },
+        {
+          "text": "Remember that consistent small acts matter more than perfect ones"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is self-care, really?",
+      "a": "Self-care is the everyday things you do to look after your physical, emotional, and mental wellbeing. It includes basics like sleep, food, movement, rest, and connection, as well as setting boundaries and asking for help when you need it."
+    },
+    {
+      "q": "How often should I practice self-care?",
+      "a": "A little every day works better than occasional big gestures. Aim to cover the basics daily, such as water, food, movement, and rest, and add deeper self-care, like time with friends or a hobby, across each week."
+    },
+    {
+      "q": "I have no time or money for self-care. What can I do?",
+      "a": "Much of the most effective self-care is free and quick: a glass of water, a short walk, a few deep breaths, stepping outside, or a kind message to a friend. Start with one small, realistic act rather than waiting for a perfect moment."
+    },
+    {
+      "q": "What are the main areas of self-care?",
+      "a": "A helpful way to think about it is across several areas: physical, emotional, social, mental, and practical. Checking in with each area helps you notice what you have been neglecting and where a little attention would help most."
+    },
+    {
+      "q": "Can I print this self-care checklist?",
+      "a": "Yes. This checklist is free to print and download as a PDF. Keep it somewhere visible or on your phone so you can check in with each area of your wellbeing and care for yourself consistently."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/self-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/self-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Self-Care Checklist by ChecklistForge (https://checklistforge.com/checklist/self-care-checklist)",
+  "updated": "2026-10-18"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "quality-control-checklist",
+  "name": "Quality Control Checklist",
+  "description": "A quality control (QC) checklist for inspecting product and output against specifications.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "quality",
+    "inspection",
+    "quality-control",
+    "manufacturing"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prepare for inspection",
+      "items": [
+        {
+          "text": "Obtain the current product specification and drawings."
+        },
+        {
+          "text": "Confirm acceptance criteria and tolerances.",
+          "note": "Use the specification and standards that apply to your product."
+        },
+        {
+          "text": "Define the sampling plan and inspection level."
+        },
+        {
+          "text": "Verify measurement equipment is calibrated and in date."
+        },
+        {
+          "text": "Prepare reference samples, gauges and check fixtures."
+        },
+        {
+          "text": "Confirm the inspection method and recording format."
+        }
+      ]
+    },
+    {
+      "title": "Incoming inspection",
+      "items": [
+        {
+          "text": "Verify received goods match the purchase order and packing list."
+        },
+        {
+          "text": "Check supplier certificates and material documentation."
+        },
+        {
+          "text": "Inspect quantity, lot numbers and packaging condition."
+        },
+        {
+          "text": "Sample and measure key characteristics against specification."
+        },
+        {
+          "text": "Quarantine material until inspection is complete."
+        },
+        {
+          "text": "Accept, reject or hold the lot and record the decision."
+        }
+      ]
+    },
+    {
+      "title": "In-process inspection",
+      "items": [
+        {
+          "text": "Confirm the first-off sample meets specification before the run continues."
+        },
+        {
+          "text": "Inspect at set intervals during production."
+        },
+        {
+          "text": "Measure critical dimensions and characteristics."
+        },
+        {
+          "text": "Check appearance, fit and function as required."
+        },
+        {
+          "text": "Monitor process trends for drift toward limits."
+        },
+        {
+          "text": "Segregate any nonconforming product immediately."
+        }
+      ]
+    },
+    {
+      "title": "Final inspection",
+      "items": [
+        {
+          "text": "Inspect finished product against the full specification."
+        },
+        {
+          "text": "Verify dimensions, function and performance."
+        },
+        {
+          "text": "Check labeling, markings and packaging."
+        },
+        {
+          "text": "Confirm required documentation accompanies the product."
+        },
+        {
+          "text": "Apply the sampling plan and record results."
+        },
+        {
+          "text": "Release, hold or reject the lot and document the decision."
+        }
+      ]
+    },
+    {
+      "title": "Defects and nonconformance",
+      "items": [
+        {
+          "text": "Identify and classify defects by type and severity."
+        },
+        {
+          "text": "Compare defect counts against acceptance limits."
+        },
+        {
+          "text": "Label and isolate nonconforming product."
+        },
+        {
+          "text": "Decide disposition: rework, scrap, concession or return."
+        },
+        {
+          "text": "Raise a nonconformance report where required."
+        },
+        {
+          "text": "Notify suppliers or upstream processes of recurring defects."
+        }
+      ]
+    },
+    {
+      "title": "Records and reporting",
+      "items": [
+        {
+          "text": "Record measurements, sample sizes and results."
+        },
+        {
+          "text": "Document accept and reject decisions with inspector sign-off."
+        },
+        {
+          "text": "Maintain traceability to lot, batch or serial numbers."
+        },
+        {
+          "text": "Summarize defect rates and inspection findings."
+        },
+        {
+          "text": "Share quality data with production and suppliers."
+        },
+        {
+          "text": "File records for traceability and audit."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is quality control?",
+      "a": "Quality control is the inspection side of quality — checking product or output against specifications at incoming, in-process and final stages, sampling for defects and recording results so only conforming product is released."
+    },
+    {
+      "q": "What is the difference between QC and QA?",
+      "a": "Quality control (QC) inspects the product to catch defects. Quality assurance (QA) builds quality into the process through procedures, standards and training so fewer defects occur. QC detects, QA prevents."
+    },
+    {
+      "q": "What is acceptance sampling?",
+      "a": "Acceptance sampling means inspecting a representative sample from a lot, rather than every unit, and using defined limits to accept or reject the whole lot. Sampling plans balance inspection cost against the risk of passing defects."
+    },
+    {
+      "q": "How do I handle defective product?",
+      "a": "Identify, segregate and clearly label nonconforming product so it cannot move forward. Record the defect, decide on disposition such as rework, scrap or concession, and follow your organization's procedures and standards."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the quality control checklist for the inspection station, or download the PDF so inspectors can record measurements, defects and accept or reject decisions and keep records on file."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/quality-control-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/quality-control-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Quality Control Checklist by ChecklistForge (https://checklistforge.com/checklist/quality-control-checklist)",
+  "updated": "2026-10-17"
+}

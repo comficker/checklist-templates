@@ -1,0 +1,184 @@
+{
+  "id": "cybersecurity-checklist",
+  "name": "Cybersecurity Checklist",
+  "description": "A practical security hygiene checklist for individuals and small businesses.",
+  "category": "it-software",
+  "category_name": "IT & Software",
+  "tags": [
+    "security",
+    "small-business",
+    "it",
+    "cybersecurity"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Secure your accounts",
+      "items": [
+        {
+          "text": "Use a unique, strong password for every account.",
+          "note": "Aim for long passphrases of 12 or more characters."
+        },
+        {
+          "text": "Install a reputable password manager to generate and store passwords."
+        },
+        {
+          "text": "Turn on multi-factor authentication everywhere it is offered.",
+          "note": "Prefer an authenticator app or security key over SMS codes."
+        },
+        {
+          "text": "Change any passwords you have reused across multiple sites."
+        },
+        {
+          "text": "Review and remove old accounts and apps you no longer use."
+        },
+        {
+          "text": "Check whether your email appears in known data breaches and update affected passwords."
+        }
+      ]
+    },
+    {
+      "title": "Protect your devices",
+      "items": [
+        {
+          "text": "Enable automatic updates for your operating system and apps."
+        },
+        {
+          "text": "Set a screen lock with a PIN, password or biometric on every device."
+        },
+        {
+          "text": "Turn on full-disk encryption such as BitLocker or FileVault."
+        },
+        {
+          "text": "Install reputable antivirus or rely on built-in protection, and keep it updated."
+        },
+        {
+          "text": "Enable a firewall on each computer."
+        },
+        {
+          "text": "Only install apps from official stores or trusted sources."
+        },
+        {
+          "text": "Set up remote find-and-wipe in case a device is lost or stolen."
+        }
+      ]
+    },
+    {
+      "title": "Secure your home network",
+      "items": [
+        {
+          "text": "Change the default admin password on your router."
+        },
+        {
+          "text": "Use WPA3 or WPA2 encryption for your Wi-Fi network."
+        },
+        {
+          "text": "Set a strong, unique Wi-Fi password and update it periodically."
+        },
+        {
+          "text": "Keep your router firmware up to date."
+        },
+        {
+          "text": "Create a separate guest network for visitors and smart-home devices."
+        },
+        {
+          "text": "Disable remote management and unused features on the router."
+        }
+      ]
+    },
+    {
+      "title": "Back up your data",
+      "items": [
+        {
+          "text": "Identify the files and accounts you cannot afford to lose."
+        },
+        {
+          "text": "Follow the 3-2-1 rule: three copies, two media types, one offsite.",
+          "note": "An offsite or cloud copy protects against theft, fire and ransomware."
+        },
+        {
+          "text": "Schedule automatic backups so you don't rely on memory."
+        },
+        {
+          "text": "Encrypt sensitive backups, especially on external drives."
+        },
+        {
+          "text": "Test a restore to confirm your backups actually work."
+        },
+        {
+          "text": "Keep at least one backup disconnected to survive ransomware."
+        }
+      ]
+    },
+    {
+      "title": "Recognize and avoid scams",
+      "items": [
+        {
+          "text": "Pause before clicking links or attachments in unexpected messages."
+        },
+        {
+          "text": "Verify urgent requests for money or credentials through a separate channel."
+        },
+        {
+          "text": "Hover over links to check the real destination before clicking."
+        },
+        {
+          "text": "Never share one-time codes, passwords or recovery keys with anyone."
+        },
+        {
+          "text": "Be cautious with public Wi-Fi and avoid logging into sensitive accounts on it."
+        },
+        {
+          "text": "Report suspected phishing to your provider or IT contact."
+        }
+      ]
+    },
+    {
+      "title": "Plan for the worst",
+      "items": [
+        {
+          "text": "Know how to reset passwords and lock accounts quickly if compromised."
+        },
+        {
+          "text": "Keep account recovery information current, such as backup email and phone."
+        },
+        {
+          "text": "Store recovery codes for MFA in a safe, separate location."
+        },
+        {
+          "text": "Keep a short list of who to contact if a device or account is breached."
+        },
+        {
+          "text": "Review your security settings at least twice a year."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the single most important cybersecurity step?",
+      "a": "Turning on multi-factor authentication for your important accounts. Even if a password is stolen, MFA blocks most account takeovers because the attacker also needs your phone or security key. Pair it with a unique password for every account."
+    },
+    {
+      "q": "Do I really need a password manager?",
+      "a": "Yes. A password manager lets you use a long, unique password for every account without memorizing them. Reusing passwords is one of the most common causes of account takeover, and a manager removes that risk while making logins faster."
+    },
+    {
+      "q": "How can I tell if an email is a phishing attempt?",
+      "a": "Watch for urgency, unexpected attachments, mismatched sender addresses and links that don't match the real site. When in doubt, don't click — go directly to the official website or app and verify the request there instead."
+    },
+    {
+      "q": "Is this checklist suitable for a small business?",
+      "a": "Yes. The same fundamentals protect a small business and an individual. Apply them across all staff devices and accounts, and store the printable or PDF version where your team can reference it during onboarding."
+    },
+    {
+      "q": "Can I download this cybersecurity checklist as a PDF?",
+      "a": "Yes. You can print the checklist or save it as a PDF to keep on your devices and share with family or colleagues, ticking off each habit as you secure your accounts and equipment."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cybersecurity-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cybersecurity-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cybersecurity Checklist by ChecklistForge (https://checklistforge.com/checklist/cybersecurity-checklist)",
+  "updated": "2026-10-17"
+}

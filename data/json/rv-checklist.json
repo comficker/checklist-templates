@@ -1,0 +1,176 @@
+{
+  "id": "rv-checklist",
+  "name": "RV Checklist",
+  "description": "A complete overview for RV owners covering systems, supplies, safety and pre-trip basics for motorhomes and towable trailers.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "camping",
+    "travel",
+    "vehicles",
+    "rv"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "RV Systems to Know",
+      "items": [
+        {
+          "text": "Fresh water tank, pump and city water connection"
+        },
+        {
+          "text": "Gray and black water tanks and dump valves"
+        },
+        {
+          "text": "12V battery system and shore-power hookup"
+        },
+        {
+          "text": "Propane system for furnace, stove and fridge"
+        },
+        {
+          "text": "Slide-outs, leveling and stabilizer jacks"
+        },
+        {
+          "text": "Chassis, tires and braking system"
+        }
+      ]
+    },
+    {
+      "title": "Essential Supplies",
+      "items": [
+        {
+          "text": "Leveling blocks and wheel chocks"
+        },
+        {
+          "text": "Drinking-water-safe fresh hose and a sewer hose kit"
+        },
+        {
+          "text": "Electrical adapter and surge protector"
+        },
+        {
+          "text": "Disposable gloves and tank treatment chemicals"
+        },
+        {
+          "text": "Basic toolkit, duct tape and spare fuses"
+        },
+        {
+          "text": "Kitchen basics, bedding and camp chairs"
+        }
+      ]
+    },
+    {
+      "title": "Safety Equipment",
+      "items": [
+        {
+          "text": "Test smoke, carbon monoxide and propane detectors",
+          "note": "Replace batteries and check expiry dates"
+        },
+        {
+          "text": "Keep fire extinguishers charged and accessible"
+        },
+        {
+          "text": "Stock a well-supplied first aid kit"
+        },
+        {
+          "text": "Carry road safety triangles or flares"
+        },
+        {
+          "text": "Know your RV's height, length and weight limits"
+        },
+        {
+          "text": "Carry a tire pressure gauge and basic emergency kit"
+        }
+      ]
+    },
+    {
+      "title": "Pre-Trip Basics",
+      "items": [
+        {
+          "text": "Check tire pressure and inspect for wear or damage"
+        },
+        {
+          "text": "Confirm fluids, brakes and engine are road-ready"
+        },
+        {
+          "text": "Secure all interior items and close cabinets"
+        },
+        {
+          "text": "Retract slides, steps, antenna and awning"
+        },
+        {
+          "text": "Disconnect or secure water, power and waste hookups"
+        },
+        {
+          "text": "Do a full walk-around and test running lights"
+        }
+      ]
+    },
+    {
+      "title": "Setup at Camp",
+      "items": [
+        {
+          "text": "Level the RV and place wheel chocks"
+        },
+        {
+          "text": "Connect to shore power through a surge protector"
+        },
+        {
+          "text": "Hook up fresh water and waste as needed"
+        },
+        {
+          "text": "Extend slide-outs and stabilizer jacks"
+        },
+        {
+          "text": "Turn on propane appliances and confirm they work"
+        }
+      ]
+    },
+    {
+      "title": "Routine Maintenance",
+      "items": [
+        {
+          "text": "Inspect roof seals and seams for leaks"
+        },
+        {
+          "text": "Service the chassis, brakes and wheel bearings"
+        },
+        {
+          "text": "Sanitize the fresh water system periodically"
+        },
+        {
+          "text": "Check and clean the air conditioner and furnace"
+        },
+        {
+          "text": "Test batteries and keep them charged in storage"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What systems should every RV owner understand?",
+      "a": "Learn the fresh, gray and black water systems, the 12V and shore-power electrical systems, the propane system for heat, cooking and the fridge, and the chassis and tires. Knowing how each works makes setup, troubleshooting and maintenance far easier."
+    },
+    {
+      "q": "What supplies should I always keep in the RV?",
+      "a": "Keep leveling blocks, wheel chocks, a fresh-water hose, a sewer hose and gloves, an electrical adapter and surge protector, basic tools, and kitchen and bedding basics. A stocked RV means less to forget and a faster setup at each stop."
+    },
+    {
+      "q": "What safety gear does an RV need?",
+      "a": "Maintain working smoke, carbon monoxide and propane detectors, fire extinguishers, and a first aid kit. Carry a tire pressure gauge, road safety triangles and know your RV's height and weight to avoid low bridges and overloading."
+    },
+    {
+      "q": "What are the basic pre-trip checks?",
+      "a": "Check tire pressure and condition, confirm everything inside is secured, retract slides and steps, disconnect or secure hookups, do a full walk-around, and verify lights and brakes before pulling out. These basics prevent the most common departure mistakes."
+    },
+    {
+      "q": "Can I print this RV checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it in the RV and tick off systems, supplies, safety and pre-trip basics whenever you need a quick reference."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/rv-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/rv-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "RV Checklist by ChecklistForge (https://checklistforge.com/checklist/rv-checklist)",
+  "updated": "2026-10-17"
+}

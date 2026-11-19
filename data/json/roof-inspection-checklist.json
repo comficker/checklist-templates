@@ -1,0 +1,169 @@
+{
+  "id": "roof-inspection-checklist",
+  "name": "Roof Inspection Checklist",
+  "description": "A roof inspection checklist covering shingles, flashing, gutters and interior signs of damage.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "safety",
+    "homeowner",
+    "seasonal",
+    "roof"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Before You Start (Safety)",
+      "items": [
+        {
+          "text": "Inspect from the ground with binoculars whenever possible"
+        },
+        {
+          "text": "Use a stable ladder on firm, level ground with a spotter",
+          "note": "Never inspect a wet, icy or steep roof yourself"
+        },
+        {
+          "text": "Choose a dry, calm, daylight day for the inspection"
+        },
+        {
+          "text": "Hire a licensed roofer to climb steep, high or damaged roofs"
+        },
+        {
+          "text": "Keep a notepad or phone to photograph problem areas"
+        }
+      ]
+    },
+    {
+      "title": "Shingles & Roof Surface",
+      "items": [
+        {
+          "text": "Look for missing, cracked, curling or buckling shingles"
+        },
+        {
+          "text": "Check for bald spots where granules have worn away"
+        },
+        {
+          "text": "Note any sagging or uneven areas in the roofline"
+        },
+        {
+          "text": "Look for moss, algae or dark streaks that trap moisture"
+        },
+        {
+          "text": "Check ridge caps and hip shingles for damage"
+        },
+        {
+          "text": "Watch for lifted shingles after high winds"
+        }
+      ]
+    },
+    {
+      "title": "Flashing & Penetrations",
+      "items": [
+        {
+          "text": "Inspect flashing around chimneys for rust, gaps or lifting"
+        },
+        {
+          "text": "Check flashing and boots around vent pipes and skylights"
+        },
+        {
+          "text": "Look at valleys where roof planes meet for debris and wear"
+        },
+        {
+          "text": "Confirm sealant around penetrations is intact, not cracked"
+        },
+        {
+          "text": "Check the chimney cap, crown and mortar for damage"
+        }
+      ]
+    },
+    {
+      "title": "Gutters & Drainage",
+      "items": [
+        {
+          "text": "Clear leaves and debris from gutters and downspouts"
+        },
+        {
+          "text": "Check gutters for granules washed off the shingles",
+          "note": "Lots of granules can signal aging shingles"
+        },
+        {
+          "text": "Confirm gutters are secure and sloped toward downspouts"
+        },
+        {
+          "text": "Make sure downspouts carry water away from the foundation"
+        },
+        {
+          "text": "Look for sagging or separating gutter sections"
+        }
+      ]
+    },
+    {
+      "title": "Attic & Interior Signs",
+      "items": [
+        {
+          "text": "Check the attic for daylight coming through the roof deck"
+        },
+        {
+          "text": "Look for water stains, dampness or mold on rafters and decking"
+        },
+        {
+          "text": "Check that insulation is dry and not compressed by leaks"
+        },
+        {
+          "text": "Confirm attic ventilation is unblocked to prevent moisture"
+        },
+        {
+          "text": "Inspect ceilings and upper walls indoors for water stains"
+        }
+      ]
+    },
+    {
+      "title": "After Storms",
+      "items": [
+        {
+          "text": "Look for impact dents or cracks from hail"
+        },
+        {
+          "text": "Check for shingles lifted or torn off by wind"
+        },
+        {
+          "text": "Clear fallen branches and debris from the roof and gutters"
+        },
+        {
+          "text": "Inspect the attic for new leaks within a day or two of the storm"
+        },
+        {
+          "text": "Document damage with photos before filing an insurance claim"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I inspect my roof?",
+      "a": "Inspect your roof at least twice a year — typically spring and fall — and again after any major storm with high winds, hail or heavy snow, when damage is most likely to occur."
+    },
+    {
+      "q": "Can I download this roof inspection checklist as a PDF?",
+      "a": "Yes. You can print this roof inspection checklist or download it as a PDF and carry it through each inspection, noting any problem areas to monitor or report to a roofer."
+    },
+    {
+      "q": "Is it safe to inspect my roof myself?",
+      "a": "You can safely check most items from the ground with binoculars or from a stable ladder at the eaves. Avoid walking on the roof — for steep, high or damaged roofs, hire a licensed roofer."
+    },
+    {
+      "q": "What are signs my roof needs repair or replacement?",
+      "a": "Watch for curling, cracked or missing shingles, granules in the gutters, sagging areas, daylight in the attic, and water stains on ceilings. Several signs together often mean it's time to call a roofer."
+    },
+    {
+      "q": "How long does a typical roof last?",
+      "a": "Asphalt shingle roofs usually last 20 to 30 years, depending on climate, ventilation and quality. Regular inspections help you plan ahead and get the full lifespan from your roof."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/roof-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/roof-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Roof Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/roof-inspection-checklist)",
+  "updated": "2026-10-17"
+}

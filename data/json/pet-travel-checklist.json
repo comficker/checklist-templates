@@ -1,0 +1,185 @@
+{
+  "id": "pet-travel-checklist",
+  "name": "Pet Travel Checklist",
+  "description": "A pet travel checklist for owners covering carrier, documents, supplies and air or car travel.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "travel",
+    "pets",
+    "cats",
+    "dogs"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Plan ahead",
+      "items": [
+        {
+          "text": "Confirm your pet is healthy enough to travel."
+        },
+        {
+          "text": "Check species rules for your destination and route."
+        },
+        {
+          "text": "Research pet-friendly accommodations and stops."
+        },
+        {
+          "text": "Update ID tags and microchip contact details."
+        },
+        {
+          "text": "Decide on air or car travel based on your pet's needs."
+        },
+        {
+          "text": "Carry a recent photo in case of separation."
+        }
+      ]
+    },
+    {
+      "title": "Carrier and containment",
+      "items": [
+        {
+          "text": "Choose a sturdy, well-ventilated, appropriately sized carrier."
+        },
+        {
+          "text": "Make sure your pet can stand, turn and lie down inside."
+        },
+        {
+          "text": "Acclimate your pet to the carrier before the trip."
+        },
+        {
+          "text": "Line it with absorbent bedding and a familiar item."
+        },
+        {
+          "text": "Label the carrier with your name and contact details."
+        },
+        {
+          "text": "Confirm the carrier meets airline rules if flying."
+        }
+      ]
+    },
+    {
+      "title": "Documents and records",
+      "items": [
+        {
+          "text": "Carry vaccination records, especially rabies."
+        },
+        {
+          "text": "Bring any required health certificate for travel."
+        },
+        {
+          "text": "Check import or entry rules for your destination."
+        },
+        {
+          "text": "Keep microchip registration details accessible."
+        },
+        {
+          "text": "Save your veterinarian's contact information."
+        },
+        {
+          "text": "Confirm requirements early, as they vary by species and region.",
+          "note": "Verify official rules and timelines well before departure."
+        }
+      ]
+    },
+    {
+      "title": "Supplies to pack",
+      "items": [
+        {
+          "text": "Bring enough food for the trip plus extra."
+        },
+        {
+          "text": "Pack water and a travel-friendly bowl."
+        },
+        {
+          "text": "Carry medications with clear dosing instructions."
+        },
+        {
+          "text": "Include waste bags, litter or cleanup supplies as needed."
+        },
+        {
+          "text": "Add a familiar blanket, bed or toy for comfort."
+        },
+        {
+          "text": "Pack a basic pet first-aid kit and wipes."
+        }
+      ]
+    },
+    {
+      "title": "Air travel",
+      "items": [
+        {
+          "text": "Book early and confirm the airline's pet policy."
+        },
+        {
+          "text": "Check whether your pet flies in cabin or cargo."
+        },
+        {
+          "text": "Verify carrier size and labeling requirements."
+        },
+        {
+          "text": "Arrive early to allow extra check-in time."
+        },
+        {
+          "text": "Avoid heavy meals right before the flight."
+        },
+        {
+          "text": "Discuss flight safety and any sedation questions with your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Car travel",
+      "items": [
+        {
+          "text": "Secure the carrier or restraint so it cannot shift."
+        },
+        {
+          "text": "Keep the cabin cool and well-ventilated."
+        },
+        {
+          "text": "Plan rest, water and potty breaks along the route."
+        },
+        {
+          "text": "Never leave your pet alone in a parked car."
+        },
+        {
+          "text": "Feed lighter before travel to reduce motion sickness."
+        },
+        {
+          "text": "Watch for signs of stress or overheating."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult your veterinarian about travel safety and confirm carrier, airline and destination rules before your trip."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I choose the right carrier?",
+      "a": "Pick a sturdy, well-ventilated carrier that lets your pet stand, turn and lie down comfortably, and meets airline rules if flying. Let your pet get used to it before the trip with treats and short sessions. Confirm size and type requirements with the airline."
+    },
+    {
+      "q": "What documents do I need to travel with a pet?",
+      "a": "Commonly you need vaccination records, ID and microchip details, and often a health certificate, especially for air travel or crossing borders. Requirements vary widely by destination and species, so check official rules early and confirm specifics with your veterinarian."
+    },
+    {
+      "q": "Is air or car travel better for pets?",
+      "a": "It depends on the pet, distance and circumstances. Car travel offers more control and frequent breaks, while flying suits long distances but has stricter rules and added stress. Whichever you choose, plan for comfort and safety and ask your veterinarian for guidance."
+    },
+    {
+      "q": "How do I keep my pet calm while traveling?",
+      "a": "Use a familiar carrier, blanket or toy, keep routines where possible, and stay calm yourself. Acclimate your pet to the carrier in advance. For severe travel anxiety or motion sickness, ask your veterinarian about safe options before the trip."
+    },
+    {
+      "q": "Can I download this pet travel checklist as a PDF?",
+      "a": "Yes. You can print it for trip day or download it as a PDF for your phone, so owners of any pet can pack and prepare for a safe, smooth journey."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-travel-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-travel-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Travel Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-travel-checklist)",
+  "updated": "2026-10-17"
+}

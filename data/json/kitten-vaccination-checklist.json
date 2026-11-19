@@ -1,0 +1,177 @@
+{
+  "id": "kitten-vaccination-checklist",
+  "name": "Kitten Vaccination Checklist",
+  "description": "A checklist to help new kitten owners follow the typical vaccine series, track each shot, and stay on schedule with their veterinarian.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "vaccination",
+    "pets",
+    "cats",
+    "kitten"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Before the First Visit",
+      "items": [
+        {
+          "text": "Confirm your kitten's age and any shelter records"
+        },
+        {
+          "text": "Gather paperwork on shots already given"
+        },
+        {
+          "text": "Note your kitten's weight and overall health"
+        },
+        {
+          "text": "Write down questions about diet, parasites, and litter habits"
+        },
+        {
+          "text": "Book the first vet visit soon after bringing kitten home",
+          "note": "Ask your vet to set the right start date for your kitten"
+        }
+      ]
+    },
+    {
+      "title": "Around 6 to 8 Weeks",
+      "items": [
+        {
+          "text": "First combination vaccine for feline viruses as advised"
+        },
+        {
+          "text": "General health and weight check with your vet"
+        },
+        {
+          "text": "Discuss a deworming and parasite plan"
+        },
+        {
+          "text": "Ask about a feline leukemia test and prevention"
+        },
+        {
+          "text": "Record the date and set the next appointment",
+          "note": "Timing varies by region and vet, so confirm your kitten's schedule"
+        }
+      ]
+    },
+    {
+      "title": "Around 10 to 12 Weeks",
+      "items": [
+        {
+          "text": "Second combination booster as recommended"
+        },
+        {
+          "text": "Feline leukemia vaccine if outdoor access is likely"
+        },
+        {
+          "text": "Continue the deworming or parasite plan"
+        },
+        {
+          "text": "Review socialization, handling, and litter training"
+        },
+        {
+          "text": "Log the visit and confirm the next due date"
+        }
+      ]
+    },
+    {
+      "title": "Around 14 to 16+ Weeks",
+      "items": [
+        {
+          "text": "Final combination booster of the kitten series"
+        },
+        {
+          "text": "Rabies vaccine where required by law or your vet"
+        },
+        {
+          "text": "Confirm when adult boosters will next be due"
+        },
+        {
+          "text": "Discuss spay or neuter timing if relevant"
+        },
+        {
+          "text": "Ask when outdoor access is safe if planned",
+          "note": "Vets differ on exact timing, so follow your vet's guidance"
+        }
+      ]
+    },
+    {
+      "title": "After Each Shot",
+      "items": [
+        {
+          "text": "Watch for mild soreness, tiredness, or low appetite"
+        },
+        {
+          "text": "Note any swelling, vomiting, or distress to report"
+        },
+        {
+          "text": "Give your kitten a calm, quiet place to rest"
+        },
+        {
+          "text": "Update the record and set the next reminder"
+        },
+        {
+          "text": "Keep a copy ready for boarding or travel",
+          "note": "Contact your vet promptly if you see a strong reaction"
+        }
+      ]
+    },
+    {
+      "title": "Records & Next Steps",
+      "items": [
+        {
+          "text": "Keep a running log of each vaccine and date"
+        },
+        {
+          "text": "Save batch numbers and the clinic that gave each shot"
+        },
+        {
+          "text": "Register and confirm your kitten's microchip details"
+        },
+        {
+          "text": "Plan the first adult booster visit"
+        },
+        {
+          "text": "Store a digital backup of the full kitten record"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; kitten vaccine schedules vary by region and vet, so always consult a licensed veterinarian",
+          "note": "For any reaction or emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When do kitten vaccinations usually start?",
+      "a": "Kitten shots often begin around six to eight weeks of age and continue in a series every few weeks. The exact start depends on your kitten's age and health, so confirm timing with your veterinarian."
+    },
+    {
+      "q": "How many rounds of shots does a kitten need?",
+      "a": "Most kittens receive several rounds spaced a few weeks apart, typically finishing around sixteen weeks or later. The number of doses varies by vaccine and protocol, so follow your vet's plan."
+    },
+    {
+      "q": "Do indoor kittens need vaccines too?",
+      "a": "Often yes. Some vaccines are recommended even for indoor cats, while others depend on outdoor access and exposure. Your veterinarian will advise which vaccines your kitten needs."
+    },
+    {
+      "q": "What if we miss a kitten vaccine appointment?",
+      "a": "Contact your veterinarian as soon as possible. They will advise whether to continue where you left off or repeat part of the series so your kitten stays protected."
+    },
+    {
+      "q": "Is this kitten vaccination checklist printable?",
+      "a": "Yes. Print it or download the PDF, record each shot and date by week, and bring it to appointments to keep your kitten's series on track."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/kitten-vaccination-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/kitten-vaccination-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Kitten Vaccination Checklist by ChecklistForge (https://checklistforge.com/checklist/kitten-vaccination-checklist)",
+  "updated": "2026-10-17"
+}

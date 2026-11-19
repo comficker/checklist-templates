@@ -1,0 +1,198 @@
+{
+  "id": "menopause-symptoms-checklist",
+  "name": "Menopause and Perimenopause Symptoms Checklist",
+  "description": "A printable symptom tracker for perimenopause and menopause to fill in at home and bring to your doctor's appointment.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "menopause",
+    "perimenopause",
+    "womens-health",
+    "symptom-tracker",
+    "doctor-visit"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Cycle Changes",
+      "items": [
+        {
+          "text": "Date of my last period: ____"
+        },
+        {
+          "text": "Note if cycles are shorter, longer or skipped",
+          "note": "Write the start date of each period for a few months. A simple list of dates shows patterns your doctor can use."
+        },
+        {
+          "text": "Note if bleeding is heavier, lighter or lasts longer than before"
+        },
+        {
+          "text": "Note any spotting or bleeding between periods or after sex"
+        }
+      ]
+    },
+    {
+      "title": "Hot Flashes and Night Sweats",
+      "items": [
+        {
+          "text": "Tick if you have sudden waves of heat in the face, neck or chest"
+        },
+        {
+          "text": "Tick if you wake up sweating or need to change bedding or clothes"
+        },
+        {
+          "text": "Note any flushing, racing heartbeat or chills that come with them"
+        },
+        {
+          "text": "List possible triggers, such as alcohol, caffeine, spicy food or a hot room",
+          "note": "Knowing your triggers gives you something to try changing and gives your doctor useful detail."
+        }
+      ]
+    },
+    {
+      "title": "Sleep, Mood and Memory",
+      "items": [
+        {
+          "text": "Tick if you have trouble falling asleep or wake up too early"
+        },
+        {
+          "text": "Tick if you feel irritable, low, anxious or have mood swings"
+        },
+        {
+          "text": "Tick if you have trouble focusing, find it hard to recall words or feel foggy"
+        },
+        {
+          "text": "Note low energy or tiredness that rest does not fix"
+        }
+      ]
+    },
+    {
+      "title": "Vaginal, Bladder and Sexual Health",
+      "items": [
+        {
+          "text": "Tick if you have vaginal dryness, itching or burning"
+        },
+        {
+          "text": "Tick if sex is painful or you have less interest in sex"
+        },
+        {
+          "text": "Tick if you need to pee more often or more urgently, or leak urine"
+        },
+        {
+          "text": "Note any repeated urinary tract infections",
+          "note": "These changes are common and treatable, and they tend to continue after menopause rather than fade, so they are worth raising even if they feel awkward."
+        }
+      ]
+    },
+    {
+      "title": "Joints, Skin, Hair and Weight",
+      "items": [
+        {
+          "text": "Tick if you have new joint aches or stiffness"
+        },
+        {
+          "text": "Tick if your skin is drier, itchier or thinner"
+        },
+        {
+          "text": "Tick if hair is thinning on your head or growing more on your face"
+        },
+        {
+          "text": "Note weight gain, especially around the waist: ____"
+        },
+        {
+          "text": "Note headaches, or migraines that changed in pattern"
+        }
+      ]
+    },
+    {
+      "title": "Symptom Log",
+      "items": [
+        {
+          "text": "Week starting: ____"
+        },
+        {
+          "text": "Hot flashes per day: ____ / Night sweats per week: ____"
+        },
+        {
+          "text": "Nights of poor sleep this week: ____"
+        },
+        {
+          "text": "Worst symptom this week: ____ / Severity (0 none to 10 severe): ____"
+        },
+        {
+          "text": "How much symptoms affected work, home or relationships (0 to 10): ____",
+          "note": "Your doctor will ask how symptoms affect your daily life. A number you tracked is easier to share than a memory."
+        }
+      ]
+    },
+    {
+      "title": "Questions to Ask Your Doctor",
+      "items": [
+        {
+          "text": "Ask whether my symptoms fit perimenopause, menopause or something else"
+        },
+        {
+          "text": "Ask whether I need any tests, such as a thyroid check"
+        },
+        {
+          "text": "Discuss treatment options such as HRT, including the benefits and risks for me"
+        },
+        {
+          "text": "Ask about non-hormone options and lifestyle changes"
+        },
+        {
+          "text": "Ask what to do about birth control until periods stop"
+        },
+        {
+          "text": "Ask about bone health and heart health after menopause",
+          "note": "Bring a list of all medicines and supplements you take, plus your family history of breast cancer, blood clots, heart disease and osteoporosis."
+        }
+      ]
+    },
+    {
+      "title": "When to Get Care Sooner",
+      "items": [
+        {
+          "text": "Call your doctor about any bleeding after menopause, even spotting",
+          "note": "Once you have gone 12 months without a period, any bleeding needs to be checked. It is often caused by something minor, but it can be an early sign of cancer."
+        },
+        {
+          "text": "Get care for very heavy bleeding, such as soaking a pad or tampon every hour or two"
+        },
+        {
+          "text": "Get care if periods last longer than 7 days or come closer than 21 days apart"
+        },
+        {
+          "text": "Talk to your doctor if symptoms start before age 45",
+          "note": "Periods that stop before age 40 can be a sign of premature ovarian insufficiency, which needs its own care."
+        },
+        {
+          "text": "Get help right away if you have thoughts of harming yourself; call or text 988"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the first signs of perimenopause?",
+      "a": "For many people the first sign is a change in periods: cycles get shorter or longer, flow gets heavier or lighter, or periods are skipped. Hot flashes, poor sleep, mood changes and new anxiety can also start before periods change much."
+    },
+    {
+      "q": "How do I know if I'm in perimenopause or menopause?",
+      "a": "You reach menopause once you have gone 12 months in a row without a period. Before that, if your periods are changing and you have symptoms, you are likely in perimenopause. Your doctor can confirm this, often from your age and symptoms alone, and may order tests to rule out other causes."
+    },
+    {
+      "q": "Can I still get pregnant during perimenopause?",
+      "a": "Yes. You can still ovulate on some cycles even when periods are irregular. If you don't want to get pregnant, keep using birth control and ask your doctor when it is safe to stop."
+    },
+    {
+      "q": "Do I need a blood test to diagnose menopause?",
+      "a": "Often not. For people over 45 with typical symptoms, doctors usually diagnose perimenopause or menopause from symptoms and period history. Hormone levels change from day to day during perimenopause, so a single test can be misleading. Tests may be used if you are younger or symptoms are unusual."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/menopause-symptoms-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/menopause-symptoms-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Menopause and Perimenopause Symptoms Checklist by ChecklistForge (https://checklistforge.com/checklist/menopause-symptoms-checklist)",
+  "updated": "2026-11-13"
+}

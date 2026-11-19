@@ -1,0 +1,166 @@
+{
+  "id": "depression-self-care-checklist",
+  "name": "Depression Self-Care Checklist",
+  "description": "Gentle, tiny daily basics to help you cope on low days and care for yourself.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "wellness",
+    "mental-health",
+    "self-care",
+    "depression"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Meet Your Basic Needs",
+      "items": [
+        {
+          "text": "Drink a glass of water",
+          "note": "Start with the smallest possible step; it still counts."
+        },
+        {
+          "text": "Eat something, even a small or simple snack"
+        },
+        {
+          "text": "Take any medication you are prescribed"
+        },
+        {
+          "text": "Open a window or step outside for a little fresh air"
+        },
+        {
+          "text": "Change clothes or put on something clean and comfortable"
+        }
+      ]
+    },
+    {
+      "title": "Tiny Wins",
+      "items": [
+        {
+          "text": "Brush your teeth or wash your face"
+        },
+        {
+          "text": "Make your bed, even loosely"
+        },
+        {
+          "text": "Tidy one small thing within arm's reach"
+        },
+        {
+          "text": "Take a shower, or just wash up if a shower feels too big"
+        },
+        {
+          "text": "Celebrate whatever you managed, however small",
+          "note": "On a low day, any step forward is a real achievement."
+        }
+      ]
+    },
+    {
+      "title": "Gentle Movement and Light",
+      "items": [
+        {
+          "text": "Open the curtains and let some daylight in"
+        },
+        {
+          "text": "Sit or stand near a window for a few minutes"
+        },
+        {
+          "text": "Stretch gently or walk to another room"
+        },
+        {
+          "text": "Step outside for a short walk if you feel able"
+        },
+        {
+          "text": "Move at your own pace with no pressure to do more"
+        }
+      ]
+    },
+    {
+      "title": "Soothe and Comfort Yourself",
+      "items": [
+        {
+          "text": "Wrap up in a blanket or something cozy"
+        },
+        {
+          "text": "Listen to gentle music or a comforting show"
+        },
+        {
+          "text": "Hold a warm drink and focus on the warmth"
+        },
+        {
+          "text": "Be kind to yourself instead of self-critical",
+          "note": "A low day is a symptom, not a personal failing."
+        },
+        {
+          "text": "Lower your expectations for today and rest"
+        }
+      ]
+    },
+    {
+      "title": "Stay Connected",
+      "items": [
+        {
+          "text": "Send a short message to someone you trust"
+        },
+        {
+          "text": "Let one person know you are having a hard time"
+        },
+        {
+          "text": "Accept help with a task if someone offers"
+        },
+        {
+          "text": "Sit near family, a friend, or a pet for company"
+        },
+        {
+          "text": "Try not to isolate completely, even in small ways"
+        }
+      ]
+    },
+    {
+      "title": "Reach Out for Support",
+      "items": [
+        {
+          "text": "Consider booking an appointment with your doctor"
+        },
+        {
+          "text": "Talk to a qualified mental-health professional about how you feel"
+        },
+        {
+          "text": "Write down what you want to say if talking feels hard"
+        },
+        {
+          "text": "Important: This checklist is general self-care information, not medical treatment or advice. Depression is treatable; please reach out to a doctor or mental-health professional."
+        },
+        {
+          "text": "If you are in crisis or having thoughts of self-harm or suicide, contact a crisis line or emergency services now. You matter and you are not alone."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What can I do on a really low day?",
+      "a": "Keep the bar low and aim for basics: a glass of water, something to eat, a little daylight, and a small bit of movement. Even brushing your teeth or opening a window counts. One tiny step is enough, and you can build from there."
+    },
+    {
+      "q": "Why do small tasks feel so hard with depression?",
+      "a": "Low mood can sap motivation, energy, and focus, which makes ordinary tasks feel huge. This is a symptom, not a personal failing. Breaking things into the smallest possible step and celebrating tiny wins can make starting a little easier."
+    },
+    {
+      "q": "Is this depression self-care checklist medical advice?",
+      "a": "No. This is general self-care information only, not treatment, diagnosis, or medical advice. Depression is treatable, and self-care works best alongside professional support. Please talk to a doctor or a qualified mental-health professional about how you are feeling."
+    },
+    {
+      "q": "When should I reach out for professional help?",
+      "a": "If low mood lasts more than two weeks, keeps returning, or affects your sleep, appetite, work, or relationships, please reach out to a doctor or mental-health professional. Depression is common and treatable, and getting support is a sign of strength, not weakness."
+    },
+    {
+      "q": "What if I am having thoughts of self-harm or suicide?",
+      "a": "Please reach out for help right now. Contact your local crisis line or emergency services, or go to the nearest emergency department, and tell someone you trust. You matter, you are not alone, and support is available even when it does not feel that way."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/depression-self-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/depression-self-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Depression Self-Care Checklist by ChecklistForge (https://checklistforge.com/checklist/depression-self-care-checklist)",
+  "updated": "2026-10-17"
+}

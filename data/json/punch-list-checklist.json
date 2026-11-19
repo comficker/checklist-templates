@@ -1,0 +1,182 @@
+{
+  "id": "punch-list-checklist",
+  "name": "Punch List Checklist",
+  "description": "A punch list checklist for finding and resolving defects and incomplete items before final acceptance.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "construction",
+    "quality-control",
+    "punch-list",
+    "snag-list"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Exterior",
+      "items": [
+        {
+          "text": "Check siding, cladding and trim for damage and gaps."
+        },
+        {
+          "text": "Inspect roofing, flashing and gutters."
+        },
+        {
+          "text": "Verify windows and exterior doors operate and seal."
+        },
+        {
+          "text": "Check exterior paint, caulking and finishes."
+        },
+        {
+          "text": "Inspect grading, drainage and hardscape."
+        },
+        {
+          "text": "Review landscaping and site cleanup."
+        }
+      ]
+    },
+    {
+      "title": "Interior walls and ceilings",
+      "items": [
+        {
+          "text": "Inspect drywall for cracks, dents and seams."
+        },
+        {
+          "text": "Check paint coverage, touch-ups and color match."
+        },
+        {
+          "text": "Verify ceilings are level and finished cleanly."
+        },
+        {
+          "text": "Inspect trim, baseboards and molding alignment."
+        },
+        {
+          "text": "Check corners, edges and transitions."
+        },
+        {
+          "text": "Confirm wall penetrations are sealed and finished."
+        }
+      ]
+    },
+    {
+      "title": "Floors and finishes",
+      "items": [
+        {
+          "text": "Inspect flooring for scratches, gaps and lippage."
+        },
+        {
+          "text": "Check tile layout, grout and caulking."
+        },
+        {
+          "text": "Verify transitions and thresholds."
+        },
+        {
+          "text": "Inspect cabinetry and millwork for damage."
+        },
+        {
+          "text": "Check countertops, edges and seams."
+        },
+        {
+          "text": "Confirm hardware and fixtures are installed correctly."
+        }
+      ]
+    },
+    {
+      "title": "Doors, windows and hardware",
+      "items": [
+        {
+          "text": "Confirm doors open, close and latch properly."
+        },
+        {
+          "text": "Check window operation, screens and locks."
+        },
+        {
+          "text": "Verify hardware, hinges and handles are secure."
+        },
+        {
+          "text": "Inspect weatherstripping and seals."
+        },
+        {
+          "text": "Check glazing for scratches and cracks."
+        },
+        {
+          "text": "Confirm labeling, fire ratings and clearances."
+        }
+      ]
+    },
+    {
+      "title": "Mechanical, electrical and plumbing",
+      "items": [
+        {
+          "text": "Test all outlets, switches and GFCI protection."
+        },
+        {
+          "text": "Confirm light fixtures work and are aligned."
+        },
+        {
+          "text": "Check plumbing fixtures for leaks and operation."
+        },
+        {
+          "text": "Verify HVAC heating, cooling and airflow."
+        },
+        {
+          "text": "Test fire alarms, detectors and safety systems."
+        },
+        {
+          "text": "Confirm thermostats, controls and panels are labeled."
+        }
+      ]
+    },
+    {
+      "title": "Tracking and sign-off",
+      "items": [
+        {
+          "text": "Number and describe each defect clearly."
+        },
+        {
+          "text": "Photograph and locate every item."
+        },
+        {
+          "text": "Assign each item to the responsible party."
+        },
+        {
+          "text": "Set a target completion date for each item."
+        },
+        {
+          "text": "Re-inspect each item once corrected."
+        },
+        {
+          "text": "Obtain sign-off when the punch list is complete.",
+          "note": "Confirm all items are resolved and re-inspected before final acceptance."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a punch list in construction?",
+      "a": "A punch list is a document of defects and incomplete items that must be fixed before the project reaches final acceptance. It is created during a walkthrough near completion, and this checklist helps you find and track those items."
+    },
+    {
+      "q": "What is the difference between a punch list and a snag list?",
+      "a": "They are the same thing under different names. \"Punch list\" is common in North America and \"snag list\" in the UK and elsewhere, but both refer to the list of items to fix before a project is accepted."
+    },
+    {
+      "q": "Who creates the punch list?",
+      "a": "It is usually compiled during a walkthrough by the contractor, project manager, architect and often the owner. Involving multiple parties ensures defects are caught and that everyone agrees on what must be corrected before acceptance."
+    },
+    {
+      "q": "When is the punch list considered complete?",
+      "a": "When every listed item has been corrected, re-inspected and signed off as acceptable. Only then should the project move to final acceptance, retainage release and handover, so tracking each item to closure matters."
+    },
+    {
+      "q": "Is this punch list checklist available as a printable PDF?",
+      "a": "Yes. Print it for the punch walk or download the PDF so builders and project managers can photograph, log and track defects from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/punch-list-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/punch-list-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Punch List Checklist by ChecklistForge (https://checklistforge.com/checklist/punch-list-checklist)",
+  "updated": "2026-10-17"
+}

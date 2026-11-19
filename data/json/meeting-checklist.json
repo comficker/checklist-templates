@@ -1,0 +1,170 @@
+{
+  "id": "meeting-checklist",
+  "name": "Meeting Checklist",
+  "description": "A before, during, and after checklist for meetings that actually get things done.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "productivity",
+    "project-management",
+    "team",
+    "meetings"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Decide If You Need a Meeting",
+      "items": [
+        {
+          "text": "Confirm the goal can't be handled by a message or document"
+        },
+        {
+          "text": "Define the single outcome the meeting must achieve"
+        },
+        {
+          "text": "Choose the shortest time that fits the goal",
+          "note": "Try 25 or 50 minutes to leave a buffer between calls."
+        },
+        {
+          "text": "Invite only the people who decide or contribute"
+        },
+        {
+          "text": "Pick a time that respects attendees' schedules"
+        }
+      ]
+    },
+    {
+      "title": "Build the Agenda",
+      "items": [
+        {
+          "text": "List each topic as a question or decision to make"
+        },
+        {
+          "text": "Assign a time estimate and an owner to each item"
+        },
+        {
+          "text": "Order topics by priority in case time runs short"
+        },
+        {
+          "text": "Note any pre-reading or prep attendees need"
+        },
+        {
+          "text": "Send the agenda at least a day in advance"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Before the Meeting",
+      "items": [
+        {
+          "text": "Confirm attendance and reschedule if key people can't join"
+        },
+        {
+          "text": "Book the room or set up the video link"
+        },
+        {
+          "text": "Test screen sharing, audio, and any equipment",
+          "note": "A two-minute tech check prevents lost minutes."
+        },
+        {
+          "text": "Gather documents, slides, or data you will present"
+        },
+        {
+          "text": "Assign someone to take notes"
+        }
+      ]
+    },
+    {
+      "title": "Run the Meeting",
+      "items": [
+        {
+          "text": "Start on time and restate the goal and agenda"
+        },
+        {
+          "text": "Keep each topic within its time box"
+        },
+        {
+          "text": "Encourage quieter attendees to contribute"
+        },
+        {
+          "text": "Park off-topic items in a separate list",
+          "note": "A parking lot keeps the agenda moving."
+        },
+        {
+          "text": "Summarize decisions out loud before moving on"
+        },
+        {
+          "text": "End by recapping action items and owners"
+        }
+      ]
+    },
+    {
+      "title": "Capture Action Items",
+      "items": [
+        {
+          "text": "Write each action as a clear, specific task"
+        },
+        {
+          "text": "Assign one owner to every action item"
+        },
+        {
+          "text": "Set a due date for each task"
+        },
+        {
+          "text": "Record decisions made during the meeting"
+        },
+        {
+          "text": "Note any open questions to resolve later"
+        }
+      ]
+    },
+    {
+      "title": "Follow Up After the Meeting",
+      "items": [
+        {
+          "text": "Send notes and action items within a day"
+        },
+        {
+          "text": "Add tasks to your team's tracker or tool"
+        },
+        {
+          "text": "Share decisions with people who couldn't attend"
+        },
+        {
+          "text": "Check in on progress before the next meeting",
+          "note": "A quick nudge keeps action items from stalling."
+        },
+        {
+          "text": "Schedule any needed follow-up session"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes a meeting effective?",
+      "a": "A clear purpose, a focused agenda, the right people, time-boxed discussion, and documented action items with owners. Effective meetings end with decisions, not just conversation."
+    },
+    {
+      "q": "What should a meeting agenda include?",
+      "a": "The meeting goal, the topics to cover with time estimates, who leads each item, and any prep attendees need to do beforehand. Send it in advance so people arrive ready."
+    },
+    {
+      "q": "How do I keep a meeting on track?",
+      "a": "Start on time, follow the agenda, time-box each topic, and park off-topic items for later. Restate decisions and next steps before moving on so nothing is lost."
+    },
+    {
+      "q": "What should I do after a meeting?",
+      "a": "Send notes with decisions and action items, assign an owner and due date to each task, and follow up before the next meeting to confirm progress."
+    },
+    {
+      "q": "Can I print this meeting checklist?",
+      "a": "Yes. Download the printable PDF, keep it handy while you plan and host, and check off each step before, during, and after every meeting."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/meeting-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/meeting-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Meeting Checklist by ChecklistForge (https://checklistforge.com/checklist/meeting-checklist)",
+  "updated": "2026-10-17"
+}

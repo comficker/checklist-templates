@@ -1,0 +1,182 @@
+{
+  "id": "kitten-care-checklist",
+  "name": "Kitten Care Checklist",
+  "description": "A kitten care checklist covering the day-to-day routine of feeding, litter, play, grooming, and health for a kitten.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "cat-care",
+    "kitten"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Daily feeding and water",
+      "items": [
+        {
+          "text": "Feed small, frequent meals of age-appropriate kitten food."
+        },
+        {
+          "text": "Provide clean, fresh water and encourage drinking."
+        },
+        {
+          "text": "Wash bowls daily to keep them clean."
+        },
+        {
+          "text": "Stick to vet-recommended food and limit treats."
+        },
+        {
+          "text": "Adjust meal frequency as your kitten grows.",
+          "note": "Confirm the schedule with your veterinarian."
+        },
+        {
+          "text": "Note any loss of appetite to mention to the vet."
+        }
+      ]
+    },
+    {
+      "title": "Litter and cleanup",
+      "items": [
+        {
+          "text": "Scoop the litter box at least once a day."
+        },
+        {
+          "text": "Use a low-sided box and kitten-safe litter."
+        },
+        {
+          "text": "Fully change the litter and clean the box regularly."
+        },
+        {
+          "text": "Keep the box quiet, accessible, and away from food."
+        },
+        {
+          "text": "Gently guide your kitten to the box after meals and naps."
+        },
+        {
+          "text": "Watch for changes in litter use to share with your vet."
+        }
+      ]
+    },
+    {
+      "title": "Play and bonding",
+      "items": [
+        {
+          "text": "Schedule several short, interactive play sessions daily."
+        },
+        {
+          "text": "Use wand toys and balls to channel hunting energy."
+        },
+        {
+          "text": "Redirect biting and scratching from hands to toys."
+        },
+        {
+          "text": "Provide a scratching post and safe climbing spots."
+        },
+        {
+          "text": "Spend calm cuddle time to build trust."
+        },
+        {
+          "text": "Rotate toys to keep your kitten curious."
+        }
+      ]
+    },
+    {
+      "title": "Grooming and handling",
+      "items": [
+        {
+          "text": "Brush the coat gently and regularly to reduce hairballs."
+        },
+        {
+          "text": "Introduce nail trims slowly and positively."
+        },
+        {
+          "text": "Handle paws, ears, and mouth to prepare for future care."
+        },
+        {
+          "text": "Check eyes and ears and clean gently if needed."
+        },
+        {
+          "text": "Start gentle dental care as your vet advises."
+        },
+        {
+          "text": "Keep grooming sessions short and rewarding."
+        }
+      ]
+    },
+    {
+      "title": "Safety and supervision",
+      "items": [
+        {
+          "text": "Keep cords, small items, and toxic plants out of reach."
+        },
+        {
+          "text": "Supervise young children and teach gentle handling."
+        },
+        {
+          "text": "Check appliances and recliners before use."
+        },
+        {
+          "text": "Secure windows, balconies, and doors against escapes."
+        },
+        {
+          "text": "Provide a warm, quiet place to nap undisturbed."
+        },
+        {
+          "text": "Keep a secure carrier ready for vet trips."
+        }
+      ]
+    },
+    {
+      "title": "Health monitoring",
+      "items": [
+        {
+          "text": "Watch appetite, energy, weight, and litter habits daily."
+        },
+        {
+          "text": "Keep up with the vaccination and deworming schedule."
+        },
+        {
+          "text": "Give any prescribed medications exactly as directed."
+        },
+        {
+          "text": "Check skin and coat for fleas and irritation."
+        },
+        {
+          "text": "Keep your kitten warm, hydrated, and rested."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your kitten's health, diet, and vaccinations."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I feed a kitten?",
+      "a": "Young kittens usually eat small meals several times a day, with frequency decreasing as they grow. Feed an age-appropriate kitten food and provide fresh water. Your veterinarian can confirm the right schedule and portions for your kitten's age and weight."
+    },
+    {
+      "q": "How do I keep a kitten's litter box clean?",
+      "a": "Scoop the litter box at least once a day, fully change the litter regularly, and use a low-sided box a kitten can enter easily. A clean, accessible box supports good habits and lets you spot any change worth mentioning to your vet."
+    },
+    {
+      "q": "How much should I play with my kitten?",
+      "a": "Aim for several short, interactive play sessions a day to burn energy, build coordination, and strengthen your bond. Use wand toys and balls, redirect biting from hands to toys, and provide a scratching post and safe enrichment between sessions."
+    },
+    {
+      "q": "How is this different from the kitten checklist?",
+      "a": "This kitten care checklist focuses on the daily routine of feeding, litter, play, and health. Our broader Kitten Checklist tracks first-year milestones like vaccinations, growth, and development."
+    },
+    {
+      "q": "Can I download this kitten care checklist as a PDF?",
+      "a": "Yes. You can print it for the kitchen or download it as a PDF so the whole family can follow the same daily kitten routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/kitten-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/kitten-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Kitten Care Checklist by ChecklistForge (https://checklistforge.com/checklist/kitten-care-checklist)",
+  "updated": "2026-10-17"
+}

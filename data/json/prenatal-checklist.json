@@ -1,0 +1,182 @@
+{
+  "id": "prenatal-checklist",
+  "name": "Prenatal Checklist",
+  "description": "A prenatal checklist to guide your care and preparation trimester by trimester.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "health",
+    "baby",
+    "pregnancy",
+    "prenatal"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "As soon as you find out",
+      "items": [
+        {
+          "text": "Call to schedule your first prenatal appointment."
+        },
+        {
+          "text": "Start a prenatal vitamin with folic acid as directed."
+        },
+        {
+          "text": "Stop alcohol, smoking and recreational drugs."
+        },
+        {
+          "text": "Review current medications and supplements with your provider.",
+          "note": "Do not stop prescribed medication without medical advice."
+        },
+        {
+          "text": "Note the first day of your last period to help estimate your due date."
+        },
+        {
+          "text": "Check your health insurance and maternity coverage."
+        }
+      ]
+    },
+    {
+      "title": "First trimester (weeks 1 to 13)",
+      "items": [
+        {
+          "text": "Attend your first prenatal visit and confirm your due date."
+        },
+        {
+          "text": "Complete initial blood and urine tests as advised."
+        },
+        {
+          "text": "Discuss optional first-trimester genetic screening."
+        },
+        {
+          "text": "Ask about managing nausea, fatigue and food safety."
+        },
+        {
+          "text": "Begin gentle, provider-approved exercise and good sleep habits."
+        },
+        {
+          "text": "Decide who to tell and when you feel ready."
+        }
+      ]
+    },
+    {
+      "title": "Second trimester (weeks 14 to 27)",
+      "items": [
+        {
+          "text": "Attend regular checkups and track blood pressure and growth."
+        },
+        {
+          "text": "Have the anatomy ultrasound around the midpoint."
+        },
+        {
+          "text": "Complete glucose screening for gestational diabetes as scheduled."
+        },
+        {
+          "text": "Ask about a Tdap vaccine and any others your provider recommends."
+        },
+        {
+          "text": "Start researching childbirth and breastfeeding classes."
+        },
+        {
+          "text": "Begin a baby budget and any registry planning."
+        }
+      ]
+    },
+    {
+      "title": "Third trimester (weeks 28 to birth)",
+      "items": [
+        {
+          "text": "Attend more frequent appointments as your provider directs."
+        },
+        {
+          "text": "Discuss your birth preferences and pain relief options."
+        },
+        {
+          "text": "Confirm your group B strep test near the end of pregnancy."
+        },
+        {
+          "text": "Learn the signs of labor and when to call or go in."
+        },
+        {
+          "text": "Pack your hospital or birth-center bag."
+        },
+        {
+          "text": "Install and check the infant car seat before the due date."
+        }
+      ]
+    },
+    {
+      "title": "Healthy lifestyle throughout",
+      "items": [
+        {
+          "text": "Eat balanced meals and stay well hydrated."
+        },
+        {
+          "text": "Stay active with provider-approved movement most days."
+        },
+        {
+          "text": "Prioritize rest and consistent sleep."
+        },
+        {
+          "text": "Practice food safety and avoid foods your provider flags."
+        },
+        {
+          "text": "Manage stress with support, rest and gentle routines."
+        },
+        {
+          "text": "Keep all prenatal appointments and follow-up tests."
+        }
+      ]
+    },
+    {
+      "title": "Planning and preparation",
+      "items": [
+        {
+          "text": "Choose your pediatrician and confirm they take your insurance."
+        },
+        {
+          "text": "Set up the nursery basics and a safe sleep space."
+        },
+        {
+          "text": "Arrange parental leave and care logistics with your employer."
+        },
+        {
+          "text": "Line up postpartum support from family or friends."
+        },
+        {
+          "text": "Prepare a feeding plan to discuss with your provider."
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Always follow the guidance of your OB-GYN or midwife, and contact them with any questions or concerns about your pregnancy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I schedule my first prenatal appointment?",
+      "a": "Many providers see you around 8 weeks, but call as soon as you have a positive test so they can advise on timing. If you have a medical condition or concern, your OB-GYN or midwife may want to see you sooner."
+    },
+    {
+      "q": "How often are prenatal appointments?",
+      "a": "A common schedule is roughly every 4 weeks early on, every 2 to 3 weeks in the late second trimester, and weekly near the end. Your provider sets the schedule based on your individual pregnancy."
+    },
+    {
+      "q": "What tests can I expect during pregnancy?",
+      "a": "Typical care includes blood tests, urine checks, blood pressure monitoring, an ultrasound, glucose screening for gestational diabetes, and optional genetic screening. Your provider explains which apply to you and when."
+    },
+    {
+      "q": "When should I take prenatal vitamins?",
+      "a": "General guidance is to start a prenatal vitamin with folic acid as early as possible, ideally before or as soon as you learn you are pregnant. Confirm the right choice with your OB-GYN or midwife."
+    },
+    {
+      "q": "Can I download this prenatal checklist as a PDF?",
+      "a": "Yes. You can print it for your pregnancy folder or download it as a PDF, so first-time moms have a trimester-by-trimester reference to bring to appointments."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/prenatal-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/prenatal-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Prenatal Checklist by ChecklistForge (https://checklistforge.com/checklist/prenatal-checklist)",
+  "updated": "2026-10-17"
+}

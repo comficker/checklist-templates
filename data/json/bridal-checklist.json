@@ -1,0 +1,183 @@
+{
+  "id": "bridal-checklist",
+  "name": "Bridal Checklist",
+  "description": "A bridal checklist covering everything the bride needs, from attire and beauty to accessories, getting ready, and an emergency kit.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "beauty",
+    "bridal",
+    "bride-attire",
+    "getting-ready"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Attire and Fittings",
+      "items": [
+        {
+          "text": "Choose and order the wedding gown with time for alterations."
+        },
+        {
+          "text": "Select a veil, wrap, or any second look for the reception."
+        },
+        {
+          "text": "Schedule fittings and bring your wedding shoes to each one.",
+          "note": "Wearing the actual shoes ensures the hem length is right."
+        },
+        {
+          "text": "Buy the undergarments and shapewear that work with the dress."
+        },
+        {
+          "text": "Attend the final fitting close to the wedding date."
+        },
+        {
+          "text": "Steam the gown and hang it safely the night before."
+        }
+      ]
+    },
+    {
+      "title": "Beauty and Skincare",
+      "items": [
+        {
+          "text": "Book hair and makeup artists and schedule a trial run."
+        },
+        {
+          "text": "Start a consistent skincare routine well before the date."
+        },
+        {
+          "text": "Schedule any facials, lash, or brow appointments in advance."
+        },
+        {
+          "text": "Plan a manicure and pedicure for the days before the wedding."
+        },
+        {
+          "text": "Decide on your fragrance and pack a small bottle for touch-ups."
+        },
+        {
+          "text": "Avoid trying brand-new products in the final two weeks."
+        }
+      ]
+    },
+    {
+      "title": "Accessories and Jewelry",
+      "items": [
+        {
+          "text": "Choose earrings, a necklace, and any hair accessories."
+        },
+        {
+          "text": "Select your wedding band and confirm any resizing is done."
+        },
+        {
+          "text": "Gather your something old, new, borrowed, and blue."
+        },
+        {
+          "text": "Pick a bridal clutch and pack only the essentials."
+        },
+        {
+          "text": "Choose comfortable shoes for dancing at the reception."
+        },
+        {
+          "text": "Set aside a wrap or jacket if the venue may be cool."
+        }
+      ]
+    },
+    {
+      "title": "Getting-Ready Bag",
+      "items": [
+        {
+          "text": "Pack a robe or button-front top so your hair stays intact."
+        },
+        {
+          "text": "Bring the vows, marriage license copy, and the day-of timeline."
+        },
+        {
+          "text": "Include a phone charger and a portable battery."
+        },
+        {
+          "text": "Add water, snacks, and a light breakfast for the morning."
+        },
+        {
+          "text": "Carry touch-up cosmetics and a small mirror."
+        },
+        {
+          "text": "Pack tissues and a straw to protect your lipstick."
+        }
+      ]
+    },
+    {
+      "title": "Emergency Kit",
+      "items": [
+        {
+          "text": "Stock safety pins, a mini sewing kit, and fashion tape."
+        },
+        {
+          "text": "Include stain remover wipes and a lint roller."
+        },
+        {
+          "text": "Add bandages, blister pads, and pain relievers."
+        },
+        {
+          "text": "Pack extra hair pins, a brush, and dry shampoo."
+        },
+        {
+          "text": "Bring blotting papers, deodorant, and breath mints."
+        },
+        {
+          "text": "Tuck in a backup pair of flats and a little cash.",
+          "note": "Ask your maid of honor to keep the kit close all day."
+        }
+      ]
+    },
+    {
+      "title": "Morning-Of Routine",
+      "items": [
+        {
+          "text": "Eat a real breakfast and drink plenty of water."
+        },
+        {
+          "text": "Begin hair and makeup on schedule, finishing with your look."
+        },
+        {
+          "text": "Lay out the dress, shoes, and accessories together."
+        },
+        {
+          "text": "Take detail photos of the rings, shoes, and jewelry."
+        },
+        {
+          "text": "Slip into the gown with help from your party."
+        },
+        {
+          "text": "Do a final mirror check, then take a quiet moment before the ceremony."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should the bride buy her wedding dress?",
+      "a": "Order your gown eight to nine months before the wedding, since most styles take four to six months to arrive and need at least two fittings for alterations. If your timeline is tight, ask about off-the-rack options or rush ordering. Always confirm the final fitting falls close to the date so the fit is perfect."
+    },
+    {
+      "q": "What does the something old, new, borrowed, blue tradition mean?",
+      "a": "It is a wish for good fortune: something old for continuity with the past, something new for the future, something borrowed from a happily married friend for shared luck, and something blue for fidelity. Many brides fold these into jewelry, a hidden ribbon, or a treasured family heirloom."
+    },
+    {
+      "q": "How should the bride plan her wedding beauty?",
+      "a": "Book a hair and makeup trial four to six weeks ahead so you can refine the look and time the routine. Start a skincare plan well before the date and avoid new products in the final weeks. On the morning of, begin early and finish with your look so it stays fresh for photos."
+    },
+    {
+      "q": "What should be in a bride's emergency kit?",
+      "a": "Include safety pins, a sewing kit, double-sided tape, stain remover, blotting papers, extra makeup for touch-ups, hair pins, pain relievers, bandages, breath mints, and flat shoes. Keep it in one bag and ask your maid of honor to carry it so it is always within reach."
+    },
+    {
+      "q": "What does the bride often forget on the wedding day?",
+      "a": "Common oversights include comfortable shoes for the reception, a charged phone, the vows if she wrote her own, a small snack, and the emergency kit. A getting-ready checklist and a trusted helper catch these easily, letting the bride relax and enjoy the day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/bridal-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/bridal-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Bridal Checklist by ChecklistForge (https://checklistforge.com/checklist/bridal-checklist)",
+  "updated": "2026-10-17"
+}

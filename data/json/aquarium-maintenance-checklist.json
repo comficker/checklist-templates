@@ -1,0 +1,143 @@
+{
+  "id": "aquarium-maintenance-checklist",
+  "name": "Aquarium Maintenance Checklist",
+  "description": "A routine aquarium upkeep checklist split into daily, weekly and monthly tasks for fishkeepers.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "maintenance",
+    "pets",
+    "aquarium",
+    "fish",
+    "water-care"
+  ],
+  "item_count": 24,
+  "sections": [
+    {
+      "title": "Daily Tasks",
+      "items": [
+        {
+          "text": "Check water temperature and heater function"
+        },
+        {
+          "text": "Observe each fish for normal behavior and appetite"
+        },
+        {
+          "text": "Feed an appropriate amount and remove uneaten food"
+        },
+        {
+          "text": "Confirm filter and pump are running normally"
+        },
+        {
+          "text": "Check the water level and top up evaporation if needed"
+        }
+      ]
+    },
+    {
+      "title": "Weekly Tasks",
+      "items": [
+        {
+          "text": "Test ammonia, nitrite, nitrate and pH"
+        },
+        {
+          "text": "Perform a partial water change",
+          "note": "Use dechlorinated, temperature-matched water"
+        },
+        {
+          "text": "Vacuum the substrate to remove waste"
+        },
+        {
+          "text": "Wipe algae from the glass"
+        },
+        {
+          "text": "Record test results to track trends"
+        }
+      ]
+    },
+    {
+      "title": "Filter & Equipment Care",
+      "items": [
+        {
+          "text": "Check filter flow and clean intake if reduced"
+        },
+        {
+          "text": "Rinse mechanical media in old tank water"
+        },
+        {
+          "text": "Inspect heater, lights and air pump for faults"
+        },
+        {
+          "text": "Replace mechanical media as needed, staggering changes",
+          "note": "Never replace all media at once or you lose beneficial bacteria"
+        }
+      ]
+    },
+    {
+      "title": "Monthly Deep Clean",
+      "items": [
+        {
+          "text": "Do a larger water change if test results call for it"
+        },
+        {
+          "text": "Clean the glass canopy, lid and light fixture"
+        },
+        {
+          "text": "Trim live plants and remove dead leaves"
+        },
+        {
+          "text": "Clean exterior glass and the stand"
+        },
+        {
+          "text": "Check tubing, seals and connections for leaks"
+        }
+      ]
+    },
+    {
+      "title": "Supplies to Keep on Hand",
+      "items": [
+        {
+          "text": "Water test kit and dechlorinator"
+        },
+        {
+          "text": "Gravel vacuum and clean buckets"
+        },
+        {
+          "text": "Algae scraper or magnet"
+        },
+        {
+          "text": "Spare filter media and a backup heater"
+        },
+        {
+          "text": "Fish-safe cleaning cloths and a thermometer"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I do a water change?",
+      "a": "A common routine is a partial water change of around 10–25% weekly, adjusted for stocking and test results. Always treat tap water with dechlorinator and match temperature before adding it."
+    },
+    {
+      "q": "What water parameters should I test for?",
+      "a": "Regularly test ammonia, nitrite, nitrate and pH, plus temperature. Keep ammonia and nitrite at zero in an established tank and watch nitrate trends to judge how often water changes are needed."
+    },
+    {
+      "q": "Should I clean my filter when I do a water change?",
+      "a": "Rinse filter media in old tank water, not tap water, to protect the beneficial bacteria, and only when flow drops. Spreading filter and water-change maintenance avoids disturbing the biological balance all at once."
+    },
+    {
+      "q": "How do I keep my fish healthy day to day?",
+      "a": "Feed appropriate amounts, observe behavior and appetite daily, keep parameters stable and quarantine new fish. For illness or persistent problems, consult an aquatic veterinarian or fish specialist."
+    },
+    {
+      "q": "Can I print this aquarium maintenance checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it near the tank and tick off daily, weekly and monthly tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/aquarium-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/aquarium-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Aquarium Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/aquarium-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

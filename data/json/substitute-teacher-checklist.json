@@ -1,0 +1,186 @@
+{
+  "id": "substitute-teacher-checklist",
+  "name": "Substitute Teacher Checklist",
+  "description": "A complete checklist for preparing substitute plans and everything a substitute teacher needs.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "classroom",
+    "teacher",
+    "teaching",
+    "substitute-teacher",
+    "sub-plans"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Sub folder essentials",
+      "items": [
+        {
+          "text": "Daily and weekly class schedule with times."
+        },
+        {
+          "text": "Current class rosters and seating charts."
+        },
+        {
+          "text": "Detailed lesson plans for each period."
+        },
+        {
+          "text": "Map of the school with key locations marked."
+        },
+        {
+          "text": "Emergency procedures and evacuation routes."
+        },
+        {
+          "text": "List of helpful staff and how to reach them.",
+          "note": "Include a reliable student or neighboring teacher."
+        },
+        {
+          "text": "Notes on students with medical or special needs."
+        }
+      ]
+    },
+    {
+      "title": "Classroom information",
+      "items": [
+        {
+          "text": "Where supplies, copies and materials are stored."
+        },
+        {
+          "text": "Login details or steps for needed technology."
+        },
+        {
+          "text": "How attendance and lunch counts are submitted."
+        },
+        {
+          "text": "Bell schedule, including any specials or duties."
+        },
+        {
+          "text": "Restroom, hall pass and water break rules."
+        },
+        {
+          "text": "What to do with completed and collected work."
+        }
+      ]
+    },
+    {
+      "title": "Daily procedures",
+      "items": [
+        {
+          "text": "Morning arrival and entry routine."
+        },
+        {
+          "text": "How students line up and transition between activities."
+        },
+        {
+          "text": "The attention signal and noise expectations."
+        },
+        {
+          "text": "Lunch, recess and any pull-out schedules."
+        },
+        {
+          "text": "Dismissal procedure, including bus and pickup notes."
+        },
+        {
+          "text": "What to do during fire or lockdown drills."
+        }
+      ]
+    },
+    {
+      "title": "Lesson plans and activities",
+      "items": [
+        {
+          "text": "Step-by-step directions for each lesson with timing."
+        },
+        {
+          "text": "Where to find handouts, books and materials."
+        },
+        {
+          "text": "Clear instructions students can follow independently."
+        },
+        {
+          "text": "A backup or filler activity if a lesson runs short."
+        },
+        {
+          "text": "How homework should be assigned or collected."
+        },
+        {
+          "text": "Notes on what to leave for the next day."
+        }
+      ]
+    },
+    {
+      "title": "Classroom management",
+      "items": [
+        {
+          "text": "Posted classroom rules and consequences."
+        },
+        {
+          "text": "The teacher's reward or behavior system."
+        },
+        {
+          "text": "How to handle conflicts or disruptions calmly."
+        },
+        {
+          "text": "Which students may need extra support or watching."
+        },
+        {
+          "text": "Who to contact for serious behavior issues."
+        },
+        {
+          "text": "Reminders to praise good behavior throughout the day."
+        }
+      ]
+    },
+    {
+      "title": "End-of-day handover",
+      "items": [
+        {
+          "text": "Have students tidy the room before dismissal."
+        },
+        {
+          "text": "Collect, sort and label completed work."
+        },
+        {
+          "text": "Write notes on what was finished and what was not."
+        },
+        {
+          "text": "Record any behavior or incidents for the teacher."
+        },
+        {
+          "text": "Reset desks and return supplies to their places."
+        },
+        {
+          "text": "Leave the sub folder and notes on the teacher's desk."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be in a substitute teacher folder?",
+      "a": "Include the daily schedule, seating charts, class rosters, detailed lesson plans, emergency procedures, key contacts, and notes on routines and any students with special needs. A complete folder lets a substitute run the day even with no prior knowledge of your class."
+    },
+    {
+      "q": "How detailed should sub plans be?",
+      "a": "Write plans as if the substitute has never met your students. Spell out timing, directions, where to find materials, what to do with completed work, and a backup activity. Over-explaining is far better than leaving gaps that cause confusion or downtime."
+    },
+    {
+      "q": "What should a substitute teacher do on arrival?",
+      "a": "Find the sub folder, review the schedule and lesson plans, locate emergency exits and procedures, and learn the attendance and dismissal routines. Arriving early to read everything before students enter sets up a calmer, more confident day."
+    },
+    {
+      "q": "How can a substitute manage the classroom?",
+      "a": "Follow the regular teacher's posted rules and routines, set clear expectations early, keep students engaged with the planned work, and use the backup activity if a lesson runs short. Leaving detailed notes for the teacher helps wrap up the day well."
+    },
+    {
+      "q": "Is this substitute teacher checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to slip into your sub folder, then tick off each task so the regular teacher prepares everything and the substitute knows exactly what to do."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/substitute-teacher-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/substitute-teacher-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Substitute Teacher Checklist by ChecklistForge (https://checklistforge.com/checklist/substitute-teacher-checklist)",
+  "updated": "2026-10-17"
+}

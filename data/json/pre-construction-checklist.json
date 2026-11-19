@@ -1,0 +1,182 @@
+{
+  "id": "pre-construction-checklist",
+  "name": "Pre-Construction Checklist",
+  "description": "A pre-construction checklist covering everything to complete before breaking ground.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "project-management",
+    "planning",
+    "construction",
+    "pre-construction"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Design and documentation",
+      "items": [
+        {
+          "text": "Finalize approved architectural and engineering drawings."
+        },
+        {
+          "text": "Confirm specifications and material selections."
+        },
+        {
+          "text": "Resolve outstanding design questions and conflicts."
+        },
+        {
+          "text": "Complete a constructability review."
+        },
+        {
+          "text": "Confirm the geotechnical and survey reports."
+        },
+        {
+          "text": "Establish the document control and revision process."
+        }
+      ]
+    },
+    {
+      "title": "Budget and financing",
+      "items": [
+        {
+          "text": "Finalize the detailed project budget and estimate."
+        },
+        {
+          "text": "Confirm financing and funding is in place."
+        },
+        {
+          "text": "Set the contingency and allowance amounts."
+        },
+        {
+          "text": "Establish the cost tracking and reporting system."
+        },
+        {
+          "text": "Confirm the payment and draw schedule."
+        },
+        {
+          "text": "Reconcile the estimate against the latest drawings."
+        }
+      ]
+    },
+    {
+      "title": "Permits and approvals",
+      "items": [
+        {
+          "text": "Obtain all required building permits."
+        },
+        {
+          "text": "Confirm zoning and land-use approvals."
+        },
+        {
+          "text": "Secure utility, environmental and special permits."
+        },
+        {
+          "text": "Schedule any pre-construction inspections."
+        },
+        {
+          "text": "Confirm conditions of approval are understood."
+        },
+        {
+          "text": "Post permits and approvals on site.",
+          "note": "Requirements vary by authority having jurisdiction — confirm conditions before mobilizing."
+        }
+      ]
+    },
+    {
+      "title": "Contracts and team",
+      "items": [
+        {
+          "text": "Execute the contract with the general contractor."
+        },
+        {
+          "text": "Award and execute key subcontractor agreements."
+        },
+        {
+          "text": "Collect insurance certificates and bonds."
+        },
+        {
+          "text": "Define roles, responsibilities and the org chart."
+        },
+        {
+          "text": "Establish communication and reporting protocols."
+        },
+        {
+          "text": "Hold the pre-construction kickoff meeting."
+        }
+      ]
+    },
+    {
+      "title": "Procurement and scheduling",
+      "items": [
+        {
+          "text": "Identify and order long-lead items early."
+        },
+        {
+          "text": "Develop the detailed project schedule and critical path."
+        },
+        {
+          "text": "Confirm material and equipment availability."
+        },
+        {
+          "text": "Set up the submittal and shop drawing process."
+        },
+        {
+          "text": "Plan delivery logistics and storage."
+        },
+        {
+          "text": "Establish schedule milestones and reporting."
+        }
+      ]
+    },
+    {
+      "title": "Site preparation",
+      "items": [
+        {
+          "text": "Confirm site access and temporary utilities."
+        },
+        {
+          "text": "Plan erosion, sediment and environmental controls."
+        },
+        {
+          "text": "Mark and protect existing utilities before digging."
+        },
+        {
+          "text": "Establish survey control and benchmarks."
+        },
+        {
+          "text": "Set up the site safety plan and orientation."
+        },
+        {
+          "text": "Prepare the laydown, storage and office areas."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What happens during the pre-construction phase?",
+      "a": "Pre-construction is where you finalize design, budget, permits, contracts and procurement, and prepare the site. This checklist gathers those tasks so builders and project managers can confirm everything is ready before breaking ground."
+    },
+    {
+      "q": "Why are permits so important before starting?",
+      "a": "Starting work without required permits can lead to stop-work orders, fines and forced rework. Confirm every permit and approval is in hand, and that work matches the approved drawings and your authority having jurisdiction's conditions."
+    },
+    {
+      "q": "How early should procurement start?",
+      "a": "Begin procurement during pre-construction, especially for long-lead items like steel, equipment or custom materials. Ordering early prevents these items from delaying the schedule once construction is underway."
+    },
+    {
+      "q": "What is a pre-construction meeting?",
+      "a": "It is a kickoff bringing together the owner, contractor and key trades to align on scope, schedule, roles, logistics and safety. Use this checklist to structure the agenda and confirm readiness before mobilizing."
+    },
+    {
+      "q": "Is this pre-construction checklist available as a printable PDF?",
+      "a": "Yes. Print it for the kickoff meeting or download the PDF so project managers can track outstanding readiness items from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pre-construction-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pre-construction-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pre-Construction Checklist by ChecklistForge (https://checklistforge.com/checklist/pre-construction-checklist)",
+  "updated": "2026-10-17"
+}

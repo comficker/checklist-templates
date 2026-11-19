@@ -1,0 +1,184 @@
+{
+  "id": "new-car-checklist",
+  "name": "New Car Checklist",
+  "description": "A checklist for what to do after buying a new car.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "vehicles",
+    "car-buying",
+    "cars",
+    "new-car"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Paperwork and documents",
+      "items": [
+        {
+          "text": "Collect the bill of sale, finance agreement and all signed contracts."
+        },
+        {
+          "text": "Get the manufacturer's certificate of origin or title documents."
+        },
+        {
+          "text": "Confirm the VIN matches every document and the car itself.",
+          "note": "Verify the VIN on paperwork matches the dash and door plates."
+        },
+        {
+          "text": "Store the owner's manual, warranty booklet and service schedule."
+        },
+        {
+          "text": "Keep all keys, fobs and the key code in a safe place."
+        },
+        {
+          "text": "File copies of every document digitally as backup."
+        }
+      ]
+    },
+    {
+      "title": "Insurance and registration",
+      "items": [
+        {
+          "text": "Activate auto insurance before driving the car off the lot.",
+          "note": "Most lenders and laws require active coverage before you drive."
+        },
+        {
+          "text": "Add the new VIN to your policy and confirm coverage levels."
+        },
+        {
+          "text": "Register the vehicle and pay any taxes or fees by the deadline."
+        },
+        {
+          "text": "Obtain license plates and the registration document."
+        },
+        {
+          "text": "Display tags or stickers as your jurisdiction requires."
+        },
+        {
+          "text": "Update your driver records or address if needed."
+        }
+      ]
+    },
+    {
+      "title": "Warranty and protection",
+      "items": [
+        {
+          "text": "Register the warranty with the manufacturer if required."
+        },
+        {
+          "text": "Note warranty coverage, duration and what voids it."
+        },
+        {
+          "text": "Review any extended warranty or service plan terms."
+        },
+        {
+          "text": "Understand roadside assistance coverage and how to use it."
+        },
+        {
+          "text": "Apply any paint, rust or interior protection if purchased."
+        },
+        {
+          "text": "File warranty contacts and claim instructions for reference."
+        }
+      ]
+    },
+    {
+      "title": "Learn the features",
+      "items": [
+        {
+          "text": "Read the owner's manual sections on controls and warning lights."
+        },
+        {
+          "text": "Set up driver profiles, mirrors, seats and steering position."
+        },
+        {
+          "text": "Pair your phone and configure the infotainment system."
+        },
+        {
+          "text": "Learn the driver-assistance and safety features and their limits."
+        },
+        {
+          "text": "Locate the spare, jack, tools and tire repair kit."
+        },
+        {
+          "text": "Find the fuel or charging door, hood release and tow points."
+        }
+      ]
+    },
+    {
+      "title": "Break-in period",
+      "items": [
+        {
+          "text": "Follow the manual's break-in mileage and speed guidance.",
+          "note": "Break-in guidelines vary by model; follow your owner's manual exactly."
+        },
+        {
+          "text": "Vary engine speed and avoid sustained high revs early on."
+        },
+        {
+          "text": "Avoid hard acceleration and heavy braking during break-in."
+        },
+        {
+          "text": "Avoid towing or heavy loads until break-in is complete."
+        },
+        {
+          "text": "Check fluid levels in the first weeks of ownership."
+        },
+        {
+          "text": "Note the first service mileage or date and book it on schedule."
+        }
+      ]
+    },
+    {
+      "title": "Setup and peace of mind",
+      "items": [
+        {
+          "text": "Add a roadside assistance contact and emergency kit to the car."
+        },
+        {
+          "text": "Save the dealer and service department contacts."
+        },
+        {
+          "text": "Set a calendar reminder for the first scheduled service."
+        },
+        {
+          "text": "Record the mileage and any included free services."
+        },
+        {
+          "text": "Consider a dashcam, floor mats and other accessories."
+        },
+        {
+          "text": "Keep a maintenance log to protect the warranty and resale value."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a new car checklist?",
+      "a": "It's a list of tasks to complete after buying a new car — paperwork, insurance, registration, learning features and break-in — so owners tie up the legal, financial and practical essentials in their first days of ownership."
+    },
+    {
+      "q": "What should I do first after buying a new car?",
+      "a": "Confirm insurance is active before driving away, secure all paperwork, and schedule registration and title work. Then learn the controls and safety features and review the break-in instructions in the owner's manual."
+    },
+    {
+      "q": "Is there a break-in period for a new car?",
+      "a": "Many new vehicles have a manufacturer break-in period, often the first several hundred to a thousand miles, with guidance on speed, load and avoiding hard braking. Always follow the specific instructions in your owner's manual."
+    },
+    {
+      "q": "When is my first service due on a new car?",
+      "a": "Check the maintenance schedule in your owner's manual or service booklet. The first service is often based on mileage or time, and keeping to the schedule is usually required to maintain the warranty."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the new car checklist to tick off each task, or download the PDF to track your first days of ownership on your phone."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-car-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-car-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Car Checklist by ChecklistForge (https://checklistforge.com/checklist/new-car-checklist)",
+  "updated": "2026-10-17"
+}

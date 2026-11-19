@@ -1,0 +1,189 @@
+{
+  "id": "teacher-checklist",
+  "name": "Teacher Checklist",
+  "description": "A complete daily and weekly checklist of essential routines and tasks for teachers.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "daily-routine",
+    "classroom",
+    "teacher",
+    "teaching",
+    "lesson-planning"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Morning preparation",
+      "items": [
+        {
+          "text": "Arrive early and unlock, light and ready the classroom."
+        },
+        {
+          "text": "Write the day's agenda, objective and homework on the board."
+        },
+        {
+          "text": "Set out materials and handouts for the first lessons."
+        },
+        {
+          "text": "Power on and test the computer, projector and any devices."
+        },
+        {
+          "text": "Review your lesson plans and prepare an opening activity."
+        },
+        {
+          "text": "Check email and the day's schedule for changes or meetings."
+        },
+        {
+          "text": "Greet students at the door as they arrive."
+        }
+      ]
+    },
+    {
+      "title": "During the school day",
+      "items": [
+        {
+          "text": "Take attendance and follow up on absences as required."
+        },
+        {
+          "text": "Deliver lessons and check for understanding as you teach."
+        },
+        {
+          "text": "Manage transitions between activities and classes smoothly."
+        },
+        {
+          "text": "Circulate the room to support students and keep focus."
+        },
+        {
+          "text": "Record any behavior, participation or incident notes."
+        },
+        {
+          "text": "Collect or assign work and note who needs follow-up."
+        },
+        {
+          "text": "Stay hydrated and use prep periods intentionally."
+        }
+      ]
+    },
+    {
+      "title": "Grading and feedback",
+      "items": [
+        {
+          "text": "Set aside a fixed time block for grading each day."
+        },
+        {
+          "text": "Grade one assignment type at a time using a rubric.",
+          "note": "Rubrics speed feedback and keep marking consistent."
+        },
+        {
+          "text": "Enter scores into the gradebook promptly."
+        },
+        {
+          "text": "Return assignments to students in a timely way."
+        },
+        {
+          "text": "Flag students who are falling behind for extra support."
+        },
+        {
+          "text": "Write brief, specific feedback that guides improvement."
+        }
+      ]
+    },
+    {
+      "title": "Communication",
+      "items": [
+        {
+          "text": "Respond to parent and student messages within a day."
+        },
+        {
+          "text": "Send a positive note or call home when warranted."
+        },
+        {
+          "text": "Update the class website, app or newsletter."
+        },
+        {
+          "text": "Check the staff bulletin and reply to colleague emails."
+        },
+        {
+          "text": "Document significant parent contacts for your records."
+        },
+        {
+          "text": "Confirm any meetings, conferences or duty assignments."
+        }
+      ]
+    },
+    {
+      "title": "End-of-day reset",
+      "items": [
+        {
+          "text": "Have students tidy desks and the shared spaces."
+        },
+        {
+          "text": "Reset the room layout and restock supplies for tomorrow."
+        },
+        {
+          "text": "Clear and organize your desk and grading inbox."
+        },
+        {
+          "text": "Prep materials and copies for the next day's lessons."
+        },
+        {
+          "text": "Note anything unfinished to carry into tomorrow."
+        },
+        {
+          "text": "Power down equipment and secure the classroom."
+        }
+      ]
+    },
+    {
+      "title": "Weekly planning and review",
+      "items": [
+        {
+          "text": "Plan next week's lessons against your units and standards."
+        },
+        {
+          "text": "Prepare and copy materials for the week ahead."
+        },
+        {
+          "text": "Update your gradebook and follow up on missing work."
+        },
+        {
+          "text": "Deep-clean and restock the classroom for the new week."
+        },
+        {
+          "text": "Review what worked and adjust upcoming plans."
+        },
+        {
+          "text": "Schedule any meetings, observations or appointments."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a teacher do at the start of every day?",
+      "a": "Arrive early enough to prepare the room, write the day's agenda or objective on the board, check that materials and technology are ready, and greet students as they enter. A calm, prepared start sets the tone and reduces problems later in the day."
+    },
+    {
+      "q": "How can teachers stay on top of grading?",
+      "a": "Schedule short, regular grading blocks instead of letting work pile up, grade one assignment type at a time, and use rubrics to speed feedback. Returning work promptly keeps students engaged and prevents a backlog from building over the week."
+    },
+    {
+      "q": "How often should teachers communicate with parents?",
+      "a": "Aim for regular, proactive contact rather than only reaching out when there is a problem. A weekly update, a class newsletter, or quick positive notes build trust, so the occasional difficult conversation lands on a foundation of goodwill."
+    },
+    {
+      "q": "What weekly tasks help teachers stay organized?",
+      "a": "Plan the coming week's lessons, prep and copy materials in advance, update your gradebook, tidy and restock the room, and review what worked. Handling these weekly tasks together prevents the Monday scramble and keeps daily routines manageable."
+    },
+    {
+      "q": "Is this teacher checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep on your desk or in your planner, then tick off each daily and weekly task as you complete it throughout the school week."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/teacher-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/teacher-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Teacher Checklist by ChecklistForge (https://checklistforge.com/checklist/teacher-checklist)",
+  "updated": "2026-10-17"
+}

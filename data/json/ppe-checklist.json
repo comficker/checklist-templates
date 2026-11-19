@@ -1,0 +1,171 @@
+{
+  "id": "ppe-checklist",
+  "name": "PPE Checklist",
+  "description": "A check for selecting, using and inspecting personal protective equipment at work.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "osha",
+    "ppe",
+    "workplace-safety",
+    "personal-protective-equipment"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Hazard Assessment and Selection",
+      "items": [
+        {
+          "text": "Confirm a written PPE hazard assessment has been completed."
+        },
+        {
+          "text": "Match each type of PPE to the specific hazard it must control.",
+          "note": "PPE is the last line of defense after other controls."
+        },
+        {
+          "text": "Verify equipment meets the applicable standard for the hazard."
+        },
+        {
+          "text": "Confirm sizes and options are available for all workers."
+        },
+        {
+          "text": "Check that PPE is provided at no cost where required."
+        }
+      ]
+    },
+    {
+      "title": "Head, Eye and Face Protection",
+      "items": [
+        {
+          "text": "Confirm hard hats are worn where impact or falling-object hazards exist."
+        },
+        {
+          "text": "Inspect helmets for cracks, dents and expired suspension."
+        },
+        {
+          "text": "Verify safety glasses, goggles or face shields match the hazard."
+        },
+        {
+          "text": "Check eye protection fits and provides side protection.",
+          "note": "Use goggles or shields for splash, dust or high-impact tasks."
+        },
+        {
+          "text": "Confirm welding shields and filters are correct for the work."
+        }
+      ]
+    },
+    {
+      "title": "Hearing and Respiratory Protection",
+      "items": [
+        {
+          "text": "Confirm hearing protection is used where noise exceeds safe limits."
+        },
+        {
+          "text": "Verify the noise reduction rating suits the exposure level."
+        },
+        {
+          "text": "Confirm respirators match the airborne hazard and concentration."
+        },
+        {
+          "text": "Check that tight-fitting respirators are fit tested and seal checked.",
+          "note": "Facial hair can break a respirator seal and must be managed."
+        },
+        {
+          "text": "Verify respirator filters and cartridges are correct and in date."
+        }
+      ]
+    },
+    {
+      "title": "Hand and Foot Protection",
+      "items": [
+        {
+          "text": "Select gloves for the hazard: cut, chemical, heat or electrical."
+        },
+        {
+          "text": "Inspect gloves for tears, holes, wear or chemical breakthrough."
+        },
+        {
+          "text": "Confirm safety footwear suits impact, puncture and slip hazards."
+        },
+        {
+          "text": "Check footwear for sole wear, damage and intact protective toes."
+        },
+        {
+          "text": "Verify electrical or chemical footwear is used where required."
+        }
+      ]
+    },
+    {
+      "title": "Inspection and Maintenance",
+      "items": [
+        {
+          "text": "Inspect all PPE before each use for damage and wear."
+        },
+        {
+          "text": "Remove damaged or expired PPE from service immediately."
+        },
+        {
+          "text": "Clean, disinfect and store PPE per manufacturer instructions.",
+          "note": "Do not share personal PPE without proper cleaning."
+        },
+        {
+          "text": "Confirm replacement stock is available when items wear out."
+        },
+        {
+          "text": "Keep records of issue, inspection and fit testing."
+        }
+      ]
+    },
+    {
+      "title": "Training and Use",
+      "items": [
+        {
+          "text": "Confirm workers are trained on why, when and how to use each item."
+        },
+        {
+          "text": "Verify workers can put on, adjust and remove PPE correctly."
+        },
+        {
+          "text": "Check that PPE is worn consistently and not removed in hazard areas."
+        },
+        {
+          "text": "Confirm workers know how to report damaged or missing PPE."
+        },
+        {
+          "text": "Verify refresher training is provided as needed."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training, manufacturer instructions or your employer's safety program; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Where does PPE fit in the hierarchy of controls?",
+      "a": "PPE is the last line of defense, used after elimination, substitution, engineering controls and administrative controls have reduced the hazard as far as practical. It protects the individual but does not remove the hazard itself."
+    },
+    {
+      "q": "Why is a PPE hazard assessment required?",
+      "a": "An assessment identifies the hazards present at each task so the correct equipment is selected. Without it, workers may be given PPE that does not match the risk, leaving them exposed despite wearing protection."
+    },
+    {
+      "q": "How important is the fit of PPE?",
+      "a": "Fit is critical. Loose eye protection, an unsealed respirator or oversized gloves can fail at the moment they are needed. Tight-fitting respirators generally require fit testing, and equipment should be sized and adjusted to each wearer."
+    },
+    {
+      "q": "Who pays for and maintains PPE?",
+      "a": "Employers must generally provide required PPE at no cost to employees, with limited exceptions, and ensure it is maintained. Workers are responsible for inspecting it, using it correctly and reporting damage."
+    },
+    {
+      "q": "Does this checklist replace OSHA rules or training?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal training, your employer's safety program, manufacturer instructions, or a qualified person. Always confirm the PPE requirements for your tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/ppe-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/ppe-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "PPE Checklist by ChecklistForge (https://checklistforge.com/checklist/ppe-checklist)",
+  "updated": "2026-10-18"
+}

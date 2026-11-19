@@ -1,0 +1,175 @@
+{
+  "id": "unpacking-checklist",
+  "name": "Unpacking Checklist",
+  "description": "A room-by-room unpacking checklist for the first days in a new home, starting with essentials and finishing with box breakdown and admin.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "new-home",
+    "organization",
+    "unpacking"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Arrival and Safety",
+      "items": [
+        {
+          "text": "Walk through the home and check for damage before unpacking"
+        },
+        {
+          "text": "Confirm electricity, water, heating and internet are working"
+        },
+        {
+          "text": "Test smoke and carbon monoxide alarms"
+        },
+        {
+          "text": "Find the main water shutoff and the electrical panel"
+        },
+        {
+          "text": "Change or rekey the locks if possible",
+          "note": "Previous owners, tenants or contractors may still have keys."
+        },
+        {
+          "text": "Check every box and furniture piece arrived against your inventory"
+        }
+      ]
+    },
+    {
+      "title": "First Night",
+      "items": [
+        {
+          "text": "Unpack the first-night box: chargers, medication, toiletries and a change of clothes"
+        },
+        {
+          "text": "Assemble and make the beds"
+        },
+        {
+          "text": "Put up curtains or temporary covers in bedrooms"
+        },
+        {
+          "text": "Set out towels, toilet paper, soap and a shower curtain"
+        },
+        {
+          "text": "Keep snacks, water and basic tools within reach"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen",
+      "items": [
+        {
+          "text": "Wipe out cabinets, drawers and the fridge before filling them"
+        },
+        {
+          "text": "Unpack plates, cups, cutlery and one pot and pan first"
+        },
+        {
+          "text": "Set up the kettle, coffee maker and other daily appliances"
+        },
+        {
+          "text": "Store everyday items near where you use them"
+        },
+        {
+          "text": "Put cleaning products out of reach of children and pets"
+        }
+      ]
+    },
+    {
+      "title": "Bathrooms",
+      "items": [
+        {
+          "text": "Clean the bathroom before unpacking"
+        },
+        {
+          "text": "Unpack toiletries, towels and the medicine cabinet"
+        },
+        {
+          "text": "Keep medications stored safely and out of reach"
+        }
+      ]
+    },
+    {
+      "title": "Bedrooms",
+      "items": [
+        {
+          "text": "Unpack clothes for the next week first"
+        },
+        {
+          "text": "Hang clothes and fill drawers"
+        },
+        {
+          "text": "Set up the children's rooms early to help them settle"
+        }
+      ]
+    },
+    {
+      "title": "Living Areas and Extras",
+      "items": [
+        {
+          "text": "Place large furniture before unpacking smaller items"
+        },
+        {
+          "text": "Set up the TV, Wi-Fi router and work-from-home desk"
+        },
+        {
+          "text": "Unpack books, decor and pictures last"
+        },
+        {
+          "text": "Sort the garage, shed and storage areas"
+        },
+        {
+          "text": "Anchor tall furniture and TVs to the wall if you have children",
+          "note": "Tip-overs of furniture and TVs are a leading cause of home injuries to young children."
+        }
+      ]
+    },
+    {
+      "title": "Boxes and Admin",
+      "items": [
+        {
+          "text": "Flatten boxes as you empty them"
+        },
+        {
+          "text": "Check packing paper for small items before throwing it away"
+        },
+        {
+          "text": "Recycle, store or give away boxes and packing materials"
+        },
+        {
+          "text": "Note any damaged items and file mover's claims promptly"
+        },
+        {
+          "text": "Update your address with banks, employer, insurer and subscriptions"
+        },
+        {
+          "text": "Register with local services such as a doctor, dentist and vet"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should you unpack first after moving?",
+      "a": "Unpack your first-night box, bedding and bathroom essentials first, then the kitchen basics you need to eat. These make the home livable on day one. Decor, books and items for storage can wait until the main rooms work."
+    },
+    {
+      "q": "How long does it take to unpack after a move?",
+      "a": "Most households unpack the essentials in one to three days and finish everything in one to two weeks. Setting a daily target, such as two rooms or a fixed number of boxes, stops the last few boxes sitting untouched for months."
+    },
+    {
+      "q": "Which room should you unpack first?",
+      "a": "Start with the bedrooms' beds and the bathroom so everyone can sleep and wash, then the kitchen. The living room usually comes next, with the garage, spare room and storage areas last."
+    },
+    {
+      "q": "What should you do with moving boxes after unpacking?",
+      "a": "Flatten boxes as you empty them and either store a few for future use, give them away to someone moving, or recycle them. Remove packing paper and bubble wrap promptly, since piles of it make it easy to throw away small items by mistake."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/unpacking-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/unpacking-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Unpacking Checklist by ChecklistForge (https://checklistforge.com/checklist/unpacking-checklist)",
+  "updated": "2026-10-18"
+}

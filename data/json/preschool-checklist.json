@@ -1,0 +1,157 @@
+{
+  "id": "preschool-checklist",
+  "name": "Preschool Checklist",
+  "description": "A preparation and supplies checklist for a child starting preschool.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "parents",
+    "readiness",
+    "early-learning",
+    "preschool",
+    "toddlers"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Enrollment and paperwork",
+      "items": [
+        {
+          "text": "Confirm your child's spot and start date with the program."
+        },
+        {
+          "text": "Complete and return all enrollment forms.",
+          "note": "Note any forms with firm deadlines."
+        },
+        {
+          "text": "Provide up-to-date immunization and health records."
+        },
+        {
+          "text": "Fill in emergency contact and authorized pickup details."
+        },
+        {
+          "text": "Complete any allergy or medical action plan."
+        },
+        {
+          "text": "Review and sign program policies and the schedule."
+        }
+      ]
+    },
+    {
+      "title": "Supplies to pack",
+      "items": [
+        {
+          "text": "Choose a small backpack your child can carry."
+        },
+        {
+          "text": "Pack a complete change of clothes and underwear."
+        },
+        {
+          "text": "Include a sealed, easy-to-open water bottle."
+        },
+        {
+          "text": "Add any nap items the program allows."
+        },
+        {
+          "text": "Pack diapers and wipes if your child needs them."
+        },
+        {
+          "text": "Include any supplies on the program's list."
+        }
+      ]
+    },
+    {
+      "title": "Label everything",
+      "items": [
+        {
+          "text": "Label the backpack and lunch bag with your child's name."
+        },
+        {
+          "text": "Label every piece of clothing, including outerwear."
+        },
+        {
+          "text": "Label the water bottle and any containers."
+        },
+        {
+          "text": "Label nap items like a blanket or comfort toy."
+        },
+        {
+          "text": "Label shoes and spare clothing."
+        }
+      ]
+    },
+    {
+      "title": "Readiness skills",
+      "items": [
+        {
+          "text": "Practice using the bathroom or follow the diaper policy."
+        },
+        {
+          "text": "Encourage saying their name and basic needs."
+        },
+        {
+          "text": "Practice following simple one-step directions."
+        },
+        {
+          "text": "Work on washing hands and tidying up toys."
+        },
+        {
+          "text": "Practice opening lunch and snack containers."
+        },
+        {
+          "text": "Build short stretches of independent play."
+        }
+      ]
+    },
+    {
+      "title": "Emotional preparation",
+      "items": [
+        {
+          "text": "Visit the preschool together before the first day."
+        },
+        {
+          "text": "Read books about starting preschool."
+        },
+        {
+          "text": "Talk about the daily routine in a positive way."
+        },
+        {
+          "text": "Practice a short, confident goodbye routine."
+        },
+        {
+          "text": "Pack a comfort item if the program allows it."
+        },
+        {
+          "text": "Plan a calm, reassuring pickup conversation."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack for the first day of preschool?",
+      "a": "Pack a labeled backpack with a complete change of clothes, any comfort or nap items the program allows, a water bottle, and any required forms or supplies. Check your preschool's welcome packet, since each program has its own list."
+    },
+    {
+      "q": "What skills help a child start preschool?",
+      "a": "Being able to use the bathroom or manage diapers per the program's policy, follow simple directions, separate from a parent, and communicate basic needs all help. None need to be perfect, since preschool is where many of these skills develop further."
+    },
+    {
+      "q": "How do I handle separation anxiety at drop-off?",
+      "a": "Build a short, confident goodbye routine, arrive a little early so your child can settle, and reassure them you will return at pickup. Lingering tends to make it harder, so a warm, brief goodbye usually works best."
+    },
+    {
+      "q": "Why should I label everything?",
+      "a": "Young children's belongings get mixed up constantly. Labeling clothes, bottles, backpacks and nap items with your child's name saves lost property, prevents mix-ups, and makes it easy for staff to return things to the right child."
+    },
+    {
+      "q": "Is this preschool checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to keep on the fridge for parents, then tick off paperwork, supplies and readiness steps as the start date approaches."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/preschool-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/preschool-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Preschool Checklist by ChecklistForge (https://checklistforge.com/checklist/preschool-checklist)",
+  "updated": "2026-10-17"
+}

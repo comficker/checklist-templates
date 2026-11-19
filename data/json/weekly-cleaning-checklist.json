@@ -1,0 +1,174 @@
+{
+  "id": "weekly-cleaning-checklist",
+  "name": "Weekly Cleaning Checklist",
+  "description": "A once-a-week cleaning routine organized room by room to keep your home consistently tidy.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "routine",
+    "bathroom",
+    "kitchen",
+    "weekly"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Kitchen",
+      "items": [
+        {
+          "text": "Wipe down and disinfect all countertops and the backsplash"
+        },
+        {
+          "text": "Clean the stovetop, microwave interior, and small appliance fronts"
+        },
+        {
+          "text": "Scrub the sink, run the disposal, and polish the faucet"
+        },
+        {
+          "text": "Wipe cabinet handles, the fridge door, and light switches"
+        },
+        {
+          "text": "Empty the trash and recycling and disinfect the bins"
+        },
+        {
+          "text": "Sweep and mop the floor"
+        }
+      ]
+    },
+    {
+      "title": "Bathrooms",
+      "items": [
+        {
+          "text": "Scrub and disinfect the toilet, including the base and behind the bowl"
+        },
+        {
+          "text": "Clean the shower, tub, and glass door"
+        },
+        {
+          "text": "Wipe down the vanity, sink, and faucet"
+        },
+        {
+          "text": "Polish the mirror and clear water spots"
+        },
+        {
+          "text": "Swap in fresh towels and bath mats",
+          "note": "Keep two sets of towels in rotation so swaps are effortless."
+        },
+        {
+          "text": "Sweep and mop the floor"
+        }
+      ]
+    },
+    {
+      "title": "Bedrooms",
+      "items": [
+        {
+          "text": "Strip the beds and wash sheets and pillowcases"
+        },
+        {
+          "text": "Remake the beds with fresh linens"
+        },
+        {
+          "text": "Dust nightstands, dressers, and shelves"
+        },
+        {
+          "text": "Wipe down light switches, handles, and remotes"
+        },
+        {
+          "text": "Vacuum the floor, including under the bed"
+        }
+      ]
+    },
+    {
+      "title": "Living and Common Areas",
+      "items": [
+        {
+          "text": "Dust shelves, electronics, and decor from top to bottom"
+        },
+        {
+          "text": "Wipe down the coffee table, side tables, and remotes"
+        },
+        {
+          "text": "Fluff cushions and fold blankets"
+        },
+        {
+          "text": "Clean glass surfaces, mirrors, and TV screens"
+        },
+        {
+          "text": "Vacuum upholstery and under cushions"
+        },
+        {
+          "text": "Vacuum or mop the floors"
+        }
+      ]
+    },
+    {
+      "title": "Floors and Whole-Home Tasks",
+      "items": [
+        {
+          "text": "Vacuum all carpets and rugs throughout the home"
+        },
+        {
+          "text": "Sweep and mop every hard floor"
+        },
+        {
+          "text": "Vacuum stairs and wipe down railings"
+        },
+        {
+          "text": "Dust along visible baseboards and window sills"
+        },
+        {
+          "text": "Spot-clean fingerprints from doors and frames"
+        }
+      ]
+    },
+    {
+      "title": "Laundry and Finishing",
+      "items": [
+        {
+          "text": "Wash, dry, fold, and put away all laundry"
+        },
+        {
+          "text": "Wipe down the washer and dryer exteriors and clear the lint trap"
+        },
+        {
+          "text": "Collect and take out all trash and recycling"
+        },
+        {
+          "text": "Replace any empty soap, paper, or supply refills"
+        },
+        {
+          "text": "Do a final walkthrough to catch anything missed"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be cleaned weekly?",
+      "a": "Vacuuming and mopping floors, dusting surfaces, changing bed linens, cleaning bathrooms, and wiping down the kitchen are all weekly tasks. This checklist organizes them by room."
+    },
+    {
+      "q": "How long should a weekly clean take?",
+      "a": "A weekly clean usually takes one to two hours for an average home. Splitting it across two shorter sessions or between household members makes it faster."
+    },
+    {
+      "q": "What is the best day to do a weekly clean?",
+      "a": "Pick whichever day fits your schedule and stick to it. Many people choose a weekend morning or a weekday evening so the home stays fresh for the days ahead."
+    },
+    {
+      "q": "How is a weekly clean different from a deep clean?",
+      "a": "A weekly clean maintains visible surfaces and floors on a regular cadence. A deep clean tackles hidden buildup like grout and behind appliances every few months."
+    },
+    {
+      "q": "Can I download this weekly cleaning checklist?",
+      "a": "Yes. Print it or save the PDF, then check off each room every week as part of your routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/weekly-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/weekly-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Weekly Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/weekly-cleaning-checklist)",
+  "updated": "2026-10-17"
+}

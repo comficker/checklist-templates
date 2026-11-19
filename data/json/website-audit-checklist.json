@@ -1,0 +1,210 @@
+{
+  "id": "website-audit-checklist",
+  "name": "Website Audit Checklist",
+  "description": "A full website audit checklist covering SEO, performance, security and more.",
+  "category": "it-software",
+  "category_name": "IT & Software",
+  "tags": [
+    "security",
+    "seo",
+    "it",
+    "software"
+  ],
+  "item_count": 44,
+  "sections": [
+    {
+      "title": "Technical SEO and indexing",
+      "items": [
+        {
+          "text": "Crawl the site to find broken links, redirects and orphan pages."
+        },
+        {
+          "text": "Check that important pages are indexable and not blocked by robots.txt."
+        },
+        {
+          "text": "Verify the XML sitemap is current and submitted to search engines."
+        },
+        {
+          "text": "Review canonical tags to prevent duplicate-content issues."
+        },
+        {
+          "text": "Confirm the site is served over HTTPS with valid redirects from HTTP."
+        },
+        {
+          "text": "Check structured data and fix validation errors."
+        },
+        {
+          "text": "Review crawl stats and coverage in Search Console."
+        }
+      ]
+    },
+    {
+      "title": "On-page content",
+      "items": [
+        {
+          "text": "Ensure each page has a unique, descriptive title tag and meta description."
+        },
+        {
+          "text": "Check heading structure uses one H1 and logical subheadings."
+        },
+        {
+          "text": "Review content for accuracy, relevance and outdated information."
+        },
+        {
+          "text": "Add descriptive alt text to images."
+        },
+        {
+          "text": "Identify thin, duplicate or cannibalizing pages to improve or consolidate."
+        },
+        {
+          "text": "Confirm internal links point to relevant, working pages."
+        },
+        {
+          "text": "Check that key pages target clear, intended keywords."
+        }
+      ]
+    },
+    {
+      "title": "Performance and Core Web Vitals",
+      "items": [
+        {
+          "text": "Measure load time and Core Web Vitals on mobile and desktop."
+        },
+        {
+          "text": "Compress and serve images in modern formats with correct sizing."
+        },
+        {
+          "text": "Minify CSS and JavaScript and remove unused code."
+        },
+        {
+          "text": "Enable browser caching and a CDN where appropriate."
+        },
+        {
+          "text": "Reduce render-blocking resources and defer non-critical scripts."
+        },
+        {
+          "text": "Confirm the site is fully responsive across screen sizes."
+        }
+      ]
+    },
+    {
+      "title": "Security",
+      "items": [
+        {
+          "text": "Confirm a valid TLS certificate and force HTTPS everywhere."
+        },
+        {
+          "text": "Keep the CMS, plugins, themes and dependencies up to date."
+        },
+        {
+          "text": "Add security headers such as HSTS and a content security policy."
+        },
+        {
+          "text": "Verify backups are running and can be restored."
+        },
+        {
+          "text": "Scan for malware and known vulnerabilities."
+        },
+        {
+          "text": "Enforce strong admin passwords and multi-factor authentication."
+        }
+      ]
+    },
+    {
+      "title": "Accessibility",
+      "items": [
+        {
+          "text": "Test keyboard-only navigation across the site."
+        },
+        {
+          "text": "Check color contrast meets WCAG guidelines."
+        },
+        {
+          "text": "Verify images, buttons and form fields have descriptive labels."
+        },
+        {
+          "text": "Confirm headings and landmarks help screen reader users navigate."
+        },
+        {
+          "text": "Ensure videos have captions and media has text alternatives."
+        },
+        {
+          "text": "Run an automated accessibility scan and fix flagged issues."
+        }
+      ]
+    },
+    {
+      "title": "User experience and conversion",
+      "items": [
+        {
+          "text": "Test core user journeys such as search, navigation and checkout."
+        },
+        {
+          "text": "Check forms work, validate clearly and submit successfully."
+        },
+        {
+          "text": "Confirm clear calls to action on key pages."
+        },
+        {
+          "text": "Review mobile usability, including tap targets and readability."
+        },
+        {
+          "text": "Check for intrusive popups or layout shifts that frustrate users."
+        },
+        {
+          "text": "Verify error and 404 pages guide users back into the site."
+        }
+      ]
+    },
+    {
+      "title": "Analytics and tracking",
+      "items": [
+        {
+          "text": "Confirm analytics is installed correctly on all pages."
+        },
+        {
+          "text": "Verify key conversions and events are tracked accurately."
+        },
+        {
+          "text": "Check that Search Console and analytics are connected."
+        },
+        {
+          "text": "Review traffic and behavior trends for sudden drops or spikes."
+        },
+        {
+          "text": "Confirm consent and privacy tracking comply with regulations."
+        },
+        {
+          "text": "Set up reporting so findings can be monitored over time."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I audit my website?",
+      "a": "Run a full audit at least once or twice a year, and a lighter check quarterly. Audit after major changes too, such as a redesign, platform migration or significant traffic drop, so you catch regressions early."
+    },
+    {
+      "q": "What areas does a website audit cover?",
+      "a": "A thorough audit reviews SEO and indexing, page performance, security, accessibility, user experience, content quality and analytics tracking. This checklist includes each so you get a complete picture rather than only checking rankings."
+    },
+    {
+      "q": "Do I need technical skills to run an audit?",
+      "a": "Many checks are straightforward with free tools for crawling, speed and accessibility. Some fixes — like server security or Core Web Vitals — may need a developer. Use the checklist to find issues, then route technical fixes to the right person."
+    },
+    {
+      "q": "What should I do after the audit?",
+      "a": "Turn findings into a prioritized list by impact and effort. Fix high-impact, low-effort issues first, such as broken links, missing meta tags and slow images, then plan larger work like security hardening or content rewrites."
+    },
+    {
+      "q": "Is this website audit checklist available as a PDF?",
+      "a": "Yes. You can print it or download the PDF to run consistent audits and share results with your team or clients, ticking off each area as you review it."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/website-audit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/website-audit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Website Audit Checklist by ChecklistForge (https://checklistforge.com/checklist/website-audit-checklist)",
+  "updated": "2026-10-17"
+}

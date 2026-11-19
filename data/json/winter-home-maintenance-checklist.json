@@ -1,0 +1,173 @@
+{
+  "id": "winter-home-maintenance-checklist",
+  "name": "Winter Home Maintenance Checklist",
+  "description": "A winter home maintenance checklist for cold-weather upkeep and protecting your home.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "safety",
+    "homeowner",
+    "seasonal",
+    "winter"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Prevent Frozen Pipes",
+      "items": [
+        {
+          "text": "Insulate exposed pipes in the garage, crawl space and exterior walls"
+        },
+        {
+          "text": "Let faucets drip slowly during hard freezes",
+          "note": "Moving water is far less likely to freeze"
+        },
+        {
+          "text": "Keep the thermostat at 55°F or higher, even when away"
+        },
+        {
+          "text": "Open cabinet doors to let warm air reach pipes under sinks"
+        },
+        {
+          "text": "Know where the main water shut-off is in case a pipe bursts"
+        },
+        {
+          "text": "Keep the garage door closed to protect any plumbing inside"
+        }
+      ]
+    },
+    {
+      "title": "Heating System",
+      "items": [
+        {
+          "text": "Replace furnace filters monthly during heavy heating use"
+        },
+        {
+          "text": "Keep supply and return vents clear of furniture and rugs"
+        },
+        {
+          "text": "Listen for unusual furnace noises and call a pro if heat fails"
+        },
+        {
+          "text": "Use space heaters safely — on hard floors, away from fabric, never unattended"
+        },
+        {
+          "text": "Run a humidifier to offset dry winter air and protect woodwork"
+        },
+        {
+          "text": "Have a backup heat source and fuel ready for power outages"
+        }
+      ]
+    },
+    {
+      "title": "Roof, Gutters & Ice Dams",
+      "items": [
+        {
+          "text": "Watch for icicles and ice buildup at the roof edge"
+        },
+        {
+          "text": "Rake light roof snow from the ground with a roof rake"
+        },
+        {
+          "text": "Check the attic for adequate insulation and ventilation",
+          "note": "Warm attics melt snow and cause ice dams"
+        },
+        {
+          "text": "Keep gutters and downspouts clear so meltwater can drain"
+        },
+        {
+          "text": "Hire a professional for heavy roof snow or steep roofs"
+        }
+      ]
+    },
+    {
+      "title": "Indoor Safety",
+      "items": [
+        {
+          "text": "Test smoke and carbon-monoxide alarms on every level"
+        },
+        {
+          "text": "Check CO alarms near the furnace, fireplace and attached garage",
+          "note": "CO is odorless; alarms are the only reliable warning"
+        },
+        {
+          "text": "Keep the fireplace flue clear and never burn trash or treated wood"
+        },
+        {
+          "text": "Keep the kitchen fire extinguisher accessible and charged"
+        },
+        {
+          "text": "Avoid running generators or grills indoors or in the garage"
+        }
+      ]
+    },
+    {
+      "title": "Windows, Doors & Drafts",
+      "items": [
+        {
+          "text": "Add or replace weatherstripping on drafty doors and windows"
+        },
+        {
+          "text": "Use draft stoppers under exterior doors"
+        },
+        {
+          "text": "Apply window insulation film to single-pane windows"
+        },
+        {
+          "text": "Lock windows fully to seal the gap and improve security"
+        },
+        {
+          "text": "Keep curtains open on sunny days and closed at night for warmth"
+        }
+      ]
+    },
+    {
+      "title": "Outdoor & Storm Prep",
+      "items": [
+        {
+          "text": "Keep walkways, steps and the driveway clear of snow and ice"
+        },
+        {
+          "text": "Stock ice melt and a working snow shovel near the door"
+        },
+        {
+          "text": "Confirm outdoor faucets are drained and shut off"
+        },
+        {
+          "text": "Stock an emergency kit: flashlight, batteries, water and blankets"
+        },
+        {
+          "text": "Trim or note branches weighed down by ice that could fall"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I keep pipes from freezing in winter?",
+      "a": "Insulate exposed pipes, let faucets drip during hard freezes, keep the heat above 55°F even when away, and open cabinet doors so warm air reaches plumbing along exterior walls."
+    },
+    {
+      "q": "Can I download this winter checklist as a PDF?",
+      "a": "Yes. You can print this winter home maintenance checklist or download it as a PDF and keep it handy to run the quick checks before each cold snap."
+    },
+    {
+      "q": "What is an ice dam and how do I prevent it?",
+      "a": "An ice dam is a ridge of ice at the roof edge that traps melting snow and forces water under shingles. Good attic insulation and ventilation, plus clearing roof snow safely, help prevent them."
+    },
+    {
+      "q": "Why is carbon monoxide a bigger risk in winter?",
+      "a": "Closed windows and heavy use of furnaces, fireplaces and space heaters raise the chance of carbon-monoxide buildup. Working CO alarms on every level are essential through the heating season."
+    },
+    {
+      "q": "Should I remove snow from my roof myself?",
+      "a": "Use a long-handled roof rake from the ground for light buildup. For heavy snow or steep roofs, hire a professional — climbing onto an icy roof is dangerous and can cause damage."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/winter-home-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/winter-home-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Winter Home Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/winter-home-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

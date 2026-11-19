@@ -1,0 +1,170 @@
+{
+  "id": "bedroom-cleaning-checklist",
+  "name": "Bedroom Cleaning Checklist",
+  "description": "A room-by-room bedroom cleaning checklist for bedding, dusting, under-bed, wardrobe, and floors.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "routine",
+    "bedroom",
+    "decluttering"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Declutter and Prep",
+      "items": [
+        {
+          "text": "Pick up clothes and put them in the hamper or away"
+        },
+        {
+          "text": "Clear nightstands and dressers of cups, dishes, and clutter"
+        },
+        {
+          "text": "Return stray items to other rooms where they belong"
+        },
+        {
+          "text": "Open windows or blinds to air out and brighten the room"
+        },
+        {
+          "text": "Empty the bedroom trash bin"
+        }
+      ]
+    },
+    {
+      "title": "Bedding and Mattress",
+      "items": [
+        {
+          "text": "Strip the bed and start washing sheets and pillowcases"
+        },
+        {
+          "text": "Remake the bed with fresh linens once dry"
+        },
+        {
+          "text": "Fluff and rotate pillows"
+        },
+        {
+          "text": "Vacuum the mattress and spot-treat any stains",
+          "note": "Sprinkle baking soda on the mattress, let it sit, then vacuum to freshen it."
+        },
+        {
+          "text": "Rotate or flip the mattress during a monthly clean"
+        },
+        {
+          "text": "Wash duvet covers and mattress protectors regularly"
+        }
+      ]
+    },
+    {
+      "title": "Dusting and Surfaces",
+      "items": [
+        {
+          "text": "Dust the ceiling fan, light fixtures, and corners for cobwebs"
+        },
+        {
+          "text": "Wipe down nightstands, dressers, and shelves"
+        },
+        {
+          "text": "Dust picture frames, lamps, and decor"
+        },
+        {
+          "text": "Clean mirrors and any glass surfaces"
+        },
+        {
+          "text": "Wipe down light switches, door handles, and remotes"
+        },
+        {
+          "text": "Dust window sills and wipe down blinds"
+        }
+      ]
+    },
+    {
+      "title": "Wardrobe and Storage",
+      "items": [
+        {
+          "text": "Tidy and refold clothes in drawers and on shelves"
+        },
+        {
+          "text": "Rehang fallen clothes and group by type"
+        },
+        {
+          "text": "Set aside items to donate that you no longer wear"
+        },
+        {
+          "text": "Wipe down closet shelves and rails"
+        },
+        {
+          "text": "Organize shoes and accessories"
+        }
+      ]
+    },
+    {
+      "title": "Under-Bed and Hidden Areas",
+      "items": [
+        {
+          "text": "Pull out and sort items stored under the bed"
+        },
+        {
+          "text": "Vacuum thoroughly under the bed and behind the headboard"
+        },
+        {
+          "text": "Wipe down baseboards along the walls"
+        },
+        {
+          "text": "Vacuum behind and under dressers and nightstands"
+        },
+        {
+          "text": "Check for and clear dust on top of the wardrobe"
+        }
+      ]
+    },
+    {
+      "title": "Floors and Finishing",
+      "items": [
+        {
+          "text": "Vacuum carpets or sweep and mop hard floors"
+        },
+        {
+          "text": "Spot-clean any stains on rugs or carpet"
+        },
+        {
+          "text": "Shake out or wash any small rugs"
+        },
+        {
+          "text": "Wipe down the door and frame"
+        },
+        {
+          "text": "Do a final tidy and inspection of the room"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I clean my bedroom?",
+      "a": "Make the bed daily, change sheets weekly, and dust and vacuum once a week. Deeper tasks like vacuuming the mattress and clearing under the bed are best done monthly."
+    },
+    {
+      "q": "What order should I clean a bedroom in?",
+      "a": "Strip and remake the bed first, then dust surfaces from high to low, and finish by vacuuming the floor, including under the bed. Cleaning top to bottom keeps dust from resettling."
+    },
+    {
+      "q": "How often should I change my bed sheets?",
+      "a": "Most people should wash sheets and pillowcases once a week. Washing more often helps if you have allergies, sweat heavily, or share the bed with pets."
+    },
+    {
+      "q": "How do I reduce dust in my bedroom?",
+      "a": "Dust surfaces with a damp or microfiber cloth weekly, vacuum the floor and mattress, wash bedding regularly, and keep clutter off surfaces so dust has fewer places to settle."
+    },
+    {
+      "q": "Is this bedroom cleaning checklist printable?",
+      "a": "Yes. Print it or download the PDF and check off each task for a quick weekly tidy or a deeper monthly refresh."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/bedroom-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/bedroom-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Bedroom Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/bedroom-cleaning-checklist)",
+  "updated": "2026-10-17"
+}

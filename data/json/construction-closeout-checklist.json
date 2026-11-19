@@ -1,0 +1,182 @@
+{
+  "id": "construction-closeout-checklist",
+  "name": "Construction Closeout Checklist",
+  "description": "A construction closeout checklist for closing out a project completely and correctly.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "project-management",
+    "closeout",
+    "construction",
+    "contractors"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Final inspections and acceptance",
+      "items": [
+        {
+          "text": "Confirm all code-required inspections have passed."
+        },
+        {
+          "text": "Verify the punch list is fully completed."
+        },
+        {
+          "text": "Obtain the certificate of substantial completion."
+        },
+        {
+          "text": "Secure the certificate of occupancy."
+        },
+        {
+          "text": "Complete the final owner walkthrough."
+        },
+        {
+          "text": "Obtain written acceptance of the work."
+        }
+      ]
+    },
+    {
+      "title": "As-built and project documentation",
+      "items": [
+        {
+          "text": "Collect as-built drawings with all field changes."
+        },
+        {
+          "text": "Compile final approved submittals and shop drawings."
+        },
+        {
+          "text": "Assemble inspection, test and commissioning reports."
+        },
+        {
+          "text": "Gather permits and approval records."
+        },
+        {
+          "text": "Organize the complete project document set."
+        },
+        {
+          "text": "Deliver documentation to the owner."
+        }
+      ]
+    },
+    {
+      "title": "Warranties and O&M manuals",
+      "items": [
+        {
+          "text": "Collect all manufacturer and contractor warranties."
+        },
+        {
+          "text": "Compile operation and maintenance (O&M) manuals."
+        },
+        {
+          "text": "Document warranty start dates and durations."
+        },
+        {
+          "text": "List maintenance schedules and requirements."
+        },
+        {
+          "text": "Provide spare parts, keys and extra materials."
+        },
+        {
+          "text": "Confirm warranty contact and claim procedures."
+        }
+      ]
+    },
+    {
+      "title": "Financial closeout",
+      "items": [
+        {
+          "text": "Reconcile all change orders."
+        },
+        {
+          "text": "Finalize the contract sum and final invoice."
+        },
+        {
+          "text": "Collect lien waivers from subcontractors and suppliers."
+        },
+        {
+          "text": "Process the final payment application."
+        },
+        {
+          "text": "Release retainage per the contract terms."
+        },
+        {
+          "text": "Close out purchase orders and accounts.",
+          "note": "Confirm all lien waivers are collected before releasing final payment."
+        }
+      ]
+    },
+    {
+      "title": "Systems and owner training",
+      "items": [
+        {
+          "text": "Train the owner's staff on building systems."
+        },
+        {
+          "text": "Demonstrate equipment operation and maintenance."
+        },
+        {
+          "text": "Hand over access credentials and codes."
+        },
+        {
+          "text": "Provide emergency and shutdown procedures."
+        },
+        {
+          "text": "Confirm service contracts are in place if required."
+        },
+        {
+          "text": "Document training delivered and attendees."
+        }
+      ]
+    },
+    {
+      "title": "Lessons learned and archive",
+      "items": [
+        {
+          "text": "Hold a project review with the team."
+        },
+        {
+          "text": "Document what went well and what to improve."
+        },
+        {
+          "text": "Capture cost and schedule performance data."
+        },
+        {
+          "text": "Record subcontractor and supplier performance."
+        },
+        {
+          "text": "Update estimating and planning templates."
+        },
+        {
+          "text": "Archive the complete project file."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is construction closeout?",
+      "a": "Closeout is the final phase where the project is formally completed and the contract is settled — final inspections, as-builts, warranties, manuals, final payment and lien releases. This checklist helps ensure none of these administrative tasks are missed."
+    },
+    {
+      "q": "What are as-built drawings?",
+      "a": "As-builts are updated drawings that reflect how the project was actually constructed, including field changes. They are essential for future maintenance and renovations, and collecting them is a core part of any closeout."
+    },
+    {
+      "q": "What is retainage and when is it released?",
+      "a": "Retainage is a portion of payment withheld until the work is satisfactorily completed. It is typically released at closeout once final inspections pass, the punch list is done, and lien waivers are collected from the relevant parties."
+    },
+    {
+      "q": "Why hold a lessons-learned review?",
+      "a": "A lessons-learned review captures what went well and what to improve for future projects. Documenting it at closeout, while details are fresh, turns each project into better estimates, schedules and processes next time."
+    },
+    {
+      "q": "Is this closeout checklist available as a printable PDF?",
+      "a": "Yes. Print it for closeout meetings or download the PDF so project managers can track final documentation, payments and sign-offs from a phone or tablet."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/construction-closeout-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/construction-closeout-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Construction Closeout Checklist by ChecklistForge (https://checklistforge.com/checklist/construction-closeout-checklist)",
+  "updated": "2026-10-17"
+}

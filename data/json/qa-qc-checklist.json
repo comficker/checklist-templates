@@ -1,0 +1,182 @@
+{
+  "id": "qa-qc-checklist",
+  "name": "QA/QC Checklist",
+  "description": "A combined QA/QC checklist covering both quality assurance (process) and quality control (inspection).",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "quality",
+    "inspection",
+    "quality-control",
+    "qaqc"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Set up the QA framework",
+      "items": [
+        {
+          "text": "Define the quality objectives and acceptance criteria for the project."
+        },
+        {
+          "text": "Identify the standards and specifications that apply.",
+          "note": "Align with applicable standards and your organization's quality system."
+        },
+        {
+          "text": "Document the procedures and work instructions to follow."
+        },
+        {
+          "text": "Assign quality roles and responsibilities."
+        },
+        {
+          "text": "Confirm staff are trained and competent for their tasks."
+        },
+        {
+          "text": "Establish document control for drawings and revisions."
+        }
+      ]
+    },
+    {
+      "title": "Plan inspections (QC)",
+      "items": [
+        {
+          "text": "Create an inspection and test plan with hold and witness points."
+        },
+        {
+          "text": "Define what to inspect, how, and acceptance criteria."
+        },
+        {
+          "text": "Set sampling levels and inspection frequency."
+        },
+        {
+          "text": "Confirm measuring equipment is calibrated and in date."
+        },
+        {
+          "text": "Prepare inspection forms and recording templates."
+        },
+        {
+          "text": "Schedule inspections at the defined stages."
+        }
+      ]
+    },
+    {
+      "title": "Quality assurance activities",
+      "items": [
+        {
+          "text": "Verify suppliers and subcontractors are approved and qualified."
+        },
+        {
+          "text": "Confirm incoming materials have required certificates."
+        },
+        {
+          "text": "Check that approved procedures are being followed on the job."
+        },
+        {
+          "text": "Conduct internal audits or process reviews."
+        },
+        {
+          "text": "Hold quality reviews at key milestones."
+        },
+        {
+          "text": "Capture lessons learned to improve the process."
+        }
+      ]
+    },
+    {
+      "title": "Quality control inspections",
+      "items": [
+        {
+          "text": "Inspect incoming materials before use."
+        },
+        {
+          "text": "Carry out in-process inspections at hold points."
+        },
+        {
+          "text": "Measure key characteristics against specification."
+        },
+        {
+          "text": "Perform final inspection before release or handover."
+        },
+        {
+          "text": "Record measurements, results and inspector sign-off."
+        },
+        {
+          "text": "Segregate and label any nonconforming work."
+        }
+      ]
+    },
+    {
+      "title": "Nonconformance and corrective action",
+      "items": [
+        {
+          "text": "Raise a nonconformance report when criteria are not met."
+        },
+        {
+          "text": "Determine the disposition: rework, repair, scrap or concession."
+        },
+        {
+          "text": "Investigate the root cause of the nonconformance."
+        },
+        {
+          "text": "Implement corrective action to prevent recurrence."
+        },
+        {
+          "text": "Verify the corrective action was effective."
+        },
+        {
+          "text": "Feed findings back into QA procedures and training."
+        }
+      ]
+    },
+    {
+      "title": "Records and handover",
+      "items": [
+        {
+          "text": "Compile inspection records, certificates and test results."
+        },
+        {
+          "text": "Maintain traceability to materials, lots and locations."
+        },
+        {
+          "text": "Keep nonconformance and corrective action records."
+        },
+        {
+          "text": "Prepare the quality dossier or handover documentation."
+        },
+        {
+          "text": "Obtain final quality sign-off and approvals."
+        },
+        {
+          "text": "Archive records for traceability and audit."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does QA/QC mean?",
+      "a": "QA/QC combines quality assurance and quality control. QA is the process side — procedures, standards and training that prevent defects. QC is the inspection side that verifies output meets specification. Together they prevent and detect quality problems."
+    },
+    {
+      "q": "What is the difference between QA and QC?",
+      "a": "QA is proactive and process-focused: it builds quality into how work is done. QC is reactive and product-focused: it inspects output to find defects. QA prevents problems, QC catches the ones that still occur."
+    },
+    {
+      "q": "Do I need both on a project?",
+      "a": "Yes. Without QA you keep fixing the same recurring defects; without QC defects reach the customer. Using both gives you prevention plus detection, and a feedback loop so inspection results drive process improvements."
+    },
+    {
+      "q": "What is a hold point or witness point?",
+      "a": "A hold point is a stage where work must stop until an inspection is approved; a witness point is one a reviewer may attend but work can continue. Both are defined in an inspection and test plan per your standards."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the QA/QC checklist for the quality file or site office, or download the PDF so the team can record inspections, sign-offs and corrective actions and keep them on file for audit."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/qa-qc-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/qa-qc-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "QA/QC Checklist by ChecklistForge (https://checklistforge.com/checklist/qa-qc-checklist)",
+  "updated": "2026-10-18"
+}

@@ -1,0 +1,167 @@
+{
+  "id": "bird-care-checklist",
+  "name": "Bird Care Checklist",
+  "description": "A pet bird care checklist covering cage, diet, cleaning, enrichment, health and home safety.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "birds",
+    "bird-care",
+    "enrichment",
+    "pet-care"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Cage & Housing",
+      "items": [
+        {
+          "text": "Provide a cage large enough for full wing movement",
+          "note": "Bigger is better; bar spacing must suit the species"
+        },
+        {
+          "text": "Add varied-diameter perches, including natural wood"
+        },
+        {
+          "text": "Place food and water bowls away from perches to avoid droppings"
+        },
+        {
+          "text": "Position the cage out of drafts and direct sun"
+        },
+        {
+          "text": "Include a quiet area for restful sleep"
+        }
+      ]
+    },
+    {
+      "title": "Diet & Feeding",
+      "items": [
+        {
+          "text": "Offer a balanced base diet such as quality pellets"
+        },
+        {
+          "text": "Provide fresh, bird-safe vegetables daily"
+        },
+        {
+          "text": "Give fruit and seeds in moderation"
+        },
+        {
+          "text": "Supply clean, fresh water and refresh it daily"
+        },
+        {
+          "text": "Avoid toxic foods such as avocado, chocolate and caffeine",
+          "note": "Confirm safe foods for your species with an avian vet"
+        }
+      ]
+    },
+    {
+      "title": "Cleaning Routine",
+      "items": [
+        {
+          "text": "Change the cage liner daily"
+        },
+        {
+          "text": "Wash food and water bowls daily"
+        },
+        {
+          "text": "Clean perches and toys weekly"
+        },
+        {
+          "text": "Wipe down the cage and tray weekly"
+        },
+        {
+          "text": "Do a deep clean and disinfect periodically"
+        }
+      ]
+    },
+    {
+      "title": "Enrichment & Interaction",
+      "items": [
+        {
+          "text": "Rotate a variety of safe, destructible toys"
+        },
+        {
+          "text": "Provide foraging toys to encourage natural behavior"
+        },
+        {
+          "text": "Allow supervised out-of-cage time in a safe room"
+        },
+        {
+          "text": "Spend daily time talking to and interacting with the bird"
+        },
+        {
+          "text": "Offer bathing opportunities such as a dish or misting"
+        }
+      ]
+    },
+    {
+      "title": "Health Monitoring",
+      "items": [
+        {
+          "text": "Check droppings daily for changes in color or consistency"
+        },
+        {
+          "text": "Observe appetite, breathing and activity"
+        },
+        {
+          "text": "Watch for feather plucking or behavioral changes"
+        },
+        {
+          "text": "Weigh the bird regularly if possible"
+        },
+        {
+          "text": "Schedule routine avian veterinary check-ups"
+        }
+      ]
+    },
+    {
+      "title": "Home Safety",
+      "items": [
+        {
+          "text": "Remove or avoid non-stick cookware fumes and aerosols",
+          "note": "Overheated non-stick coatings can be fatal to birds"
+        },
+        {
+          "text": "Keep toxic plants and foods out of reach"
+        },
+        {
+          "text": "Cover or close windows to prevent collisions"
+        },
+        {
+          "text": "Keep other pets supervised and separated"
+        },
+        {
+          "text": "Bird-proof rooms before any out-of-cage time"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I feed a pet bird?",
+      "a": "Many companion birds do best on a balanced diet of quality pellets plus fresh vegetables and limited fruit, with seeds in moderation. Diets vary by species, so research your bird's needs and confirm with an avian vet."
+    },
+    {
+      "q": "How often should I clean a bird cage?",
+      "a": "Change the cage liner and refresh food and water daily, wash bowls daily, and do a deeper clean of perches, toys and the cage weekly. A clean cage reduces odor, bacteria and respiratory irritants."
+    },
+    {
+      "q": "How do I keep a pet bird mentally stimulated?",
+      "a": "Provide a rotation of safe toys, foraging opportunities, time out of the cage in a bird-proofed room, and daily interaction. Birds are social and can become stressed or develop habits like feather plucking without enrichment."
+    },
+    {
+      "q": "When should I take my bird to a vet?",
+      "a": "Birds hide illness, so see an avian veterinarian for any change in appetite, droppings, breathing or behavior, and schedule routine check-ups. This checklist is general guidance, not a substitute for veterinary care."
+    },
+    {
+      "q": "Can I print this bird care checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it near the cage and tick off daily and weekly tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/bird-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/bird-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Bird Care Checklist by ChecklistForge (https://checklistforge.com/checklist/bird-care-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,185 @@
+{
+  "id": "summer-car-checklist",
+  "name": "Summer Car Checklist",
+  "description": "A checklist for preparing a car for summer heat.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "maintenance",
+    "vehicles",
+    "cars",
+    "summer-car"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Cooling system",
+      "items": [
+        {
+          "text": "Check coolant level when cold and top up with the correct mix.",
+          "note": "Low or weak coolant is a leading cause of summer overheating."
+        },
+        {
+          "text": "Flush and replace coolant if it is old or discolored."
+        },
+        {
+          "text": "Inspect the radiator and condenser for blockages and debris."
+        },
+        {
+          "text": "Confirm the cooling fan and fan clutch operate correctly."
+        },
+        {
+          "text": "Check hoses for soft spots, swelling or leaks."
+        },
+        {
+          "text": "Verify the radiator cap seals and holds pressure."
+        }
+      ]
+    },
+    {
+      "title": "Air conditioning and comfort",
+      "items": [
+        {
+          "text": "Test the AC for cold airflow at idle and while driving."
+        },
+        {
+          "text": "Have the refrigerant recharged if cooling is weak.",
+          "note": "Persistent weak cooling can mean a leak; have it diagnosed by a technician."
+        },
+        {
+          "text": "Replace the cabin air filter for strong, clean airflow."
+        },
+        {
+          "text": "Check that all vents and fan speeds work."
+        },
+        {
+          "text": "Confirm windows and the sunroof open and close fully."
+        },
+        {
+          "text": "Consider a sunshade to limit cabin heat when parked."
+        }
+      ]
+    },
+    {
+      "title": "Tires and wheels",
+      "items": [
+        {
+          "text": "Check tire pressure cold, since heat raises it during driving."
+        },
+        {
+          "text": "Inspect tread depth and look for cracks, bulges or aging."
+        },
+        {
+          "text": "Replace tires showing dry rot or sidewall cracking.",
+          "note": "Hot pavement raises blowout risk on worn or aged tires."
+        },
+        {
+          "text": "Rotate tires if due to even out wear."
+        },
+        {
+          "text": "Confirm the spare is inflated and tools are present."
+        },
+        {
+          "text": "Verify the TPMS light is off after checking pressures."
+        }
+      ]
+    },
+    {
+      "title": "Battery and electrical",
+      "items": [
+        {
+          "text": "Test the battery, since heat shortens its life faster than cold."
+        },
+        {
+          "text": "Clean terminals and confirm they are tight and corrosion-free."
+        },
+        {
+          "text": "Check the alternator is charging correctly."
+        },
+        {
+          "text": "Confirm the battery is secure with no swelling or leaks."
+        },
+        {
+          "text": "Replace a weak or aged battery before a long summer trip."
+        },
+        {
+          "text": "Verify all lights and electrical accessories work."
+        }
+      ]
+    },
+    {
+      "title": "Fluids and engine",
+      "items": [
+        {
+          "text": "Check engine oil level and change it if a service is due."
+        },
+        {
+          "text": "Verify brake, power steering and transmission fluids."
+        },
+        {
+          "text": "Top up windshield washer fluid for summer bugs and dust."
+        },
+        {
+          "text": "Inspect belts for cracking and glazing from heat."
+        },
+        {
+          "text": "Look under the car for any fresh fluid leaks."
+        },
+        {
+          "text": "Confirm no warning lights remain lit after start-up."
+        }
+      ]
+    },
+    {
+      "title": "Visibility and hot-weather readiness",
+      "items": [
+        {
+          "text": "Replace worn wiper blades dried out by sun and heat."
+        },
+        {
+          "text": "Clean the windshield and apply a water repellent for sudden storms."
+        },
+        {
+          "text": "Confirm all lights work for long summer drives."
+        },
+        {
+          "text": "Pack water for occupants and a small emergency kit."
+        },
+        {
+          "text": "Never leave children or pets in a parked car in heat."
+        },
+        {
+          "text": "Confirm roadside assistance and insurance are current."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a summer car checklist?",
+      "a": "It's a seasonal prep guide that readies a car for hot weather — cooling system, AC, tires, battery and fluids — so drivers stay cool and avoid overheating or a breakdown during the hottest months."
+    },
+    {
+      "q": "Why is summer hard on a car?",
+      "a": "Heat overworks the cooling system and AC, accelerates battery wear and fluid breakdown, raises tire pressures and blowout risk, and bakes seals and belts. Hot, heavy summer driving exposes any weak component fast."
+    },
+    {
+      "q": "How do I keep my car from overheating in summer?",
+      "a": "Keep coolant at the correct level and strength, ensure the radiator and fans work, check belts and hoses, and watch the temperature gauge. If it climbs into the red, pull over safely and let the engine cool."
+    },
+    {
+      "q": "Should I check tire pressure differently in summer?",
+      "a": "Yes. Heat raises tire pressure, so check pressures when tires are cool and set them to the door-jamb spec. Worn or under- or over-inflated tires are far more likely to blow out on hot pavement."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the summer car checklist to work through in the driveway, or download the PDF to complete on your phone before the heat peaks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/summer-car-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/summer-car-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Summer Car Checklist by ChecklistForge (https://checklistforge.com/checklist/summer-car-checklist)",
+  "updated": "2026-10-17"
+}

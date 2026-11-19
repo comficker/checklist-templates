@@ -1,0 +1,167 @@
+{
+  "id": "kitchen-organization-checklist",
+  "name": "Kitchen Organization Checklist",
+  "description": "A zone-based plan to organize kitchen cabinets, drawers, counters, and storage.",
+  "category": "home-organization",
+  "category_name": "Home Organization",
+  "tags": [
+    "decluttering",
+    "organization",
+    "kitchen",
+    "storage"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Declutter Cabinets",
+      "items": [
+        {
+          "text": "Empty one cabinet at a time and wipe shelves before refilling"
+        },
+        {
+          "text": "Toss chipped dishes, lidless containers, and duplicate gadgets"
+        },
+        {
+          "text": "Donate small appliances you have not used in a year",
+          "note": "Be ruthless with single-use gadgets."
+        },
+        {
+          "text": "Store everyday dishes in the most accessible cabinet"
+        },
+        {
+          "text": "Move rarely used items to high or low shelves"
+        }
+      ]
+    },
+    {
+      "title": "Organize Drawers",
+      "items": [
+        {
+          "text": "Add dividers to separate utensils by type"
+        },
+        {
+          "text": "Sort the junk drawer and discard dead pens and stray parts"
+        },
+        {
+          "text": "Group cooking tools in the drawer nearest the stove"
+        },
+        {
+          "text": "Store knives in a tray or block, not loose in a drawer",
+          "note": "A blade guard protects fingers and edges."
+        },
+        {
+          "text": "Keep wraps, foil, and bags together in one drawer"
+        }
+      ]
+    },
+    {
+      "title": "Clear and Use Counters",
+      "items": [
+        {
+          "text": "Remove everything and wipe the counters clean"
+        },
+        {
+          "text": "Return only daily-use appliances to the surface"
+        },
+        {
+          "text": "Store occasional appliances inside cabinets or a pantry"
+        },
+        {
+          "text": "Add a small tray to corral oils and frequently used items"
+        },
+        {
+          "text": "Keep a clear prep zone always ready for cooking"
+        }
+      ]
+    },
+    {
+      "title": "Set Up Workflow Zones",
+      "items": [
+        {
+          "text": "Create a prep zone with cutting boards, knives, and bowls"
+        },
+        {
+          "text": "Build a cooking zone with pots, pans, and utensils by the stove"
+        },
+        {
+          "text": "Place spices and oils within reach of the cooktop"
+        },
+        {
+          "text": "Set up a storage zone for containers and food wraps"
+        },
+        {
+          "text": "Position mugs and glasses near the coffee maker or sink",
+          "note": "Match each zone to how you actually move while cooking."
+        }
+      ]
+    },
+    {
+      "title": "Organize Under the Sink",
+      "items": [
+        {
+          "text": "Empty the cabinet and add a wipeable liner"
+        },
+        {
+          "text": "Group cleaning supplies in a portable caddy"
+        },
+        {
+          "text": "Install a tiered or pull-out shelf around the plumbing"
+        },
+        {
+          "text": "Hang a tension rod to hold spray bottles"
+        },
+        {
+          "text": "Add a hook or bin for trash bags and sponges"
+        }
+      ]
+    },
+    {
+      "title": "Maintain Your Kitchen",
+      "items": [
+        {
+          "text": "Return items to their zone after each use"
+        },
+        {
+          "text": "Do a quick counter reset before bed each night"
+        },
+        {
+          "text": "Run a weekly fridge clear-out before grocery shopping",
+          "note": "Toss leftovers before they pile up."
+        },
+        {
+          "text": "Wipe one cabinet or drawer during each deep clean"
+        },
+        {
+          "text": "Reassess zones seasonally as your cooking habits change"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I organize my kitchen efficiently?",
+      "a": "Set up workflow zones for prep, cooking, and storage, then place tools where you use them. Keeping knives near the cutting board and pots near the stove cuts wasted steps."
+    },
+    {
+      "q": "What should I keep on my kitchen counters?",
+      "a": "Keep only the appliances and tools you use daily, like the coffee maker or a knife block. Clearing everything else gives you more workspace and an instantly tidier kitchen."
+    },
+    {
+      "q": "How can I get more storage in a small kitchen?",
+      "a": "Use vertical space with shelf risers, under-shelf baskets, and over-door racks, and add drawer dividers. Maximizing height and inside-cabinet space is key in compact kitchens."
+    },
+    {
+      "q": "How do I organize my under-sink cabinet?",
+      "a": "Remove everything, add a liner, and use a pull-out caddy or tiered shelf around the plumbing. Group cleaning supplies in a tote so you can lift them out in one go."
+    },
+    {
+      "q": "Can I print this kitchen organization checklist?",
+      "a": "Yes. Download the printable PDF, keep it on the counter while you work, and check off each zone so you organize the whole kitchen without missing a spot."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/kitchen-organization-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/kitchen-organization-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Kitchen Organization Checklist by ChecklistForge (https://checklistforge.com/checklist/kitchen-organization-checklist)",
+  "updated": "2026-10-17"
+}

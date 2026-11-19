@@ -1,0 +1,182 @@
+{
+  "id": "hazard-assessment-checklist",
+  "name": "Hazard Assessment Checklist",
+  "description": "A workplace hazard assessment checklist using a JHA/JSA step-by-step approach.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "safety",
+    "risk",
+    "compliance",
+    "hazard-assessment"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Select and define the job",
+      "items": [
+        {
+          "text": "Choose the job or task to analyze."
+        },
+        {
+          "text": "Prioritize high-risk, frequent or new tasks first.",
+          "note": "Use incident history to choose jobs to assess."
+        },
+        {
+          "text": "Define where and under what conditions the job is done."
+        },
+        {
+          "text": "Identify the equipment, tools and materials used."
+        },
+        {
+          "text": "Involve the workers who perform the job."
+        },
+        {
+          "text": "Confirm who will lead and approve the assessment."
+        }
+      ]
+    },
+    {
+      "title": "Break the job into steps",
+      "items": [
+        {
+          "text": "List the main steps of the job in order."
+        },
+        {
+          "text": "Keep steps at a useful level of detail, not too broad."
+        },
+        {
+          "text": "Describe what is done in each step, not how to fix it."
+        },
+        {
+          "text": "Include setup, the task itself and cleanup."
+        },
+        {
+          "text": "Note any non-routine or emergency steps."
+        },
+        {
+          "text": "Confirm the step sequence with the workers."
+        }
+      ]
+    },
+    {
+      "title": "Identify hazards in each step",
+      "items": [
+        {
+          "text": "Ask what could go wrong at each step."
+        },
+        {
+          "text": "Identify struck-by, caught-in and pinch-point hazards."
+        },
+        {
+          "text": "Identify slip, trip, fall and lifting hazards."
+        },
+        {
+          "text": "Identify electrical, energy release and burn hazards."
+        },
+        {
+          "text": "Identify chemical, dust, noise and exposure hazards."
+        },
+        {
+          "text": "Note environmental and ergonomic hazards per step."
+        }
+      ]
+    },
+    {
+      "title": "Determine controls",
+      "items": [
+        {
+          "text": "Apply the hierarchy of controls to each hazard."
+        },
+        {
+          "text": "Eliminate or substitute the hazard where possible."
+        },
+        {
+          "text": "Use engineering controls such as guards and ventilation."
+        },
+        {
+          "text": "Add administrative controls such as safe procedures and training."
+        },
+        {
+          "text": "Specify personal protective equipment for each step."
+        },
+        {
+          "text": "Define safe practices and emergency response for the job."
+        }
+      ]
+    },
+    {
+      "title": "Document and communicate",
+      "items": [
+        {
+          "text": "Record each job step, its hazards and the controls."
+        },
+        {
+          "text": "Specify the personal protective equipment required."
+        },
+        {
+          "text": "Have the assessment reviewed and signed off."
+        },
+        {
+          "text": "Share the JHA with everyone who does the job."
+        },
+        {
+          "text": "Use it in toolbox talks and worker training."
+        },
+        {
+          "text": "Post or keep it accessible at the work location."
+        }
+      ]
+    },
+    {
+      "title": "Review and improve",
+      "items": [
+        {
+          "text": "Review the JHA after any incident or near miss."
+        },
+        {
+          "text": "Update it when the job, tools or materials change."
+        },
+        {
+          "text": "Re-check that controls are being used and are effective."
+        },
+        {
+          "text": "Gather worker feedback on hazards and controls."
+        },
+        {
+          "text": "Set a date for periodic review."
+        },
+        {
+          "text": "Keep completed assessments on file as a record."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a hazard assessment?",
+      "a": "A hazard assessment is the process of identifying and controlling workplace hazards, often by breaking a job into steps and examining each one. A job hazard analysis (JHA) or job safety analysis (JSA) is a common step-by-step method."
+    },
+    {
+      "q": "What is the difference between a JHA and a JSA?",
+      "a": "Job hazard analysis (JHA) and job safety analysis (JSA) are essentially the same method under different names: both break a task into steps, identify the hazards in each step, and determine controls to prevent injury."
+    },
+    {
+      "q": "How is this different from a risk assessment?",
+      "a": "A hazard assessment focuses on identifying hazards within each step of a specific job and controlling them. A risk assessment more broadly evaluates the likelihood and severity of harm and decides on controls across tasks and areas."
+    },
+    {
+      "q": "What is the hierarchy of controls?",
+      "a": "It is a ranked order for controlling hazards: elimination, substitution, engineering controls, administrative controls and personal protective equipment. Start at the top and use the most effective control that is reasonably practical."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the hazard assessment checklist for the job or toolbox talk, or download the PDF so the team can record job steps, hazards and controls together and keep completed JHAs on file."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hazard-assessment-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hazard-assessment-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hazard Assessment Checklist by ChecklistForge (https://checklistforge.com/checklist/hazard-assessment-checklist)",
+  "updated": "2026-10-17"
+}

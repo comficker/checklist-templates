@@ -1,0 +1,142 @@
+{
+  "id": "daily-student-checklist",
+  "name": "Daily Student Checklist",
+  "description": "A daily student checklist that turns each school day into a simple, repeatable routine.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "daily-routine",
+    "students",
+    "study",
+    "homework",
+    "habits"
+  ],
+  "item_count": 24,
+  "sections": [
+    {
+      "title": "Morning prep",
+      "items": [
+        {
+          "text": "Get up with enough time to avoid rushing."
+        },
+        {
+          "text": "Eat breakfast and drink some water."
+        },
+        {
+          "text": "Check your planner for today's classes and deadlines."
+        },
+        {
+          "text": "Confirm your bag has the books and materials you need."
+        },
+        {
+          "text": "Bring any homework or assignments due today."
+        }
+      ]
+    },
+    {
+      "title": "In class",
+      "items": [
+        {
+          "text": "Arrive on time and ready to learn."
+        },
+        {
+          "text": "Put your phone away to stay focused."
+        },
+        {
+          "text": "Take clear, organized notes."
+        },
+        {
+          "text": "Ask questions when something is unclear.",
+          "note": "Asking in the moment saves hours of confusion later."
+        },
+        {
+          "text": "Write down every assignment and its due date."
+        }
+      ]
+    },
+    {
+      "title": "Homework and study",
+      "items": [
+        {
+          "text": "Start with the hardest or highest-priority task."
+        },
+        {
+          "text": "Work in a quiet spot free of distractions."
+        },
+        {
+          "text": "Take short breaks to stay fresh."
+        },
+        {
+          "text": "Complete each assignment and check it off."
+        },
+        {
+          "text": "Ask for help if you get stuck for too long."
+        }
+      ]
+    },
+    {
+      "title": "Review the day",
+      "items": [
+        {
+          "text": "Reread today's notes while they are fresh."
+        },
+        {
+          "text": "Summarize the key points in your own words."
+        },
+        {
+          "text": "Flag anything confusing to ask about tomorrow."
+        },
+        {
+          "text": "Add new tasks and due dates to your planner."
+        }
+      ]
+    },
+    {
+      "title": "Prep for tomorrow",
+      "items": [
+        {
+          "text": "Check tomorrow's schedule and deadlines."
+        },
+        {
+          "text": "Pack your bag with everything you need."
+        },
+        {
+          "text": "Lay out clothes and lunch if that helps your morning."
+        },
+        {
+          "text": "Set an alarm that gives you enough time."
+        },
+        {
+          "text": "Get to bed early enough for a full night's sleep."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a daily student routine include?",
+      "a": "It should include a morning prep, attending and engaging in class, taking notes, completing homework, a short review of the day's lessons, and packing and planning for tomorrow before bed."
+    },
+    {
+      "q": "How long should daily review take?",
+      "a": "Just 10 to 20 minutes a day. A quick review of notes soon after class moves the material into long-term memory and makes studying for exams far easier later on."
+    },
+    {
+      "q": "How is this different from a weekly study checklist?",
+      "a": "This daily checklist covers the everyday rhythm of attending, note-taking and homework. A weekly study checklist zooms out to plan the week, review across subjects, practice and catch up."
+    },
+    {
+      "q": "Will this help with procrastination?",
+      "a": "Yes. Breaking the day into small, clear steps and checking them off gives quick wins and momentum, which makes it easier to start tasks and harder to put them off."
+    },
+    {
+      "q": "Can I download this daily student checklist as a PDF?",
+      "a": "Yes. You can print copies or download it as a PDF and reuse it each day as your morning-to-evening routine."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/daily-student-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/daily-student-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Daily Student Checklist by ChecklistForge (https://checklistforge.com/checklist/daily-student-checklist)",
+  "updated": "2026-10-17"
+}

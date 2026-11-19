@@ -1,0 +1,185 @@
+{
+  "id": "car-maintenance-checklist",
+  "name": "Car Maintenance Checklist",
+  "description": "A checklist for keeping a car maintained on a regular schedule.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "maintenance",
+    "vehicles",
+    "cars",
+    "car-maintenance"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Monthly checks",
+      "items": [
+        {
+          "text": "Check tire pressure on all four tires and the spare against the door-jamb sticker."
+        },
+        {
+          "text": "Inspect tire tread depth and look for uneven wear, cuts or bulges."
+        },
+        {
+          "text": "Test all exterior lights — headlights, brake lights, turn signals and reverse."
+        },
+        {
+          "text": "Check windshield washer fluid and top up if low."
+        },
+        {
+          "text": "Look under the car for new fluid leaks or stains.",
+          "note": "A persistent leak should be diagnosed by a mechanic before it worsens."
+        },
+        {
+          "text": "Listen for new noises from the brakes, suspension or engine."
+        }
+      ]
+    },
+    {
+      "title": "Engine oil and fluids",
+      "items": [
+        {
+          "text": "Check engine oil level and color with the dipstick on level ground."
+        },
+        {
+          "text": "Change engine oil and the oil filter at the manufacturer's interval.",
+          "note": "Use the oil grade and capacity specified in your owner's manual."
+        },
+        {
+          "text": "Check engine coolant level in the reservoir when the engine is cold."
+        },
+        {
+          "text": "Inspect brake fluid level and that it is the correct DOT grade."
+        },
+        {
+          "text": "Check power steering and transmission fluid where applicable."
+        },
+        {
+          "text": "Top up windshield washer fluid suited to the season."
+        }
+      ]
+    },
+    {
+      "title": "Tires and wheels",
+      "items": [
+        {
+          "text": "Rotate tires at the interval in your manual to even out wear."
+        },
+        {
+          "text": "Have wheel alignment checked if the car pulls or tires wear unevenly."
+        },
+        {
+          "text": "Have wheels balanced if you feel vibration at speed."
+        },
+        {
+          "text": "Replace tires when tread reaches the wear bars or local legal limit."
+        },
+        {
+          "text": "Confirm the spare is inflated and the jack and tools are present."
+        },
+        {
+          "text": "Check valve caps are fitted and the TPMS warning light is off."
+        }
+      ]
+    },
+    {
+      "title": "Brakes and suspension",
+      "items": [
+        {
+          "text": "Have brake pads and rotors inspected for wear and scoring."
+        },
+        {
+          "text": "Check for grinding, squealing or a soft brake pedal.",
+          "note": "Any change in braking feel warrants prompt inspection by a mechanic."
+        },
+        {
+          "text": "Verify the parking brake holds the car on a slope."
+        },
+        {
+          "text": "Inspect shocks and struts for leaks or excessive bounce."
+        },
+        {
+          "text": "Check for clunks or play in the steering and suspension."
+        },
+        {
+          "text": "Confirm the ABS and brake warning lights are off."
+        }
+      ]
+    },
+    {
+      "title": "Filters, belts and battery",
+      "items": [
+        {
+          "text": "Replace the engine air filter at the manufacturer's interval."
+        },
+        {
+          "text": "Replace the cabin air filter to keep airflow and demisting strong."
+        },
+        {
+          "text": "Inspect drive belts for cracking, glazing or fraying."
+        },
+        {
+          "text": "Check hoses for swelling, cracks or soft spots."
+        },
+        {
+          "text": "Clean battery terminals and check for corrosion and secure mounting."
+        },
+        {
+          "text": "Test battery health, especially before winter and after three years."
+        }
+      ]
+    },
+    {
+      "title": "Seasonal and mileage milestones",
+      "items": [
+        {
+          "text": "Replace wiper blades that streak or chatter, typically twice a year."
+        },
+        {
+          "text": "Switch to appropriate tires and fluids ahead of winter or summer."
+        },
+        {
+          "text": "Replace spark plugs at the manufacturer's specified mileage."
+        },
+        {
+          "text": "Change the timing belt or chain by the interval — failure can wreck the engine.",
+          "note": "This is a major service; follow the manual's mileage and use a qualified mechanic."
+        },
+        {
+          "text": "Flush and replace coolant on the recommended schedule."
+        },
+        {
+          "text": "Keep all service records and receipts to protect warranty and resale value."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a car maintenance checklist?",
+      "a": "It's a schedule of routine upkeep tasks — oil, tires, fluids, brakes and filters — grouped by interval so owners know what to check monthly, seasonally and at each mileage milestone to keep a car running safely."
+    },
+    {
+      "q": "How often should I do car maintenance?",
+      "a": "Follow your owner's manual: check tire pressure and fluids monthly, rotate tires and change oil at the manufacturer's mileage interval, and book major services on schedule. Severe driving conditions shorten many intervals."
+    },
+    {
+      "q": "Can I do car maintenance myself?",
+      "a": "Many checks — pressure, fluid levels, lights, wipers — are simple owner tasks. Leave brakes, timing belts, transmission work and anything safety-critical to a qualified mechanic, and never skip the manual's specified service items."
+    },
+    {
+      "q": "How do I know when a service is due?",
+      "a": "Track date and mileage for each task, watch your dashboard service reminder, and refer to the manual's schedule. Logging every service in this checklist makes the next due item easy to see at a glance."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the car maintenance checklist for the glovebox to log each service, or download the PDF to track intervals and mileage on your phone."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/car-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/car-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Car Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/car-maintenance-checklist)",
+  "updated": "2026-10-18"
+}

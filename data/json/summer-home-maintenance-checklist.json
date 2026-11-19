@@ -1,0 +1,174 @@
+{
+  "id": "summer-home-maintenance-checklist",
+  "name": "Summer Home Maintenance Checklist",
+  "description": "A summer home maintenance checklist of warm-season cooling and exterior tasks.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "homeowner",
+    "seasonal",
+    "hvac",
+    "summer"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Cooling & AC",
+      "items": [
+        {
+          "text": "Schedule a professional AC tune-up before the first heatwave"
+        },
+        {
+          "text": "Replace or clean the AC filter monthly during heavy use"
+        },
+        {
+          "text": "Clear leaves, grass and debris from around the outdoor condenser"
+        },
+        {
+          "text": "Check and clear the AC condensate drain line to prevent overflow",
+          "note": "A clogged drain can cause water damage indoors"
+        },
+        {
+          "text": "Set ceiling fans to spin counterclockwise to push cool air down"
+        },
+        {
+          "text": "Program the thermostat to ease cooling load while you're out"
+        }
+      ]
+    },
+    {
+      "title": "Keep Heat Out",
+      "items": [
+        {
+          "text": "Inspect and refresh weatherstripping and door seals"
+        },
+        {
+          "text": "Caulk gaps around windows to keep cool air in"
+        },
+        {
+          "text": "Add or check window coverings to block midday sun"
+        },
+        {
+          "text": "Inspect attic insulation and ventilation to reduce heat buildup"
+        },
+        {
+          "text": "Confirm attic and gable vents and fans are clear and working"
+        }
+      ]
+    },
+    {
+      "title": "Exterior & Roof",
+      "items": [
+        {
+          "text": "Wash siding and inspect for cracks, rot or pest damage"
+        },
+        {
+          "text": "Touch up or repaint exterior trim while the weather is dry"
+        },
+        {
+          "text": "Inspect the roof from the ground for damaged shingles"
+        },
+        {
+          "text": "Clean gutters and confirm downspouts drain away from the house"
+        },
+        {
+          "text": "Reseal the deck, fence and exterior wood"
+        },
+        {
+          "text": "Power-wash the driveway, patio and walkways"
+        }
+      ]
+    },
+    {
+      "title": "Windows, Screens & Doors",
+      "items": [
+        {
+          "text": "Clean and repair window and patio door screens"
+        },
+        {
+          "text": "Wash windows inside and out for clear summer light"
+        },
+        {
+          "text": "Lubricate sliding door and window tracks"
+        },
+        {
+          "text": "Check that windows open, close and lock smoothly"
+        },
+        {
+          "text": "Reverse or remove storm windows where used"
+        }
+      ]
+    },
+    {
+      "title": "Yard & Outdoor",
+      "items": [
+        {
+          "text": "Inspect irrigation and sprinklers for leaks and broken heads"
+        },
+        {
+          "text": "Mow regularly and water the lawn early to reduce evaporation"
+        },
+        {
+          "text": "Trim trees and shrubs back from the house and roofline"
+        },
+        {
+          "text": "Clean and inspect the grill and outdoor furniture"
+        },
+        {
+          "text": "Check the deck and railings for loose boards and nails"
+        },
+        {
+          "text": "Maintain pool chemistry and the filter where applicable"
+        }
+      ]
+    },
+    {
+      "title": "Pests & Safety",
+      "items": [
+        {
+          "text": "Seal cracks and gaps that let ants, wasps and rodents inside"
+        },
+        {
+          "text": "Remove standing water that breeds mosquitoes"
+        },
+        {
+          "text": "Check for wasp and hornet nests under eaves and decks"
+        },
+        {
+          "text": "Test smoke and carbon-monoxide alarms and replace weak batteries"
+        },
+        {
+          "text": "Clean the dryer vent to reduce fire risk in dry weather"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I do summer home maintenance?",
+      "a": "Tackle AC service and exterior jobs in late spring or early summer, before peak heat, then repeat quick checks like filter changes and AC drain inspections through the hottest months."
+    },
+    {
+      "q": "Can I download this summer checklist as a PDF?",
+      "a": "Yes. You can print this summer home maintenance checklist or download it as a PDF and tick off cooling, exterior and yard tasks across the warm season."
+    },
+    {
+      "q": "How can I lower my cooling costs in summer?",
+      "a": "Replace AC filters often, clear the outdoor condenser, seal drafts, use ceiling fans counterclockwise, and close blinds during the hottest part of the day to ease the load on your AC."
+    },
+    {
+      "q": "How often should I change the AC filter in summer?",
+      "a": "Check 1-inch filters monthly when the AC runs daily and replace them when dirty. A clean filter keeps airflow strong, cooling efficient, and energy costs lower."
+    },
+    {
+      "q": "Is summer a good time for exterior painting?",
+      "a": "Yes. Warm, dry weather lets paint and sealants cure properly. Work in the shade or cooler parts of the day, and avoid painting in direct, intense midday sun."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/summer-home-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/summer-home-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Summer Home Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/summer-home-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

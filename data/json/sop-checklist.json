@@ -1,0 +1,209 @@
+{
+  "id": "sop-checklist",
+  "name": "SOP Checklist",
+  "description": "A step-by-step SOP checklist for writing, reviewing and rolling out standard operating procedures.",
+  "category": "business-startup",
+  "category_name": "Business & Startup",
+  "tags": [
+    "documentation",
+    "operations",
+    "process",
+    "sop"
+  ],
+  "item_count": 43,
+  "sections": [
+    {
+      "title": "Define scope and purpose",
+      "items": [
+        {
+          "text": "State the task or process the SOP covers in one sentence."
+        },
+        {
+          "text": "Explain why the procedure exists and the outcome it delivers."
+        },
+        {
+          "text": "Set the boundaries — what is included and what is out of scope."
+        },
+        {
+          "text": "Identify the trigger that starts the procedure.",
+          "note": "For example a customer order, a schedule or a request."
+        },
+        {
+          "text": "Note any procedures this one depends on or links to."
+        },
+        {
+          "text": "Give the SOP a clear, searchable title and reference number."
+        }
+      ]
+    },
+    {
+      "title": "Assign roles and responsibilities",
+      "items": [
+        {
+          "text": "List every role involved in the procedure."
+        },
+        {
+          "text": "Name who performs each step, not just who is accountable."
+        },
+        {
+          "text": "Identify who approves decisions or exceptions."
+        },
+        {
+          "text": "Define handoffs between people or teams."
+        },
+        {
+          "text": "Specify the skills or training a role must have first."
+        },
+        {
+          "text": "Record an owner responsible for keeping the SOP current."
+        }
+      ]
+    },
+    {
+      "title": "Document the steps",
+      "items": [
+        {
+          "text": "Break the task into a logical sequence of single actions."
+        },
+        {
+          "text": "Write each step as a short imperative sentence."
+        },
+        {
+          "text": "Number the steps and keep one action per line."
+        },
+        {
+          "text": "Add decision points with the criteria for each branch."
+        },
+        {
+          "text": "Call out common mistakes and how to avoid them."
+        },
+        {
+          "text": "Add screenshots or diagrams where they make a step clearer."
+        },
+        {
+          "text": "Define what a successful, completed task looks like."
+        }
+      ]
+    },
+    {
+      "title": "List tools and inputs",
+      "items": [
+        {
+          "text": "List the equipment, software and access each step needs."
+        },
+        {
+          "text": "Record any templates, forms or files used."
+        },
+        {
+          "text": "Note the materials or data required as inputs."
+        },
+        {
+          "text": "Specify versions or settings where they affect the result."
+        },
+        {
+          "text": "Identify where to find or request each tool or input."
+        },
+        {
+          "text": "List the outputs the procedure produces and where they go."
+        }
+      ]
+    },
+    {
+      "title": "Address safety and compliance",
+      "items": [
+        {
+          "text": "Note any hazards and the precautions for each step."
+        },
+        {
+          "text": "List required protective equipment or safe conditions."
+        },
+        {
+          "text": "Reference the regulations, policies or standards that apply."
+        },
+        {
+          "text": "Record data handling or privacy rules the task must follow."
+        },
+        {
+          "text": "Add stop conditions for when the task must not continue."
+        },
+        {
+          "text": "Explain how to report incidents or near misses."
+        }
+      ]
+    },
+    {
+      "title": "Review and version control",
+      "items": [
+        {
+          "text": "Have a subject matter expert check the draft for accuracy."
+        },
+        {
+          "text": "Test the steps with someone new to the task."
+        },
+        {
+          "text": "Revise anything that was unclear or out of order."
+        },
+        {
+          "text": "Route the SOP to the approver for sign-off."
+        },
+        {
+          "text": "Assign a version number, author and approval date.",
+          "note": "Increment the version on every change so old copies are obvious."
+        },
+        {
+          "text": "Store the SOP in one central, controlled location."
+        }
+      ]
+    },
+    {
+      "title": "Train and roll out",
+      "items": [
+        {
+          "text": "Announce the new or updated SOP to everyone affected."
+        },
+        {
+          "text": "Walk the team through the procedure step by step."
+        },
+        {
+          "text": "Have each person complete the task under supervision once."
+        },
+        {
+          "text": "Confirm understanding and answer questions."
+        },
+        {
+          "text": "Retire or archive the procedure the SOP replaces."
+        },
+        {
+          "text": "Set a review date and the owner who will manage it."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is an SOP checklist?",
+      "a": "It is a structured guide for building a standard operating procedure. It walks you through defining scope, assigning roles, documenting each step, listing tools and inputs, addressing safety, and setting review and version control so the procedure is clear and repeatable."
+    },
+    {
+      "q": "What should every SOP include?",
+      "a": "A clear title and purpose, scope, the roles responsible, required tools and inputs, numbered steps, any safety or compliance notes, and version details with an approval date. Adding the author and review date keeps the document current and accountable over time."
+    },
+    {
+      "q": "How detailed should the steps be?",
+      "a": "Detailed enough that someone new to the task can follow them without help. Use short imperative sentences, one action per step, and call out decisions, warnings and exceptions. Test the draft with an unfamiliar reader and fix anything that confuses them."
+    },
+    {
+      "q": "How often should you review an SOP?",
+      "a": "Review each SOP at least once a year, and sooner whenever a tool, regulation or process changes. Assign an owner, set a review date, and log every change with a new version number so the team always works from the current approved copy."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the SOP checklist to draft a procedure at your desk, or download the PDF template and store a completed copy with its version number and approval date so the whole team works from one reviewed source."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/sop-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/sop-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "SOP Checklist by ChecklistForge (https://checklistforge.com/checklist/sop-checklist)",
+  "updated": "2026-10-17"
+}

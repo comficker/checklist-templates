@@ -1,0 +1,174 @@
+{
+  "id": "fall-prevention-checklist",
+  "name": "Fall Prevention Checklist",
+  "description": "A room-by-room fall prevention checklist to help make a home safer for seniors and reduce the risk of falls.",
+  "category": "recovery-senior-care",
+  "category_name": "Recovery & Senior Care",
+  "tags": [
+    "caregiver",
+    "senior-care",
+    "fall-prevention",
+    "home-safety"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Lighting",
+      "items": [
+        {
+          "text": "Add bright, even lighting in hallways, stairs, and entryways"
+        },
+        {
+          "text": "Place night lights along the path from the bed to the bathroom"
+        },
+        {
+          "text": "Put a lamp and a phone within reach of the bed",
+          "note": "A touch or motion-sensor lamp avoids fumbling for a switch at night."
+        },
+        {
+          "text": "Replace dim or burned-out bulbs promptly"
+        },
+        {
+          "text": "Add light switches at both the top and bottom of stairs"
+        },
+        {
+          "text": "Keep a working flashlight handy in case of a power outage"
+        }
+      ]
+    },
+    {
+      "title": "Remove Trip Hazards",
+      "items": [
+        {
+          "text": "Remove or secure loose throw rugs with non-slip backing"
+        },
+        {
+          "text": "Clear cords, shoes, and clutter from walkways and stairs"
+        },
+        {
+          "text": "Tape down or reroute electrical and phone cords along walls"
+        },
+        {
+          "text": "Keep frequently used items in easy-to-reach cabinets to avoid stools"
+        },
+        {
+          "text": "Fix loose floorboards, frayed carpet edges, and uneven thresholds"
+        },
+        {
+          "text": "Wipe up spills immediately and keep floors dry"
+        }
+      ]
+    },
+    {
+      "title": "Grab Bars and Railings",
+      "items": [
+        {
+          "text": "Install grab bars inside and just outside the shower or tub"
+        },
+        {
+          "text": "Add a grab bar beside the toilet"
+        },
+        {
+          "text": "Fit sturdy handrails on both sides of every staircase",
+          "note": "Handrails should run the full length of the stairs and feel solid."
+        },
+        {
+          "text": "Place a non-slip mat in the tub or shower"
+        },
+        {
+          "text": "Consider a shower chair and a raised toilet seat if standing is hard"
+        },
+        {
+          "text": "Add a handrail or ramp at exterior steps and entrances"
+        }
+      ]
+    },
+    {
+      "title": "Safe Footwear and Clothing",
+      "items": [
+        {
+          "text": "Wear well-fitting shoes with firm, non-slip soles indoors and out"
+        },
+        {
+          "text": "Avoid walking in socks alone, loose slippers, or backless shoes"
+        },
+        {
+          "text": "Choose clothing that does not drag on the floor or catch on furniture"
+        },
+        {
+          "text": "Keep a pair of supportive shoes by the bed for nighttime trips"
+        }
+      ]
+    },
+    {
+      "title": "Vision and Health Checks",
+      "items": [
+        {
+          "text": "Schedule regular eye exams and update glasses prescriptions"
+        },
+        {
+          "text": "Keep glasses clean and within reach"
+        },
+        {
+          "text": "Ask the doctor or pharmacist to review medications for dizziness side effects"
+        },
+        {
+          "text": "Check hearing, blood pressure, and any conditions that affect balance"
+        },
+        {
+          "text": "Stay hydrated, since dehydration can cause lightheadedness"
+        }
+      ]
+    },
+    {
+      "title": "Strength and Balance",
+      "items": [
+        {
+          "text": "Do doctor-approved strength and balance exercises regularly"
+        },
+        {
+          "text": "Use any prescribed cane or walker correctly and keep it nearby"
+        },
+        {
+          "text": "Stand up slowly to avoid sudden dizziness"
+        },
+        {
+          "text": "Stay active with safe, enjoyable movement to maintain mobility"
+        },
+        {
+          "text": "Keep a phone or alert device accessible in case of a fall"
+        },
+        {
+          "text": "Important: this checklist is general home-safety information, not medical advice; for a personal fall-risk assessment, follow the guidance of the older adult's doctor or physical therapist"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the most common causes of falls at home?",
+      "a": "Poor lighting, clutter and loose rugs, slippery floors, missing grab bars on stairs and in bathrooms, unsafe footwear, and reduced strength, balance, or vision are leading causes. Most can be reduced with simple home changes and regular health checks."
+    },
+    {
+      "q": "Where should grab bars be installed for seniors?",
+      "a": "Common spots are inside and just outside the shower or tub, beside the toilet, and along both sides of stairs as sturdy handrails. Have grab bars mounted securely into wall studs or proper anchors so they hold full body weight."
+    },
+    {
+      "q": "What footwear is safest to prevent falls?",
+      "a": "Well-fitting shoes with firm, non-slip soles and a low heel are safest indoors and out. Avoid walking in socks alone, loose slippers, or backless shoes, which can slip or catch on the floor."
+    },
+    {
+      "q": "How can exercise reduce fall risk?",
+      "a": "Regular strength and balance activities, such as gentle standing exercises or programs designed for older adults, can improve stability and confidence. Ask the person's doctor or physical therapist which exercises are safe before starting."
+    },
+    {
+      "q": "Is this fall prevention checklist medical advice?",
+      "a": "No. It is general home-safety guidance. It is not medical advice — for a personal fall-risk assessment and tailored recommendations, follow the guidance of the older adult's doctor or physical therapist."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/fall-prevention-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/fall-prevention-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Fall Prevention Checklist by ChecklistForge (https://checklistforge.com/checklist/fall-prevention-checklist)",
+  "updated": "2026-10-17"
+}

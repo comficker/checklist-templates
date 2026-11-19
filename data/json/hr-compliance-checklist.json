@@ -1,0 +1,187 @@
+{
+  "id": "hr-compliance-checklist",
+  "name": "HR Compliance Checklist",
+  "description": "A general HR compliance checklist covering eligibility, policies, records, postings, and training.",
+  "category": "hr-hiring",
+  "category_name": "HR & Hiring",
+  "tags": [
+    "hr",
+    "compliance",
+    "policies",
+    "records"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Verify Work Eligibility",
+      "items": [
+        {
+          "text": "Confirm each employee is authorized to work where required"
+        },
+        {
+          "text": "Collect and verify the documents your region mandates",
+          "note": "Requirements vary; follow local laws and consult HR or legal."
+        },
+        {
+          "text": "Store eligibility records securely and separately"
+        },
+        {
+          "text": "Apply the same verification steps to every hire fairly"
+        },
+        {
+          "text": "Track any required re-verification dates"
+        },
+        {
+          "text": "Keep records for the legally required retention period"
+        }
+      ]
+    },
+    {
+      "title": "Maintain Written Policies",
+      "items": [
+        {
+          "text": "Keep an up-to-date employee handbook"
+        },
+        {
+          "text": "Include conduct, anti-harassment, and equal opportunity policies"
+        },
+        {
+          "text": "Document leave, time off, and attendance rules"
+        },
+        {
+          "text": "Set clear health, safety, and remote-work policies"
+        },
+        {
+          "text": "Have employees acknowledge policies in writing"
+        },
+        {
+          "text": "Review and update policies regularly with expert input",
+          "note": "Laws change; refresh policies on a schedule."
+        }
+      ]
+    },
+    {
+      "title": "Keep Accurate Records",
+      "items": [
+        {
+          "text": "Maintain a complete personnel file for each employee"
+        },
+        {
+          "text": "Keep accurate pay, hours, and tax records"
+        },
+        {
+          "text": "Store performance and disciplinary documentation"
+        },
+        {
+          "text": "Protect personal data with proper access controls",
+          "note": "Data privacy rules vary; follow local laws."
+        },
+        {
+          "text": "Follow retention schedules for each record type"
+        },
+        {
+          "text": "Securely dispose of records once retention ends"
+        }
+      ]
+    },
+    {
+      "title": "Display Required Postings",
+      "items": [
+        {
+          "text": "Identify the notices required where you operate"
+        },
+        {
+          "text": "Display current postings in visible workplace areas"
+        },
+        {
+          "text": "Provide digital equivalents for remote employees"
+        },
+        {
+          "text": "Replace outdated notices with the latest versions"
+        },
+        {
+          "text": "Confirm postings exist for each work location"
+        },
+        {
+          "text": "Check posting requirements periodically",
+          "note": "Required postings differ by location and change over time."
+        }
+      ]
+    },
+    {
+      "title": "Deliver Mandatory Training",
+      "items": [
+        {
+          "text": "Identify training your jurisdiction or industry requires"
+        },
+        {
+          "text": "Schedule anti-harassment and safety training as needed"
+        },
+        {
+          "text": "Track completion and certification for each employee"
+        },
+        {
+          "text": "Set reminders for recurring or renewal training"
+        },
+        {
+          "text": "Keep records of who completed which training and when"
+        },
+        {
+          "text": "Update training content as requirements change",
+          "note": "Required training varies; follow local laws."
+        }
+      ]
+    },
+    {
+      "title": "Review and Improve Compliance",
+      "items": [
+        {
+          "text": "Schedule a periodic internal compliance review"
+        },
+        {
+          "text": "Use this checklist to flag gaps and risks"
+        },
+        {
+          "text": "Prioritize and assign owners to fix each gap"
+        },
+        {
+          "text": "Consult qualified HR or legal experts on complex issues"
+        },
+        {
+          "text": "Stay informed about changes in employment law"
+        },
+        {
+          "text": "Document your review and the actions taken",
+          "note": "A written trail demonstrates good-faith effort."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is HR compliance?",
+      "a": "HR compliance means following the employment laws and regulations that apply to your workplace, covering hiring, pay, records, safety, and conduct. It protects both employees and the organization from legal risk."
+    },
+    {
+      "q": "Does this checklist replace legal advice?",
+      "a": "No. It is a general framework only. Employment law varies by location and industry, so always confirm your obligations with qualified HR or legal professionals before relying on any item."
+    },
+    {
+      "q": "What employee records should we keep?",
+      "a": "Typically personnel files, tax and pay records, eligibility documents, and policy acknowledgments. Required records and retention periods vary by jurisdiction, so follow local laws and consult HR or legal."
+    },
+    {
+      "q": "What are required workplace postings?",
+      "a": "Many regions require employers to display notices about employee rights, safety, and pay. The exact postings differ by location, so check the requirements for each place you employ people."
+    },
+    {
+      "q": "Can I print this HR compliance checklist?",
+      "a": "Yes. Download the printable PDF, work through each area, and check off what is in place versus what needs attention, then confirm specifics with qualified professionals."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hr-compliance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hr-compliance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "HR Compliance Checklist by ChecklistForge (https://checklistforge.com/checklist/hr-compliance-checklist)",
+  "updated": "2026-10-17"
+}

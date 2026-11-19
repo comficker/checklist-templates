@@ -1,0 +1,199 @@
+{
+  "id": "sales-checklist",
+  "name": "Sales Checklist",
+  "description": "A step-by-step sales process checklist covering prospecting, qualifying, discovery, demo, closing and follow-up.",
+  "category": "sales-customer",
+  "category_name": "Sales & Customer",
+  "tags": [
+    "sales",
+    "pipeline",
+    "closing",
+    "prospecting"
+  ],
+  "item_count": 39,
+  "sections": [
+    {
+      "title": "Prospect and Research",
+      "items": [
+        {
+          "text": "Define your ideal customer profile and target account list for the period."
+        },
+        {
+          "text": "Research each account's industry, size, recent news and likely pain points.",
+          "note": "Two minutes of context lifts reply rates more than volume."
+        },
+        {
+          "text": "Identify the likely decision-maker and at least one potential champion."
+        },
+        {
+          "text": "Verify contact details and confirm the prospect is not already an open opportunity."
+        },
+        {
+          "text": "Choose an outreach channel and personalize the first message to the account."
+        },
+        {
+          "text": "Log every new prospect and touchpoint in the CRM before moving on."
+        }
+      ]
+    },
+    {
+      "title": "Qualify the Opportunity",
+      "items": [
+        {
+          "text": "Confirm the prospect has a real, urgent problem your product solves."
+        },
+        {
+          "text": "Establish budget range and how purchases get approved.",
+          "note": "Use a framework like BANT or MEDDIC for consistency."
+        },
+        {
+          "text": "Map the buying committee and identify who signs off."
+        },
+        {
+          "text": "Determine the timeline and any compelling event driving a decision."
+        },
+        {
+          "text": "Disqualify poor-fit deals early so you protect your pipeline quality."
+        },
+        {
+          "text": "Set and document clear next steps with the prospect's agreement."
+        }
+      ]
+    },
+    {
+      "title": "Discovery and Needs Analysis",
+      "items": [
+        {
+          "text": "Send an agenda before the discovery call so both sides come prepared."
+        },
+        {
+          "text": "Ask open questions to uncover goals, current process and frustrations."
+        },
+        {
+          "text": "Quantify the cost of the problem and the value of solving it."
+        },
+        {
+          "text": "Identify success criteria the buyer will use to judge the solution."
+        },
+        {
+          "text": "Confirm decision process, stakeholders and competing priorities."
+        },
+        {
+          "text": "Summarize what you heard and gain agreement before proposing a solution."
+        }
+      ]
+    },
+    {
+      "title": "Demo and Proposal",
+      "items": [
+        {
+          "text": "Tailor the demo to the buyer's specific use case and success criteria."
+        },
+        {
+          "text": "Show outcomes and value first, then features that support them."
+        },
+        {
+          "text": "Invite the full buying committee to the demo where possible."
+        },
+        {
+          "text": "Send a written proposal with clear scope, pricing and timeline."
+        },
+        {
+          "text": "Include a business case or ROI summary tied to the buyer's numbers.",
+          "note": "Connect every line item back to a goal they named in discovery."
+        },
+        {
+          "text": "Confirm the proposal answers every requirement before asking for a decision."
+        }
+      ]
+    },
+    {
+      "title": "Handle Objections and Negotiate",
+      "items": [
+        {
+          "text": "List likely objections and prepare evidence-based responses in advance."
+        },
+        {
+          "text": "Acknowledge each concern, then address it with proof or a reference."
+        },
+        {
+          "text": "Surface and resolve pricing questions directly rather than discounting first."
+        },
+        {
+          "text": "Negotiate on value and terms, protecting margin where you can."
+        },
+        {
+          "text": "Get verbal agreement on scope and price before drafting the contract."
+        }
+      ]
+    },
+    {
+      "title": "Close the Deal",
+      "items": [
+        {
+          "text": "Ask clearly for the business once the buyer's criteria are met."
+        },
+        {
+          "text": "Send the contract for signature with no surprises versus the proposal."
+        },
+        {
+          "text": "Confirm signing authority and walk the buyer through the approval steps."
+        },
+        {
+          "text": "Agree start date, kickoff owner and how onboarding will begin."
+        },
+        {
+          "text": "Mark the opportunity won in the CRM and record close reasons.",
+          "note": "Accurate close notes sharpen future forecasting."
+        }
+      ]
+    },
+    {
+      "title": "Follow Up and Hand Off",
+      "items": [
+        {
+          "text": "Thank the buyer and set expectations for the next steps."
+        },
+        {
+          "text": "Hand off to onboarding or customer success with full deal context."
+        },
+        {
+          "text": "Schedule a post-sale check-in to confirm early value and satisfaction."
+        },
+        {
+          "text": "Ask for a referral or testimonial once the customer sees results."
+        },
+        {
+          "text": "Review the deal in your own pipeline retro to capture lessons learned."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a sales checklist?",
+      "a": "It is a structured list of the actions a rep completes at each stage of the sales process — from prospecting and qualifying through discovery, demo, proposal, closing and follow-up — so deals advance consistently instead of relying on memory."
+    },
+    {
+      "q": "How do I use this sales checklist day to day?",
+      "a": "Open it for each active opportunity, work through the current stage, and check off tasks as you finish them. In pipeline reviews, use it to pinpoint the exact missing step that is holding a deal back."
+    },
+    {
+      "q": "Is this sales checklist suitable for B2B and SaaS teams?",
+      "a": "Yes. The stages map to most B2B and SaaS cycles. Lengthen discovery for complex deals or compress the demo and proposal steps for shorter cycles, then save your version as a PDF."
+    },
+    {
+      "q": "Can I print this checklist or download it as a PDF?",
+      "a": "Yes. The checklist is built to print cleanly on one page and to download as a PDF, so you can keep it beside your CRM or share a single version across the sales team."
+    },
+    {
+      "q": "How is a sales checklist different from a CRM?",
+      "a": "A CRM stores the data; the checklist defines the behavior. The list tells reps what to do at each stage, and the CRM records that it happened. They work best together."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/sales-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/sales-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Sales Checklist by ChecklistForge (https://checklistforge.com/checklist/sales-checklist)",
+  "updated": "2026-10-17"
+}

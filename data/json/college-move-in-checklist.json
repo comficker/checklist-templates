@@ -1,0 +1,183 @@
+{
+  "id": "college-move-in-checklist",
+  "name": "College Move-In Checklist",
+  "description": "A step-by-step checklist for a smooth college move-in day.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "move-in",
+    "students",
+    "college",
+    "first-year"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Before move-in day",
+      "items": [
+        {
+          "text": "Confirm your assigned move-in date and time window."
+        },
+        {
+          "text": "Review parking, traffic and unloading instructions.",
+          "note": "Many schools enforce strict time slots — plan to arrive on time."
+        },
+        {
+          "text": "Map your route and a backup in case of closures."
+        },
+        {
+          "text": "Coordinate large or shared items with your roommate."
+        },
+        {
+          "text": "Label every box with your name and room number."
+        },
+        {
+          "text": "Charge your phone and any devices the night before."
+        }
+      ]
+    },
+    {
+      "title": "Pack the vehicle",
+      "items": [
+        {
+          "text": "Load heavy and bulky items into the vehicle first."
+        },
+        {
+          "text": "Keep your first-night box easy to reach."
+        },
+        {
+          "text": "Bring a hand truck or dolly if you have one."
+        },
+        {
+          "text": "Pack a small toolkit for assembling furniture."
+        },
+        {
+          "text": "Bring water, snacks and comfortable shoes."
+        },
+        {
+          "text": "Keep documents and keys in a bag with you."
+        }
+      ]
+    },
+    {
+      "title": "Arrival and check-in",
+      "items": [
+        {
+          "text": "Arrive within your assigned move-in window."
+        },
+        {
+          "text": "Check in and pick up your room key or access card."
+        },
+        {
+          "text": "Collect any move-in packet or paperwork."
+        },
+        {
+          "text": "Note where to park and the unloading time limit."
+        },
+        {
+          "text": "Locate elevators, stairs and the nearest entrance."
+        },
+        {
+          "text": "Find out where move-in carts are available."
+        }
+      ]
+    },
+    {
+      "title": "Unload and carry up",
+      "items": [
+        {
+          "text": "Unload the vehicle quickly to free the spot."
+        },
+        {
+          "text": "Move heavy items first while energy is high."
+        },
+        {
+          "text": "Stage boxes in the room before unpacking."
+        },
+        {
+          "text": "Keep walkways and doorways clear for others."
+        },
+        {
+          "text": "Have a helper guard items during trips."
+        },
+        {
+          "text": "Break down empty boxes and recycle them."
+        }
+      ]
+    },
+    {
+      "title": "Set up the room",
+      "items": [
+        {
+          "text": "Make the bed first so you can rest later."
+        },
+        {
+          "text": "Set up your desk and charge your devices."
+        },
+        {
+          "text": "Unpack toiletries and your first-night essentials."
+        },
+        {
+          "text": "Arrange storage and put clothes away."
+        },
+        {
+          "text": "Test electronics, outlets and the internet."
+        },
+        {
+          "text": "Add a few personal touches to feel at home."
+        }
+      ]
+    },
+    {
+      "title": "Paperwork and wrap-up",
+      "items": [
+        {
+          "text": "Complete the room condition or inventory form.",
+          "note": "Document existing damage to protect your deposit."
+        },
+        {
+          "text": "Photograph any damage you find on arrival."
+        },
+        {
+          "text": "Save housing, RA and maintenance contacts."
+        },
+        {
+          "text": "Confirm your meal plan and ID card work."
+        },
+        {
+          "text": "Note quiet hours, laundry and trash rules."
+        },
+        {
+          "text": "Say goodbye to family and attend any welcome events."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I do before college move-in day?",
+      "a": "Confirm your move-in time slot, map out parking and your route, label your boxes by destination, and pack a first-night essentials bag. Handling logistics in advance prevents most move-in day stress."
+    },
+    {
+      "q": "What is a first-night box?",
+      "a": "It's a single box or bag with everything you'll need the first night before fully unpacking: bedding, toiletries, a phone charger, medications, a change of clothes and basic snacks. Keep it easy to reach."
+    },
+    {
+      "q": "How long does college move-in take?",
+      "a": "Unloading often takes one to two hours depending on parking, elevators and crowds, while full setup can take a day. Arriving early in your window usually means shorter lines."
+    },
+    {
+      "q": "Can my family help me move in?",
+      "a": "Usually yes, though some schools limit how many helpers or vehicles are allowed at once. Check your move-in instructions so everyone knows the rules before arriving."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each step as you move through move-in day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/college-move-in-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/college-move-in-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "College Move-In Checklist by ChecklistForge (https://checklistforge.com/checklist/college-move-in-checklist)",
+  "updated": "2026-10-17"
+}

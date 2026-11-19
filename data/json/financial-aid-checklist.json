@@ -1,0 +1,183 @@
+{
+  "id": "financial-aid-checklist",
+  "name": "Financial Aid Checklist",
+  "description": "A checklist for applying for financial aid and comparing award offers.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "students",
+    "college",
+    "financial-aid",
+    "fafsa"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Prepare and plan",
+      "items": [
+        {
+          "text": "List the schools you want to receive your aid information."
+        },
+        {
+          "text": "Find the federal, state and school aid deadlines.",
+          "note": "School and state deadlines are often earlier than the federal one."
+        },
+        {
+          "text": "Create or recover your application account and ID."
+        },
+        {
+          "text": "Identify whose information the forms require."
+        },
+        {
+          "text": "Estimate your costs and expected aid need."
+        },
+        {
+          "text": "Add every deadline to your calendar."
+        }
+      ]
+    },
+    {
+      "title": "Gather documents",
+      "items": [
+        {
+          "text": "Collect identification and Social Security details."
+        },
+        {
+          "text": "Gather tax returns and income records."
+        },
+        {
+          "text": "Compile bank and investment statements."
+        },
+        {
+          "text": "Record any benefits or untaxed income."
+        },
+        {
+          "text": "Note family size and household details."
+        },
+        {
+          "text": "Confirm the exact document list with your aid authority."
+        }
+      ]
+    },
+    {
+      "title": "Complete the FAFSA",
+      "items": [
+        {
+          "text": "Start the FAFSA as soon as it opens."
+        },
+        {
+          "text": "Enter your information accurately and completely."
+        },
+        {
+          "text": "Add every school that should receive your data."
+        },
+        {
+          "text": "Have a parent provide details and sign if required."
+        },
+        {
+          "text": "Review for errors before you submit."
+        },
+        {
+          "text": "Submit and save your confirmation."
+        }
+      ]
+    },
+    {
+      "title": "Apply for other aid",
+      "items": [
+        {
+          "text": "Complete any state aid applications."
+        },
+        {
+          "text": "Fill out school-specific aid forms if required."
+        },
+        {
+          "text": "Apply for grants you may qualify for."
+        },
+        {
+          "text": "Search and apply for scholarships."
+        },
+        {
+          "text": "Look into work-study opportunities."
+        },
+        {
+          "text": "Keep copies of every form you submit."
+        }
+      ]
+    },
+    {
+      "title": "Follow up",
+      "items": [
+        {
+          "text": "Check your application status after submitting."
+        },
+        {
+          "text": "Respond quickly to any requests for documents."
+        },
+        {
+          "text": "Complete verification if your file is selected."
+        },
+        {
+          "text": "Correct any errors flagged on your results."
+        },
+        {
+          "text": "Confirm each school received your information."
+        },
+        {
+          "text": "Watch for and read your award notifications."
+        }
+      ]
+    },
+    {
+      "title": "Compare and decide",
+      "items": [
+        {
+          "text": "Separate grants and scholarships from loans on each offer."
+        },
+        {
+          "text": "Calculate the net cost after free aid at each school."
+        },
+        {
+          "text": "Compare total out-of-pocket cost across schools."
+        },
+        {
+          "text": "Understand any loan terms before accepting.",
+          "note": "Borrow only what you need and confirm repayment terms."
+        },
+        {
+          "text": "Check whether aid is renewable in future years."
+        },
+        {
+          "text": "Accept your aid and meet any acceptance deadlines."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I apply for financial aid?",
+      "a": "Apply as soon as the application opens for the year. Much aid is awarded on a first-come, first-served basis, and schools and states set their own earlier deadlines, so applying early protects your access to limited funds."
+    },
+    {
+      "q": "What documents do I need for the FAFSA?",
+      "a": "You'll typically need identification, tax returns and income records, bank and investment statements, and records of any benefits. Specific requirements vary, so confirm the current list with your official aid authority."
+    },
+    {
+      "q": "Do I have to accept all the aid I'm offered?",
+      "a": "No. You can accept grants and scholarships you qualify for and choose whether to accept work-study or loans. Borrow only what you need and understand the terms before accepting any loan."
+    },
+    {
+      "q": "How do I compare financial aid award offers?",
+      "a": "Look at the net cost after grants and scholarships, not the sticker price. Separate free aid from loans, compare total out-of-pocket cost across schools, and factor in renewability for future years."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each step as you apply for aid and compare offers."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/financial-aid-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/financial-aid-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Financial Aid Checklist by ChecklistForge (https://checklistforge.com/checklist/financial-aid-checklist)",
+  "updated": "2026-10-17"
+}

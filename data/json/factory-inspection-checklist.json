@@ -1,0 +1,182 @@
+{
+  "id": "factory-inspection-checklist",
+  "name": "Factory Inspection Checklist",
+  "description": "A checklist for inspecting a factory or production plant.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "inspection",
+    "factory-inspection",
+    "manufacturing"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Machinery and guarding",
+      "items": [
+        {
+          "text": "Confirm guards are fitted on moving parts and not bypassed.",
+          "note": "Machine guarding is required by OSHA; never operate with a defeated interlock."
+        },
+        {
+          "text": "Check emergency stops are accessible and function on test."
+        },
+        {
+          "text": "Verify lockout/tagout procedures and devices are available."
+        },
+        {
+          "text": "Inspect machines for leaks, unusual noise or vibration."
+        },
+        {
+          "text": "Confirm machines have current maintenance and inspection records."
+        },
+        {
+          "text": "Check operators are trained and authorized for each machine."
+        }
+      ]
+    },
+    {
+      "title": "Workplace safety",
+      "items": [
+        {
+          "text": "Confirm required PPE is worn and available at each station."
+        },
+        {
+          "text": "Check noise, dust and fume controls are working."
+        },
+        {
+          "text": "Verify electrical panels are labeled, closed and accessible."
+        },
+        {
+          "text": "Confirm chemicals are labeled, stored and have safety data sheets."
+        },
+        {
+          "text": "Check first aid, eyewash and emergency showers are stocked."
+        },
+        {
+          "text": "Verify fire extinguishers are charged, tagged and accessible."
+        }
+      ]
+    },
+    {
+      "title": "Quality control",
+      "items": [
+        {
+          "text": "Confirm work instructions and specifications are available."
+        },
+        {
+          "text": "Check measuring and test equipment is calibrated and in date."
+        },
+        {
+          "text": "Verify in-process inspection and sampling are being performed."
+        },
+        {
+          "text": "Confirm nonconforming product is segregated and labeled."
+        },
+        {
+          "text": "Check materials are within shelf life and stored correctly."
+        },
+        {
+          "text": "Verify batch and traceability records are complete."
+        }
+      ]
+    },
+    {
+      "title": "Housekeeping",
+      "items": [
+        {
+          "text": "Confirm aisles and walkways are clear and marked."
+        },
+        {
+          "text": "Check floors for spills, debris and trip hazards."
+        },
+        {
+          "text": "Verify waste and scrap are removed and segregated."
+        },
+        {
+          "text": "Confirm tools and materials are stored when not in use."
+        },
+        {
+          "text": "Check lighting is adequate across the production area."
+        },
+        {
+          "text": "Verify drains and ventilation are clear and functioning."
+        }
+      ]
+    },
+    {
+      "title": "Equipment and utilities",
+      "items": [
+        {
+          "text": "Confirm compressed air systems and lines are leak-free and secured."
+        },
+        {
+          "text": "Check pressure vessels and boilers show current inspection."
+        },
+        {
+          "text": "Verify conveyors have guarding, stops and clear access."
+        },
+        {
+          "text": "Inspect lifting equipment and slings for damage and certification."
+        },
+        {
+          "text": "Confirm forklifts and trucks have daily pre-use checks."
+        },
+        {
+          "text": "Check backup power and critical utilities operate on test."
+        }
+      ]
+    },
+    {
+      "title": "Compliance and records",
+      "items": [
+        {
+          "text": "Confirm permits, licenses and certificates are current."
+        },
+        {
+          "text": "Check environmental controls and waste handling are compliant."
+        },
+        {
+          "text": "Verify training and competency records are up to date."
+        },
+        {
+          "text": "Review previous findings for completed corrective actions."
+        },
+        {
+          "text": "Record each defect with location, severity and photo."
+        },
+        {
+          "text": "Assign owners and due dates, then sign, date and file."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a factory inspection checklist?",
+      "a": "It's a standardized list used to inspect a manufacturing plant for machine safety, workplace hazards, quality, housekeeping and compliance. Each item is marked pass or fail so problems can be corrected and tracked."
+    },
+    {
+      "q": "How often should a factory be inspected?",
+      "a": "Run routine safety walkthroughs regularly — many plants inspect weekly, with daily pre-use machine checks. Add formal audits and statutory inspections of pressure vessels, lifting gear and similar on their required cycles."
+    },
+    {
+      "q": "Who performs factory inspections?",
+      "a": "Plant supervisors, safety officers and quality leads handle routine inspections, while a competent person or licensed contractor handles specialized equipment such as boilers, cranes and electrical systems."
+    },
+    {
+      "q": "What should I do if a machine is unsafe?",
+      "a": "Stop and lock out the machine, tag it out of service, and keep it isolated until a qualified person repairs it and verifies guards and interlocks. Never run a machine with a defeated safety device."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the factory inspection checklist for a clipboard walkthrough, or download the PDF to complete on a tablet and store with your safety and quality records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/factory-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/factory-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Factory Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/factory-inspection-checklist)",
+  "updated": "2026-10-20"
+}

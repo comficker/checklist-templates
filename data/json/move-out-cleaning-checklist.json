@@ -1,0 +1,188 @@
+{
+  "id": "move-out-cleaning-checklist",
+  "name": "Move Out Cleaning Checklist",
+  "description": "An end-of-tenancy move out cleaning checklist to pass inspection and secure your deposit.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "renters",
+    "cleaning",
+    "deep-cleaning",
+    "move-out"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Whole-Home Prep",
+      "items": [
+        {
+          "text": "Remove all furniture, belongings, and trash from every room"
+        },
+        {
+          "text": "Patch small nail holes and touch up scuffed paint if your lease requires it"
+        },
+        {
+          "text": "Dust ceiling corners, fans, and light fixtures throughout"
+        },
+        {
+          "text": "Wipe down all walls, doors, frames, and light switches"
+        },
+        {
+          "text": "Clean air vents and replace HVAC filters"
+        },
+        {
+          "text": "Take dated photos once each room is cleaned",
+          "note": "Photos protect you if there is any dispute over the deposit."
+        }
+      ]
+    },
+    {
+      "title": "Kitchen",
+      "items": [
+        {
+          "text": "Clean the oven interior, racks, broiler, and door glass"
+        },
+        {
+          "text": "Pull out the stove and fridge to clean behind and underneath"
+        },
+        {
+          "text": "Empty, defrost, and wipe the refrigerator and freezer"
+        },
+        {
+          "text": "Degrease the range hood and replace or wash the filter"
+        },
+        {
+          "text": "Empty and wipe inside all cabinets and drawers"
+        },
+        {
+          "text": "Scrub the sink, descale the faucet, and clean the disposal"
+        },
+        {
+          "text": "Wipe countertops, the backsplash, and cabinet fronts"
+        }
+      ]
+    },
+    {
+      "title": "Bathrooms",
+      "items": [
+        {
+          "text": "Scrub and disinfect the toilet, including the base and behind it"
+        },
+        {
+          "text": "Deep clean the shower, tub, and remove all soap scum"
+        },
+        {
+          "text": "Scrub grout lines and treat any mildew"
+        },
+        {
+          "text": "Descale the showerhead, faucets, and fixtures"
+        },
+        {
+          "text": "Clean the mirror, vanity, and inside the cabinets"
+        },
+        {
+          "text": "Clear and disinfect all drains"
+        },
+        {
+          "text": "Clean the exhaust fan cover and mop the floor"
+        }
+      ]
+    },
+    {
+      "title": "Bedrooms and Living Areas",
+      "items": [
+        {
+          "text": "Wipe down baseboards, trim, and door frames"
+        },
+        {
+          "text": "Clean inside and outside of all closets and shelving"
+        },
+        {
+          "text": "Dust and wipe window sills, ledges, and built-ins"
+        },
+        {
+          "text": "Remove any wall hooks, mounts, and adhesive residue"
+        },
+        {
+          "text": "Spot-clean walls and remove scuff marks"
+        },
+        {
+          "text": "Vacuum or steam-clean carpets to lift stains"
+        }
+      ]
+    },
+    {
+      "title": "Windows, Doors and Fixtures",
+      "items": [
+        {
+          "text": "Wash interior windows and wipe them streak-free"
+        },
+        {
+          "text": "Vacuum and wipe window tracks and sills"
+        },
+        {
+          "text": "Dust blinds and launder or wipe curtains if they stay"
+        },
+        {
+          "text": "Clean light fixtures and replace any burnt-out bulbs"
+        },
+        {
+          "text": "Wipe down all doors, handles, and frames"
+        },
+        {
+          "text": "Clean mirrors and any glass surfaces"
+        }
+      ]
+    },
+    {
+      "title": "Floors and Final Walkthrough",
+      "items": [
+        {
+          "text": "Sweep and vacuum every room, including closets and corners"
+        },
+        {
+          "text": "Mop all hard floors and spot-treat stains"
+        },
+        {
+          "text": "Steam-clean or shampoo carpets if required by the lease"
+        },
+        {
+          "text": "Clean and disinfect any outdoor patio, balcony, or entry"
+        },
+        {
+          "text": "Remove all trash and leave bins clean"
+        },
+        {
+          "text": "Do a final inspection room by room against your lease checklist"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does move out cleaning include?",
+      "a": "It includes deep cleaning every room, the inside of appliances, bathrooms, baseboards, windows, and floors, plus patching small holes and removing all trash. The goal is to return the property in inspection-ready condition."
+    },
+    {
+      "q": "How do I make sure I get my deposit back?",
+      "a": "Clean thoroughly with rooms empty, follow your lease's cleaning requirements, repair small damage, and take dated photos after cleaning as proof. A detailed checklist helps you cover everything inspectors look for."
+    },
+    {
+      "q": "Should I clean before or after moving furniture out?",
+      "a": "Clean after furniture and belongings are removed so you can reach every surface, inside cupboards, and behind appliances. Empty rooms make a thorough move-out clean far easier."
+    },
+    {
+      "q": "How long does a move out clean take?",
+      "a": "A full move-out clean usually takes a full day for an average home, longer for larger properties. Starting early and working room by room keeps it on track before your inspection."
+    },
+    {
+      "q": "Is this move out cleaning checklist printable?",
+      "a": "Yes. Print it or download the PDF and check off each room and task before your final walkthrough."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/move-out-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/move-out-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Move Out Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/move-out-cleaning-checklist)",
+  "updated": "2026-10-17"
+}

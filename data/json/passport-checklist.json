@@ -1,0 +1,148 @@
+{
+  "id": "passport-checklist",
+  "name": "Passport Checklist",
+  "description": "A passport checklist for applying for or renewing a passport, covering requirements, photos, forms, fees, and timing.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "travel",
+    "documents",
+    "trip-planning",
+    "passport"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Check Requirements First",
+      "items": [
+        {
+          "text": "Confirm whether you can renew or must reapply"
+        },
+        {
+          "text": "Read your country's official passport requirements"
+        },
+        {
+          "text": "Check the processing time against your travel dates"
+        },
+        {
+          "text": "Note whether you must apply in person or by mail"
+        },
+        {
+          "text": "Verify all rules with the official authority",
+          "note": "Requirements and fees vary and change, so check officially"
+        }
+      ]
+    },
+    {
+      "title": "Gather Supporting Documents",
+      "items": [
+        {
+          "text": "Proof of citizenship as specified"
+        },
+        {
+          "text": "Proof of identity, such as a current ID"
+        },
+        {
+          "text": "Your previous passport if renewing"
+        },
+        {
+          "text": "Supporting documents for any name change"
+        },
+        {
+          "text": "Documents required for a child's application"
+        }
+      ]
+    },
+    {
+      "title": "Photos",
+      "items": [
+        {
+          "text": "Take photos meeting the exact specifications"
+        },
+        {
+          "text": "Check size, background, and lighting rules"
+        },
+        {
+          "text": "Follow rules on glasses, head coverings, and expression"
+        },
+        {
+          "text": "Use an approved photo service if unsure"
+        },
+        {
+          "text": "Bring spare copies in case one is rejected"
+        }
+      ]
+    },
+    {
+      "title": "Complete the Forms",
+      "items": [
+        {
+          "text": "Download or collect the correct application form"
+        },
+        {
+          "text": "Fill in every field accurately and legibly"
+        },
+        {
+          "text": "Arrange any required signatures or witnesses"
+        },
+        {
+          "text": "Double-check names, dates, and numbers"
+        },
+        {
+          "text": "Review the form against the official checklist"
+        }
+      ]
+    },
+    {
+      "title": "Fees and Submission",
+      "items": [
+        {
+          "text": "Confirm the current fees and accepted payment methods"
+        },
+        {
+          "text": "Decide on standard or expedited processing"
+        },
+        {
+          "text": "Book an appointment if required"
+        },
+        {
+          "text": "Submit by mail or in person as instructed"
+        },
+        {
+          "text": "Keep your receipt and tracking details"
+        },
+        {
+          "text": "Verify all rules before relying on this list",
+          "note": "Requirements, eligibility, fees, and timelines vary by country and change; always apply through your official passport authority"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What documents do I need to apply for a passport?",
+      "a": "Usually proof of identity, proof of citizenship, completed forms, photos, and fees. The exact list depends on your country and whether it is a first application or a renewal, so confirm with your official passport authority."
+    },
+    {
+      "q": "How long does it take to get a passport?",
+      "a": "Processing times vary widely by country and season and can stretch during busy periods. Apply well before any planned travel, and check current timelines and any expedited options on the official passport site."
+    },
+    {
+      "q": "What are the rules for passport photos?",
+      "a": "Photo rules are strict and cover size, background, expression, and recency. They vary by country, so follow your passport authority's exact specifications, or use an approved photo service to avoid a rejected application."
+    },
+    {
+      "q": "Can I renew my passport instead of reapplying?",
+      "a": "Many people qualify to renew rather than reapply, which is often simpler. Eligibility depends on your current passport's status and your country's rules, so check the official guidance for renewal conditions."
+    },
+    {
+      "q": "Is this passport checklist printable?",
+      "a": "Yes. Print it or download the PDF, gather your items in order, and verify every requirement, fee, and timeline with your country's official passport authority before submitting."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/passport-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/passport-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Passport Checklist by ChecklistForge (https://checklistforge.com/checklist/passport-checklist)",
+  "updated": "2026-10-17"
+}

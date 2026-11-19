@@ -1,0 +1,181 @@
+{
+  "id": "caregiver-checklist",
+  "name": "Caregiver Checklist",
+  "description": "A practical caregiver checklist covering daily care tasks, tracking, documentation, respite, and self-care for the person providing care.",
+  "category": "recovery-senior-care",
+  "category_name": "Recovery & Senior Care",
+  "tags": [
+    "self-care",
+    "caregiver",
+    "senior-care",
+    "recovery"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Daily Care Tasks",
+      "items": [
+        {
+          "text": "Help with bathing, dressing, grooming, and toileting as needed"
+        },
+        {
+          "text": "Prepare meals and assist with eating and hydration"
+        },
+        {
+          "text": "Give medications on schedule and confirm they were taken"
+        },
+        {
+          "text": "Support safe movement, transfers, and any prescribed exercises",
+          "note": "Ask a professional to show safe lifting techniques to protect your back."
+        },
+        {
+          "text": "Check skin, comfort, and mood throughout the day"
+        },
+        {
+          "text": "Keep the living space clean, safe, and clutter-free"
+        }
+      ]
+    },
+    {
+      "title": "Medication and Appointment Tracking",
+      "items": [
+        {
+          "text": "Keep one master list of medications, doses, and timing"
+        },
+        {
+          "text": "Use a pill organizer and set reminders for each dose",
+          "note": "Refill prescriptions early so you never run out of a critical medication."
+        },
+        {
+          "text": "Maintain a shared calendar of all appointments"
+        },
+        {
+          "text": "Prepare a written list of questions before each visit"
+        },
+        {
+          "text": "Arrange transportation and confirm appointments in advance"
+        },
+        {
+          "text": "Note any new instructions or medication changes right away"
+        }
+      ]
+    },
+    {
+      "title": "Documentation and Records",
+      "items": [
+        {
+          "text": "Keep a care binder with medical history, allergies, and conditions"
+        },
+        {
+          "text": "Record symptoms, changes, and daily observations"
+        },
+        {
+          "text": "Store insurance cards, IDs, and key documents in one place"
+        },
+        {
+          "text": "List doctors, pharmacies, and emergency contacts where helpers can find them"
+        },
+        {
+          "text": "Save copies of legal documents like power of attorney and directives"
+        },
+        {
+          "text": "Update the records whenever something changes"
+        }
+      ]
+    },
+    {
+      "title": "Respite and Sharing the Load",
+      "items": [
+        {
+          "text": "Make a list of tasks others can take on and ask for help"
+        },
+        {
+          "text": "Schedule regular breaks and time away from caregiving"
+        },
+        {
+          "text": "Look into respite care, adult day programs, or in-home help"
+        },
+        {
+          "text": "Share duties on a rotating schedule with family or friends"
+        },
+        {
+          "text": "Prepare a backup plan in case you get sick or have an emergency"
+        }
+      ]
+    },
+    {
+      "title": "Caregiver Self-Care",
+      "items": [
+        {
+          "text": "Protect time for your own sleep, meals, and movement"
+        },
+        {
+          "text": "Keep up with your own medical and dental appointments"
+        },
+        {
+          "text": "Stay connected with friends and activities you enjoy"
+        },
+        {
+          "text": "Notice signs of stress, exhaustion, or low mood in yourself",
+          "note": "Persistent burnout is a reason to seek support, not push harder."
+        },
+        {
+          "text": "Set realistic limits and let go of being perfect"
+        },
+        {
+          "text": "Talk to your own doctor if you feel overwhelmed or unwell"
+        }
+      ]
+    },
+    {
+      "title": "Support and Resources",
+      "items": [
+        {
+          "text": "Find local caregiver support groups, online or in person"
+        },
+        {
+          "text": "Learn what community, nonprofit, and government services are available"
+        },
+        {
+          "text": "Ask the care team about social workers or care coordinators"
+        },
+        {
+          "text": "Keep a list of emergency numbers and after-hours contacts handy"
+        },
+        {
+          "text": "Research financial, respite, and benefit programs you may qualify for"
+        },
+        {
+          "text": "Important: this checklist is general information for caregivers, not medical advice; follow the care recipient's doctor and care team, and contact your own doctor if you are struggling"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a caregiver checklist help with?",
+      "a": "It keeps daily care tasks, medications, appointments, and documentation organized in one place, and it builds in reminders for respite and your own self-care. That structure reduces missed steps and helps prevent caregiver burnout."
+    },
+    {
+      "q": "How do I keep track of medications and appointments?",
+      "a": "Maintain one updated medication list with doses and times, use a pill organizer and alarms, and keep a shared calendar for appointments. Bring a written question list and a record of recent symptoms to each visit."
+    },
+    {
+      "q": "Why is documentation important for caregivers?",
+      "a": "Clear records of medications, symptoms, instructions, and contacts make it easier to coordinate with doctors and other helpers, especially in an emergency. Good notes also help spot changes over time that are easy to miss day to day."
+    },
+    {
+      "q": "How can caregivers avoid burnout?",
+      "a": "Schedule regular breaks, accept and ask for help, share tasks with family, use respite care when available, and protect time for sleep, meals, and your own appointments. Connecting with support groups can ease the emotional load."
+    },
+    {
+      "q": "Is this caregiver checklist medical advice?",
+      "a": "No. It is a general organizing tool for caregivers. It is not medical advice — follow the care recipient's doctor and care team for their health decisions, and contact your own doctor if you are struggling."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/caregiver-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/caregiver-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Caregiver Checklist by ChecklistForge (https://checklistforge.com/checklist/caregiver-checklist)",
+  "updated": "2026-10-18"
+}

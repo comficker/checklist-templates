@@ -1,0 +1,188 @@
+{
+  "id": "wedding-planning-checklist",
+  "name": "Wedding Planning Checklist",
+  "description": "A month-by-month wedding planning checklist that walks you from engagement through the week of your wedding.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "vendors",
+    "wedding-planning",
+    "timeline",
+    "engaged-couples"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "12+ Months Out: Foundation",
+      "items": [
+        {
+          "text": "Set your overall wedding budget and agree on who is contributing."
+        },
+        {
+          "text": "Draft a rough guest count to guide venue size and catering.",
+          "note": "Even a ballpark number shapes nearly every cost, so settle it early."
+        },
+        {
+          "text": "Choose three or four possible wedding dates."
+        },
+        {
+          "text": "Tour and book your ceremony and reception venues."
+        },
+        {
+          "text": "Decide whether to hire a wedding planner or coordinator."
+        },
+        {
+          "text": "Start a shared folder or binder to keep contracts and ideas in one place."
+        }
+      ]
+    },
+    {
+      "title": "9 to 11 Months Out: Key Vendors",
+      "items": [
+        {
+          "text": "Book your photographer and videographer."
+        },
+        {
+          "text": "Secure your caterer or confirm in-house catering options."
+        },
+        {
+          "text": "Reserve your band or DJ for the reception."
+        },
+        {
+          "text": "Hire your florist and discuss a seasonal palette."
+        },
+        {
+          "text": "Begin shopping for the wedding dress and any attire that needs lead time.",
+          "note": "Bridal gowns often take four to six months to order and alter."
+        },
+        {
+          "text": "Send save-the-dates once your date and venue are locked."
+        }
+      ]
+    },
+    {
+      "title": "6 to 8 Months Out: Details Take Shape",
+      "items": [
+        {
+          "text": "Book your officiant and confirm any ceremony requirements."
+        },
+        {
+          "text": "Reserve a block of hotel rooms for out-of-town guests."
+        },
+        {
+          "text": "Order or design your invitation suite."
+        },
+        {
+          "text": "Plan your honeymoon and check passport expiration dates."
+        },
+        {
+          "text": "Choose attire for the wedding party and groom."
+        },
+        {
+          "text": "Register for gifts and set up your wedding website."
+        }
+      ]
+    },
+    {
+      "title": "3 to 5 Months Out: Locking It In",
+      "items": [
+        {
+          "text": "Finalize the menu and schedule a tasting with your caterer."
+        },
+        {
+          "text": "Order the wedding cake or dessert."
+        },
+        {
+          "text": "Choose your ceremony readings, vows, and music."
+        },
+        {
+          "text": "Buy or rent wedding rings and arrange engraving."
+        },
+        {
+          "text": "Book transportation for the couple and guests if needed."
+        },
+        {
+          "text": "Mail invitations six to eight weeks before the date.",
+          "note": "Set your RSVP deadline about three weeks before the wedding."
+        }
+      ]
+    },
+    {
+      "title": "1 to 2 Months Out: Confirmations",
+      "items": [
+        {
+          "text": "Apply for your marriage license within the valid window for your state."
+        },
+        {
+          "text": "Attend your final dress fitting and pick up the gown."
+        },
+        {
+          "text": "Confirm details, arrival times, and balances with every vendor."
+        },
+        {
+          "text": "Create the day-of timeline and share it with the wedding party."
+        },
+        {
+          "text": "Build the seating chart once RSVPs are in."
+        },
+        {
+          "text": "Write thank-you notes for any gifts received early."
+        }
+      ]
+    },
+    {
+      "title": "Week Of: Final Stretch",
+      "items": [
+        {
+          "text": "Give your caterer and venue the final guest count."
+        },
+        {
+          "text": "Pick up rentals, attire, and any final orders."
+        },
+        {
+          "text": "Pack an emergency kit and the honeymoon bags."
+        },
+        {
+          "text": "Confirm hair and makeup appointment times."
+        },
+        {
+          "text": "Prepare vendor tips and final payments in labeled envelopes.",
+          "note": "Hand the envelopes to a trusted person to distribute on the day."
+        },
+        {
+          "text": "Run through the timeline at the rehearsal and delegate day-of tasks."
+        },
+        {
+          "text": "Step back, rest, and trust your planning."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should we start planning our wedding?",
+      "a": "Most couples begin 12 to 16 months out, which gives you the widest choice of venues and vendors for popular dates. If your timeline is shorter, you can still pull off a beautiful day by booking the venue and key vendors first, then compressing the remaining tasks into the months you have."
+    },
+    {
+      "q": "What should we book first?",
+      "a": "Lock in your venue and date before anything else, because nearly every other decision depends on them. Right after that, secure the vendors who only take one wedding per day, such as your photographer, caterer, and band or DJ. These book up fastest, especially for weekend dates in peak season."
+    },
+    {
+      "q": "How far in advance should we send invitations?",
+      "a": "Mail formal invitations six to eight weeks before the wedding, and send save-the-dates six to eight months ahead. For a destination wedding or a holiday weekend, push both earlier so guests can arrange travel and time off. Set your RSVP deadline about three weeks before the day."
+    },
+    {
+      "q": "Do we really need a wedding planner?",
+      "a": "A full-service planner is helpful but not required. If your budget is tight, consider a day-of coordinator instead, who steps in during the final weeks to manage logistics and the timeline. Either way, this checklist keeps you organized so you can handle as much or as little as you choose."
+    },
+    {
+      "q": "What is the single most overlooked planning task?",
+      "a": "Building a realistic timeline for the wedding day itself. Couples focus on the months of prep and forget to map the actual hours, leaving gaps that throw off vendors and guests. Block out getting ready, photos, ceremony, and reception with buffer time, then share it with everyone involved."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-planning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-planning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Planning Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-planning-checklist)",
+  "updated": "2026-11-13"
+}

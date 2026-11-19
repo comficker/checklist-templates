@@ -1,0 +1,145 @@
+{
+  "id": "travel-document-checklist",
+  "name": "Travel Document Checklist",
+  "description": "A travel document checklist for gathering and copying every paper you need — passport, visa, tickets, insurance, IDs, and backups.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "travel",
+    "documents",
+    "trip-planning",
+    "passport"
+  ],
+  "item_count": 25,
+  "sections": [
+    {
+      "title": "Identity Documents",
+      "items": [
+        {
+          "text": "Passport, valid for the whole trip"
+        },
+        {
+          "text": "Government-issued photo ID"
+        },
+        {
+          "text": "Driver's license if you plan to drive"
+        },
+        {
+          "text": "Any visas or entry permits"
+        },
+        {
+          "text": "Passport-style photos if you may need them",
+          "note": "Validity rules vary by country, so check official sources"
+        }
+      ]
+    },
+    {
+      "title": "Travel and Booking Documents",
+      "items": [
+        {
+          "text": "Flight, train, or bus tickets"
+        },
+        {
+          "text": "Accommodation confirmations for each night"
+        },
+        {
+          "text": "Car rental or transfer bookings"
+        },
+        {
+          "text": "Tour, event, and activity tickets"
+        },
+        {
+          "text": "A printed itinerary with key details"
+        }
+      ]
+    },
+    {
+      "title": "Insurance and Financial",
+      "items": [
+        {
+          "text": "Travel insurance policy and emergency numbers"
+        },
+        {
+          "text": "Health insurance or coverage details"
+        },
+        {
+          "text": "Bank and credit card contact numbers"
+        },
+        {
+          "text": "A note of card details kept securely"
+        },
+        {
+          "text": "Currency or travel card information"
+        }
+      ]
+    },
+    {
+      "title": "Health and Special Documents",
+      "items": [
+        {
+          "text": "Vaccination or health records if required"
+        },
+        {
+          "text": "Copies of prescriptions and a medicines list"
+        },
+        {
+          "text": "Any required entry or health declaration forms"
+        },
+        {
+          "text": "Documents for traveling with children or pets"
+        },
+        {
+          "text": "Confirm requirements with official sources",
+          "note": "Entry and health document rules vary by country"
+        }
+      ]
+    },
+    {
+      "title": "Copies and Backups",
+      "items": [
+        {
+          "text": "Make printed copies of every key document"
+        },
+        {
+          "text": "Store one set separate from the originals"
+        },
+        {
+          "text": "Save digital scans in secure cloud storage"
+        },
+        {
+          "text": "Keep offline copies on your phone"
+        },
+        {
+          "text": "Share key documents with someone you trust at home"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What travel documents do I need to gather?",
+      "a": "Typically your passport or ID, any visas, tickets and booking confirmations, travel insurance, and a driver's license if driving. The exact mix depends on your destination and whether you are traveling internationally."
+    },
+    {
+      "q": "Why should I make copies of my documents?",
+      "a": "Copies help you replace lost or stolen documents and prove your identity in an emergency. Keep a printed set separate from the originals and a digital set in secure cloud storage you can reach anywhere."
+    },
+    {
+      "q": "How is this different from a travel checklist?",
+      "a": "This document checklist focuses only on gathering and copying paperwork, while a travel checklist covers the whole trip. Use this to organize documents and a travel checklist for bookings, money, and home prep."
+    },
+    {
+      "q": "Where should I store my travel documents?",
+      "a": "Keep originals together in a secure travel folder or pouch in your carry-on, copies in a separate bag, and digital scans in the cloud. Spreading them out means one loss never leaves you without backups."
+    },
+    {
+      "q": "Is this travel document checklist printable?",
+      "a": "Yes. Print it or download the PDF, work through it as you gather originals and make copies, and keep it with your document folder until you return home."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/travel-document-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/travel-document-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Travel Document Checklist by ChecklistForge (https://checklistforge.com/checklist/travel-document-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "high-school-graduation-checklist",
+  "name": "High School Graduation Checklist",
+  "description": "A senior-year checklist covering graduation requirements, the ceremony and next-step planning.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "students",
+    "graduation",
+    "high-school",
+    "senior-year"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Confirm graduation requirements",
+      "items": [
+        {
+          "text": "Meet with your counselor to review your transcript.",
+          "note": "Do this early so there's time to fix any credit gaps."
+        },
+        {
+          "text": "Confirm you've met all required credits and courses."
+        },
+        {
+          "text": "Check any required exams or assessments are passed."
+        },
+        {
+          "text": "Verify community service or other requirements are met."
+        },
+        {
+          "text": "Confirm your GPA and class standing."
+        },
+        {
+          "text": "Resolve any incomplete or failing grades."
+        }
+      ]
+    },
+    {
+      "title": "Plan your next step",
+      "items": [
+        {
+          "text": "Decide on college, work, trade, military or a gap year."
+        },
+        {
+          "text": "Complete the applications for your chosen path."
+        },
+        {
+          "text": "Apply for financial aid and scholarships if relevant."
+        },
+        {
+          "text": "Meet with advisors or recruiters for guidance."
+        },
+        {
+          "text": "Track acceptance, enrollment or start-date deadlines."
+        },
+        {
+          "text": "Make a final decision and notify the school you choose."
+        }
+      ]
+    },
+    {
+      "title": "Senior-year tasks",
+      "items": [
+        {
+          "text": "Keep your grades up through final transcripts."
+        },
+        {
+          "text": "Take senior portraits by the school's deadline."
+        },
+        {
+          "text": "Participate in senior events and activities."
+        },
+        {
+          "text": "Update your resume with awards and activities."
+        },
+        {
+          "text": "Ask for any final letters of recommendation."
+        },
+        {
+          "text": "Stay on top of every deadline on your calendar."
+        }
+      ]
+    },
+    {
+      "title": "Ceremony preparation",
+      "items": [
+        {
+          "text": "Order your cap, gown and any honor cords early."
+        },
+        {
+          "text": "Order class ring or announcements if you want them."
+        },
+        {
+          "text": "Confirm the ceremony date, time and location."
+        },
+        {
+          "text": "Find out how many guest tickets you receive."
+        },
+        {
+          "text": "Confirm your name spelling for the diploma."
+        },
+        {
+          "text": "Attend graduation rehearsal if one is held."
+        }
+      ]
+    },
+    {
+      "title": "Clear obligations",
+      "items": [
+        {
+          "text": "Pay any outstanding fees or fines."
+        },
+        {
+          "text": "Return textbooks, equipment and library books."
+        },
+        {
+          "text": "Clean out your locker and personal spaces."
+        },
+        {
+          "text": "Request official final transcripts for your next step."
+        },
+        {
+          "text": "Update your contact and mailing information."
+        },
+        {
+          "text": "Confirm you're cleared to receive your diploma."
+        }
+      ]
+    },
+    {
+      "title": "Celebrate and transition",
+      "items": [
+        {
+          "text": "Plan or attend the graduation celebration."
+        },
+        {
+          "text": "Take family and friend photos at the ceremony."
+        },
+        {
+          "text": "Thank teachers, coaches and mentors who helped you."
+        },
+        {
+          "text": "Save copies of your diploma and key records."
+        },
+        {
+          "text": "Set goals for the summer before your next step."
+        },
+        {
+          "text": "Stay connected with friends after graduation."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I make sure I have enough credits to graduate?",
+      "a": "Meet with your counselor early in senior year to review your transcript against graduation requirements. Confirm credits, required exams and any service hours, and fix any gaps while there's still time."
+    },
+    {
+      "q": "What should seniors plan for after high school?",
+      "a": "Map your next step early, whether that's college, a trade program, the military, an apprenticeship or work. Each path has its own applications and deadlines, so start the relevant one in the fall."
+    },
+    {
+      "q": "What paperwork do I need before graduation?",
+      "a": "Common items include clearing library or fee balances, confirming your name spelling for the diploma, returning school property, and requesting final transcripts for your next step."
+    },
+    {
+      "q": "When should I order graduation announcements?",
+      "a": "Order cap and gown, class ring and announcements early in spring, since vendors set order deadlines. Confirm guest tickets and ceremony details as soon as the school releases them."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each task as you finish senior year and prepare to graduate."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/high-school-graduation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/high-school-graduation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "High School Graduation Checklist by ChecklistForge (https://checklistforge.com/checklist/high-school-graduation-checklist)",
+  "updated": "2026-10-17"
+}

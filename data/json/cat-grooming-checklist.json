@@ -1,0 +1,185 @@
+{
+  "id": "cat-grooming-checklist",
+  "name": "Cat Grooming Checklist",
+  "description": "A cat grooming checklist for owners covering brushing, nails, ears, dental care and mats.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "grooming",
+    "coat-care"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Gather grooming supplies",
+      "items": [
+        {
+          "text": "Choose a brush or comb suited to your cat's coat length."
+        },
+        {
+          "text": "Have cat nail clippers and styptic powder ready."
+        },
+        {
+          "text": "Keep a vet-recommended ear cleaner and soft cotton pads."
+        },
+        {
+          "text": "Prepare a cat toothbrush and cat-safe toothpaste."
+        },
+        {
+          "text": "Set out a non-slip surface and plenty of treats."
+        },
+        {
+          "text": "Pick a calm time when your cat is relaxed."
+        }
+      ]
+    },
+    {
+      "title": "Brushing the coat",
+      "items": [
+        {
+          "text": "Brush in the direction of hair growth to remove loose fur."
+        },
+        {
+          "text": "Be gentle around the belly, legs and tail."
+        },
+        {
+          "text": "Brush long-haired cats every day or two to prevent mats."
+        },
+        {
+          "text": "Increase brushing during heavy shedding seasons."
+        },
+        {
+          "text": "Check the skin for fleas, scabs, lumps or irritation."
+        },
+        {
+          "text": "Keep sessions short and stop before your cat gets stressed."
+        }
+      ]
+    },
+    {
+      "title": "Preventing and handling mats",
+      "items": [
+        {
+          "text": "Check common mat spots: behind ears, armpits and under the tail."
+        },
+        {
+          "text": "Work small tangles loose gently with fingers and a comb."
+        },
+        {
+          "text": "Use a detangling spray made for cats if needed."
+        },
+        {
+          "text": "Never cut mats close to the skin with scissors."
+        },
+        {
+          "text": "Brush regularly to stop new mats from forming."
+        },
+        {
+          "text": "Seek help for tight or widespread mats.",
+          "note": "A professional groomer or your veterinarian can safely remove difficult mats."
+        }
+      ]
+    },
+    {
+      "title": "Nail trimming",
+      "items": [
+        {
+          "text": "Gently press a paw pad to extend each nail."
+        },
+        {
+          "text": "Trim only the clear tip and avoid the pink quick."
+        },
+        {
+          "text": "Do a few nails at a time if your cat gets restless."
+        },
+        {
+          "text": "Keep styptic powder nearby in case of a small cut."
+        },
+        {
+          "text": "Reward your cat with treats and praise throughout."
+        },
+        {
+          "text": "Provide a scratching post to support natural nail care."
+        }
+      ]
+    },
+    {
+      "title": "Ears and eyes",
+      "items": [
+        {
+          "text": "Check ears for redness, odor, dark debris or excess wax."
+        },
+        {
+          "text": "Wipe only the visible part with a vet-recommended cleaner."
+        },
+        {
+          "text": "Never insert cotton swabs into the ear canal."
+        },
+        {
+          "text": "Wipe gently around the eyes with a soft, damp cloth."
+        },
+        {
+          "text": "Note any squinting, discharge or excessive tearing."
+        },
+        {
+          "text": "Report persistent ear or eye problems to your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Dental care",
+      "items": [
+        {
+          "text": "Introduce tooth brushing slowly with cat-safe toothpaste."
+        },
+        {
+          "text": "Let your cat lick the toothpaste first to build comfort."
+        },
+        {
+          "text": "Brush gently along the gumline in short sessions."
+        },
+        {
+          "text": "Offer dental treats or toys as a helpful supplement."
+        },
+        {
+          "text": "Watch for bad breath, drooling, red gums or trouble eating."
+        },
+        {
+          "text": "Schedule professional dental checks with your veterinarian."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Consult a professional groomer for coat-specific grooming and your veterinarian for skin, ear, dental or any health concerns."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do cats need grooming if they clean themselves?",
+      "a": "Yes. Cats groom themselves, but brushing removes loose fur, reduces hairballs and prevents mats, especially in long-haired cats. It also lets you check skin and coat health. For coat-specific needs or stubborn mats, a professional groomer can help."
+    },
+    {
+      "q": "How often should I brush my cat?",
+      "a": "Short-haired cats often do well with weekly brushing, while long-haired cats may need brushing every day or two to prevent mats. Keep sessions short and positive. Increase frequency during shedding seasons, and watch for skin issues to mention to your veterinarian."
+    },
+    {
+      "q": "How do I deal with mats in my cat's fur?",
+      "a": "Work small mats loose gently with fingers and a comb, and never cut close to the skin with scissors, which risks injury. For tight or widespread mats, a professional groomer or your veterinarian can safely remove them under proper handling."
+    },
+    {
+      "q": "Should I trim my cat's nails?",
+      "a": "Many cats benefit from regular nail trims to prevent overgrowth and snagging. Trim only the clear tip and avoid the pink quick. Reward calm behavior and do a few nails at a time. If you are unsure, ask your veterinarian or a professional groomer."
+    },
+    {
+      "q": "Can I download this cat grooming checklist as a PDF?",
+      "a": "Yes. You can print it for home or download it as a PDF for your phone, so owners have grooming steps handy for brushing, nails and quick coat checks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cat-grooming-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cat-grooming-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cat Grooming Checklist by ChecklistForge (https://checklistforge.com/checklist/cat-grooming-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,203 @@
+{
+  "id": "hospital-bag-checklist",
+  "name": "Hospital Bag Checklist",
+  "description": "Everything to pack for labor, delivery, and your first days postpartum.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "newborn",
+    "hospital-bag",
+    "labor-and-delivery",
+    "packing-list"
+  ],
+  "item_count": 41,
+  "sections": [
+    {
+      "title": "Documents & Essentials",
+      "items": [
+        {
+          "text": "Pack your photo ID and insurance card in an outside pocket"
+        },
+        {
+          "text": "Bring your hospital pre-registration or admission paperwork"
+        },
+        {
+          "text": "Add a copy of your birth plan, with a few extra printouts"
+        },
+        {
+          "text": "Include your prenatal records or your provider's contact information",
+          "note": "Ask your provider whether you need to bring records or if they share them directly."
+        },
+        {
+          "text": "Pack your phone and a long charging cable"
+        },
+        {
+          "text": "Bring a small amount of cash for vending machines or parking"
+        }
+      ]
+    },
+    {
+      "title": "For the Birthing Parent",
+      "items": [
+        {
+          "text": "Pack a comfortable robe and warm socks with grip soles"
+        },
+        {
+          "text": "Bring two or three pairs of high-waisted, breathable underwear"
+        },
+        {
+          "text": "Add a loose going-home outfit that fits a postpartum body"
+        },
+        {
+          "text": "Pack two nursing bras or comfortable soft bras"
+        },
+        {
+          "text": "Include lip balm, hair ties, and a wide-tooth comb"
+        },
+        {
+          "text": "Bring your eyeglasses and contact lens supplies if you wear them"
+        },
+        {
+          "text": "Add flip-flops for the shower"
+        }
+      ]
+    },
+    {
+      "title": "Comfort & Labor Support",
+      "items": [
+        {
+          "text": "Pack a few favorite snacks for after delivery",
+          "note": "Check with your provider about eating during labor itself."
+        },
+        {
+          "text": "Bring a refillable water bottle with a straw"
+        },
+        {
+          "text": "Add a small fan or handheld mister for warmth and cooling"
+        },
+        {
+          "text": "Include a playlist, earbuds, or a portable speaker"
+        },
+        {
+          "text": "Pack a focal item or photo that helps you relax"
+        },
+        {
+          "text": "Bring an extra pillow from home with a colored pillowcase"
+        }
+      ]
+    },
+    {
+      "title": "Toiletries & Personal Care",
+      "items": [
+        {
+          "text": "Pack a toothbrush, toothpaste, and travel-size deodorant"
+        },
+        {
+          "text": "Bring a gentle face wash and your everyday moisturizer"
+        },
+        {
+          "text": "Add dry shampoo and a small hairbrush"
+        },
+        {
+          "text": "Include any prescription medications in their original bottles"
+        },
+        {
+          "text": "Pack overnight pads and disposable underwear for postpartum bleeding"
+        },
+        {
+          "text": "Bring nipple cream if you plan to breastfeed"
+        }
+      ]
+    },
+    {
+      "title": "For Your Partner",
+      "items": [
+        {
+          "text": "Pack a full change of clothes and comfortable shoes"
+        },
+        {
+          "text": "Bring a separate phone charger and a battery pack"
+        },
+        {
+          "text": "Add snacks and a refillable water bottle"
+        },
+        {
+          "text": "Include a small toiletry kit and a light blanket"
+        },
+        {
+          "text": "Pack a sweater or hoodie, since hospital rooms run cold"
+        }
+      ]
+    },
+    {
+      "title": "For the Baby",
+      "items": [
+        {
+          "text": "Install the car seat in advance and learn how to buckle it"
+        },
+        {
+          "text": "Pack two newborn outfits plus a soft going-home outfit"
+        },
+        {
+          "text": "Bring a hat, socks, and scratch mittens"
+        },
+        {
+          "text": "Add a weather-appropriate bunting or blanket for the ride home"
+        },
+        {
+          "text": "Include a swaddle blanket if you have a favorite"
+        },
+        {
+          "text": "Pack any pacifiers you'd like to try, if you choose to use them"
+        }
+      ]
+    },
+    {
+      "title": "Before You Leave",
+      "items": [
+        {
+          "text": "Confirm the route to the hospital and a backup route"
+        },
+        {
+          "text": "Top off the car's gas tank ahead of your due date"
+        },
+        {
+          "text": "Set out a list of emergency contacts and your provider's number"
+        },
+        {
+          "text": "Arrange pet or older-sibling care and have it on standby"
+        },
+        {
+          "text": "Charge your phone and camera the night before if labor signs appear"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I pack my hospital bag?",
+      "a": "Aim to have your bag ready by around 36 weeks, since babies can arrive earlier than planned. Packing early means everything is set if labor starts unexpectedly. Keep the finished bag near the door or in your car so you can grab it quickly when the time comes."
+    },
+    {
+      "q": "What should I not bring to the hospital?",
+      "a": "Skip valuables like expensive jewelry and large amounts of cash. You usually don't need to pack diapers, wipes, or formula, since the hospital provides these. Leave bulky pillows at home unless you really want your own, and avoid overpacking clothes you won't realistically use."
+    },
+    {
+      "q": "How many outfits should I pack for the baby?",
+      "a": "Pack two or three newborn outfits plus a going-home outfit. Bring different sizes if you can, since newborn size may run small or large depending on your baby. Include socks and a hat. The hospital supplies blankets and diapers, so you can pack light here."
+    },
+    {
+      "q": "Do I need to bring my own toiletries?",
+      "a": "Yes, bring your own toiletries for comfort. Hospitals offer basics, but your own toothbrush, lip balm, hair ties, and a gentle face wash make recovery feel more like home. Travel sizes work well. Add glasses or contact supplies if you wear them, since you may not want lenses during labor."
+    },
+    {
+      "q": "Should my partner pack a separate bag?",
+      "a": "A small separate bag for your partner helps a lot. Include a change of clothes, snacks, a phone charger, and toiletries. Your partner may stay overnight, so comfortable clothes and something to do during quieter moments make the experience easier for both of you."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hospital-bag-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hospital-bag-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hospital Bag Checklist by ChecklistForge (https://checklistforge.com/checklist/hospital-bag-checklist)",
+  "updated": "2026-10-17"
+}

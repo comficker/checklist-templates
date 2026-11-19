@@ -1,0 +1,170 @@
+{
+  "id": "project-closeout-checklist",
+  "name": "Project Closeout Checklist",
+  "description": "A step-by-step guide to closing a project cleanly and capturing what you learned.",
+  "category": "project-management",
+  "category_name": "Project Management",
+  "tags": [
+    "productivity",
+    "project-management",
+    "team",
+    "closeout"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Finalize Deliverables",
+      "items": [
+        {
+          "text": "Confirm every deliverable is complete against the scope"
+        },
+        {
+          "text": "Run a final quality check on each output"
+        },
+        {
+          "text": "Resolve any outstanding defects or punch-list items"
+        },
+        {
+          "text": "Hand over final files in the agreed formats"
+        },
+        {
+          "text": "Verify the client or sponsor can access everything",
+          "note": "Test access links before declaring delivery done."
+        }
+      ]
+    },
+    {
+      "title": "Secure Sign-Off and Approvals",
+      "items": [
+        {
+          "text": "Compare results against the original success criteria"
+        },
+        {
+          "text": "Walk the sponsor or client through the final deliverables"
+        },
+        {
+          "text": "Obtain written acceptance and sign-off"
+        },
+        {
+          "text": "Close out any open change requests"
+        },
+        {
+          "text": "Confirm there are no disputed items remaining"
+        }
+      ]
+    },
+    {
+      "title": "Settle Finances and Contracts",
+      "items": [
+        {
+          "text": "Reconcile the final budget against actual spending"
+        },
+        {
+          "text": "Submit and confirm payment of all invoices"
+        },
+        {
+          "text": "Close purchase orders and vendor contracts"
+        },
+        {
+          "text": "Cancel or transfer any recurring subscriptions"
+        },
+        {
+          "text": "Record the final cost for future estimates",
+          "note": "Accurate actuals improve the next project's budget."
+        }
+      ]
+    },
+    {
+      "title": "Capture Lessons Learned",
+      "items": [
+        {
+          "text": "Gather feedback from the team and stakeholders"
+        },
+        {
+          "text": "List what went well and should be repeated"
+        },
+        {
+          "text": "List what went wrong and how to avoid it"
+        },
+        {
+          "text": "Review actual performance against the plan"
+        },
+        {
+          "text": "Document recommendations for future projects",
+          "note": "Store lessons where the next team will actually find them."
+        }
+      ]
+    },
+    {
+      "title": "Archive and Document",
+      "items": [
+        {
+          "text": "Collect all final documents, files, and reports"
+        },
+        {
+          "text": "Organize and label files in a shared archive"
+        },
+        {
+          "text": "Back up critical data in a secure location"
+        },
+        {
+          "text": "Update any registers, asset lists, or records"
+        },
+        {
+          "text": "Note who owns the archive going forward"
+        }
+      ]
+    },
+    {
+      "title": "Release Resources and Close Out",
+      "items": [
+        {
+          "text": "Release team members back to other work"
+        },
+        {
+          "text": "Recover or reassign equipment and licenses"
+        },
+        {
+          "text": "Revoke access that is no longer needed",
+          "note": "Removing stale access reduces security risk."
+        },
+        {
+          "text": "Thank the team and recognize their contributions"
+        },
+        {
+          "text": "Send a final closure note to stakeholders"
+        },
+        {
+          "text": "Formally mark the project as closed"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is project closeout?",
+      "a": "It is the final phase where you confirm all work is complete, get sign-off, settle accounts, archive records, and release resources. A proper closeout ends the project cleanly."
+    },
+    {
+      "q": "Why is a closeout checklist important?",
+      "a": "It stops loose ends like unpaid invoices, unowned files, and unrecorded lessons. It also creates a clear record that the project met its goals and was formally accepted."
+    },
+    {
+      "q": "What is a lessons-learned review?",
+      "a": "A short session where the team discusses what went well and what to improve. Documenting it turns one project's experience into better results on the next."
+    },
+    {
+      "q": "When should I start project closeout?",
+      "a": "Begin as the final deliverables near completion, not after everyone has moved on. Starting early makes it easier to gather sign-off, feedback, and documentation while people are still engaged."
+    },
+    {
+      "q": "Can I print this project closeout checklist?",
+      "a": "Yes. Download the printable PDF, share it with your team, and check off each task as you finalize deliverables, sign-off, archiving, and resource release."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/project-closeout-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/project-closeout-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Project Closeout Checklist by ChecklistForge (https://checklistforge.com/checklist/project-closeout-checklist)",
+  "updated": "2026-10-17"
+}

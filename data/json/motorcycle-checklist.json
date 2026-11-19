@@ -1,0 +1,176 @@
+{
+  "id": "motorcycle-checklist",
+  "name": "Motorcycle Checklist",
+  "description": "A T-CLOCS-style pre-ride inspection covering tires, controls, lights, oil, chassis, stands and riding gear before every trip.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "vehicles",
+    "motorcycle",
+    "pre-ride"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Tires & Wheels",
+      "items": [
+        {
+          "text": "Check tire pressure when cold against the recommended figures",
+          "note": "Found on the chain guard, manual or swingarm sticker"
+        },
+        {
+          "text": "Inspect tread depth and look for cupping or uneven wear"
+        },
+        {
+          "text": "Look for cuts, cracks, embedded objects or bulges"
+        },
+        {
+          "text": "Spin each wheel and check for wobble or damaged rims"
+        },
+        {
+          "text": "Check spokes for tension and cast wheels for cracks"
+        },
+        {
+          "text": "Confirm wheel bearings have no play or roughness"
+        }
+      ]
+    },
+    {
+      "title": "Controls",
+      "items": [
+        {
+          "text": "Test front and rear brake levers for firm feel and free travel"
+        },
+        {
+          "text": "Work the throttle and confirm it snaps fully closed"
+        },
+        {
+          "text": "Check clutch lever engagement and free play"
+        },
+        {
+          "text": "Inspect cables and hoses for fraying, kinks or leaks"
+        },
+        {
+          "text": "Confirm handlebars turn lock to lock without binding"
+        }
+      ]
+    },
+    {
+      "title": "Lights & Electrics",
+      "items": [
+        {
+          "text": "Test headlight on low and high beam"
+        },
+        {
+          "text": "Check brake light triggers from both front and rear brakes"
+        },
+        {
+          "text": "Confirm tail light, turn signals and hazard lights work"
+        },
+        {
+          "text": "Test the horn"
+        },
+        {
+          "text": "Check the battery is secure and terminals are clean"
+        },
+        {
+          "text": "Verify dash warning lights and indicators function"
+        }
+      ]
+    },
+    {
+      "title": "Oil & Fluids",
+      "items": [
+        {
+          "text": "Check engine oil level and condition on level ground"
+        },
+        {
+          "text": "Inspect coolant level if liquid cooled"
+        },
+        {
+          "text": "Check brake fluid level in front and rear reservoirs"
+        },
+        {
+          "text": "Confirm there is enough fuel for your planned ride"
+        },
+        {
+          "text": "Look under the bike for any fresh leaks or drips"
+        }
+      ]
+    },
+    {
+      "title": "Chassis",
+      "items": [
+        {
+          "text": "Check drive chain or belt tension and lubrication"
+        },
+        {
+          "text": "Inspect sprockets or pulleys for wear"
+        },
+        {
+          "text": "Press the front forks to check suspension action"
+        },
+        {
+          "text": "Bounce the rear and check the shock for leaks"
+        },
+        {
+          "text": "Verify fasteners, footpegs and brackets are tight"
+        },
+        {
+          "text": "Check mirrors are clean and adjusted"
+        }
+      ]
+    },
+    {
+      "title": "Stands & Rider Gear",
+      "items": [
+        {
+          "text": "Confirm the side stand springs up and stays retracted"
+        },
+        {
+          "text": "Check the center stand and any cut-out switch"
+        },
+        {
+          "text": "Wear a properly fitted, undamaged helmet"
+        },
+        {
+          "text": "Put on gloves, over-the-ankle boots and abrasion-resistant clothing"
+        },
+        {
+          "text": "Use eye protection and check your visor or goggles are clear"
+        },
+        {
+          "text": "Confirm any luggage is secured and balanced"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does T-CLOCS stand for?",
+      "a": "Tires and wheels, Controls, Lights and electrics, Oil and other fluids, Chassis, and Stands. It is a memory aid that organizes a complete pre-ride inspection so you cover every major system in the same order each time."
+    },
+    {
+      "q": "How often should I do a pre-ride check?",
+      "a": "Run the full check before the first ride of the day and a quick glance at tires, controls and lights after long stops. A complete inspection takes only a few minutes once it is routine and can prevent a roadside breakdown or crash."
+    },
+    {
+      "q": "What gear should I check before riding?",
+      "a": "Confirm your helmet fits and is undamaged, and wear over-the-ankle boots, gloves, eye protection and abrasion-resistant clothing. Inspect zippers, armor and straps so gear stays in place if you go down."
+    },
+    {
+      "q": "Does this replace regular servicing?",
+      "a": "No. A pre-ride check finds immediate problems but does not replace the scheduled maintenance in your owner's manual or repairs by a qualified mechanic. Use both together to stay safe."
+    },
+    {
+      "q": "Can I print this motorcycle checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it in the garage and tick off tires, controls, lights, oil, chassis, stands and gear before each ride."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/motorcycle-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/motorcycle-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Motorcycle Checklist by ChecklistForge (https://checklistforge.com/checklist/motorcycle-checklist)",
+  "updated": "2026-10-17"
+}

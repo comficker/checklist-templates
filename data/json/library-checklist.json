@@ -1,0 +1,183 @@
+{
+  "id": "library-checklist",
+  "name": "Library Checklist",
+  "description": "A complete checklist for setting up, running and maintaining a school or classroom library.",
+  "category": "teaching",
+  "category_name": "Teaching & Classroom",
+  "tags": [
+    "classroom",
+    "teacher",
+    "teaching",
+    "library",
+    "cataloging"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Library setup",
+      "items": [
+        {
+          "text": "Choose a quiet, accessible location for the library."
+        },
+        {
+          "text": "Arrange shelving, bins and comfortable seating."
+        },
+        {
+          "text": "Plan clear sections for genres, levels or topics."
+        },
+        {
+          "text": "Set up a circulation or checkout area."
+        },
+        {
+          "text": "Add signage and a map of the library layout."
+        },
+        {
+          "text": "Create a welcoming reading nook for students."
+        }
+      ]
+    },
+    {
+      "title": "Cataloging the collection",
+      "items": [
+        {
+          "text": "Choose a cataloging tool such as a spreadsheet or app."
+        },
+        {
+          "text": "Record each title, author, level and category."
+        },
+        {
+          "text": "Assign call numbers or shelf locations."
+        },
+        {
+          "text": "Apply spine labels and barcodes if used."
+        },
+        {
+          "text": "Note the condition and copy count of each book."
+        },
+        {
+          "text": "Back up the catalog regularly.",
+          "note": "A simple export to cloud storage protects your records."
+        }
+      ]
+    },
+    {
+      "title": "Shelving and organization",
+      "items": [
+        {
+          "text": "Sort books by your chosen system consistently."
+        },
+        {
+          "text": "Label bins and shelf sections to match the catalog."
+        },
+        {
+          "text": "Place popular and new titles where they stand out."
+        },
+        {
+          "text": "Keep oversized and reference books in a set area."
+        },
+        {
+          "text": "Shelve at heights students can reach safely."
+        },
+        {
+          "text": "Teach students how to reshelve correctly."
+        }
+      ]
+    },
+    {
+      "title": "Checkout system",
+      "items": [
+        {
+          "text": "Choose a checkout method students can use themselves."
+        },
+        {
+          "text": "Record the borrower, title and date for each loan."
+        },
+        {
+          "text": "Set a clear loan period and book limit."
+        },
+        {
+          "text": "Create a simple return and drop-off routine."
+        },
+        {
+          "text": "Track overdue books and send reminders."
+        },
+        {
+          "text": "Keep a waitlist or hold system for popular titles."
+        }
+      ]
+    },
+    {
+      "title": "Daily operations",
+      "items": [
+        {
+          "text": "Reshelve returned books to the correct sections."
+        },
+        {
+          "text": "Straighten shelves and tidy reading areas."
+        },
+        {
+          "text": "Process new checkouts and returns."
+        },
+        {
+          "text": "Follow up on overdue and missing items."
+        },
+        {
+          "text": "Restock displays and rotate featured books."
+        },
+        {
+          "text": "Help students find and select books."
+        }
+      ]
+    },
+    {
+      "title": "Maintenance and upkeep",
+      "items": [
+        {
+          "text": "Inspect books for damage and repair as needed."
+        },
+        {
+          "text": "Replace worn-out or heavily damaged copies."
+        },
+        {
+          "text": "Weed outdated, inaccurate or unused titles."
+        },
+        {
+          "text": "Audit the collection against the catalog periodically."
+        },
+        {
+          "text": "Plan new purchases to fill gaps and interests."
+        },
+        {
+          "text": "Keep shelves, bins and surfaces clean."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I organize books in a classroom library?",
+      "a": "Sort books by level, genre or topic, then label bins and shelf sections so they match. Pick a system simple enough that students can find books and reshelve them correctly, which keeps the collection in order without constant teacher cleanup."
+    },
+    {
+      "q": "What is the easiest way to catalog a library?",
+      "a": "Use a simple spreadsheet or a free library app to record each title, author, level and category. Cataloging gives you a record of what you own, makes it easy to spot gaps or losses, and supports a reliable checkout system."
+    },
+    {
+      "q": "How should a classroom checkout system work?",
+      "a": "Keep it simple enough for students to use themselves, such as a sign-out sheet, pocket cards, or a scanning app. Track who has each book and the date, set a return window, and review it regularly so books come back."
+    },
+    {
+      "q": "How do I maintain a library over time?",
+      "a": "Reshelve and tidy regularly, repair or replace damaged books, follow up on overdue items, and weed out worn or outdated titles. Routine maintenance keeps the collection appealing, accurate and easy for students to use all year long."
+    },
+    {
+      "q": "Is this library checklist available as a printable PDF?",
+      "a": "Yes. You can print the checklist or download it as a PDF to keep at the circulation desk, then tick off each task so your school or classroom library stays cataloged, shelved and well maintained."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/library-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/library-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Library Checklist by ChecklistForge (https://checklistforge.com/checklist/library-checklist)",
+  "updated": "2026-10-17"
+}

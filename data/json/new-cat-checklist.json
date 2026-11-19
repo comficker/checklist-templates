@@ -1,0 +1,182 @@
+{
+  "id": "new-cat-checklist",
+  "name": "New Cat Checklist",
+  "description": "A new cat checklist for bringing home an adult or any cat, covering supplies, settling in, and building a routine.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "pet-care",
+    "cats",
+    "new-cat"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Supplies to have ready",
+      "items": [
+        {
+          "text": "Stock the food your cat already eats to avoid stomach upset."
+        },
+        {
+          "text": "Get food and water bowls, ideally placed apart."
+        },
+        {
+          "text": "Set up a litter box with a litter your cat knows."
+        },
+        {
+          "text": "Provide a secure carrier for vet trips and travel."
+        },
+        {
+          "text": "Offer a bed, a scratching post, and a few toys."
+        },
+        {
+          "text": "Add grooming basics like a brush and nail clippers."
+        }
+      ]
+    },
+    {
+      "title": "Preparing your home",
+      "items": [
+        {
+          "text": "Cat-proof rooms by removing toxic plants and chemicals."
+        },
+        {
+          "text": "Secure cords, blinds, and small swallowable items."
+        },
+        {
+          "text": "Close off unsafe gaps, balconies, and tilting windows."
+        },
+        {
+          "text": "Set up a quiet safe room with a hiding spot for the first days."
+        },
+        {
+          "text": "Place the litter box away from food in a low-traffic area."
+        },
+        {
+          "text": "Plan to keep things calm for the first days at home."
+        }
+      ]
+    },
+    {
+      "title": "First vet visit",
+      "items": [
+        {
+          "text": "Schedule a wellness exam soon after bringing your cat home."
+        },
+        {
+          "text": "Bring any records and a stool sample if requested."
+        },
+        {
+          "text": "Confirm vaccination status and any boosters needed."
+        },
+        {
+          "text": "Discuss flea and worm prevention."
+        },
+        {
+          "text": "Ask about the right food and amounts for your cat's age."
+        },
+        {
+          "text": "Update microchip details and ask about spay or neuter if not done."
+        }
+      ]
+    },
+    {
+      "title": "Settling in calmly",
+      "items": [
+        {
+          "text": "Start your cat in one quiet room before the whole house."
+        },
+        {
+          "text": "Let your cat hide and emerge on its own schedule.",
+          "note": "Avoid forcing contact in the first days."
+        },
+        {
+          "text": "Keep visitors, noise, and changes to a minimum."
+        },
+        {
+          "text": "Sit calmly nearby so your cat gets used to your presence."
+        },
+        {
+          "text": "Show your cat the litter box, food, and water early."
+        },
+        {
+          "text": "Watch for stress signs and give space when needed."
+        }
+      ]
+    },
+    {
+      "title": "Building a routine",
+      "items": [
+        {
+          "text": "Set consistent feeding times right away."
+        },
+        {
+          "text": "Scoop the litter box daily to keep it inviting."
+        },
+        {
+          "text": "Offer daily play sessions to build trust and burn energy."
+        },
+        {
+          "text": "Provide perches, scratching, and enrichment around the home."
+        },
+        {
+          "text": "Keep rest and quiet time predictable."
+        },
+        {
+          "text": "Introduce more of the house gradually as confidence grows."
+        }
+      ]
+    },
+    {
+      "title": "Introductions and safety",
+      "items": [
+        {
+          "text": "Introduce existing pets slowly through scent before meeting."
+        },
+        {
+          "text": "Supervise interactions with children and teach gentle handling."
+        },
+        {
+          "text": "Keep ID and a recent photo in case your cat gets out."
+        },
+        {
+          "text": "Check screens and doors to prevent escapes."
+        },
+        {
+          "text": "Save your vet and nearest emergency clinic numbers."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your cat's vaccinations, diet, and health."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need for a new adult cat?",
+      "a": "Have food and bowls, a litter box and litter, a carrier, a bed, a scratching post, toys, and grooming basics ready before arrival. This new cat checklist groups the essentials so you can focus on helping your cat settle in calmly."
+    },
+    {
+      "q": "How long does it take a new cat to settle in?",
+      "a": "Many cats need days to weeks to feel safe, and a shy cat may hide at first. Keep their space quiet, routines predictable, and let your cat come out on its own terms rather than forcing contact."
+    },
+    {
+      "q": "How should I introduce a new cat to my home?",
+      "a": "Start your cat in one quiet room with food, water, litter, and a hiding spot, then expand access slowly over days. Keep noise low, visit calmly, and let your cat decide when to explore. Introduce other pets gradually through scent first."
+    },
+    {
+      "q": "How is this different from the new kitten checklist?",
+      "a": "This new cat checklist focuses on settling an adult or older cat whose habits are largely formed. Our New Kitten Checklist covers the first week with a young kitten, including kitten-proofing, litter training, and the kitten vaccination start."
+    },
+    {
+      "q": "Can I download this new cat checklist as a PDF?",
+      "a": "Yes. You can print it for the fridge or download it as a PDF for shopping and vet trips, so new cat owners have the settling-in essentials on hand."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-cat-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-cat-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Cat Checklist by ChecklistForge (https://checklistforge.com/checklist/new-cat-checklist)",
+  "updated": "2026-10-17"
+}

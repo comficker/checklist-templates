@@ -1,0 +1,169 @@
+{
+  "id": "science-project-checklist",
+  "name": "Science Project Checklist",
+  "description": "A science project checklist that guides students through the scientific method from question to display board.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "study",
+    "science-project",
+    "science-fair",
+    "experiment"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Choose your question",
+      "items": [
+        {
+          "text": "Pick a topic that genuinely interests you."
+        },
+        {
+          "text": "Turn it into a specific, testable question."
+        },
+        {
+          "text": "Make sure you can measure the results.",
+          "note": "Measurable means you can record numbers, times or counts."
+        },
+        {
+          "text": "Check that you have the time and materials to test it."
+        },
+        {
+          "text": "Get the question approved by your teacher if required."
+        }
+      ]
+    },
+    {
+      "title": "Research and hypothesis",
+      "items": [
+        {
+          "text": "Read background information from books and reliable websites."
+        },
+        {
+          "text": "Identify your independent, dependent and controlled variables."
+        },
+        {
+          "text": "Write a hypothesis as an if-then prediction."
+        },
+        {
+          "text": "Note why you expect that outcome based on your research."
+        },
+        {
+          "text": "Keep a record of your sources for the report."
+        }
+      ]
+    },
+    {
+      "title": "Materials and method",
+      "items": [
+        {
+          "text": "List every material and tool you will need."
+        },
+        {
+          "text": "Gather supplies before you begin the experiment."
+        },
+        {
+          "text": "Write a numbered, step-by-step procedure anyone could follow."
+        },
+        {
+          "text": "Plan to repeat the experiment several times for reliable data.",
+          "note": "More trials reduce the effect of random error."
+        },
+        {
+          "text": "Note any safety steps or adult supervision needed."
+        }
+      ]
+    },
+    {
+      "title": "Run the experiment and record data",
+      "items": [
+        {
+          "text": "Follow your procedure exactly the same way each trial."
+        },
+        {
+          "text": "Change only the independent variable; keep the rest constant."
+        },
+        {
+          "text": "Measure carefully and record results in a data table."
+        },
+        {
+          "text": "Take photos at key stages for your display board."
+        },
+        {
+          "text": "Write the date and conditions for each trial."
+        }
+      ]
+    },
+    {
+      "title": "Analyze and conclude",
+      "items": [
+        {
+          "text": "Calculate averages or totals from your trials."
+        },
+        {
+          "text": "Turn your data into a clear graph or chart."
+        },
+        {
+          "text": "Compare the results with your hypothesis."
+        },
+        {
+          "text": "Write a conclusion stating whether the hypothesis was supported."
+        },
+        {
+          "text": "Note possible errors and ideas for future experiments."
+        }
+      ]
+    },
+    {
+      "title": "Build the display board",
+      "items": [
+        {
+          "text": "Add a clear title and your name to the board."
+        },
+        {
+          "text": "Display the question, hypothesis, materials and procedure."
+        },
+        {
+          "text": "Show data tables, graphs and photos."
+        },
+        {
+          "text": "Include the results and conclusion in plain language."
+        },
+        {
+          "text": "Arrange everything neatly and check spelling."
+        },
+        {
+          "text": "Prepare a short spoken summary to explain your project."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the steps of a science project?",
+      "a": "The steps are choosing a question, researching background, forming a hypothesis, gathering materials, designing and running an experiment, recording data, analyzing results, writing a conclusion and building a display board."
+    },
+    {
+      "q": "What makes a good science project question?",
+      "a": "A good question is specific, testable and measurable. It asks how one variable affects another so you can run an experiment, collect numbers and reach a clear conclusion."
+    },
+    {
+      "q": "How do I write a hypothesis?",
+      "a": "Write your hypothesis as an if-then statement that predicts the outcome, such as 'If I increase the light, then the plant will grow taller.' It should be testable and based on your background research."
+    },
+    {
+      "q": "What goes on a science fair display board?",
+      "a": "A display board usually shows the title, question, hypothesis, materials, procedure, data tables or charts, results, conclusion and any photos, laid out so a viewer can follow the project at a glance."
+    },
+    {
+      "q": "Can I download this science project checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and check off each step as your project moves from question to finished display board."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/science-project-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/science-project-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Science Project Checklist by ChecklistForge (https://checklistforge.com/checklist/science-project-checklist)",
+  "updated": "2026-10-17"
+}

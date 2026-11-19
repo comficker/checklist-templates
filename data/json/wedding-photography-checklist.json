@@ -1,0 +1,206 @@
+{
+  "id": "wedding-photography-checklist",
+  "name": "Wedding Photography Checklist",
+  "description": "A complete must-have shot list covering getting ready, ceremony, portraits, couple shots, reception, and details.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "planning",
+    "wedding",
+    "photography",
+    "shot-list"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Before the Day",
+      "items": [
+        {
+          "text": "Review and finalize your shot list with the photographer."
+        },
+        {
+          "text": "Walk through the day-of timeline so coverage matches the schedule."
+        },
+        {
+          "text": "Decide whether to do a first look and block time for it."
+        },
+        {
+          "text": "Confirm hours of coverage and any second shooter."
+        },
+        {
+          "text": "Share the venue address, sunset time, and any photo restrictions.",
+          "note": "Some ceremony sites limit flash or where the photographer can stand."
+        },
+        {
+          "text": "Gather meaningful detail items in one box for early styled shots."
+        }
+      ]
+    },
+    {
+      "title": "Getting Ready",
+      "items": [
+        {
+          "text": "Photograph the dress, suit, shoes, and accessories laid out."
+        },
+        {
+          "text": "Capture the rings, invitation suite, and heirloom details."
+        },
+        {
+          "text": "Shoot hair and makeup in progress."
+        },
+        {
+          "text": "Document candid moments with the wedding party."
+        },
+        {
+          "text": "Photograph each partner putting on final attire."
+        },
+        {
+          "text": "Capture a private moment reading letters or gifts, if exchanged."
+        }
+      ]
+    },
+    {
+      "title": "The Ceremony",
+      "items": [
+        {
+          "text": "Photograph the venue and decor before guests arrive."
+        },
+        {
+          "text": "Capture the processional and each person walking the aisle."
+        },
+        {
+          "text": "Frame the partner's reaction during the entrance."
+        },
+        {
+          "text": "Document the vows, ring exchange, and the first kiss."
+        },
+        {
+          "text": "Capture guest reactions and emotional faces in the crowd."
+        },
+        {
+          "text": "Shoot the recessional and the exit toss or cheer."
+        }
+      ]
+    },
+    {
+      "title": "Family and Group Portraits",
+      "items": [
+        {
+          "text": "Work through the numbered family grouping list in order."
+        },
+        {
+          "text": "Photograph each set of parents with the couple."
+        },
+        {
+          "text": "Capture grandparents and extended-family combinations."
+        },
+        {
+          "text": "Shoot the full wedding party together and in smaller groups."
+        },
+        {
+          "text": "Take an all-guest group photo if the venue allows.",
+          "note": "A balcony or staircase makes a large group shot far easier to compose."
+        },
+        {
+          "text": "Release family members once their portraits are done."
+        }
+      ]
+    },
+    {
+      "title": "The Couple",
+      "items": [
+        {
+          "text": "Capture relaxed walking and candid laughing shots."
+        },
+        {
+          "text": "Shoot classic posed portraits in flattering light."
+        },
+        {
+          "text": "Use the venue's best backdrops and architecture."
+        },
+        {
+          "text": "Take golden-hour photos near sunset if the timeline allows."
+        },
+        {
+          "text": "Capture a few quiet, intimate close-ups."
+        },
+        {
+          "text": "Photograph the full attire from head to toe."
+        }
+      ]
+    },
+    {
+      "title": "The Reception",
+      "items": [
+        {
+          "text": "Capture the grand entrance and crowd reaction."
+        },
+        {
+          "text": "Photograph the first dance and parent dances."
+        },
+        {
+          "text": "Document toasts and the speakers' and listeners' expressions."
+        },
+        {
+          "text": "Shoot the cake cutting and any traditions."
+        },
+        {
+          "text": "Capture open dancing and candid guest moments."
+        },
+        {
+          "text": "Photograph the send-off and getaway."
+        }
+      ]
+    },
+    {
+      "title": "Details and Decor",
+      "items": [
+        {
+          "text": "Photograph the tablescapes, centerpieces, and place settings."
+        },
+        {
+          "text": "Capture signage, escort cards, and the guest book."
+        },
+        {
+          "text": "Shoot the cake and dessert display from multiple angles."
+        },
+        {
+          "text": "Document florals, lighting, and the overall room."
+        },
+        {
+          "text": "Capture favors and any personalized touches."
+        },
+        {
+          "text": "Photograph the bar and signature drinks."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a wedding photography shot list?",
+      "a": "A shot list is a written rundown of the specific photos you want from your wedding, organized by part of the day. It covers must-have moments, key people, and detail shots. Sharing it with your photographer ahead of time ensures the images that matter most to you are captured without confusion on the day."
+    },
+    {
+      "q": "How many photos should I expect from my wedding?",
+      "a": "Most photographers deliver between four hundred and eight hundred edited images for a full wedding day, though the number depends on hours of coverage and guest count. Ask your photographer for their typical range up front. Focus on quality and storytelling rather than a specific count when you compare portfolios."
+    },
+    {
+      "q": "Do I need a second photographer?",
+      "a": "A second photographer captures angles one person cannot, such as both partners getting ready at the same time or guest reactions during the ceremony. They also provide backup coverage. For larger weddings or fast timelines, a second shooter is worth it; for small, simple weddings, one skilled photographer is often enough."
+    },
+    {
+      "q": "Should we do a first look before the ceremony?",
+      "a": "A first look is a private moment to see each other before the ceremony. It eases nerves and frees time for couple and family portraits before the aisle, leaving more of the reception to enjoy. If you prefer tradition and the emotion of meeting at the altar, skip it and build extra portrait time after the ceremony."
+    },
+    {
+      "q": "How do I make family portraits go quickly?",
+      "a": "Write a numbered list of every family grouping you want, in shooting order, and share it with your photographer in advance. Assign one outgoing relative from each side to call names and gather people. Schedule portraits right after the ceremony while everyone is present, and keep each group to a couple of minutes."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-photography-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-photography-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Photography Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-photography-checklist)",
+  "updated": "2026-10-17"
+}

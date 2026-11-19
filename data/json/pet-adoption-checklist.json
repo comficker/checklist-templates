@@ -1,0 +1,183 @@
+{
+  "id": "pet-adoption-checklist",
+  "name": "Pet Adoption Checklist",
+  "description": "A pet adoption checklist that walks new owners through the adoption process from research to bringing a pet home.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "adoption",
+    "dogs",
+    "new-pet"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Research and readiness",
+      "items": [
+        {
+          "text": "Decide which species, size, and energy level fit your home and schedule."
+        },
+        {
+          "text": "Confirm housing rules and any landlord or HOA approvals."
+        },
+        {
+          "text": "Budget for the adoption fee plus ongoing food and vet costs."
+        },
+        {
+          "text": "Discuss responsibilities and commitment with your household."
+        },
+        {
+          "text": "Consider how a new pet will interact with current pets or children."
+        },
+        {
+          "text": "Think honestly about your long-term ability to care for an animal."
+        }
+      ]
+    },
+    {
+      "title": "Finding a shelter or rescue",
+      "items": [
+        {
+          "text": "Look up reputable local shelters, humane societies, and breed rescues."
+        },
+        {
+          "text": "Read reviews and ask about their adoption and return policies."
+        },
+        {
+          "text": "Browse available pets online and note ones that fit your criteria."
+        },
+        {
+          "text": "Ask what health, behavior, and history information they provide."
+        },
+        {
+          "text": "Confirm visiting hours and whether appointments are required.",
+          "note": "Call ahead so a specific animal is still available."
+        },
+        {
+          "text": "Prepare questions about each pet's temperament and needs."
+        }
+      ]
+    },
+    {
+      "title": "Application and approval",
+      "items": [
+        {
+          "text": "Complete the adoption application honestly and in full."
+        },
+        {
+          "text": "Gather references and proof of address if requested."
+        },
+        {
+          "text": "Meet and spend time with the pet before deciding."
+        },
+        {
+          "text": "Bring household members and existing pets to meet-and-greets if allowed."
+        },
+        {
+          "text": "Prepare for a possible home visit or virtual check."
+        },
+        {
+          "text": "Ask any final questions about health, behavior, and care."
+        }
+      ]
+    },
+    {
+      "title": "Fees and paperwork",
+      "items": [
+        {
+          "text": "Confirm the adoption fee and exactly what it includes."
+        },
+        {
+          "text": "Collect vaccination, spay or neuter, and microchip records."
+        },
+        {
+          "text": "Sign the adoption contract and keep a copy."
+        },
+        {
+          "text": "Update microchip registration to your contact details."
+        },
+        {
+          "text": "Get any feeding instructions or current food the pet is used to."
+        },
+        {
+          "text": "Note any follow-up medical care the shelter recommends."
+        }
+      ]
+    },
+    {
+      "title": "Preparing your home",
+      "items": [
+        {
+          "text": "Pet-proof rooms by removing hazards and securing exits."
+        },
+        {
+          "text": "Set up a quiet space with a bed where your pet can decompress."
+        },
+        {
+          "text": "Gather food, bowls, ID tag, and species-appropriate supplies."
+        },
+        {
+          "text": "Arrange a secure carrier, crate, or leash for the trip home."
+        },
+        {
+          "text": "Plan to be home for the first days to help your pet settle."
+        },
+        {
+          "text": "Schedule a first wellness visit with your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Bringing your pet home",
+      "items": [
+        {
+          "text": "Keep the trip home calm and your pet securely contained."
+        },
+        {
+          "text": "Introduce your pet slowly to one room before the whole house."
+        },
+        {
+          "text": "Let them explore at their own pace without crowding."
+        },
+        {
+          "text": "Stick to the food they know, then transition gradually if needed."
+        },
+        {
+          "text": "Introduce existing pets and people calmly and supervised."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Schedule a checkup and consult a veterinarian about your new pet's health, diet, and vaccinations."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is the pet adoption process?",
+      "a": "Adoption usually involves researching the right pet, finding a reputable shelter or rescue, submitting an application, meeting animals, sometimes a home check, paying an adoption fee, and finalizing paperwork before bringing your pet home. This checklist walks through each stage."
+    },
+    {
+      "q": "What does an adoption fee cover?",
+      "a": "Adoption fees often cover spay or neuter, initial vaccinations, microchipping, and basic health checks, though this varies by organization. Ask the shelter exactly what is included so you can plan any follow-up care with your veterinarian."
+    },
+    {
+      "q": "What should I prepare before adoption day?",
+      "a": "Pet-proof your home, set up a resting space, and gather food, bowls, ID, and supplies before your pet arrives. Confirm the pickup time and bring a secure carrier or leash. Our species checklists detail the exact supplies to have ready."
+    },
+    {
+      "q": "Is this for adopting a dog or a cat?",
+      "a": "This pet adoption checklist covers the process for any pet. For tailored steps, pair it with our Dog Adoption Checklist or Cat Adoption Checklist, which add details like shelter visits, matching, and species-specific home prep."
+    },
+    {
+      "q": "Can I download this pet adoption checklist as a PDF?",
+      "a": "Yes. You can print it to track your progress or download it as a PDF to reference during shelter visits and home prep, so new owners stay organized."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-adoption-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-adoption-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Adoption Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-adoption-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "on-page-seo-checklist",
+  "name": "On-Page SEO Checklist",
+  "description": "An on-page SEO checklist for optimizing a single page's titles, headings, keywords, links, images, and content.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "on-page-seo",
+    "content-optimization",
+    "keywords"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Keyword and Intent Foundation",
+      "items": [
+        {
+          "text": "Assign one primary keyword and a short list of supporting terms to the page."
+        },
+        {
+          "text": "Identify the search intent behind the query and confirm the page format matches it.",
+          "note": "Check whether the top results are guides, lists, product pages, or comparisons before choosing your format."
+        },
+        {
+          "text": "Review the current top-ranking pages to map the subtopics readers expect."
+        },
+        {
+          "text": "Define the single most important takeaway the page must deliver."
+        },
+        {
+          "text": "List related questions to answer so the page fully satisfies the query."
+        }
+      ]
+    },
+    {
+      "title": "Title Tag and Meta Description",
+      "items": [
+        {
+          "text": "Write a title tag under sixty characters that leads with the primary keyword."
+        },
+        {
+          "text": "Make the title specific and compelling so it stands out in the results list."
+        },
+        {
+          "text": "Avoid duplicate titles across pages that target the same or similar terms."
+        },
+        {
+          "text": "Write a meta description of roughly 140 to 155 characters including the keyword."
+        },
+        {
+          "text": "Add a clear benefit and a reason to click within the description."
+        },
+        {
+          "text": "Keep brand mentions minimal so the keyword and value lead the snippet."
+        }
+      ]
+    },
+    {
+      "title": "Headings and Structure",
+      "items": [
+        {
+          "text": "Use exactly one H1 that states the page's main topic and includes the keyword."
+        },
+        {
+          "text": "Organize content under descriptive H2 and H3 subheadings in a logical order."
+        },
+        {
+          "text": "Place at least one supporting keyword or variation in a subheading."
+        },
+        {
+          "text": "Front-load the most important answer near the top for snippet eligibility.",
+          "note": "A concise definition or direct answer in the opening can win a featured snippet."
+        },
+        {
+          "text": "Use short paragraphs, lists, and tables to make the page easy to scan."
+        }
+      ]
+    },
+    {
+      "title": "Content Quality and Keyword Placement",
+      "items": [
+        {
+          "text": "Include the primary keyword within the first hundred words naturally."
+        },
+        {
+          "text": "Cover the subtopics and questions readers expect for full topical depth."
+        },
+        {
+          "text": "Write in clear, active language at a reading level your audience prefers."
+        },
+        {
+          "text": "Add original insight, data, or examples that competing pages lack."
+        },
+        {
+          "text": "Use synonyms and related terms instead of repeating the exact keyword."
+        },
+        {
+          "text": "Refresh facts, statistics, and dates so the content stays current."
+        },
+        {
+          "text": "Place a clear call to action that guides the reader to a next step."
+        }
+      ]
+    },
+    {
+      "title": "URL and Internal Linking",
+      "items": [
+        {
+          "text": "Set a short, readable URL slug that contains the primary keyword."
+        },
+        {
+          "text": "Remove stop words, dates, and parameters from the slug where practical."
+        },
+        {
+          "text": "Link to relevant supporting pages using descriptive anchor text."
+        },
+        {
+          "text": "Add a link from a high-authority related page to pass relevance to this one."
+        },
+        {
+          "text": "Avoid generic anchors like 'click here' that tell engines nothing about the target."
+        }
+      ]
+    },
+    {
+      "title": "Images and Media",
+      "items": [
+        {
+          "text": "Add descriptive alt text to every image that conveys meaning."
+        },
+        {
+          "text": "Compress images and serve them in modern formats to protect load speed."
+        },
+        {
+          "text": "Use descriptive, keyword-aware file names instead of generic camera output."
+        },
+        {
+          "text": "Set explicit width and height so images do not cause layout shift."
+        },
+        {
+          "text": "Include a relevant image or diagram near the top to support the main point."
+        }
+      ]
+    },
+    {
+      "title": "Page-Level Schema and Final Checks",
+      "items": [
+        {
+          "text": "Add structured data that matches the page type, such as article, product, or FAQ."
+        },
+        {
+          "text": "Validate the schema and confirm it reflects only visible on-page content."
+        },
+        {
+          "text": "Preview the search snippet to check how the title and description display."
+        },
+        {
+          "text": "Proofread the page for spelling, grammar, and broken links before publishing.",
+          "note": "A final read-through catches awkward keyword insertions that hurt readability."
+        },
+        {
+          "text": "Confirm the page loads quickly and renders cleanly on mobile."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is on-page SEO?",
+      "a": "On-page SEO is the practice of optimizing the elements within a single web page to improve its relevance and rankings. It includes the title tag, meta description, headings, body content, keyword usage, internal links, images, and URL. Because you control these directly, on-page changes are often the fastest way to lift a page."
+    },
+    {
+      "q": "Where should I place my target keyword on a page?",
+      "a": "Put the target keyword in the title tag, the H1, the first hundred words, at least one subheading, and the URL when practical. Use natural variations throughout the body. Avoid stuffing the same phrase repeatedly; modern search engines reward clear, readable writing over keyword density."
+    },
+    {
+      "q": "How long should a title tag be?",
+      "a": "Keep title tags under roughly sixty characters so they display fully in search results without being cut off. Lead with the primary keyword, make the promise specific, and avoid repeating your brand on every page. A clear, compelling title can lift click-through rate even when the ranking position stays the same."
+    },
+    {
+      "q": "Do meta descriptions affect rankings?",
+      "a": "Meta descriptions are not a direct ranking factor, but they heavily influence click-through rate. A clear, benefit-focused description that includes the keyword tends to earn more clicks from the results page. Search engines may rewrite weak descriptions, so write a strong one to keep control of the snippet."
+    },
+    {
+      "q": "What is search intent and why does it matter?",
+      "a": "Search intent is the goal behind a query, such as learning, comparing, or buying. Matching your page to that intent is the single biggest on-page factor. A how-to query needs a guide, not a product page. Study the current top results to confirm the format and depth searchers actually expect."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/on-page-seo-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/on-page-seo-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "On-Page SEO Checklist by ChecklistForge (https://checklistforge.com/checklist/on-page-seo-checklist)",
+  "updated": "2026-10-17"
+}

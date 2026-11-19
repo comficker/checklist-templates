@@ -1,0 +1,160 @@
+{
+  "id": "pet-supplies-checklist",
+  "name": "Pet Supplies Checklist",
+  "description": "A general pet supplies checklist organized by category for anyone bringing home a new animal.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "shopping-list",
+    "supplies",
+    "pets",
+    "pet-care",
+    "new-pet"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Food & Water",
+      "items": [
+        {
+          "text": "Species- and age-appropriate food",
+          "note": "Match life stage; ask the breeder, shelter or vet what the animal currently eats"
+        },
+        {
+          "text": "Non-tip food bowl"
+        },
+        {
+          "text": "Fresh water bowl or bottle"
+        },
+        {
+          "text": "Treats suitable for the species"
+        },
+        {
+          "text": "Airtight food storage container"
+        },
+        {
+          "text": "Measuring scoop or cup for portion control"
+        }
+      ]
+    },
+    {
+      "title": "Bedding & Shelter",
+      "items": [
+        {
+          "text": "Bed, crate, cage or enclosure sized for the animal"
+        },
+        {
+          "text": "Soft blanket or washable liner"
+        },
+        {
+          "text": "Hiding spot or covered area for security"
+        },
+        {
+          "text": "Appropriate substrate or bedding material"
+        }
+      ]
+    },
+    {
+      "title": "Grooming",
+      "items": [
+        {
+          "text": "Brush or comb suited to the coat or species"
+        },
+        {
+          "text": "Pet-safe shampoo if bathing is needed"
+        },
+        {
+          "text": "Nail clippers or trimming tool"
+        },
+        {
+          "text": "Towels reserved for the pet"
+        },
+        {
+          "text": "Ear and eye cleaning supplies if recommended"
+        }
+      ]
+    },
+    {
+      "title": "Health & Safety",
+      "items": [
+        {
+          "text": "Pet first-aid kit"
+        },
+        {
+          "text": "Flea, tick or parasite prevention if advised",
+          "note": "Confirm the right product with a veterinarian"
+        },
+        {
+          "text": "Carrier or transport box for vet visits"
+        },
+        {
+          "text": "Cleaning and odor-control supplies for accidents"
+        },
+        {
+          "text": "List of emergency vet and poison-control contacts"
+        }
+      ]
+    },
+    {
+      "title": "Identification",
+      "items": [
+        {
+          "text": "ID tag with your name and phone number"
+        },
+        {
+          "text": "Collar, harness or leg band as appropriate"
+        },
+        {
+          "text": "Microchip registration kept up to date"
+        },
+        {
+          "text": "Recent photo of the pet in case it goes missing"
+        }
+      ]
+    },
+    {
+      "title": "Enrichment & Training",
+      "items": [
+        {
+          "text": "Toys appropriate for the species and size"
+        },
+        {
+          "text": "Chews or foraging items if suitable"
+        },
+        {
+          "text": "Training pads, clicker or reward treats"
+        },
+        {
+          "text": "Scratching, climbing or exercise gear as relevant"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What pet supplies should I buy before bringing an animal home?",
+      "a": "At minimum, have food, fresh water, food and water bowls, a bed or shelter, basic grooming tools and an identification method ready before the pet arrives. Species-specific items like litter, hay or a tank come next."
+    },
+    {
+      "q": "How much should I budget for new pet supplies?",
+      "a": "Budgets vary widely by species and size, but plan for an upfront cost covering equipment plus an ongoing monthly cost for food and consumables. Buy the essentials first and add comfort items over time."
+    },
+    {
+      "q": "Do I need to buy everything at once?",
+      "a": "No. Prioritize food, water, shelter and safety items for day one, then add grooming, enrichment and training supplies in the first week or two as you learn the animal's needs."
+    },
+    {
+      "q": "Should I ask a vet before buying pet supplies?",
+      "a": "This checklist is general guidance. For diet, supplements or any health products, consult a veterinarian, and for exotic pets research species-specific needs before you buy."
+    },
+    {
+      "q": "Can I print this pet supplies checklist?",
+      "a": "Yes. Print it or download the PDF so you can carry it while shopping and check off each category as you go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-supplies-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-supplies-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Supplies Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-supplies-checklist)",
+  "updated": "2026-10-17"
+}

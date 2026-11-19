@@ -1,0 +1,173 @@
+{
+  "id": "osha-checklist",
+  "name": "OSHA Checklist",
+  "description": "OSHA compliance basics covering required programs, recordkeeping, postings and training.",
+  "category": "workplace-safety",
+  "category_name": "Workplace Safety",
+  "tags": [
+    "safety",
+    "compliance",
+    "osha",
+    "workplace-safety",
+    "recordkeeping"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Required Written Programs",
+      "items": [
+        {
+          "text": "Confirm a hazard communication program is written and current."
+        },
+        {
+          "text": "Verify an emergency action plan and fire prevention plan exist where required."
+        },
+        {
+          "text": "Check that programs such as lockout/tagout and respiratory protection are documented where they apply.",
+          "note": "Required programs depend on the hazards present in your workplace."
+        },
+        {
+          "text": "Confirm a bloodborne pathogens exposure control plan exists if applicable."
+        },
+        {
+          "text": "Verify each program names a responsible person and a review date."
+        },
+        {
+          "text": "Check that written programs are accessible to affected employees."
+        }
+      ]
+    },
+    {
+      "title": "Recordkeeping and 300 Logs",
+      "items": [
+        {
+          "text": "Confirm recordable injuries and illnesses are entered on the OSHA 300 log."
+        },
+        {
+          "text": "Verify each recordable case has a corresponding 301 incident report."
+        },
+        {
+          "text": "Check the 300A summary is completed, certified and posted in the required window.",
+          "note": "The 300A summary is typically posted February 1 through April 30."
+        },
+        {
+          "text": "Confirm records are retained for the required period."
+        },
+        {
+          "text": "Verify electronic submission is completed if your establishment is covered."
+        }
+      ]
+    },
+    {
+      "title": "Postings and Notices",
+      "items": [
+        {
+          "text": "Confirm the OSHA 'It's the Law' poster is displayed where employees can see it."
+        },
+        {
+          "text": "Check that emergency and evacuation information is posted."
+        },
+        {
+          "text": "Verify any required state-plan postings are displayed and current."
+        },
+        {
+          "text": "Confirm employees know how to report a hazard or file a complaint."
+        },
+        {
+          "text": "Check that postings are legible, not obstructed and up to date."
+        }
+      ]
+    },
+    {
+      "title": "Training and Competency",
+      "items": [
+        {
+          "text": "Confirm new employees receive required safety training before exposure."
+        },
+        {
+          "text": "Verify hazard-specific training is delivered and documented."
+        },
+        {
+          "text": "Check that refresher and retraining intervals are met."
+        },
+        {
+          "text": "Confirm training is provided in a language employees understand.",
+          "note": "OSHA expects training to be understandable to the workers receiving it."
+        },
+        {
+          "text": "Verify training records include dates, topics and attendees."
+        }
+      ]
+    },
+    {
+      "title": "Hazard Communication and Chemicals",
+      "items": [
+        {
+          "text": "Confirm a current chemical inventory is maintained."
+        },
+        {
+          "text": "Verify safety data sheets are available and accessible to employees."
+        },
+        {
+          "text": "Check that containers are labeled per the GHS labeling system."
+        },
+        {
+          "text": "Confirm employees are trained on chemical hazards and protective measures."
+        },
+        {
+          "text": "Verify secondary containers are labeled and not left unmarked."
+        }
+      ]
+    },
+    {
+      "title": "Inspections and Follow-Up",
+      "items": [
+        {
+          "text": "Confirm routine self-inspections are scheduled and documented."
+        },
+        {
+          "text": "Check that identified hazards are corrected and tracked to closure."
+        },
+        {
+          "text": "Verify employees can report hazards without fear of retaliation."
+        },
+        {
+          "text": "Confirm prior citations or corrective actions have been completed."
+        },
+        {
+          "text": "Review the program after incidents, process changes or new regulations."
+        },
+        {
+          "text": "Important: this is general guidance only and does not replace OSHA regulations, formal training or your employer's safety program; confirm requirements with a qualified person."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does an OSHA compliance checklist cover?",
+      "a": "It covers the common fundamentals: required written programs, injury and illness recordkeeping such as the OSHA 300, 300A and 301 forms, mandatory postings, employee training, hazard communication and access to safety data sheets."
+    },
+    {
+      "q": "Do all employers have to keep OSHA 300 logs?",
+      "a": "Many do, but some small employers and lower-hazard industries are partially exempt from routine recordkeeping. Confirm your specific obligations, including the annual 300A posting period, against current OSHA rules for your size and industry."
+    },
+    {
+      "q": "Where should the OSHA poster be displayed?",
+      "a": "The 'Job Safety and Health: It's the Law' poster must be displayed where employees can readily see it, such as a break room or notice board. Replace damaged or outdated versions promptly."
+    },
+    {
+      "q": "Can this checklist be used for any industry?",
+      "a": "Yes, as a starting point. Download the printable PDF and add industry-specific items such as lockout/tagout, fall protection, respiratory protection or confined spaces that apply to your operation."
+    },
+    {
+      "q": "Does this checklist guarantee OSHA compliance?",
+      "a": "No. It is general guidance and does not replace OSHA regulations, formal training, your employer's safety program, or a qualified person. Always confirm the exact standards and recordkeeping rules that apply to your workplace."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/osha-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/osha-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "OSHA Checklist by ChecklistForge (https://checklistforge.com/checklist/osha-checklist)",
+  "updated": "2026-10-17"
+}

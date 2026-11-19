@@ -1,0 +1,10 @@
+name: Wrong or missing item
+description: Something in a checklist is wrong, outdated or missing
+labels: [data]
+body:
+  - type: input
+    attributes: { label: Checklist id, placeholder: moving-checklist }
+    validations: { required: true }
+  - type: textarea
+    attributes: { label: What should change? }
+    validations: { required: true }

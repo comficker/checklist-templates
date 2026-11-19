@@ -1,0 +1,179 @@
+{
+  "id": "monthly-cleaning-checklist",
+  "name": "Monthly Cleaning Checklist",
+  "description": "A monthly cleaning checklist of deeper tasks that go beyond the weekly routine.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "routine",
+    "deep-cleaning",
+    "monthly"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "Dust and Detail",
+      "items": [
+        {
+          "text": "Wipe down baseboards and trim throughout the home"
+        },
+        {
+          "text": "Dust ceiling fan blades and light fixtures"
+        },
+        {
+          "text": "Vacuum and wipe air vents and return grilles"
+        },
+        {
+          "text": "Dust door frames, picture frames, and the tops of cabinets"
+        },
+        {
+          "text": "Remove cobwebs from ceiling corners and high spots"
+        },
+        {
+          "text": "Wipe down light switch plates and outlet covers"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen Appliances",
+      "items": [
+        {
+          "text": "Clean the inside of the microwave and remove the turntable to wash it"
+        },
+        {
+          "text": "Wipe down the fridge interior and discard expired food"
+        },
+        {
+          "text": "Run a cleaning cycle on the dishwasher and clear the filter",
+          "note": "A cup of vinegar on the top rack freshens a dishwasher between deep cleans."
+        },
+        {
+          "text": "Descale the kettle and coffee maker"
+        },
+        {
+          "text": "Degrease the range hood and wipe the filter"
+        },
+        {
+          "text": "Wipe down cabinet fronts and the backsplash"
+        }
+      ]
+    },
+    {
+      "title": "Bathrooms",
+      "items": [
+        {
+          "text": "Wash the shower curtain or wipe down the glass door tracks"
+        },
+        {
+          "text": "Scrub grout lines and treat any early mildew spots"
+        },
+        {
+          "text": "Descale the showerhead and faucets"
+        },
+        {
+          "text": "Clean the exhaust fan cover and clear dust from the vent"
+        },
+        {
+          "text": "Disinfect drains in the sink, tub, and shower"
+        },
+        {
+          "text": "Wipe down cabinet interiors and reorganize toiletries"
+        }
+      ]
+    },
+    {
+      "title": "Bedrooms and Soft Furnishings",
+      "items": [
+        {
+          "text": "Wash mattress protectors and pillow protectors"
+        },
+        {
+          "text": "Vacuum the mattress and rotate or flip it"
+        },
+        {
+          "text": "Launder throw blankets, cushion covers, and decorative pillows"
+        },
+        {
+          "text": "Vacuum under the bed and behind the headboard"
+        },
+        {
+          "text": "Wipe down closet shelves and reorganize drawers"
+        }
+      ]
+    },
+    {
+      "title": "Living Areas and Furniture",
+      "items": [
+        {
+          "text": "Move sofas and chairs to vacuum underneath"
+        },
+        {
+          "text": "Vacuum upholstery, including under and between cushions"
+        },
+        {
+          "text": "Dust and polish wood furniture, including legs"
+        },
+        {
+          "text": "Wipe down electronics, remotes, and cable boxes"
+        },
+        {
+          "text": "Spot-clean stains on rugs and upholstery"
+        },
+        {
+          "text": "Clean window sills and wipe down blinds"
+        }
+      ]
+    },
+    {
+      "title": "Whole-Home and Utility",
+      "items": [
+        {
+          "text": "Replace or wash HVAC filters"
+        },
+        {
+          "text": "Wipe down the washer and dryer and clean the lint trap thoroughly"
+        },
+        {
+          "text": "Vacuum and wipe baseboards in hallways and stairs"
+        },
+        {
+          "text": "Clean and disinfect trash and recycling bins"
+        },
+        {
+          "text": "Test smoke and carbon monoxide detectors and change batteries if needed"
+        },
+        {
+          "text": "Vacuum or wash entry mats and doormats"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be cleaned monthly?",
+      "a": "Wipe baseboards, dust vents and ceiling fans, clean inside the microwave and fridge, descale appliances, wash throw blankets and pillows, and vacuum under furniture. These tasks build up too slowly for weekly cleaning."
+    },
+    {
+      "q": "How is monthly cleaning different from a deep clean?",
+      "a": "Monthly cleaning handles deeper tasks on a regular cadence to prevent buildup. A full deep clean, done every few months, tackles the most intensive jobs like grout, ovens, and behind appliances."
+    },
+    {
+      "q": "How long does monthly cleaning take?",
+      "a": "Set aside two to three hours, or spread the tasks across the month. Doing one zone each weekend keeps it from feeling like a big project."
+    },
+    {
+      "q": "Do I still need a weekly clean if I clean monthly?",
+      "a": "Yes. Weekly cleaning keeps everyday surfaces and floors tidy, while monthly cleaning reaches the spots that don't need attention as often."
+    },
+    {
+      "q": "Can I print this monthly cleaning checklist?",
+      "a": "Yes. Print it or download the PDF and check off each deeper task once a month to keep your home in great shape."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/monthly-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/monthly-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Monthly Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/monthly-cleaning-checklist)",
+  "updated": "2026-10-17"
+}

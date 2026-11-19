@@ -1,0 +1,182 @@
+{
+  "id": "contractor-checklist",
+  "name": "Contractor Checklist",
+  "description": "A contractor checklist for hiring and vetting a general contractor before you sign.",
+  "category": "construction",
+  "category_name": "Construction",
+  "tags": [
+    "hiring",
+    "construction",
+    "contractor",
+    "home-improvement"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Define your project",
+      "items": [
+        {
+          "text": "Write a clear scope of work and project goals."
+        },
+        {
+          "text": "Set a realistic budget and contingency."
+        },
+        {
+          "text": "Establish your desired start and completion dates."
+        },
+        {
+          "text": "Gather drawings, plans or design references."
+        },
+        {
+          "text": "List must-have materials, finishes or standards."
+        },
+        {
+          "text": "Decide which decisions you want input on versus delegated."
+        }
+      ]
+    },
+    {
+      "title": "License and credentials",
+      "items": [
+        {
+          "text": "Confirm the contractor holds an active, valid license."
+        },
+        {
+          "text": "Verify the license with your state or local board."
+        },
+        {
+          "text": "Check the license type matches your project scope."
+        },
+        {
+          "text": "Confirm the business is properly registered."
+        },
+        {
+          "text": "Look up any disciplinary actions or complaints."
+        },
+        {
+          "text": "Verify relevant certifications for specialized work."
+        }
+      ]
+    },
+    {
+      "title": "Insurance and bonding",
+      "items": [
+        {
+          "text": "Request a current certificate of general liability insurance."
+        },
+        {
+          "text": "Confirm workers' compensation coverage for their crew."
+        },
+        {
+          "text": "Verify coverage limits are adequate for your project."
+        },
+        {
+          "text": "Ask whether the contractor is bonded."
+        },
+        {
+          "text": "Confirm subcontractors are also insured."
+        },
+        {
+          "text": "Obtain insurance certificates directly from the insurer.",
+          "note": "Verify coverage is active for the full project period before work begins."
+        }
+      ]
+    },
+    {
+      "title": "References and track record",
+      "items": [
+        {
+          "text": "Request at least three recent client references."
+        },
+        {
+          "text": "Call references and ask about quality, communication and timeline."
+        },
+        {
+          "text": "Visit a current or completed job site if possible."
+        },
+        {
+          "text": "Review photos of past projects similar to yours."
+        },
+        {
+          "text": "Check online reviews and ratings for patterns."
+        },
+        {
+          "text": "Ask about their experience with projects like yours."
+        }
+      ]
+    },
+    {
+      "title": "Bids and comparison",
+      "items": [
+        {
+          "text": "Provide all bidders the same detailed scope."
+        },
+        {
+          "text": "Collect at least three written, itemized bids."
+        },
+        {
+          "text": "Compare line items, allowances and exclusions."
+        },
+        {
+          "text": "Question bids that are unusually high or low."
+        },
+        {
+          "text": "Confirm what is and isn't included in each price."
+        },
+        {
+          "text": "Clarify the proposed timeline and crew availability."
+        }
+      ]
+    },
+    {
+      "title": "Contract and agreement",
+      "items": [
+        {
+          "text": "Get the full scope, price and schedule in writing."
+        },
+        {
+          "text": "Define the payment schedule tied to milestones."
+        },
+        {
+          "text": "Set a clear change-order process and pricing."
+        },
+        {
+          "text": "Confirm warranty terms and what they cover."
+        },
+        {
+          "text": "Include lien waiver and dispute-resolution provisions."
+        },
+        {
+          "text": "Read every clause and seek legal review for large projects."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I verify a contractor is licensed?",
+      "a": "Ask for their license number and check it directly with your state or local licensing board, confirming it is active and matches their name. This checklist reminds you to verify credentials rather than take them on trust."
+    },
+    {
+      "q": "How many bids should I get?",
+      "a": "Collect at least three detailed, written bids on the same scope so you can compare like for like. The lowest bid is not always the best value, so weigh experience, references and clarity alongside price."
+    },
+    {
+      "q": "What insurance should a contractor carry?",
+      "a": "At minimum, general liability and workers' compensation. Request a certificate of insurance directly from their insurer and confirm coverage is current before work begins to protect yourself from liability."
+    },
+    {
+      "q": "What should be in a contractor agreement?",
+      "a": "A clear scope, price, payment schedule, timeline, change-order process, warranty and lien provisions. Read every clause before signing, and consider legal review for larger projects where the stakes are higher."
+    },
+    {
+      "q": "Is this contractor checklist available as a printable PDF?",
+      "a": "Yes. Print it to take notes during interviews and site visits, or download the PDF so you can check off vetting steps while comparing contractors."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/contractor-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/contractor-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Contractor Checklist by ChecklistForge (https://checklistforge.com/checklist/contractor-checklist)",
+  "updated": "2026-10-17"
+}

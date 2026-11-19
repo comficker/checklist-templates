@@ -1,0 +1,182 @@
+{
+  "id": "truck-inspection-checklist",
+  "name": "Truck Inspection Checklist",
+  "description": "A DOT-style pre-trip inspection for commercial trucks covering tires, brakes, lights, coupling, fluids and load securement.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "inspection",
+    "vehicles",
+    "truck"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Engine Compartment & Fluids",
+      "items": [
+        {
+          "text": "Check engine oil level and condition"
+        },
+        {
+          "text": "Check coolant level and inspect the radiator"
+        },
+        {
+          "text": "Check power steering and washer fluid"
+        },
+        {
+          "text": "Inspect belts and hoses for cracks or wear"
+        },
+        {
+          "text": "Look for leaks under the engine and components"
+        },
+        {
+          "text": "Check the battery is secure with clean connections"
+        }
+      ]
+    },
+    {
+      "title": "Tires & Wheels",
+      "items": [
+        {
+          "text": "Check tire pressure and inflate to spec"
+        },
+        {
+          "text": "Measure tread depth against the legal minimum"
+        },
+        {
+          "text": "Inspect for cuts, bulges, uneven wear or debris"
+        },
+        {
+          "text": "Check for missing or loose lug nuts and rust streaks"
+        },
+        {
+          "text": "Inspect rims for cracks or damage"
+        },
+        {
+          "text": "Confirm dual tires are not touching and valve caps are present"
+        }
+      ]
+    },
+    {
+      "title": "Brakes & Air System",
+      "items": [
+        {
+          "text": "Perform an air brake leak-down and build-up test"
+        },
+        {
+          "text": "Check the low-air warning and emergency brake function"
+        },
+        {
+          "text": "Inspect brake chambers, slack adjusters and linings"
+        },
+        {
+          "text": "Check brake drums or rotors for cracks or wear"
+        },
+        {
+          "text": "Inspect air lines and connections for leaks or damage"
+        },
+        {
+          "text": "Drain air tanks of moisture as required"
+        }
+      ]
+    },
+    {
+      "title": "Lights & Signals",
+      "items": [
+        {
+          "text": "Test headlights on low and high beam"
+        },
+        {
+          "text": "Check brake lights, tail lights and turn signals"
+        },
+        {
+          "text": "Confirm clearance, marker and reflector lights work"
+        },
+        {
+          "text": "Test the four-way hazard flashers"
+        },
+        {
+          "text": "Check the horn and backup alarm"
+        },
+        {
+          "text": "Clean lenses and reflectors for visibility"
+        }
+      ]
+    },
+    {
+      "title": "Coupling & Trailer",
+      "items": [
+        {
+          "text": "Confirm the fifth wheel is locked with no gap",
+          "note": "Check the locking jaws are closed around the kingpin"
+        },
+        {
+          "text": "Inspect the kingpin and apron for damage"
+        },
+        {
+          "text": "Check that the release arm is in the locked position"
+        },
+        {
+          "text": "Connect and inspect air lines and the electrical cord"
+        },
+        {
+          "text": "Check landing gear is fully raised and secured"
+        },
+        {
+          "text": "Inspect the trailer frame, doors and mud flaps"
+        }
+      ]
+    },
+    {
+      "title": "Cab & Load Securement",
+      "items": [
+        {
+          "text": "Test steering play, mirrors and the windshield"
+        },
+        {
+          "text": "Check seat belt, gauges and warning lights"
+        },
+        {
+          "text": "Confirm the fire extinguisher and emergency triangles are present"
+        },
+        {
+          "text": "Verify the load is secured, balanced and within weight limits"
+        },
+        {
+          "text": "Inspect straps, chains, tarps and tie-downs"
+        },
+        {
+          "text": "Confirm required permits and paperwork are aboard"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a pre-trip inspection?",
+      "a": "A pre-trip inspection is a systematic walk-around and operational check a commercial driver performs before driving, covering tires, brakes, lights, coupling, fluids and the load. It confirms the truck is safe and roadworthy and is required by regulations in many jurisdictions."
+    },
+    {
+      "q": "How long does a truck inspection take?",
+      "a": "A thorough pre-trip inspection typically takes around fifteen minutes once it is routine, longer when defects are found. Rushing it defeats the purpose; the goal is to find problems in the yard rather than discover them on the road."
+    },
+    {
+      "q": "What should I check on the coupling system?",
+      "a": "Confirm the fifth wheel is locked with no gap, the kingpin is seated, the locking jaws are closed, the release arm is in position, and air and electrical lines are connected and free of leaks or damage. A bad coupling can cause a trailer to separate."
+    },
+    {
+      "q": "What if I find a defect during inspection?",
+      "a": "Document the defect, report it per your company's procedures and do not operate the truck if the defect makes it unsafe or out of compliance. Have repairs done by a qualified technician and keep records as required by the regulations that apply to you."
+    },
+    {
+      "q": "Can I print this truck inspection checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it in the cab and work through tires, brakes, lights, coupling, fluids and load checks before every trip."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/truck-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/truck-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Truck Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/truck-inspection-checklist)",
+  "updated": "2026-10-20"
+}

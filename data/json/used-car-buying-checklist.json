@@ -1,0 +1,185 @@
+{
+  "id": "used-car-buying-checklist",
+  "name": "Used Car Buying Checklist",
+  "description": "A checklist for buying a used car the right way.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "vehicles",
+    "car-buying",
+    "cars",
+    "used-car-buying"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Set budget and shortlist",
+      "items": [
+        {
+          "text": "Set a total budget including repairs, insurance and running costs."
+        },
+        {
+          "text": "Research reliable models and known problem years to avoid."
+        },
+        {
+          "text": "Check typical market prices for the models and mileage you want.",
+          "note": "Pricing guides help you spot both overpriced and suspiciously cheap cars."
+        },
+        {
+          "text": "Decide between a dealer, private seller or certified pre-owned."
+        },
+        {
+          "text": "Factor higher financing rates that often apply to used cars."
+        },
+        {
+          "text": "Shortlist several cars so you are not pressured into one."
+        }
+      ]
+    },
+    {
+      "title": "Check history and records",
+      "items": [
+        {
+          "text": "Run a vehicle history report using the VIN.",
+          "note": "Look for accidents, salvage, flood and odometer flags before viewing."
+        },
+        {
+          "text": "Confirm the odometer reading matches records and wear."
+        },
+        {
+          "text": "Review service and maintenance records for consistency."
+        },
+        {
+          "text": "Check for open recalls by the VIN and confirm they were fixed."
+        },
+        {
+          "text": "Verify the number of previous owners and usage type."
+        },
+        {
+          "text": "Match the VIN on the report to the car and documents."
+        }
+      ]
+    },
+    {
+      "title": "Verify the seller and title",
+      "items": [
+        {
+          "text": "Confirm the seller's name matches the title and their ID."
+        },
+        {
+          "text": "Verify the title is clean, not salvage, rebuilt or branded.",
+          "note": "A branded title sharply lowers value, insurability and safety."
+        },
+        {
+          "text": "Check there is no outstanding loan or lien on the car."
+        },
+        {
+          "text": "Be cautious of curbstoners posing as private sellers."
+        },
+        {
+          "text": "Meet in a safe, public place for private sales."
+        },
+        {
+          "text": "Confirm the registration is current and transferable."
+        }
+      ]
+    },
+    {
+      "title": "Inspect and test drive",
+      "items": [
+        {
+          "text": "Inspect the body, interior and engine bay in daylight."
+        },
+        {
+          "text": "Test drive on varied roads and at highway speed."
+        },
+        {
+          "text": "Watch for warning lights, smoke, noises and pulling."
+        },
+        {
+          "text": "Note the mileage relative to the car's age and condition."
+        },
+        {
+          "text": "Arrange a professional pre-purchase inspection by a mechanic.",
+          "note": "An independent inspection is the best protection against a bad used car."
+        },
+        {
+          "text": "Use any defects found to inform your offer."
+        }
+      ]
+    },
+    {
+      "title": "Negotiate the price",
+      "items": [
+        {
+          "text": "Base your offer on market value and the car's condition."
+        },
+        {
+          "text": "Use inspection findings and needed repairs as leverage."
+        },
+        {
+          "text": "Compare similar listings to justify your price."
+        },
+        {
+          "text": "Negotiate the total price, not a monthly payment."
+        },
+        {
+          "text": "Stay calm and be willing to walk away."
+        },
+        {
+          "text": "Get the agreed price and any terms in writing."
+        }
+      ]
+    },
+    {
+      "title": "Complete the purchase",
+      "items": [
+        {
+          "text": "Verify the VIN, mileage and details on the bill of sale."
+        },
+        {
+          "text": "Complete the title transfer correctly and on time."
+        },
+        {
+          "text": "Pay safely and obtain a signed receipt or bill of sale."
+        },
+        {
+          "text": "Update insurance to cover the car before driving it."
+        },
+        {
+          "text": "Register the vehicle in your name and get plates."
+        },
+        {
+          "text": "Collect all keys, the manual and service records."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a used car buying checklist?",
+      "a": "It's a guide for buyers covering the history report, mileage, inspection, negotiation and clean title transfer, so you buy a used car wisely and avoid hidden damage, odometer fraud and title problems."
+    },
+    {
+      "q": "What documents should I check when buying a used car?",
+      "a": "Verify the title is clean and in the seller's name, confirm there is no outstanding finance or lien, review service records, and match the VIN across the car and all documents before agreeing to buy."
+    },
+    {
+      "q": "How important is the vehicle history report?",
+      "a": "Very. A history report run on the VIN can reveal reported accidents, salvage or flood titles, odometer discrepancies and ownership history. It is one of the most important steps before buying any used car."
+    },
+    {
+      "q": "How do I negotiate the price of a used car?",
+      "a": "Research the car's market value, use any inspection findings and needed repairs as leverage, compare similar listings, and be ready to walk away. Negotiate the total price and never reveal your maximum budget."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the used car buying checklist to take to viewings and compare cars, or download the PDF to track listings and offers on your phone."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/used-car-buying-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/used-car-buying-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Used Car Buying Checklist by ChecklistForge (https://checklistforge.com/checklist/used-car-buying-checklist)",
+  "updated": "2026-10-18"
+}

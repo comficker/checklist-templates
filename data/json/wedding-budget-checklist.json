@@ -1,0 +1,186 @@
+{
+  "id": "wedding-budget-checklist",
+  "name": "Wedding Budget Checklist",
+  "description": "A wedding budget checklist covering every spending category, deposits, hidden costs, and a clear payment schedule.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "wedding-budget",
+    "costs",
+    "deposits",
+    "payment-schedule"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Set the Foundation",
+      "items": [
+        {
+          "text": "Determine your total budget, including any family contributions."
+        },
+        {
+          "text": "Confirm who is paying for which parts of the wedding."
+        },
+        {
+          "text": "Open a simple tracker or spreadsheet with a column for each category."
+        },
+        {
+          "text": "Set aside a contingency fund of five to ten percent.",
+          "note": "This buffer absorbs the surprise costs that nearly always appear."
+        },
+        {
+          "text": "Estimate your guest count, since it drives most variable costs."
+        },
+        {
+          "text": "Rank your top three priorities to guide where to spend more."
+        }
+      ]
+    },
+    {
+      "title": "Major Cost Categories",
+      "items": [
+        {
+          "text": "Allocate funds for the ceremony and reception venue."
+        },
+        {
+          "text": "Budget for catering, including food, staff, and rentals."
+        },
+        {
+          "text": "Set an amount for the bar and beverage service."
+        },
+        {
+          "text": "Plan for photography and videography."
+        },
+        {
+          "text": "Budget for music, whether a band or a DJ."
+        },
+        {
+          "text": "Allocate for flowers and decor."
+        }
+      ]
+    },
+    {
+      "title": "Attire and Personal",
+      "items": [
+        {
+          "text": "Budget for the wedding gown and alterations."
+        },
+        {
+          "text": "Plan for the partner's attire and the wedding party looks."
+        },
+        {
+          "text": "Set an amount for wedding rings."
+        },
+        {
+          "text": "Budget for hair, makeup, and any trials."
+        },
+        {
+          "text": "Allocate for shoes, jewelry, and accessories."
+        },
+        {
+          "text": "Plan for the honeymoon as a separate line if applicable."
+        }
+      ]
+    },
+    {
+      "title": "Stationery and Extras",
+      "items": [
+        {
+          "text": "Budget for save-the-dates, invitations, and postage."
+        },
+        {
+          "text": "Plan for programs, menus, signage, and place cards."
+        },
+        {
+          "text": "Set an amount for favors and welcome bags."
+        },
+        {
+          "text": "Allocate for the cake or dessert table."
+        },
+        {
+          "text": "Budget for transportation and any guest shuttles."
+        },
+        {
+          "text": "Plan for the marriage license and officiant fees."
+        }
+      ]
+    },
+    {
+      "title": "Hidden Costs to Capture",
+      "items": [
+        {
+          "text": "Add catering service charges and gratuities to your estimate."
+        },
+        {
+          "text": "Account for sales tax on every taxable item."
+        },
+        {
+          "text": "Budget for vendor overtime if events may run long."
+        },
+        {
+          "text": "Include delivery, setup, and teardown fees."
+        },
+        {
+          "text": "Plan for rental insurance or a venue damage deposit."
+        },
+        {
+          "text": "Set aside money for vendor tips in labeled envelopes.",
+          "note": "Check each contract to see whether gratuity is already included."
+        }
+      ]
+    },
+    {
+      "title": "Track Deposits and Payments",
+      "items": [
+        {
+          "text": "Record the deposit amount and due date for each vendor."
+        },
+        {
+          "text": "Note every final balance and its payment deadline."
+        },
+        {
+          "text": "Mark which payments are deposits versus final balances."
+        },
+        {
+          "text": "Set calendar reminders a week before each due date."
+        },
+        {
+          "text": "Compare estimated costs against actual quotes as they arrive."
+        },
+        {
+          "text": "Review the full budget monthly and adjust categories as needed."
+        },
+        {
+          "text": "Keep all receipts and contracts together for easy reference."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do we set a realistic wedding budget?",
+      "a": "Start with the total amount you can comfortably spend, including any family contributions, then divide it across categories before booking anything. The venue and catering usually take the largest share. Assign a target to each line, hold a buffer aside, and adjust the categories rather than the total as quotes come in."
+    },
+    {
+      "q": "What hidden costs surprise couples most?",
+      "a": "The big ones are service charges and gratuities on catering, sales tax on nearly everything, vendor overtime fees, dress alterations, postage for invitations, and delivery or setup charges. These can add fifteen to twenty-five percent on top of base quotes, so read every contract closely and budget for them from the start."
+    },
+    {
+      "q": "How much should we budget for vendor tips?",
+      "a": "Tips vary by vendor and whether gratuity is already included in the contract. Common practice is to tip service staff, drivers, hair and makeup artists, and delivery crews, while owners are optional. Prepare cash in labeled envelopes ahead of time and hand them to a trusted person to distribute on the day."
+    },
+    {
+      "q": "How do deposits and payment schedules work?",
+      "a": "Most vendors take a deposit to reserve your date, often twenty-five to fifty percent, with the balance due shortly before the wedding. Record each due date so nothing slips past. Track which payments are deposits versus final balances, and never pay a full balance far ahead of the date without good reason."
+    },
+    {
+      "q": "Should we keep a buffer in our budget?",
+      "a": "Yes. Set aside five to ten percent of your total as a contingency fund for the costs that always appear, such as last-minute rentals, extra guests, or a vendor overage. A buffer keeps a small surprise from forcing you to cut something you care about, and it makes the final weeks far less stressful."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-budget-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-budget-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Budget Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-budget-checklist)",
+  "updated": "2026-10-17"
+}

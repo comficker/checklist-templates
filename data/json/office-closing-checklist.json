@@ -1,0 +1,167 @@
+{
+  "id": "office-closing-checklist",
+  "name": "Office Closing Checklist",
+  "description": "An end-of-day routine for tidying, securing and locking up the office every evening.",
+  "category": "office-management",
+  "category_name": "Office Management",
+  "tags": [
+    "office",
+    "security",
+    "closing",
+    "workplace",
+    "office-management"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Tidy Common Areas",
+      "items": [
+        {
+          "text": "Clear reception and shared desks of cups, papers and clutter."
+        },
+        {
+          "text": "Wipe down kitchen counters and the breakroom table."
+        },
+        {
+          "text": "Empty or start the dishwasher and put away clean mugs and dishes.",
+          "note": "Avoid leaving dirty dishes in the sink overnight."
+        },
+        {
+          "text": "Switch off and empty the coffee machine and unplug small kitchen appliances."
+        },
+        {
+          "text": "Empty general waste and recycling bins if needed and replace liners."
+        }
+      ]
+    },
+    {
+      "title": "Power Down Equipment",
+      "items": [
+        {
+          "text": "Shut down or log off shared computers and turn off monitors."
+        },
+        {
+          "text": "Power off printers, copiers, scanners and reception screens."
+        },
+        {
+          "text": "Switch off non-essential lights, leaving any required security lighting on."
+        },
+        {
+          "text": "Adjust heating or air conditioning to overnight or eco settings.",
+          "note": "Leave servers, fridges and security systems running."
+        },
+        {
+          "text": "Turn off and unplug any space heaters, fans or chargers left on desks."
+        }
+      ]
+    },
+    {
+      "title": "Secure Documents and Valuables",
+      "items": [
+        {
+          "text": "Lock confidential files and paperwork in cabinets or drawers."
+        },
+        {
+          "text": "Clear desks of sensitive documents and store laptops securely."
+        },
+        {
+          "text": "Shred any confidential paper no longer needed."
+        },
+        {
+          "text": "Lock away petty cash, keys and any valuable equipment."
+        },
+        {
+          "text": "Confirm safes and secure storage are properly closed and locked."
+        }
+      ]
+    },
+    {
+      "title": "Check Windows and Internal Doors",
+      "items": [
+        {
+          "text": "Close and latch all windows, including those in meeting rooms and kitchens."
+        },
+        {
+          "text": "Confirm internal doors to secure areas such as the server room are closed and locked."
+        },
+        {
+          "text": "Check that fire doors are shut but never blocked or wedged open."
+        },
+        {
+          "text": "Make sure no taps, water dispensers or appliances are left running."
+        },
+        {
+          "text": "Do a final sweep for staff or visitors still in the building."
+        }
+      ]
+    },
+    {
+      "title": "Lock Up and Set Alarm",
+      "items": [
+        {
+          "text": "Switch off remaining lights as you move toward the exit."
+        },
+        {
+          "text": "Lock all internal doors that should be secured overnight."
+        },
+        {
+          "text": "Confirm CCTV and access control systems remain active.",
+          "note": "Do not power down security equipment."
+        },
+        {
+          "text": "Set the security alarm from the panel before the final exit."
+        },
+        {
+          "text": "Lock the main entrance and any secondary doors behind you."
+        }
+      ]
+    },
+    {
+      "title": "Final Checks",
+      "items": [
+        {
+          "text": "Confirm the alarm has armed correctly and shows no fault lights."
+        },
+        {
+          "text": "Test that the entrance door is fully locked by pushing or pulling it."
+        },
+        {
+          "text": "Log any maintenance issues or incidents for the office manager."
+        },
+        {
+          "text": "Note items that need restocking or attention the next morning."
+        },
+        {
+          "text": "Sign and date the closing log to confirm the routine is complete."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Who should close the office at the end of the day?",
+      "a": "Designate a trained closer and a backup. Both should know the lock-up sequence, alarm code and emergency contacts, and carry a printable copy of this checklist for consistency."
+    },
+    {
+      "q": "What is the most important step when closing the office?",
+      "a": "Securing the building. Confirm every door and window is locked and the alarm is set last, after everyone has left and all other tasks are done."
+    },
+    {
+      "q": "Should I turn off all electronics when closing?",
+      "a": "Power down non-essential equipment such as monitors, printers and the coffee machine to save energy and reduce fire risk. Leave servers, fridges and security systems running."
+    },
+    {
+      "q": "How do I handle confidential documents at closing?",
+      "a": "Lock sensitive paperwork in cabinets or drawers, clear desks of private files and shred anything no longer needed. Never leave confidential documents out overnight."
+    },
+    {
+      "q": "Can I adapt this closing checklist for my workplace?",
+      "a": "Yes. Download the printable PDF and add steps specific to your office, such as closing shutters, switching off signage, arming additional zones or securing a server room."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/office-closing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/office-closing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Office Closing Checklist by ChecklistForge (https://checklistforge.com/checklist/office-closing-checklist)",
+  "updated": "2026-10-17"
+}

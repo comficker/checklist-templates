@@ -1,0 +1,204 @@
+{
+  "id": "wedding-vendor-checklist",
+  "name": "Wedding Vendor Checklist",
+  "description": "A step-by-step checklist for researching, interviewing, booking, and managing every wedding vendor from venue to officiant.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "budget",
+    "planning",
+    "wedding",
+    "vendors"
+  ],
+  "item_count": 41,
+  "sections": [
+    {
+      "title": "Set Your Foundation",
+      "items": [
+        {
+          "text": "Confirm your wedding date, guest count, and overall budget before contacting any vendor."
+        },
+        {
+          "text": "List your must-have vendor categories: venue, catering, photography, florals, music, officiant, and any extras."
+        },
+        {
+          "text": "Rank each category by priority so you know where to spend and where to save.",
+          "note": "Decide together which two or three vendors matter most to you both before comparing prices."
+        },
+        {
+          "text": "Create one shared folder for quotes, contracts, and receipts."
+        },
+        {
+          "text": "Set a target booking deadline for each vendor based on your date."
+        }
+      ]
+    },
+    {
+      "title": "Research and Shortlist",
+      "items": [
+        {
+          "text": "Gather recommendations from recently married friends and your venue's preferred list."
+        },
+        {
+          "text": "Review portfolios, galleries, and recent full events, not just highlight reels."
+        },
+        {
+          "text": "Read independent reviews and check for repeated complaints about communication or no-shows."
+        },
+        {
+          "text": "Verify each vendor is available on your exact date before getting attached."
+        },
+        {
+          "text": "Shortlist two or three candidates per category to compare."
+        },
+        {
+          "text": "Confirm each vendor serves your venue's location and travels if needed."
+        }
+      ]
+    },
+    {
+      "title": "Interview and Compare",
+      "items": [
+        {
+          "text": "Ask about total cost and exactly what is and is not included."
+        },
+        {
+          "text": "Confirm the deposit amount, payment schedule, and accepted payment methods."
+        },
+        {
+          "text": "Ask how many weddings they take per day and per weekend."
+        },
+        {
+          "text": "Request the names of a backup professional or team in case of illness."
+        },
+        {
+          "text": "Ask to see a sample contract and a full real wedding similar to yours."
+        },
+        {
+          "text": "Request and actually call two recent client references.",
+          "note": "Ask references whether the vendor stayed on budget and on time."
+        }
+      ]
+    },
+    {
+      "title": "Review Contracts",
+      "items": [
+        {
+          "text": "Confirm the contract lists your correct date, venue, and start and end times."
+        },
+        {
+          "text": "Verify the total price, deposit, and every payment due date in writing."
+        },
+        {
+          "text": "Read the cancellation, rescheduling, and refund policy line by line."
+        },
+        {
+          "text": "Check who covers overtime, travel, meals, parking, and setup fees."
+        },
+        {
+          "text": "Confirm liability insurance and any certificate your venue requires."
+        },
+        {
+          "text": "Make sure both parties sign and you keep a dated copy."
+        }
+      ]
+    },
+    {
+      "title": "Book the Core Team",
+      "items": [
+        {
+          "text": "Lock in your venue and confirm the rental window and capacity."
+        },
+        {
+          "text": "Book your caterer and schedule a menu tasting."
+        },
+        {
+          "text": "Secure your photographer and, if desired, a videographer."
+        },
+        {
+          "text": "Reserve your florist and review a sample arrangement or mood board."
+        },
+        {
+          "text": "Book your music: DJ, band, or ceremony musicians."
+        },
+        {
+          "text": "Confirm your officiant and review the ceremony structure."
+        }
+      ]
+    },
+    {
+      "title": "Coordinate the Details",
+      "items": [
+        {
+          "text": "Share your finalized timeline with every vendor in writing."
+        },
+        {
+          "text": "Provide each vendor the venue address, load-in time, and parking instructions."
+        },
+        {
+          "text": "Give the photographer and videographer your must-have shot list."
+        },
+        {
+          "text": "Confirm meal counts and dietary needs with your caterer."
+        },
+        {
+          "text": "Collect each vendor's day-of contact number and arrival time.",
+          "note": "Hand this contact sheet to your planner or a trusted point person."
+        },
+        {
+          "text": "Confirm setup, teardown, and final headcount deadlines."
+        }
+      ]
+    },
+    {
+      "title": "Final Payments and Wrap-Up",
+      "items": [
+        {
+          "text": "Confirm all remaining balances and due dates one week out."
+        },
+        {
+          "text": "Prepare labeled tip envelopes and assign someone to hand them out."
+        },
+        {
+          "text": "Reconfirm arrival times with every vendor a few days before."
+        },
+        {
+          "text": "Keep digital copies of all contracts accessible on the wedding day."
+        },
+        {
+          "text": "After the wedding, review the work and pay any final invoices promptly."
+        },
+        {
+          "text": "Write honest reviews and thank-you notes for vendors you loved."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How far in advance should I book wedding vendors?",
+      "a": "Book your venue, photographer, and caterer first, ideally nine to twelve months out, since popular pros fill peak dates early. Florists, DJs, and officiants can follow within six to nine months. For a peak-season or holiday wedding, start even sooner to protect your top choices."
+    },
+    {
+      "q": "What questions should I ask a wedding vendor before booking?",
+      "a": "Ask about availability for your date, total cost and what it includes, deposit and payment schedule, cancellation and refund terms, backup plans if they get sick, and how many events they take per day. Request references and a sample contract before you commit any money."
+    },
+    {
+      "q": "How much should I budget for wedding vendors?",
+      "a": "Vendor costs vary widely by region and style, so set your total budget first, then divide it across categories by priority. The venue and catering usually take the largest share. Always reserve a cushion of about ten percent for tips, overtime, and last-minute additions you did not plan for."
+    },
+    {
+      "q": "Should I get everything in writing with vendors?",
+      "a": "Yes. Every vendor agreement should be a signed written contract that lists services, date, times, total price, deposit, payment due dates, and cancellation terms. A verbal promise is hard to enforce. If a vendor resists putting details in writing, treat that as a warning sign and look elsewhere."
+    },
+    {
+      "q": "How much do I tip wedding vendors?",
+      "a": "Tipping is customary for service staff such as servers, bartenders, drivers, and hair and makeup artists, often fifteen to twenty percent. Owners and solo professionals may not expect a tip but appreciate one. Confirm whether gratuity is already built into your contract so you do not pay twice."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-vendor-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-vendor-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Vendor Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-vendor-checklist)",
+  "updated": "2026-10-17"
+}

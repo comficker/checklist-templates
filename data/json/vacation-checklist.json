@@ -1,0 +1,164 @@
+{
+  "id": "vacation-checklist",
+  "name": "Vacation Checklist",
+  "description": "A vacation checklist for planning a leisure getaway, covering itinerary, bookings, budget, and home prep so you can relax once you arrive.",
+  "category": "travel",
+  "category_name": "Travel",
+  "tags": [
+    "travel",
+    "vacation",
+    "trip-planning",
+    "holiday"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Decide and Budget",
+      "items": [
+        {
+          "text": "Choose your destination and travel dates"
+        },
+        {
+          "text": "Set a total vacation budget"
+        },
+        {
+          "text": "Split the budget across travel, stays, food, and fun"
+        },
+        {
+          "text": "Confirm time off work or school"
+        },
+        {
+          "text": "Agree on the pace and style of the trip",
+          "note": "Mix planned days with relaxed free time"
+        }
+      ]
+    },
+    {
+      "title": "Book Travel and Stays",
+      "items": [
+        {
+          "text": "Book flights, trains, or driving routes"
+        },
+        {
+          "text": "Reserve hotels or rentals for each night"
+        },
+        {
+          "text": "Arrange transfers or a rental car"
+        },
+        {
+          "text": "Confirm check-in times and cancellation terms"
+        },
+        {
+          "text": "Save all confirmations in one place"
+        }
+      ]
+    },
+    {
+      "title": "Plan the Itinerary",
+      "items": [
+        {
+          "text": "List must-see sights and experiences"
+        },
+        {
+          "text": "Book popular tours and tickets in advance"
+        },
+        {
+          "text": "Reserve special restaurants or events"
+        },
+        {
+          "text": "Sketch a loose day-by-day plan"
+        },
+        {
+          "text": "Leave room for rest and spontaneity"
+        }
+      ]
+    },
+    {
+      "title": "Practical Preparations",
+      "items": [
+        {
+          "text": "Notify your bank of travel dates"
+        },
+        {
+          "text": "Arrange currency or a travel card"
+        },
+        {
+          "text": "Check phone and data options for your destination"
+        },
+        {
+          "text": "Review travel insurance for the trip"
+        },
+        {
+          "text": "Download maps and key apps offline"
+        }
+      ]
+    },
+    {
+      "title": "Prepare Your Home",
+      "items": [
+        {
+          "text": "Pause mail and deliveries"
+        },
+        {
+          "text": "Arrange pet, plant, and house care"
+        },
+        {
+          "text": "Secure doors, windows, and valuables"
+        },
+        {
+          "text": "Set lights on a timer for the empty house"
+        },
+        {
+          "text": "Clear the fridge of perishables"
+        }
+      ]
+    },
+    {
+      "title": "Final Week Before You Go",
+      "items": [
+        {
+          "text": "Confirm all bookings and departure times"
+        },
+        {
+          "text": "Check in online where possible"
+        },
+        {
+          "text": "Pack using a vacation packing list"
+        },
+        {
+          "text": "Charge devices and gather chargers"
+        },
+        {
+          "text": "Do a last sweep for documents, keys, and phone"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is a vacation checklist different from a travel checklist?",
+      "a": "A vacation checklist leans into planning a relaxing getaway — itinerary, dining, downtime, and budget — while a travel checklist is broader logistics for any trip. Use this for leisure planning and a travel checklist for the full nuts-and-bolts."
+    },
+    {
+      "q": "How far ahead should I plan a vacation?",
+      "a": "Begin four to eight weeks out for most getaways, and earlier for peak seasons or popular destinations. Early planning locks in better prices on stays and lets you snap up sought-after restaurants and activities."
+    },
+    {
+      "q": "Should this list include what to pack?",
+      "a": "No. Keep packing on its own list so this one stays focused on planning. Use a vacation packing checklist for clothes, toiletries, and gear once your itinerary is set."
+    },
+    {
+      "q": "How do I budget for a vacation?",
+      "a": "Set a total budget, then split it across transport, accommodation, food, activities, and a buffer for extras. Tracking spending day to day helps you enjoy the trip without an unwelcome surprise on your return."
+    },
+    {
+      "q": "Is this vacation checklist printable?",
+      "a": "Yes. Print it or download the PDF, work through it as you plan, and keep it handy so your getaway runs smoothly from booking to your first day away."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/vacation-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/vacation-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Vacation Checklist by ChecklistForge (https://checklistforge.com/checklist/vacation-checklist)",
+  "updated": "2026-10-17"
+}

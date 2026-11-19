@@ -1,0 +1,142 @@
+{
+  "id": "pet-moving-checklist",
+  "name": "Pet Moving Checklist",
+  "description": "An owner-focused checklist for moving house with a pet, covering records, ID, travel and settling in.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "moving",
+    "pets",
+    "pet-care",
+    "relocation",
+    "pet-travel"
+  ],
+  "item_count": 24,
+  "sections": [
+    {
+      "title": "Vet & Health Records",
+      "items": [
+        {
+          "text": "Request copies of your pet's full medical records"
+        },
+        {
+          "text": "Confirm vaccinations are current"
+        },
+        {
+          "text": "Ask your vet about travel, sedation or motion sickness",
+          "note": "Never give human medication without veterinary advice"
+        },
+        {
+          "text": "Refill any ongoing medications before the move"
+        },
+        {
+          "text": "Research a new vet near your future home"
+        }
+      ]
+    },
+    {
+      "title": "Identification Updates",
+      "items": [
+        {
+          "text": "Update your microchip registration with the new address and phone"
+        },
+        {
+          "text": "Replace ID tags with current contact details"
+        },
+        {
+          "text": "Update any pet license or registration with local authorities"
+        },
+        {
+          "text": "Take a recent photo in case your pet goes missing during the move"
+        }
+      ]
+    },
+    {
+      "title": "Travel Preparation",
+      "items": [
+        {
+          "text": "Acclimate your pet to the carrier or crate in advance"
+        },
+        {
+          "text": "Pack a travel kit with food, water, bowls and waste bags"
+        },
+        {
+          "text": "Plan rest, water and bathroom stops for long drives"
+        },
+        {
+          "text": "Confirm airline or transport rules if flying or shipping the pet"
+        },
+        {
+          "text": "Never leave a pet alone in a parked vehicle"
+        }
+      ]
+    },
+    {
+      "title": "Moving Day Safety",
+      "items": [
+        {
+          "text": "Confine your pet to a closed, quiet room or arrange boarding"
+        },
+        {
+          "text": "Place a clear sign on the door so movers keep it shut"
+        },
+        {
+          "text": "Keep collar and ID tags on the pet at all times"
+        },
+        {
+          "text": "Pack a familiar blanket, bed or toy to bring on the journey"
+        },
+        {
+          "text": "Feed lightly before travel to reduce nausea"
+        }
+      ]
+    },
+    {
+      "title": "Settling Into the New Home",
+      "items": [
+        {
+          "text": "Set up one secured, quiet room with familiar items first"
+        },
+        {
+          "text": "Pet-proof the home and check for escape routes and hazards"
+        },
+        {
+          "text": "Introduce the rest of the home gradually"
+        },
+        {
+          "text": "Keep feeding, walk and sleep routines consistent"
+        },
+        {
+          "text": "Update walking routes and locate the nearest emergency vet"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I prepare my pet for a house move?",
+      "a": "Update ID and microchip details, gather vet records, keep your pet's routine steady, pack a travel kit, and set up a quiet, secured room in the new home before the move so they have a calm base."
+    },
+    {
+      "q": "How do I keep my pet safe on moving day?",
+      "a": "Confine the pet to a closed, quiet room or board them for the day so open doors and movers don't cause an escape. Make sure they wear a collar with current ID tags throughout."
+    },
+    {
+      "q": "Should I see a vet before moving with a pet?",
+      "a": "Yes. Ask your veterinarian for copies of records, ensure vaccinations are current, request advice on travel and motion sickness, and ask about requirements if moving to a new region or country."
+    },
+    {
+      "q": "How long does it take a pet to settle after a move?",
+      "a": "Many pets need days to a few weeks to adjust. Keep routines consistent, give them a familiar-smelling safe space, and watch for changes in eating or behavior, consulting a vet if concerns persist."
+    },
+    {
+      "q": "Can I print this pet moving checklist?",
+      "a": "Yes. Print it or download the PDF so you can carry it through the move and check off each task as you go."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pet-moving-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pet-moving-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pet Moving Checklist by ChecklistForge (https://checklistforge.com/checklist/pet-moving-checklist)",
+  "updated": "2026-10-17"
+}

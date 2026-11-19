@@ -1,0 +1,206 @@
+{
+  "id": "college-checklist",
+  "name": "College Checklist",
+  "description": "An end-to-end checklist for students preparing to start college, from applying to arriving on campus.",
+  "category": "college-career",
+  "category_name": "College & Career",
+  "tags": [
+    "students",
+    "college",
+    "first-year",
+    "enrollment"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Research and decide",
+      "items": [
+        {
+          "text": "List schools that match your goals, budget and location."
+        },
+        {
+          "text": "Compare programs, class sizes and graduation rates."
+        },
+        {
+          "text": "Visit campuses in person or take virtual tours."
+        },
+        {
+          "text": "Estimate the total cost of attendance for each school."
+        },
+        {
+          "text": "Note application and financial aid deadlines for each one."
+        },
+        {
+          "text": "Narrow your list to reach, match and safety schools."
+        }
+      ]
+    },
+    {
+      "title": "Apply and submit",
+      "items": [
+        {
+          "text": "Register for and take any required entrance tests."
+        },
+        {
+          "text": "Request transcripts from your high school.",
+          "note": "Allow at least a week or two for the registrar to process requests."
+        },
+        {
+          "text": "Ask teachers for letters of recommendation early."
+        },
+        {
+          "text": "Draft, revise and proofread your application essays."
+        },
+        {
+          "text": "Complete each application and double-check every field."
+        },
+        {
+          "text": "Submit before the deadline and save confirmation emails."
+        }
+      ]
+    },
+    {
+      "title": "Pay for college",
+      "items": [
+        {
+          "text": "Submit your financial aid application as early as it opens.",
+          "note": "Aid is often first-come, first-served — apply the day forms open."
+        },
+        {
+          "text": "Search and apply for scholarships and grants."
+        },
+        {
+          "text": "Compare the award letters from each school."
+        },
+        {
+          "text": "Understand any loans before accepting them."
+        },
+        {
+          "text": "Set up a plan to cover tuition and living costs."
+        },
+        {
+          "text": "Keep copies of every financial document you submit."
+        }
+      ]
+    },
+    {
+      "title": "Accept and enroll",
+      "items": [
+        {
+          "text": "Review your offers and choose your school."
+        },
+        {
+          "text": "Pay your enrollment deposit by the deadline."
+        },
+        {
+          "text": "Decline other offers so spots open for others."
+        },
+        {
+          "text": "Submit your final high school transcript."
+        },
+        {
+          "text": "Set up your student email and online accounts."
+        },
+        {
+          "text": "Complete any required health and immunization forms."
+        }
+      ]
+    },
+    {
+      "title": "Housing and registration",
+      "items": [
+        {
+          "text": "Apply for on-campus housing and pay any deposit."
+        },
+        {
+          "text": "Complete a roommate questionnaire if offered."
+        },
+        {
+          "text": "Sign up for new-student orientation."
+        },
+        {
+          "text": "Meet with an advisor and plan your first-term courses."
+        },
+        {
+          "text": "Register for classes as soon as your window opens."
+        },
+        {
+          "text": "Buy or rent textbooks once your schedule is set."
+        }
+      ]
+    },
+    {
+      "title": "Pack and prepare",
+      "items": [
+        {
+          "text": "Build a packing list by category, from clothes to tech."
+        },
+        {
+          "text": "Coordinate large items with your roommate to avoid doubles."
+        },
+        {
+          "text": "Set up a checking account and a way to receive money."
+        },
+        {
+          "text": "Pack important documents and a copy of your ID."
+        },
+        {
+          "text": "Fill any prescriptions and pack a basic first-aid kit."
+        },
+        {
+          "text": "Confirm your move-in date, time and parking details."
+        }
+      ]
+    },
+    {
+      "title": "Move in and settle",
+      "items": [
+        {
+          "text": "Arrive within your assigned move-in window."
+        },
+        {
+          "text": "Check your room for damage and report it right away."
+        },
+        {
+          "text": "Unpack essentials first, then organize the rest."
+        },
+        {
+          "text": "Locate your classes, dining hall and library."
+        },
+        {
+          "text": "Save campus safety and health center contacts."
+        },
+        {
+          "text": "Attend orientation events and meet people early."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start preparing for college?",
+      "a": "Begin researching schools and entrance tests in junior year of high school, start applications in the fall of senior year, and handle enrollment, housing and packing in the spring and summer before you start. Earlier is almost always better."
+    },
+    {
+      "q": "What's the most commonly missed college task?",
+      "a": "Financial aid forms and housing deposits are the items students forget most often, usually because they have separate deadlines from the application itself. Note every deadline on a calendar as soon as you know it."
+    },
+    {
+      "q": "Do I need to commit to one school before doing the rest?",
+      "a": "Yes. Once you accept an offer and pay your enrollment deposit, you can move on to housing, orientation, course registration and packing for that specific school."
+    },
+    {
+      "q": "How early should I pack for college?",
+      "a": "Start a packing list weeks ahead and buy big items early, but pack clothes and daily essentials in the final week so you still have what you need at home."
+    },
+    {
+      "q": "Can I download this checklist as a PDF?",
+      "a": "Yes. Print the checklist or download the PDF and tick off each step as you move from applying to arriving on campus."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/college-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/college-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "College Checklist by ChecklistForge (https://checklistforge.com/checklist/college-checklist)",
+  "updated": "2026-10-17"
+}

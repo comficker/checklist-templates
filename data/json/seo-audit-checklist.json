@@ -1,0 +1,204 @@
+{
+  "id": "seo-audit-checklist",
+  "name": "SEO Audit Checklist",
+  "description": "A step-by-step SEO audit checklist for diagnosing technical, on-page, content, and link issues, then prioritizing fixes.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "seo",
+    "website",
+    "audit"
+  ],
+  "item_count": 41,
+  "sections": [
+    {
+      "title": "Crawl and Indexation Review",
+      "items": [
+        {
+          "text": "Run a full site crawl with your crawler and export every URL it discovers."
+        },
+        {
+          "text": "Compare crawled URLs against the pages indexed in your search console coverage report."
+        },
+        {
+          "text": "Identify pages that should rank but are excluded, blocked, or marked 'discovered but not indexed'."
+        },
+        {
+          "text": "Check the robots.txt file for rules that accidentally block important sections."
+        },
+        {
+          "text": "Review noindex tags and confirm they only appear on pages you intend to keep out of search."
+        },
+        {
+          "text": "Find orphan pages with no internal links pointing to them and decide whether to link or remove them.",
+          "note": "Orphan pages rarely get crawled or ranked because search engines reach most URLs through internal links."
+        },
+        {
+          "text": "Submit or refresh your XML sitemap and verify it lists only canonical, indexable URLs."
+        }
+      ]
+    },
+    {
+      "title": "Technical Health Check",
+      "items": [
+        {
+          "text": "Flag and fix all server errors and broken pages returning 4xx or 5xx status codes."
+        },
+        {
+          "text": "Map redirect chains and loops, then collapse them into single direct redirects."
+        },
+        {
+          "text": "Confirm the site forces HTTPS and that mixed-content warnings are resolved."
+        },
+        {
+          "text": "Test core pages on mobile and check for layout, tap-target, and viewport issues."
+        },
+        {
+          "text": "Measure page load and Core Web Vitals on key templates, noting the slowest offenders."
+        },
+        {
+          "text": "Verify canonical tags resolve to the correct primary version of each duplicated page."
+        }
+      ]
+    },
+    {
+      "title": "On-Page Element Audit",
+      "items": [
+        {
+          "text": "Export title tags and flag pages that are missing, duplicated, or longer than the visible limit."
+        },
+        {
+          "text": "Review meta descriptions for duplicates, empty fields, and weak calls to action."
+        },
+        {
+          "text": "Confirm each page has exactly one H1 that describes its primary topic."
+        },
+        {
+          "text": "Check that target keywords appear naturally in titles, headings, and the first paragraph."
+        },
+        {
+          "text": "Audit image alt text and add descriptive text to images that convey meaning."
+        },
+        {
+          "text": "Review URL structure for clarity, removing unnecessary parameters and stop words where practical."
+        }
+      ]
+    },
+    {
+      "title": "Content Quality Assessment",
+      "items": [
+        {
+          "text": "List pages with thin or duplicate content and decide whether to improve, merge, or remove them."
+        },
+        {
+          "text": "Find multiple pages competing for the same keyword and consolidate them to end cannibalization."
+        },
+        {
+          "text": "Identify outdated pages with stale facts, dead references, or old years in the copy."
+        },
+        {
+          "text": "Compare your top pages against ranking competitors to spot missing subtopics and depth.",
+          "note": "A content gap analysis often reveals quick wins on pages that already rank on page two."
+        },
+        {
+          "text": "Flag high-traffic pages that lack a clear next step or conversion path."
+        },
+        {
+          "text": "Check that each priority page satisfies the search intent behind its target query."
+        }
+      ]
+    },
+    {
+      "title": "Backlink and Authority Review",
+      "items": [
+        {
+          "text": "Pull your backlink profile and note total referring domains and overall trend."
+        },
+        {
+          "text": "Identify toxic, spammy, or paid links that could trigger a penalty."
+        },
+        {
+          "text": "Find broken backlinks pointing to dead pages and redirect them to live equivalents."
+        },
+        {
+          "text": "Review anchor text distribution for unnatural over-optimization on exact-match keywords."
+        },
+        {
+          "text": "Spot your most-linked pages and confirm they pass authority internally to priority targets."
+        }
+      ]
+    },
+    {
+      "title": "Analytics and Performance Review",
+      "items": [
+        {
+          "text": "Compare organic traffic across the last 12 months to detect drops tied to specific dates."
+        },
+        {
+          "text": "Identify pages that lost rankings or clicks and trace the change to a cause."
+        },
+        {
+          "text": "Review top queries in search console for impressions without corresponding clicks."
+        },
+        {
+          "text": "Confirm conversion tracking fires correctly so organic value is measured accurately."
+        },
+        {
+          "text": "Check that key landing pages have healthy engagement and acceptable bounce behavior."
+        }
+      ]
+    },
+    {
+      "title": "Prioritize and Document Fixes",
+      "items": [
+        {
+          "text": "List every issue found, grouped by category, in one shared document."
+        },
+        {
+          "text": "Score each issue by estimated impact and the effort required to resolve it."
+        },
+        {
+          "text": "Move crawl and indexation blockers to the top as urgent, must-fix items."
+        },
+        {
+          "text": "Assign an owner and a target date to each prioritized task."
+        },
+        {
+          "text": "Record baseline metrics now so you can measure the audit's impact later.",
+          "note": "Capturing before-and-after numbers turns your audit into a results story you can report to stakeholders."
+        },
+        {
+          "text": "Schedule the next audit date to keep reviews on a predictable cycle."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I run an SEO audit?",
+      "a": "Run a full audit quarterly for most sites, and monthly for large or fast-changing ones. Schedule a lighter check after major site changes such as a redesign, migration, or CMS update. Between audits, watch search console and analytics weekly so new issues never go unnoticed for long."
+    },
+    {
+      "q": "What tools do I need for an SEO audit?",
+      "a": "Start with free options: a search engine's search console for indexation and coverage data, an analytics platform for traffic, and a site crawler to map pages. These cover most checks in this list. Paid crawlers and backlink tools add depth, but you can complete a solid audit without spending money."
+    },
+    {
+      "q": "How long does a full SEO audit take?",
+      "a": "A thorough audit of a small site takes roughly four to eight hours of focused work. Larger sites with thousands of pages can take several days, mostly waiting on crawl exports and log data. Reviewing findings and writing the prioritized fix list usually adds another two to three hours."
+    },
+    {
+      "q": "What is the difference between an SEO audit and a technical audit?",
+      "a": "An SEO audit is broad: it reviews technical, on-page, content, links, and analytics together. A technical audit is one slice of that, focused only on crawling, indexing, speed, and site architecture. Use the full audit for strategy and the technical audit when you suspect infrastructure problems."
+    },
+    {
+      "q": "How do I prioritize the issues I find?",
+      "a": "Score each issue by potential impact and the effort to fix it. Tackle high-impact, low-effort items first, such as restoring indexable pages or fixing broken redirects. Push low-impact, high-effort tasks to the backlog. Always fix problems that block crawling or indexing before optimizing anything else."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/seo-audit-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/seo-audit-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "SEO Audit Checklist by ChecklistForge (https://checklistforge.com/checklist/seo-audit-checklist)",
+  "updated": "2026-10-17"
+}

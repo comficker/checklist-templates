@@ -1,0 +1,168 @@
+{
+  "id": "gym-checklist",
+  "name": "Gym Checklist",
+  "description": "Everything to pack and every step of a smart gym session, in one checklist.",
+  "category": "fitness-exercise",
+  "category_name": "Fitness & Exercise",
+  "tags": [
+    "fitness",
+    "exercise",
+    "workout",
+    "gym"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Gym Bag Essentials",
+      "items": [
+        {
+          "text": "Pack comfortable workout clothes suited to the weather"
+        },
+        {
+          "text": "Bring supportive athletic shoes for training"
+        },
+        {
+          "text": "Fill a reusable water bottle before you leave"
+        },
+        {
+          "text": "Add a small towel to wipe sweat and equipment"
+        },
+        {
+          "text": "Grab headphones and your phone or music device"
+        },
+        {
+          "text": "Include a padlock if your gym has lockers",
+          "note": "Check whether your gym provides locks or you need your own."
+        }
+      ]
+    },
+    {
+      "title": "Before You Go",
+      "items": [
+        {
+          "text": "Eat a light snack or meal 1 to 2 hours before if needed"
+        },
+        {
+          "text": "Plan which workout you will do today"
+        },
+        {
+          "text": "Check off your packing list so nothing is forgotten"
+        },
+        {
+          "text": "Bring a change of clothes and toiletries if you will shower"
+        },
+        {
+          "text": "Set a rough time limit so the session stays focused"
+        }
+      ]
+    },
+    {
+      "title": "Warm Up",
+      "items": [
+        {
+          "text": "Do 5 to 10 minutes of light cardio to raise your heart rate"
+        },
+        {
+          "text": "Perform dynamic stretches and mobility drills"
+        },
+        {
+          "text": "Do a few warmup sets with lighter weights before heavy lifts",
+          "note": "This primes your muscles and lowers injury risk."
+        },
+        {
+          "text": "Move through the full range of motion to loosen joints"
+        }
+      ]
+    },
+    {
+      "title": "Your Workout",
+      "items": [
+        {
+          "text": "Follow your planned exercises for the day"
+        },
+        {
+          "text": "Focus on good form before adding weight"
+        },
+        {
+          "text": "Rest appropriately between sets"
+        },
+        {
+          "text": "Stay hydrated throughout your session"
+        },
+        {
+          "text": "Stop and reassess if you feel sharp pain or dizziness"
+        }
+      ]
+    },
+    {
+      "title": "Gym Etiquette and Hygiene",
+      "items": [
+        {
+          "text": "Wipe down equipment and benches after you use them"
+        },
+        {
+          "text": "Re-rack weights and return equipment to its place"
+        },
+        {
+          "text": "Share machines and let others work in during your rests"
+        },
+        {
+          "text": "Keep your bag out of walkways and aisles"
+        },
+        {
+          "text": "Use a towel on shared surfaces and respect personal space"
+        }
+      ]
+    },
+    {
+      "title": "Cool Down and After",
+      "items": [
+        {
+          "text": "Do 5 minutes of light movement to lower your heart rate"
+        },
+        {
+          "text": "Stretch the muscles you trained"
+        },
+        {
+          "text": "Refill your water bottle and rehydrate"
+        },
+        {
+          "text": "Wipe down and pack your gear before you leave"
+        },
+        {
+          "text": "Log your workout so you can progress next time"
+        },
+        {
+          "text": "Important: This is general information, not medical advice. Consult your doctor before starting a new gym program, especially with a health condition, injury, or pregnancy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I pack in my gym bag?",
+      "a": "Essentials include workout clothes, supportive shoes, a water bottle, a towel, headphones, and toiletries if you plan to shower. Many people also bring a padlock, a small snack, and a change of clothes. This checklist lists the key items so nothing gets left behind."
+    },
+    {
+      "q": "How should a beginner structure a gym session?",
+      "a": "Start with a 5 to 10 minute warmup, move to your main workout (strength or cardio), then finish with a cooldown and light stretching. Begin with lighter weights and good form, and gradually progress. A simple plan keeps your session focused and safe."
+    },
+    {
+      "q": "What is basic gym etiquette?",
+      "a": "Wipe down equipment after use, re-rack your weights, do not hog machines during rest, share equipment when asked, and keep your bag out of walkways. Good etiquette keeps the space safe and pleasant for everyone, and it is easy to follow once it is a habit."
+    },
+    {
+      "q": "How often should I go to the gym as a beginner?",
+      "a": "Two to four sessions a week is a sensible starting point, with rest days for recovery. General guidance suggests at least 150 minutes of moderate activity plus strength work weekly. Build up gradually rather than overdoing it in the first weeks."
+    },
+    {
+      "q": "Is this checklist medical advice?",
+      "a": "No. This is general information only and not a substitute for personalized medical advice. Talk to your doctor before starting a new gym or exercise program, especially if you have a health condition, an injury, or are pregnant."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/gym-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/gym-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Gym Checklist by ChecklistForge (https://checklistforge.com/checklist/gym-checklist)",
+  "updated": "2026-10-17"
+}

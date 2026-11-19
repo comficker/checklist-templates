@@ -1,0 +1,178 @@
+{
+  "id": "research-paper-checklist",
+  "name": "Research Paper Checklist",
+  "description": "A research paper checklist that walks students through every stage from topic to final draft.",
+  "category": "students-study",
+  "category_name": "Students & Study",
+  "tags": [
+    "students",
+    "study",
+    "writing",
+    "research-paper",
+    "citations"
+  ],
+  "item_count": 34,
+  "sections": [
+    {
+      "title": "Choose and narrow your topic",
+      "items": [
+        {
+          "text": "Reread the assignment prompt and note the required length, format and due date."
+        },
+        {
+          "text": "Brainstorm several topics that interest you and fit the prompt."
+        },
+        {
+          "text": "Do background reading to see how much information exists on each."
+        },
+        {
+          "text": "Narrow your choice to a focused, manageable topic.",
+          "note": "Too broad means you can't go deep; too narrow means too few sources."
+        },
+        {
+          "text": "Write a clear research question your paper will answer."
+        },
+        {
+          "text": "Confirm the topic with your teacher if approval is required."
+        }
+      ]
+    },
+    {
+      "title": "Develop your thesis",
+      "items": [
+        {
+          "text": "Draft a one-sentence thesis that states your main argument."
+        },
+        {
+          "text": "Make sure the thesis is specific and arguable, not just a fact."
+        },
+        {
+          "text": "Check that you can support it with evidence you can find."
+        },
+        {
+          "text": "Refine the wording so it is clear and direct."
+        },
+        {
+          "text": "Keep the thesis visible as you research and write."
+        }
+      ]
+    },
+    {
+      "title": "Gather and evaluate sources",
+      "items": [
+        {
+          "text": "Search the library catalog, databases and credible websites."
+        },
+        {
+          "text": "Collect a mix of primary and secondary sources."
+        },
+        {
+          "text": "Evaluate each source for authority, accuracy and bias."
+        },
+        {
+          "text": "Save full citation details for every source as you go.",
+          "note": "Author, title, publisher, date and URL or page numbers."
+        },
+        {
+          "text": "Take organized notes and label which source each note came from."
+        },
+        {
+          "text": "Aim for the minimum number of sources the assignment requires."
+        }
+      ]
+    },
+    {
+      "title": "Outline and draft",
+      "items": [
+        {
+          "text": "Group your notes into themes that support the thesis."
+        },
+        {
+          "text": "Build an outline with an introduction, body sections and conclusion."
+        },
+        {
+          "text": "Write a draft introduction that ends with your thesis."
+        },
+        {
+          "text": "Develop each body paragraph with a point, evidence and explanation."
+        },
+        {
+          "text": "Write a conclusion that restates the argument and its significance."
+        },
+        {
+          "text": "Don't edit while drafting; get the full first draft down first."
+        }
+      ]
+    },
+    {
+      "title": "Cite your sources",
+      "items": [
+        {
+          "text": "Confirm the required citation style, such as MLA, APA or Chicago."
+        },
+        {
+          "text": "Add an in-text citation for every quote, paraphrase and statistic."
+        },
+        {
+          "text": "Build a complete works cited or reference list."
+        },
+        {
+          "text": "Format every entry exactly to the style guide."
+        },
+        {
+          "text": "Run a plagiarism or similarity check to catch missing citations."
+        }
+      ]
+    },
+    {
+      "title": "Revise and finalize",
+      "items": [
+        {
+          "text": "Reread for a clear thesis and logical flow between paragraphs."
+        },
+        {
+          "text": "Cut filler and tighten weak or repetitive sentences."
+        },
+        {
+          "text": "Proofread for spelling, grammar and punctuation."
+        },
+        {
+          "text": "Check formatting: margins, font, spacing, title page and page numbers."
+        },
+        {
+          "text": "Read the paper aloud or ask someone to review it."
+        },
+        {
+          "text": "Submit before the deadline and keep a backup copy."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the main steps in writing a research paper?",
+      "a": "The main steps are choosing and narrowing a topic, forming a thesis, finding and evaluating sources, building an outline, writing a draft, adding citations, then revising and proofreading before you submit."
+    },
+    {
+      "q": "How early should I start a research paper?",
+      "a": "Start the day you receive the assignment. Begin with the topic and source-gathering stages early so you have time to draft, get feedback and revise rather than writing everything the night before."
+    },
+    {
+      "q": "How is this different from an essay checklist?",
+      "a": "A research paper checklist adds source gathering, evaluating evidence and formal citations across a longer project. An essay checklist focuses on a shorter, argument-driven piece you can usually write from existing knowledge."
+    },
+    {
+      "q": "How do I avoid plagiarism in a research paper?",
+      "a": "Track every source as you read, quote or paraphrase carefully with attribution, cite in the required style, and run a similarity check. The citations section of this checklist covers each of these steps."
+    },
+    {
+      "q": "Can I download this research paper checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and keep it beside you while you work through each stage of the paper."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/research-paper-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/research-paper-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Research Paper Checklist by ChecklistForge (https://checklistforge.com/checklist/research-paper-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "survival-checklist",
+  "name": "Survival Checklist",
+  "description": "Essential survival gear and priorities for the outdoors, from shelter and water to fire, signaling and first aid.",
+  "category": "emergency-preparedness",
+  "category_name": "Emergency Preparedness",
+  "tags": [
+    "emergency",
+    "preparedness",
+    "survival",
+    "outdoor"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Shelter and Warmth",
+      "items": [
+        {
+          "text": "An emergency bivvy, space blanket or lightweight tarp"
+        },
+        {
+          "text": "Extra insulating layers and a hat and gloves"
+        },
+        {
+          "text": "A rain shell or poncho to stay dry"
+        },
+        {
+          "text": "Paracord or strong cordage to build a shelter"
+        },
+        {
+          "text": "A foam pad or material to insulate you from the ground",
+          "note": "Cold ground draws away body heat faster than cold air"
+        }
+      ]
+    },
+    {
+      "title": "Water",
+      "items": [
+        {
+          "text": "Carry enough water for the planned trip plus a reserve"
+        },
+        {
+          "text": "A water filter or purifier for refilling on the trail"
+        },
+        {
+          "text": "Purification tablets as a lightweight backup"
+        },
+        {
+          "text": "A metal container you can use to boil water"
+        },
+        {
+          "text": "Know how to find and treat water sources safely"
+        }
+      ]
+    },
+    {
+      "title": "Fire",
+      "items": [
+        {
+          "text": "Waterproof matches or a stormproof lighter"
+        },
+        {
+          "text": "A ferro rod as a reliable backup ignition source"
+        },
+        {
+          "text": "Dry tinder stored in a waterproof bag"
+        },
+        {
+          "text": "A small fixed-blade knife for processing wood"
+        },
+        {
+          "text": "Know how to build a fire safely and put it out fully"
+        }
+      ]
+    },
+    {
+      "title": "Signaling and Communication",
+      "items": [
+        {
+          "text": "A loud whistle to call for help"
+        },
+        {
+          "text": "A signal mirror for daytime signaling"
+        },
+        {
+          "text": "A charged phone and a power bank where coverage exists"
+        },
+        {
+          "text": "A headlamp or flashlight with spare batteries"
+        },
+        {
+          "text": "A personal locator beacon or satellite messenger for remote trips"
+        },
+        {
+          "text": "Tell someone your route and return time before you leave"
+        }
+      ]
+    },
+    {
+      "title": "Navigation",
+      "items": [
+        {
+          "text": "A topographic map of your area"
+        },
+        {
+          "text": "A reliable compass and the skill to use it"
+        },
+        {
+          "text": "A GPS device or app with offline maps downloaded"
+        },
+        {
+          "text": "Note landmarks and your route as you travel"
+        },
+        {
+          "text": "Spare batteries or a charger for electronic navigation"
+        }
+      ]
+    },
+    {
+      "title": "First Aid and Tools",
+      "items": [
+        {
+          "text": "A compact first aid kit suited to your trip"
+        },
+        {
+          "text": "Any personal medications and a list of allergies"
+        },
+        {
+          "text": "A multi-tool with a knife, pliers and screwdriver"
+        },
+        {
+          "text": "Sun protection, including sunscreen and lip balm"
+        },
+        {
+          "text": "High-energy emergency food rations"
+        },
+        {
+          "text": "Duct tape and repair items for gear and minor fixes"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What are the main survival priorities?",
+      "a": "Stay calm, then address shelter and warmth, water, fire, signaling for rescue, and first aid. The order shifts with conditions, but protecting your body temperature and getting found are usually the most urgent priorities."
+    },
+    {
+      "q": "What should I do first if I get lost?",
+      "a": "Stop, stay calm and think before you move. In most cases staying put makes you easier to find. Signal for help, conserve energy and warmth, and avoid wandering, which burns energy and complicates a search."
+    },
+    {
+      "q": "How long can a person go without water?",
+      "a": "Generally about three days, though heat and exertion shorten that quickly. Prioritize finding and treating water early, and always purify wild water by boiling, filtering or using purification tablets before drinking."
+    },
+    {
+      "q": "What is the most important survival item?",
+      "a": "There is no single item, but reliable ways to stay warm, signal for help and make fire are critical. Pack the priorities together and learn to use each one before you need it."
+    },
+    {
+      "q": "Is this survival checklist printable?",
+      "a": "Yes. Print it or download the PDF, keep a copy with your gear, and review it before every trip into the outdoors."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/survival-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/survival-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Survival Checklist by ChecklistForge (https://checklistforge.com/checklist/survival-checklist)",
+  "updated": "2026-10-17"
+}

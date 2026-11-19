@@ -1,0 +1,182 @@
+{
+  "id": "manufacturing-checklist",
+  "name": "Manufacturing Checklist",
+  "description": "A production readiness and process checklist for manufacturing operations.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "safety",
+    "quality",
+    "manufacturing",
+    "production"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Pre-production readiness",
+      "items": [
+        {
+          "text": "Confirm the work order, product specification and quantity."
+        },
+        {
+          "text": "Check drawings, recipes or build instructions are current."
+        },
+        {
+          "text": "Verify the correct tooling, fixtures and changeover parts."
+        },
+        {
+          "text": "Confirm staffing and required operator certifications."
+        },
+        {
+          "text": "Check the production schedule and run priorities."
+        },
+        {
+          "text": "Review any open issues or holds from the previous run."
+        }
+      ]
+    },
+    {
+      "title": "Materials and components",
+      "items": [
+        {
+          "text": "Confirm raw materials and components match the bill of materials."
+        },
+        {
+          "text": "Verify lot numbers, expiry dates and quantities."
+        },
+        {
+          "text": "Check incoming materials passed inspection or quarantine."
+        },
+        {
+          "text": "Stage materials at the line in the correct sequence."
+        },
+        {
+          "text": "Confirm consumables such as packaging and labels are on hand."
+        },
+        {
+          "text": "Record material lots used for traceability."
+        }
+      ]
+    },
+    {
+      "title": "Line setup and startup",
+      "items": [
+        {
+          "text": "Set machine parameters to the specified settings."
+        },
+        {
+          "text": "Confirm guards, sensors and interlocks are in place."
+        },
+        {
+          "text": "Calibrate or verify gauges and measurement devices."
+        },
+        {
+          "text": "Run a first-off sample and confirm it meets specification.",
+          "note": "Hold production until first-off is approved per your procedures."
+        },
+        {
+          "text": "Verify labeling, coding and date stamps are correct."
+        },
+        {
+          "text": "Confirm the workstation is clean and free of prior product."
+        }
+      ]
+    },
+    {
+      "title": "Safety checks",
+      "items": [
+        {
+          "text": "Confirm operators wear the required protective equipment."
+        },
+        {
+          "text": "Test emergency stops and safety interlocks."
+        },
+        {
+          "text": "Check walkways and work areas are clear of hazards."
+        },
+        {
+          "text": "Confirm ventilation, extraction and lighting are adequate."
+        },
+        {
+          "text": "Verify safe handling for chemicals or hazardous materials."
+        },
+        {
+          "text": "Confirm first aid and spill response equipment are accessible."
+        }
+      ]
+    },
+    {
+      "title": "In-process and output",
+      "items": [
+        {
+          "text": "Perform in-process quality checks at set intervals."
+        },
+        {
+          "text": "Monitor key process parameters and keep them in range."
+        },
+        {
+          "text": "Identify, segregate and label any nonconforming product."
+        },
+        {
+          "text": "Record output quantities, scrap and rework."
+        },
+        {
+          "text": "Track cycle time and downtime against targets."
+        },
+        {
+          "text": "Escalate quality or equipment issues promptly."
+        }
+      ]
+    },
+    {
+      "title": "Shutdown and handover",
+      "items": [
+        {
+          "text": "Complete final output counts and reconcile materials."
+        },
+        {
+          "text": "Power down equipment safely and apply lockout if required."
+        },
+        {
+          "text": "Clean the line and remove all product and waste."
+        },
+        {
+          "text": "Return tooling, fixtures and unused materials to storage."
+        },
+        {
+          "text": "Complete production records and quality sign-offs."
+        },
+        {
+          "text": "Hand over open issues and notes to the next shift."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a manufacturing checklist?",
+      "a": "It is a structured list of steps for running a production line safely and to specification — covering line setup, materials, in-process quality checks, safety verification, output tracking and shutdown."
+    },
+    {
+      "q": "Why use a checklist on the production line?",
+      "a": "It makes the right startup, run and shutdown sequence repeatable across shifts and operators, reducing defects, downtime and safety incidents that come from skipped or inconsistent steps."
+    },
+    {
+      "q": "Who should complete it?",
+      "a": "Production managers, line supervisors and machine operators. It works as a shared standard so each shift sets up, runs and shuts down the line the same way and signs off each stage."
+    },
+    {
+      "q": "How does this relate to quality control?",
+      "a": "This covers the whole production process, including in-process quality checks. A quality control checklist focuses specifically on inspecting product against specifications at incoming, in-process and final stages."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the manufacturing checklist for the line or workstation, or download the PDF so operators can sign off each stage of the run and keep records on file for traceability."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/manufacturing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/manufacturing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Manufacturing Checklist by ChecklistForge (https://checklistforge.com/checklist/manufacturing-checklist)",
+  "updated": "2026-10-18"
+}

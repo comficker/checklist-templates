@@ -1,0 +1,191 @@
+{
+  "id": "camping-food-checklist",
+  "name": "Camping Food Checklist",
+  "description": "A complete camping food and cooking-supplies list covering non-perishables, cooler items, gear, snacks and water.",
+  "category": "food-kitchen",
+  "category_name": "Food & Kitchen",
+  "tags": [
+    "camping",
+    "groceries",
+    "outdoors",
+    "meal-prep",
+    "family"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Non-Perishable Foods",
+      "items": [
+        {
+          "text": "Oatmeal, granola, or instant cereal"
+        },
+        {
+          "text": "Pasta, rice, or couscous"
+        },
+        {
+          "text": "Canned beans, chili, soup, and vegetables"
+        },
+        {
+          "text": "Bread, tortillas, or buns"
+        },
+        {
+          "text": "Peanut butter, jelly, and crackers"
+        },
+        {
+          "text": "Cooking oil, salt, pepper, and spice packets",
+          "note": "Decant spices into small containers to save space."
+        },
+        {
+          "text": "Coffee, tea, and powdered drink mixes"
+        }
+      ]
+    },
+    {
+      "title": "Cooler and Perishable Items",
+      "items": [
+        {
+          "text": "Eggs in a hard container"
+        },
+        {
+          "text": "Meat or sausages, pre-frozen if possible"
+        },
+        {
+          "text": "Cheese, butter, and milk"
+        },
+        {
+          "text": "Pre-chopped vegetables and salad"
+        },
+        {
+          "text": "Marinated proteins in sealed bags",
+          "note": "Freeze meat ahead so it helps keep the cooler cold."
+        },
+        {
+          "text": "Condiments: ketchup, mustard, mayo packets"
+        },
+        {
+          "text": "Fresh fruit that travels well, like apples and oranges"
+        }
+      ]
+    },
+    {
+      "title": "Snacks",
+      "items": [
+        {
+          "text": "Trail mix, nuts, and dried fruit"
+        },
+        {
+          "text": "Granola or protein bars"
+        },
+        {
+          "text": "Chips, pretzels, or popcorn"
+        },
+        {
+          "text": "S'mores supplies: marshmallows, chocolate, graham crackers"
+        },
+        {
+          "text": "Jerky or cheese sticks"
+        },
+        {
+          "text": "Cookies or other treats"
+        }
+      ]
+    },
+    {
+      "title": "Water and Drinks",
+      "items": [
+        {
+          "text": "Drinking water (about one gallon per person per day)"
+        },
+        {
+          "text": "Water filter or purification tablets as backup"
+        },
+        {
+          "text": "Refillable water bottles"
+        },
+        {
+          "text": "Juice boxes or drink mixes for kids"
+        },
+        {
+          "text": "Cooler or jug of extra water for cooking and cleanup"
+        }
+      ]
+    },
+    {
+      "title": "Cooking Gear",
+      "items": [
+        {
+          "text": "Camp stove with fuel, or supplies for a campfire"
+        },
+        {
+          "text": "Lighter, matches, and fire starters"
+        },
+        {
+          "text": "Pot, pan, and kettle"
+        },
+        {
+          "text": "Cooking utensils: spatula, tongs, and a long spoon"
+        },
+        {
+          "text": "Sharp knife and a small cutting board"
+        },
+        {
+          "text": "Plates, bowls, cups, and reusable cutlery"
+        },
+        {
+          "text": "Aluminum foil and resealable bags"
+        }
+      ]
+    },
+    {
+      "title": "Cleanup and Food Storage",
+      "items": [
+        {
+          "text": "Biodegradable dish soap and a sponge"
+        },
+        {
+          "text": "Wash basin or collapsible bucket"
+        },
+        {
+          "text": "Paper towels and dish cloths"
+        },
+        {
+          "text": "Trash and recycling bags"
+        },
+        {
+          "text": "Airtight containers or bins for leftovers",
+          "note": "Store food sealed and away from your tent to deter wildlife."
+        },
+        {
+          "text": "Hand sanitizer and wet wipes"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What food should I bring camping?",
+      "a": "Pack a mix of non-perishables like pasta, oats, and canned goods plus cooler items like eggs, meat, and dairy. Choose meals that are simple to cook over a fire or camp stove and need few ingredients."
+    },
+    {
+      "q": "How do I keep food cold while camping?",
+      "a": "Use a quality cooler with plenty of ice or frozen packs, pack the coldest items at the bottom, and keep a separate cooler for drinks so the food cooler stays closed. Freeze meats and water bottles ahead to extend cold time."
+    },
+    {
+      "q": "How much water should I pack for camping?",
+      "a": "Plan for about one gallon of water per person per day for drinking and cooking, plus extra for cleanup. If a safe water source is available, bring a filter or purification tablets as backup."
+    },
+    {
+      "q": "Can I print this camping food checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off each item as you pack the car and again before you head home."
+    },
+    {
+      "q": "How do I prep camp meals ahead of time?",
+      "a": "Chop vegetables, marinate proteins, and pre-measure dry ingredients into labeled bags or containers at home. Prepping ahead means less mess, fewer supplies, and faster meals at the campsite."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/camping-food-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/camping-food-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Camping Food Checklist by ChecklistForge (https://checklistforge.com/checklist/camping-food-checklist)",
+  "updated": "2026-10-17"
+}

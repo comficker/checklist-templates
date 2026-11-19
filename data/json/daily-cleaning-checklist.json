@@ -1,0 +1,141 @@
+{
+  "id": "daily-cleaning-checklist",
+  "name": "Daily Cleaning Checklist",
+  "description": "A quick daily cleaning checklist of simple habits to keep your home tidy in minutes.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "routine",
+    "daily",
+    "quick-clean"
+  ],
+  "item_count": 24,
+  "sections": [
+    {
+      "title": "Morning Reset",
+      "items": [
+        {
+          "text": "Make all the beds and straighten the pillows"
+        },
+        {
+          "text": "Open blinds or curtains to let in light and air"
+        },
+        {
+          "text": "Wipe down bathroom counters and the sink after getting ready"
+        },
+        {
+          "text": "Rinse breakfast dishes and load them into the dishwasher"
+        },
+        {
+          "text": "Do a two-minute tidy of the main living space"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen Throughout the Day",
+      "items": [
+        {
+          "text": "Wipe counters and the stovetop after each use"
+        },
+        {
+          "text": "Wash dishes as you go or load them straight into the dishwasher"
+        },
+        {
+          "text": "Wipe down the sink and clear the drain of food scraps"
+        },
+        {
+          "text": "Spot-clean spills and crumbs from the floor"
+        },
+        {
+          "text": "Take out the trash if it is full",
+          "note": "Keep a spare liner at the bottom of the bin for instant swaps."
+        }
+      ]
+    },
+    {
+      "title": "High-Touch Surfaces",
+      "items": [
+        {
+          "text": "Wipe down light switches, door handles, and cabinet pulls"
+        },
+        {
+          "text": "Disinfect frequently used countertops"
+        },
+        {
+          "text": "Clean phone screens, keyboards, and remotes"
+        },
+        {
+          "text": "Wipe faucet handles in the kitchen and bathroom"
+        }
+      ]
+    },
+    {
+      "title": "Quick Tidy",
+      "items": [
+        {
+          "text": "Return stray items to their proper homes"
+        },
+        {
+          "text": "Fold or hang any clothes left out"
+        },
+        {
+          "text": "Clear and wipe entryway surfaces of mail and keys"
+        },
+        {
+          "text": "Fluff sofa cushions and fold throw blankets"
+        },
+        {
+          "text": "Put away shoes by the door"
+        }
+      ]
+    },
+    {
+      "title": "Evening Wind-Down",
+      "items": [
+        {
+          "text": "Clear and wipe down the kitchen counters before bed"
+        },
+        {
+          "text": "Run the dishwasher or finish the last of the dishes"
+        },
+        {
+          "text": "Wipe the bathroom sink and put away toiletries"
+        },
+        {
+          "text": "Set out anything you need for the morning"
+        },
+        {
+          "text": "Do a final walk-through to pick up any clutter"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should you clean every day?",
+      "a": "Make the beds, wipe kitchen counters, wash or load dishes, do a quick tidy, and wipe down high-touch surfaces. These small daily tasks prevent mess from building up."
+    },
+    {
+      "q": "How long should daily cleaning take?",
+      "a": "Most daily upkeep takes just 10 to 15 minutes when spread across the morning and evening. The key is consistency rather than spending a long time at once."
+    },
+    {
+      "q": "Do I still need a weekly clean if I clean daily?",
+      "a": "Yes. Daily habits keep surfaces tidy, but a weekly clean handles deeper tasks like vacuuming, mopping, and changing linens that don't need doing every day."
+    },
+    {
+      "q": "How do I build a daily cleaning habit?",
+      "a": "Attach each task to something you already do, like wiping counters after dinner or making the bed when you wake up. A printed checklist helps it stick until it's automatic."
+    },
+    {
+      "q": "Is this daily cleaning checklist printable?",
+      "a": "Yes. Print it or download the PDF and check off your quick habits each day to keep your home consistently fresh."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/daily-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/daily-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Daily Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/daily-cleaning-checklist)",
+  "updated": "2026-11-13"
+}

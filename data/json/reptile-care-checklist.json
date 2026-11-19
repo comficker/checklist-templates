@@ -1,0 +1,163 @@
+{
+  "id": "reptile-care-checklist",
+  "name": "Reptile Care Checklist",
+  "description": "A general reptile care checklist covering enclosure, heating, UVB, humidity, diet and cleaning.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "pet-care",
+    "reptiles",
+    "reptile-care",
+    "enclosure"
+  ],
+  "item_count": 29,
+  "sections": [
+    {
+      "title": "Research First",
+      "items": [
+        {
+          "text": "Research the exact care requirements for your species",
+          "note": "Temperatures, lighting, humidity and diet differ greatly between reptiles"
+        },
+        {
+          "text": "Confirm adult size and enclosure needs before buying"
+        },
+        {
+          "text": "Find a reptile-experienced veterinarian in your area"
+        },
+        {
+          "text": "Check local laws and permits for the species"
+        }
+      ]
+    },
+    {
+      "title": "Enclosure Setup",
+      "items": [
+        {
+          "text": "Choose an enclosure sized for the adult animal"
+        },
+        {
+          "text": "Use a substrate appropriate to the species"
+        },
+        {
+          "text": "Provide hides on both the warm and cool sides"
+        },
+        {
+          "text": "Add climbing branches, rocks or plants as suited"
+        },
+        {
+          "text": "Supply a clean water source sized for the reptile"
+        }
+      ]
+    },
+    {
+      "title": "Heating & Lighting",
+      "items": [
+        {
+          "text": "Set up a heat source to create a warm-to-cool gradient"
+        },
+        {
+          "text": "Provide UVB lighting if the species requires it"
+        },
+        {
+          "text": "Use thermostats to control heating equipment",
+          "note": "Unregulated heat sources can burn reptiles"
+        },
+        {
+          "text": "Monitor warm- and cool-side temperatures with accurate gauges"
+        },
+        {
+          "text": "Replace UVB bulbs on schedule as output fades over time"
+        }
+      ]
+    },
+    {
+      "title": "Humidity & Environment",
+      "items": [
+        {
+          "text": "Maintain the humidity range required for the species"
+        },
+        {
+          "text": "Monitor humidity with a hygrometer"
+        },
+        {
+          "text": "Mist or use a humid hide if needed for shedding"
+        },
+        {
+          "text": "Provide ventilation to prevent stagnant, moldy air"
+        },
+        {
+          "text": "Keep day-night light and temperature cycles consistent"
+        }
+      ]
+    },
+    {
+      "title": "Diet & Feeding",
+      "items": [
+        {
+          "text": "Feed the correct diet and prey or plants for the species"
+        },
+        {
+          "text": "Follow an appropriate feeding schedule by age and size"
+        },
+        {
+          "text": "Dust feeder insects with calcium or supplements if advised"
+        },
+        {
+          "text": "Offer correctly sized, safe food items"
+        },
+        {
+          "text": "Remove uneaten live or fresh food promptly"
+        }
+      ]
+    },
+    {
+      "title": "Cleaning & Health",
+      "items": [
+        {
+          "text": "Spot-clean waste and uneaten food daily"
+        },
+        {
+          "text": "Refresh and disinfect the water dish regularly"
+        },
+        {
+          "text": "Do a full substrate change and enclosure clean periodically"
+        },
+        {
+          "text": "Watch shedding, appetite, droppings and behavior"
+        },
+        {
+          "text": "Consult a reptile vet for any sign of illness"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a reptile enclosure need?",
+      "a": "Most reptiles need a correctly sized enclosure with a heat source creating a warm-to-cool gradient, appropriate UVB lighting for many species, controlled humidity, suitable substrate, hides and clean water. Exact requirements vary by species."
+    },
+    {
+      "q": "Why is UVB and heat so important for reptiles?",
+      "a": "Reptiles are ectotherms that rely on external heat to digest and stay healthy, and many species need UVB to produce vitamin D3 and absorb calcium. Incorrect temperatures or lighting are leading causes of illness in captive reptiles."
+    },
+    {
+      "q": "How do I know the right temperature and humidity?",
+      "a": "There is no universal answer — each species has specific ranges. Research your exact reptile's needs and use accurate thermometers and a hygrometer to monitor the warm side, cool side and humidity rather than guessing."
+    },
+    {
+      "q": "When should I see a vet for a reptile?",
+      "a": "This checklist is general guidance. Consult a reptile-experienced veterinarian for any change in appetite, behavior, skin, breathing or droppings, and research species-specific health and diet needs before bringing a reptile home."
+    },
+    {
+      "q": "Can I print this reptile care checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it near the enclosure and tick off daily and routine tasks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/reptile-care-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/reptile-care-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Reptile Care Checklist by ChecklistForge (https://checklistforge.com/checklist/reptile-care-checklist)",
+  "updated": "2026-10-17"
+}

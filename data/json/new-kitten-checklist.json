@@ -1,0 +1,182 @@
+{
+  "id": "new-kitten-checklist",
+  "name": "New Kitten Checklist",
+  "description": "A new kitten checklist for bringing home a kitten, covering the first day and week of supplies, vet care, litter setup, and kitten-proofing.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "new-cat",
+    "kitten"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Kitten supplies to buy first",
+      "items": [
+        {
+          "text": "Pick up kitten food and shallow food and water bowls."
+        },
+        {
+          "text": "Get a litter box and kitten-safe, low-dust litter."
+        },
+        {
+          "text": "Buy a secure carrier for vet trips and travel."
+        },
+        {
+          "text": "Provide a soft bed and a sturdy scratching post."
+        },
+        {
+          "text": "Choose safe toys for play and pounce practice."
+        },
+        {
+          "text": "Add grooming basics like a soft brush and nail clippers."
+        }
+      ]
+    },
+    {
+      "title": "Kitten-proofing the home",
+      "items": [
+        {
+          "text": "Remove toxic plants, foods, and household chemicals."
+        },
+        {
+          "text": "Secure cords, blind strings, and small swallowable items."
+        },
+        {
+          "text": "Close off unsafe gaps, balconies, and tilting windows."
+        },
+        {
+          "text": "Tuck away anything fragile a curious kitten could knock over."
+        },
+        {
+          "text": "Check washers, dryers, and recliners before use."
+        },
+        {
+          "text": "Set up a quiet safe room for the first days."
+        }
+      ]
+    },
+    {
+      "title": "Litter box setup",
+      "items": [
+        {
+          "text": "Choose a low-sided box a small kitten can step into.",
+          "note": "Place it away from food and water in a quiet spot."
+        },
+        {
+          "text": "Fill with a kitten-safe, unscented litter."
+        },
+        {
+          "text": "Show your kitten the box soon after arrival."
+        },
+        {
+          "text": "Scoop daily and keep the box clean to encourage good habits."
+        },
+        {
+          "text": "Add a second box if you have a larger home or multiple cats."
+        },
+        {
+          "text": "Gently place your kitten in the box after meals and naps at first."
+        }
+      ]
+    },
+    {
+      "title": "First vet visit",
+      "items": [
+        {
+          "text": "Schedule a wellness exam within the first few days home."
+        },
+        {
+          "text": "Bring any records and a stool sample if requested."
+        },
+        {
+          "text": "Ask about the kitten vaccination schedule and timing."
+        },
+        {
+          "text": "Discuss deworming and flea prevention for kittens."
+        },
+        {
+          "text": "Confirm the right food and feeding amounts for your kitten's age."
+        },
+        {
+          "text": "Ask when to plan spay or neuter and microchipping."
+        }
+      ]
+    },
+    {
+      "title": "First-week routine",
+      "items": [
+        {
+          "text": "Start your kitten in one safe room before opening the house."
+        },
+        {
+          "text": "Feed small, frequent meals at consistent times."
+        },
+        {
+          "text": "Balance gentle play with plenty of naps."
+        },
+        {
+          "text": "Handle your kitten softly and briefly to build trust."
+        },
+        {
+          "text": "Keep introductions to people and pets calm and gradual."
+        },
+        {
+          "text": "Provide a warm, quiet place to sleep."
+        }
+      ]
+    },
+    {
+      "title": "Health and safety basics",
+      "items": [
+        {
+          "text": "Watch appetite, energy, and litter habits for any changes."
+        },
+        {
+          "text": "Keep your kitten warm, hydrated, and rested."
+        },
+        {
+          "text": "Limit exposure to unknown cats until vaccinations are underway."
+        },
+        {
+          "text": "Handle paws and mouth gently to ease future grooming and care."
+        },
+        {
+          "text": "Save your vet and nearest emergency clinic numbers."
+        },
+        {
+          "text": "Important: This is general information, not veterinary advice. Always consult a veterinarian about your kitten's vaccinations, diet, and health."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I need to buy before bringing a kitten home?",
+      "a": "Stock kitten food and shallow bowls, a litter box and kitten-safe litter, a carrier, a bed, a scratching post, safe toys, and grooming basics. This new kitten checklist groups the essentials so you are ready before pickup day."
+    },
+    {
+      "q": "How do I set up a litter box for a kitten?",
+      "a": "Use a low-sided box a kitten can climb into, fill it with a kitten-safe litter, and place it in a quiet, easy-to-reach spot away from food. Show your kitten the box early and keep it clean. Most kittens take to it quickly with gentle guidance."
+    },
+    {
+      "q": "What should the first week with a kitten look like?",
+      "a": "Start your kitten in one quiet room with food, water, litter, and a bed, then expand access gradually. Keep noise and handling gentle, offer plenty of play and naps, and let your kitten explore at its own pace. Be present to help it feel safe."
+    },
+    {
+      "q": "How is this different from the kitten checklist?",
+      "a": "This new kitten checklist covers the first day and week of bringing a kitten home. Our broader Kitten Checklist follows the whole first year with vaccination, growth, and development milestones."
+    },
+    {
+      "q": "Can I download this new kitten checklist as a PDF?",
+      "a": "Yes. You can print it for the fridge or download it as a PDF for shopping and vet trips, so new owners have the first-week essentials in hand."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-kitten-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-kitten-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Kitten Checklist by ChecklistForge (https://checklistforge.com/checklist/new-kitten-checklist)",
+  "updated": "2026-10-17"
+}

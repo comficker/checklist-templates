@@ -1,0 +1,155 @@
+{
+  "id": "school-registration-checklist",
+  "name": "School Registration Checklist",
+  "description": "Documents and steps parents need to enroll or register a child in school.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "parents",
+    "enrollment",
+    "school-registration",
+    "documents",
+    "paperwork"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Identity and age documents",
+      "items": [
+        {
+          "text": "Locate your child's birth certificate or proof of age."
+        },
+        {
+          "text": "Bring a passport or official photo ID if required."
+        },
+        {
+          "text": "Gather any custody or guardianship paperwork.",
+          "note": "Required when legal guardianship is involved."
+        },
+        {
+          "text": "Confirm the spelling of names matches across documents."
+        },
+        {
+          "text": "Make copies of each document before your visit."
+        }
+      ]
+    },
+    {
+      "title": "Proof of residency",
+      "items": [
+        {
+          "text": "Gather a recent utility bill in your name."
+        },
+        {
+          "text": "Bring a lease, mortgage or property statement."
+        },
+        {
+          "text": "Add a second residency document if required.",
+          "note": "Many districts ask for two separate proofs."
+        },
+        {
+          "text": "Confirm the address matches your school zone."
+        },
+        {
+          "text": "Bring originals plus copies as requested."
+        }
+      ]
+    },
+    {
+      "title": "Health records",
+      "items": [
+        {
+          "text": "Obtain up-to-date immunization records."
+        },
+        {
+          "text": "Bring a recent physical exam if required."
+        },
+        {
+          "text": "Gather any dental or vision screening records."
+        },
+        {
+          "text": "Prepare an allergy or medical action plan."
+        },
+        {
+          "text": "List any medications the school must store."
+        },
+        {
+          "text": "Include health insurance details if requested."
+        }
+      ]
+    },
+    {
+      "title": "Registration forms",
+      "items": [
+        {
+          "text": "Download or collect the enrollment forms."
+        },
+        {
+          "text": "Complete the main registration application fully."
+        },
+        {
+          "text": "Fill in emergency contact and pickup forms."
+        },
+        {
+          "text": "Sign any policy, media and consent forms."
+        },
+        {
+          "text": "Request records transfer from a previous school."
+        },
+        {
+          "text": "Complete transportation or bus route requests."
+        }
+      ]
+    },
+    {
+      "title": "Final steps",
+      "items": [
+        {
+          "text": "Submit all forms and documents to the office."
+        },
+        {
+          "text": "Confirm the registration is accepted and complete."
+        },
+        {
+          "text": "Set up the parent portal or school account."
+        },
+        {
+          "text": "Note key dates such as orientation and the first day."
+        },
+        {
+          "text": "Ask about supply lists and any fees due."
+        },
+        {
+          "text": "Keep copies of everything you submitted."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What documents do I need to register my child for school?",
+      "a": "Most schools require proof of the child's age, proof of residency, immunization or health records, and the completed registration forms. Some also ask for a previous school's records or transcripts. Always confirm the exact list with your specific school or district."
+    },
+    {
+      "q": "How do I prove residency for school registration?",
+      "a": "Schools typically accept a recent utility bill, lease or mortgage statement, or an official letter showing your name and address. Many require two separate documents, so check your district's rules and bring originals or certified copies as requested."
+    },
+    {
+      "q": "When should I register my child for school?",
+      "a": "Register as early as your district's window allows, often in spring or early summer for the coming year. Early registration secures placement, gives time to gather missing documents, and avoids the crowds and delays of last-minute enrollment."
+    },
+    {
+      "q": "What if I am missing a required document?",
+      "a": "Contact the school office right away to ask about alternatives or temporary options while you obtain the document. Acting early gives you time to request replacements, such as a birth certificate or immunization record, before the deadline."
+    },
+    {
+      "q": "Is this school registration checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to keep with your document folder, then tick off each form and record as you gather everything needed to enroll your child."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/school-registration-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/school-registration-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "School Registration Checklist by ChecklistForge (https://checklistforge.com/checklist/school-registration-checklist)",
+  "updated": "2026-10-17"
+}

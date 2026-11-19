@@ -1,0 +1,182 @@
+{
+  "id": "software-testing-checklist",
+  "name": "Software Testing Checklist",
+  "description": "A coverage checklist of the test types to run on a software release.",
+  "category": "it-software",
+  "category_name": "IT & Software",
+  "tags": [
+    "it",
+    "software",
+    "testing",
+    "developers"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Functional testing",
+      "items": [
+        {
+          "text": "Verify each feature works as described in the requirements."
+        },
+        {
+          "text": "Test core user workflows from start to finish."
+        },
+        {
+          "text": "Validate form inputs, validation rules and error messages."
+        },
+        {
+          "text": "Confirm calculations, business logic and data handling are correct."
+        },
+        {
+          "text": "Check integrations and APIs return the expected results."
+        },
+        {
+          "text": "Verify create, read, update and delete operations behave correctly."
+        }
+      ]
+    },
+    {
+      "title": "UI and usability",
+      "items": [
+        {
+          "text": "Check layout, spacing and styling match the design."
+        },
+        {
+          "text": "Verify all buttons, links and controls work as intended."
+        },
+        {
+          "text": "Test loading, empty, error and success states."
+        },
+        {
+          "text": "Confirm responsive behavior across screen sizes."
+        },
+        {
+          "text": "Check text for typos, truncation and localization issues."
+        },
+        {
+          "text": "Validate navigation and back-button behavior."
+        }
+      ]
+    },
+    {
+      "title": "Regression and edge cases",
+      "items": [
+        {
+          "text": "Re-test existing features affected by the change."
+        },
+        {
+          "text": "Run the automated regression suite and review failures."
+        },
+        {
+          "text": "Test boundary values such as minimum, maximum and zero."
+        },
+        {
+          "text": "Test empty, very large and invalid inputs."
+        },
+        {
+          "text": "Verify behavior with special characters and different formats."
+        },
+        {
+          "text": "Check concurrent actions and unexpected user sequences."
+        }
+      ]
+    },
+    {
+      "title": "Performance testing",
+      "items": [
+        {
+          "text": "Measure page load and response times against targets."
+        },
+        {
+          "text": "Run load tests to confirm behavior under expected traffic."
+        },
+        {
+          "text": "Run stress tests to find the breaking point and failure mode."
+        },
+        {
+          "text": "Check memory, CPU and database usage under load."
+        },
+        {
+          "text": "Test with realistic data volumes, not just small datasets."
+        },
+        {
+          "text": "Verify caching, pagination and lazy loading work as intended."
+        }
+      ]
+    },
+    {
+      "title": "Security testing",
+      "items": [
+        {
+          "text": "Test authentication, session handling and password rules."
+        },
+        {
+          "text": "Verify authorization so users can't access others' data or actions."
+        },
+        {
+          "text": "Check input handling against injection and cross-site scripting.",
+          "note": "Reference the OWASP Top 10 for common web vulnerabilities."
+        },
+        {
+          "text": "Confirm sensitive data is encrypted in transit and at rest."
+        },
+        {
+          "text": "Test error messages don't leak stack traces or secrets."
+        },
+        {
+          "text": "Scan dependencies for known vulnerabilities."
+        }
+      ]
+    },
+    {
+      "title": "Compatibility and accessibility",
+      "items": [
+        {
+          "text": "Test across major browsers such as Chrome, Firefox, Safari and Edge."
+        },
+        {
+          "text": "Test on different devices and operating systems."
+        },
+        {
+          "text": "Verify keyboard-only navigation works throughout."
+        },
+        {
+          "text": "Check screen reader labels, headings and alt text."
+        },
+        {
+          "text": "Confirm color contrast meets accessibility guidelines."
+        },
+        {
+          "text": "Test behavior with slow or interrupted network connections."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How is this different from a QA checklist?",
+      "a": "A QA checklist covers the quality-assurance process — planning, environments, triage and sign-off. This software testing checklist covers the actual tests to run, such as functional, regression, performance and security. The two work well together."
+    },
+    {
+      "q": "What types of testing should every release include?",
+      "a": "At minimum, functional and regression testing to confirm features work and nothing broke. Depending on the change, add edge-case, performance, security, cross-browser and accessibility testing. This checklist lists each so you can choose what applies."
+    },
+    {
+      "q": "What is regression testing?",
+      "a": "Regression testing re-runs checks on existing functionality to confirm a new change didn't break anything that previously worked. It's essential whenever you modify shared code, dependencies or core flows."
+    },
+    {
+      "q": "Should I test for accessibility?",
+      "a": "Yes. Accessibility testing ensures people using screen readers, keyboards and assistive tech can use your product. It's both good practice and often a legal requirement. The checklist includes core checks like keyboard navigation and color contrast."
+    },
+    {
+      "q": "Can I download this testing checklist as a PDF?",
+      "a": "Yes. You can print it or save the PDF for developers and testers to reference while writing and running tests, ticking off each coverage area per feature or release."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/software-testing-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/software-testing-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Software Testing Checklist by ChecklistForge (https://checklistforge.com/checklist/software-testing-checklist)",
+  "updated": "2026-10-17"
+}

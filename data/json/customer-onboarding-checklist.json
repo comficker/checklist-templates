@@ -1,0 +1,167 @@
+{
+  "id": "customer-onboarding-checklist",
+  "name": "Customer Onboarding Checklist",
+  "description": "A checklist for guiding new product or SaaS customers from account setup to activation and first value.",
+  "category": "sales-customer",
+  "category_name": "Sales & Customer",
+  "tags": [
+    "onboarding",
+    "customer",
+    "saas",
+    "activation"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Account Setup",
+      "items": [
+        {
+          "text": "Confirm the signup and verify the customer's email address."
+        },
+        {
+          "text": "Provision the account with the correct plan, limits and permissions."
+        },
+        {
+          "text": "Guide the user through profile and workspace basics on first login."
+        },
+        {
+          "text": "Help connect essential integrations or import existing data.",
+          "note": "Imported data makes the product feel useful immediately."
+        },
+        {
+          "text": "Confirm login works across the devices the customer will actually use."
+        }
+      ]
+    },
+    {
+      "title": "Welcome and Orientation",
+      "items": [
+        {
+          "text": "Send a warm welcome message that sets expectations for the journey."
+        },
+        {
+          "text": "Share a short getting-started guide or quick-start video."
+        },
+        {
+          "text": "Point the user to support channels, help center and community."
+        },
+        {
+          "text": "Set a clear first goal so the user knows what success looks like."
+        },
+        {
+          "text": "Offer a personalized walkthrough or onboarding call for higher-tier plans."
+        }
+      ]
+    },
+    {
+      "title": "Activation and First Value",
+      "items": [
+        {
+          "text": "Guide the user to complete the core action that delivers value."
+        },
+        {
+          "text": "Remove friction from the activation flow with inline tips or tooltips."
+        },
+        {
+          "text": "Celebrate the first value moment so the user notices the benefit.",
+          "note": "Name the win in-product — 'You just shipped your first report.'"
+        },
+        {
+          "text": "Suggest a logical next step that deepens product usage."
+        },
+        {
+          "text": "Track activation milestones so you know who has and hasn't reached value."
+        }
+      ]
+    },
+    {
+      "title": "Training and Enablement",
+      "items": [
+        {
+          "text": "Share role-relevant tutorials rather than the entire feature list."
+        },
+        {
+          "text": "Deliver tips progressively as the user is ready for each feature."
+        },
+        {
+          "text": "Invite the user to a live webinar or office hours if available."
+        },
+        {
+          "text": "Provide templates or examples that speed up real work."
+        },
+        {
+          "text": "Confirm the user can complete their key tasks without help."
+        }
+      ]
+    },
+    {
+      "title": "Engagement and Habit Building",
+      "items": [
+        {
+          "text": "Set up helpful notifications or reminders without overwhelming the user."
+        },
+        {
+          "text": "Encourage the user to invite teammates or expand usage where relevant."
+        },
+        {
+          "text": "Highlight an underused feature that matches the customer's goal."
+        },
+        {
+          "text": "Monitor usage signals to spot drop-off before it becomes churn.",
+          "note": "A sudden activity drop is an early churn warning."
+        },
+        {
+          "text": "Re-engage inactive users with a targeted, value-focused message."
+        }
+      ]
+    },
+    {
+      "title": "Check-In and Retention",
+      "items": [
+        {
+          "text": "Run an early check-in to confirm the customer is getting value."
+        },
+        {
+          "text": "Collect feedback with a short survey or quick onboarding rating."
+        },
+        {
+          "text": "Resolve any blockers surfaced during the check-in promptly."
+        },
+        {
+          "text": "Share a clear path to upgrade or expand once value is proven."
+        },
+        {
+          "text": "Hand off long-term accounts to ongoing success with full context.",
+          "note": "Document goals and milestones so success picks up seamlessly."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a customer onboarding checklist?",
+      "a": "It is a step-by-step list that guides a new product or SaaS user from account setup through their first meaningful result, covering welcome, activation, training, first value and an early check-in."
+    },
+    {
+      "q": "How is customer onboarding different from client onboarding?",
+      "a": "Customer onboarding gets an individual user successful with a product, often at scale and partly in-app. Client onboarding sets up a B2B service engagement with contracts, kickoff meetings and a project plan."
+    },
+    {
+      "q": "What is the first value moment in onboarding?",
+      "a": "It is the point where a user experiences the core benefit they signed up for — their first completed task, report or saved time. Reaching it quickly is the strongest signal a customer will stay."
+    },
+    {
+      "q": "Can I print this checklist or save it as a PDF?",
+      "a": "Yes. The checklist prints cleanly on one page and downloads as a PDF, so product and success teams can keep a shared reference or attach it to an onboarding playbook."
+    },
+    {
+      "q": "How do I adapt this checklist for my SaaS product?",
+      "a": "Replace the generic activation steps with the specific actions that lead to value in your product, set realistic timeframes for each milestone, then save your version as a PDF for the team."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/customer-onboarding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/customer-onboarding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Customer Onboarding Checklist by ChecklistForge (https://checklistforge.com/checklist/customer-onboarding-checklist)",
+  "updated": "2026-10-17"
+}

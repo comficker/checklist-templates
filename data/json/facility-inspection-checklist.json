@@ -1,0 +1,182 @@
+{
+  "id": "facility-inspection-checklist",
+  "name": "Facility Inspection Checklist",
+  "description": "A checklist for inspecting a facility's condition and safety.",
+  "category": "inspections",
+  "category_name": "Inspections",
+  "tags": [
+    "safety",
+    "maintenance",
+    "inspection",
+    "facility-inspection"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Building maintenance",
+      "items": [
+        {
+          "text": "Inspect walls, ceilings and floors for damage, cracks or staining."
+        },
+        {
+          "text": "Check doors, windows and locks operate and seal correctly."
+        },
+        {
+          "text": "Verify lighting works throughout, with no flickering or dead fixtures."
+        },
+        {
+          "text": "Confirm HVAC runs, filters are clean and temperatures are comfortable."
+        },
+        {
+          "text": "Check restrooms for working fixtures, supplies and no leaks."
+        },
+        {
+          "text": "Inspect for water damage, leaks, damp or mold."
+        }
+      ]
+    },
+    {
+      "title": "Safety and compliance",
+      "items": [
+        {
+          "text": "Confirm fire extinguishers are charged, tagged and accessible."
+        },
+        {
+          "text": "Check smoke detectors and alarms function on test."
+        },
+        {
+          "text": "Verify exits and escape routes are unobstructed and signposted."
+        },
+        {
+          "text": "Confirm emergency lighting operates during test."
+        },
+        {
+          "text": "Check first aid kits, AEDs and eyewash stations are stocked.",
+          "note": "Provision requirements vary with site activity under OSHA standards."
+        },
+        {
+          "text": "Verify required safety and compliance signage is posted."
+        }
+      ]
+    },
+    {
+      "title": "Equipment and systems",
+      "items": [
+        {
+          "text": "Confirm equipment has current inspection and service records."
+        },
+        {
+          "text": "Check machinery guarding and safety devices are in place."
+        },
+        {
+          "text": "Verify electrical panels are labeled, closed and accessible."
+        },
+        {
+          "text": "Inspect plumbing and water heaters for leaks and corrosion."
+        },
+        {
+          "text": "Confirm elevators and lifts show current inspection certificates."
+        },
+        {
+          "text": "Check backup power or generators start and run on test."
+        }
+      ]
+    },
+    {
+      "title": "Housekeeping",
+      "items": [
+        {
+          "text": "Confirm walkways, stairs and corridors are clear and clean."
+        },
+        {
+          "text": "Check waste is removed and bins are not overflowing."
+        },
+        {
+          "text": "Verify storage areas are organized and not blocking access."
+        },
+        {
+          "text": "Confirm spills are cleaned and floors are dry and slip-free."
+        },
+        {
+          "text": "Check supplies and stock are stored safely off floors."
+        },
+        {
+          "text": "Verify cleaning schedules are being followed and recorded."
+        }
+      ]
+    },
+    {
+      "title": "Grounds and exterior",
+      "items": [
+        {
+          "text": "Inspect parking, paths and steps for cracks and trip hazards."
+        },
+        {
+          "text": "Check exterior lighting works for safety and security."
+        },
+        {
+          "text": "Verify drainage and gutters are clear and functioning."
+        },
+        {
+          "text": "Confirm landscaping does not block signage, paths or exits."
+        },
+        {
+          "text": "Check fencing, gates and security measures are intact."
+        },
+        {
+          "text": "Inspect dumpster and loading areas for cleanliness and access."
+        }
+      ]
+    },
+    {
+      "title": "Records and follow-up",
+      "items": [
+        {
+          "text": "Confirm permits, certificates and licenses are current."
+        },
+        {
+          "text": "Review previous inspection findings for completed repairs."
+        },
+        {
+          "text": "Record each new defect with location, severity and photo."
+        },
+        {
+          "text": "Raise work orders with an owner and due date."
+        },
+        {
+          "text": "Re-inspect corrected items to confirm the fix."
+        },
+        {
+          "text": "Sign, date and file the completed inspection record."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a facility inspection checklist?",
+      "a": "It's a standardized list used to inspect a building and its grounds for maintenance, safety, equipment condition, housekeeping and exterior upkeep. Each item is marked pass or fail so issues can be turned into work orders."
+    },
+    {
+      "q": "How often should facilities be inspected?",
+      "a": "Run routine walkthroughs on a regular schedule — many facilities inspect monthly, with critical safety systems checked more often. Inspect again after incidents, severe weather or major changes to use."
+    },
+    {
+      "q": "Who is responsible for facility inspections?",
+      "a": "Typically the facility or maintenance manager, supported by safety officers and trade specialists. Certain systems such as fire alarms and elevators require inspection and certification by licensed contractors."
+    },
+    {
+      "q": "How do I track repairs found during inspection?",
+      "a": "Log each defect with a location, severity and photo, then raise a work order assigned to a responsible person with a due date. Re-inspect to confirm the repair before closing the item."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the facility inspection checklist for a clipboard walkthrough, or download the PDF to complete on a tablet and keep with your maintenance records."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/facility-inspection-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/facility-inspection-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Facility Inspection Checklist by ChecklistForge (https://checklistforge.com/checklist/facility-inspection-checklist)",
+  "updated": "2026-10-20"
+}

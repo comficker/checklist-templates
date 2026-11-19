@@ -1,0 +1,177 @@
+{
+  "id": "puppy-vaccination-checklist",
+  "name": "Puppy Vaccination Checklist",
+  "description": "A checklist to help new puppy owners follow the typical vaccine series, track each shot, and stay on schedule with their veterinarian.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "health",
+    "vaccination",
+    "pets",
+    "dogs",
+    "puppy"
+  ],
+  "item_count": 31,
+  "sections": [
+    {
+      "title": "Before the First Visit",
+      "items": [
+        {
+          "text": "Confirm your puppy's age and any breeder records"
+        },
+        {
+          "text": "Gather paperwork on shots already given"
+        },
+        {
+          "text": "Note your puppy's weight and overall health"
+        },
+        {
+          "text": "Write down questions about diet, parasites, and care"
+        },
+        {
+          "text": "Book the first vet visit soon after bringing puppy home",
+          "note": "Ask your vet to set the right start date for your puppy"
+        }
+      ]
+    },
+    {
+      "title": "Around 6 to 8 Weeks",
+      "items": [
+        {
+          "text": "First distemper and parvovirus combination as advised"
+        },
+        {
+          "text": "General health and weight check with your vet"
+        },
+        {
+          "text": "Discuss a deworming and parasite plan"
+        },
+        {
+          "text": "Ask about nutrition and the right puppy food"
+        },
+        {
+          "text": "Record the date and set the next appointment",
+          "note": "Timing varies by region and vet, so confirm your puppy's schedule"
+        }
+      ]
+    },
+    {
+      "title": "Around 10 to 12 Weeks",
+      "items": [
+        {
+          "text": "Second combination booster as recommended"
+        },
+        {
+          "text": "Discuss lifestyle vaccines like bordetella or leptospirosis"
+        },
+        {
+          "text": "Continue the deworming or parasite plan"
+        },
+        {
+          "text": "Review early socialization and training questions"
+        },
+        {
+          "text": "Log the visit and confirm the next due date"
+        }
+      ]
+    },
+    {
+      "title": "Around 14 to 16+ Weeks",
+      "items": [
+        {
+          "text": "Final combination booster of the puppy series"
+        },
+        {
+          "text": "Rabies vaccine where required by law or your vet"
+        },
+        {
+          "text": "Confirm when adult boosters will next be due"
+        },
+        {
+          "text": "Discuss spay or neuter timing if relevant"
+        },
+        {
+          "text": "Ask when it is safe to socialize and walk in public",
+          "note": "Vets differ on exact timing, so follow your vet's guidance"
+        }
+      ]
+    },
+    {
+      "title": "After Each Shot",
+      "items": [
+        {
+          "text": "Watch for mild soreness, tiredness, or low appetite"
+        },
+        {
+          "text": "Note any swelling, vomiting, or distress to report"
+        },
+        {
+          "text": "Give your puppy a calm place to rest"
+        },
+        {
+          "text": "Update the record and set the next reminder"
+        },
+        {
+          "text": "Keep a copy ready for training classes or boarding",
+          "note": "Contact your vet promptly if you see a strong reaction"
+        }
+      ]
+    },
+    {
+      "title": "Records & Next Steps",
+      "items": [
+        {
+          "text": "Keep a running log of each vaccine and date"
+        },
+        {
+          "text": "Save batch numbers and the clinic that gave each shot"
+        },
+        {
+          "text": "Register and confirm your puppy's microchip details"
+        },
+        {
+          "text": "Plan the first adult booster visit"
+        },
+        {
+          "text": "Store a digital backup of the full puppy record"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information for owners, not veterinary advice; puppy vaccine schedules vary by region and vet, so always consult a licensed veterinarian",
+          "note": "For any reaction or emergency, contact your vet or an emergency animal hospital immediately"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When do puppy vaccinations usually start?",
+      "a": "Puppy shots often begin around six to eight weeks of age and continue in a series every few weeks. The exact start depends on your puppy's age and health, so confirm timing with your veterinarian."
+    },
+    {
+      "q": "How many rounds of shots does a puppy need?",
+      "a": "Most puppies receive several rounds spaced a few weeks apart, typically finishing around sixteen weeks or later. The number of doses varies by vaccine and protocol, so follow your vet's plan."
+    },
+    {
+      "q": "When can my puppy safely meet other dogs?",
+      "a": "Many vets advise waiting until the vaccine series is well underway or complete before visiting high-traffic areas. Ask your veterinarian when it is safe for your puppy to socialize and walk in public."
+    },
+    {
+      "q": "What if we miss a puppy vaccine appointment?",
+      "a": "Contact your veterinarian as soon as possible. They will advise whether to resume where you left off or restart part of the series so your puppy stays protected."
+    },
+    {
+      "q": "Is this puppy vaccination checklist printable?",
+      "a": "Yes. Print it or download the PDF, record each shot and date by week, and bring it to appointments to keep your puppy's series on track."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/puppy-vaccination-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/puppy-vaccination-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Puppy Vaccination Checklist by ChecklistForge (https://checklistforge.com/checklist/puppy-vaccination-checklist)",
+  "updated": "2026-10-17"
+}

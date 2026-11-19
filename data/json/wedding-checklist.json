@@ -1,0 +1,189 @@
+{
+  "id": "wedding-checklist",
+  "name": "Wedding Checklist",
+  "description": "A comprehensive wedding checklist covering every major category from budget and venue to vendors, guests, and the day itself.",
+  "category": "wedding",
+  "category_name": "Wedding",
+  "tags": [
+    "wedding",
+    "checklist",
+    "vendors",
+    "guest-list"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Budget and Planning Basics",
+      "items": [
+        {
+          "text": "Decide on a total wedding budget and confirm all contributors."
+        },
+        {
+          "text": "Choose your wedding date or a short list of options."
+        },
+        {
+          "text": "Estimate your guest count to guide venue and catering size."
+        },
+        {
+          "text": "Set a spending limit for each major category."
+        },
+        {
+          "text": "Create a shared system for contracts, receipts, and ideas."
+        },
+        {
+          "text": "Decide whether to hire a planner or coordinate yourselves."
+        }
+      ]
+    },
+    {
+      "title": "Venue and Catering",
+      "items": [
+        {
+          "text": "Tour venues and book your ceremony and reception locations."
+        },
+        {
+          "text": "Confirm what the venue includes, such as tables, chairs, and parking."
+        },
+        {
+          "text": "Hire a caterer and schedule a menu tasting."
+        },
+        {
+          "text": "Choose your bar package and confirm any corkage rules.",
+          "note": "Ask whether the venue requires a licensed, insured bartender."
+        },
+        {
+          "text": "Order the cake or dessert and arrange delivery."
+        },
+        {
+          "text": "Reserve any rentals the venue does not provide."
+        }
+      ]
+    },
+    {
+      "title": "Vendors and Entertainment",
+      "items": [
+        {
+          "text": "Book your photographer and videographer."
+        },
+        {
+          "text": "Reserve your band or DJ and plan the music timeline."
+        },
+        {
+          "text": "Hire your florist and finalize the arrangements."
+        },
+        {
+          "text": "Book your officiant and review the ceremony script."
+        },
+        {
+          "text": "Arrange hair and makeup services with a trial run."
+        },
+        {
+          "text": "Confirm transportation for the couple and guests if needed."
+        }
+      ]
+    },
+    {
+      "title": "Attire and Accessories",
+      "items": [
+        {
+          "text": "Choose and order the wedding dress, allowing time for alterations."
+        },
+        {
+          "text": "Select attire for the partner and wedding party."
+        },
+        {
+          "text": "Buy shoes, jewelry, and accessories for both partners."
+        },
+        {
+          "text": "Order the wedding rings and arrange any engraving."
+        },
+        {
+          "text": "Schedule and attend final fittings."
+        },
+        {
+          "text": "Pack a backup outfit element in case of last-minute issues."
+        }
+      ]
+    },
+    {
+      "title": "Guests and Invitations",
+      "items": [
+        {
+          "text": "Finalize the guest list and gather mailing addresses."
+        },
+        {
+          "text": "Send save-the-dates six to eight months ahead."
+        },
+        {
+          "text": "Order and mail invitations six to eight weeks before the day."
+        },
+        {
+          "text": "Set up a wedding website with travel and event details."
+        },
+        {
+          "text": "Reserve a hotel room block for out-of-town guests."
+        },
+        {
+          "text": "Track RSVPs and follow up with anyone who is late.",
+          "note": "Set the RSVP deadline about three weeks before the wedding."
+        },
+        {
+          "text": "Build the seating chart once responses are in."
+        }
+      ]
+    },
+    {
+      "title": "Legal and Day-Of",
+      "items": [
+        {
+          "text": "Apply for your marriage license within the valid window."
+        },
+        {
+          "text": "Confirm balances, arrival times, and details with every vendor."
+        },
+        {
+          "text": "Give the caterer and venue a final headcount."
+        },
+        {
+          "text": "Build the day-of timeline and share it with key people."
+        },
+        {
+          "text": "Prepare vendor tips and payments in labeled envelopes."
+        },
+        {
+          "text": "Assemble an emergency kit for the wedding day."
+        },
+        {
+          "text": "Delegate day-of tasks so the couple can stay present."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a complete wedding checklist include?",
+      "a": "A complete checklist covers your budget, the ceremony and reception venue, core vendors like the photographer and caterer, attire for the couple and party, the guest list and invitations, legal paperwork such as the marriage license, and a day-of plan. Grouping these into categories helps you confirm every area is handled."
+    },
+    {
+      "q": "Can we plan a wedding without a planner?",
+      "a": "Absolutely. Many couples plan beautiful weddings on their own using a thorough checklist to stay organized and a shared calendar to track deadlines. If the final weeks feel overwhelming, a day-of coordinator can step in to manage vendors and the timeline without the cost of full-service planning."
+    },
+    {
+      "q": "How do we keep the wedding on budget?",
+      "a": "Set your total budget first, then assign a spending limit to each category before you book anything. Track every deposit and payment in one place, and revisit the numbers monthly. Build in a buffer of about five to ten percent for the surprise costs that almost always appear as the date nears."
+    },
+    {
+      "q": "What legal documents do we need to get married?",
+      "a": "You will need a valid marriage license from the county or state where you wed, and most require both partners to apply in person with photo identification. Some states impose a waiting period or an expiration window, so check the rules early and time your application to fall safely before the wedding."
+    },
+    {
+      "q": "How long does wedding planning usually take?",
+      "a": "Couples typically plan over 9 to 16 months, which allows time to secure popular venues and vendors and to spread out decisions. Shorter timelines are common and workable, especially for smaller weddings. The key is to book the venue and date-exclusive vendors first, then fill in the rest."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/wedding-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/wedding-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Wedding Checklist by ChecklistForge (https://checklistforge.com/checklist/wedding-checklist)",
+  "updated": "2026-11-13"
+}

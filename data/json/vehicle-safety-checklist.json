@@ -1,0 +1,186 @@
+{
+  "id": "vehicle-safety-checklist",
+  "name": "Vehicle Safety Checklist",
+  "description": "A checklist for keeping a vehicle safe to drive.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "safety",
+    "inspection",
+    "vehicles",
+    "cars",
+    "vehicle-safety"
+  ],
+  "item_count": 36,
+  "sections": [
+    {
+      "title": "Tires and wheels",
+      "items": [
+        {
+          "text": "Check tire pressure on all tires and the spare."
+        },
+        {
+          "text": "Measure tread depth and confirm it exceeds the legal minimum.",
+          "note": "Worn tires lose grip and dramatically lengthen wet braking distances."
+        },
+        {
+          "text": "Inspect for cuts, bulges, cracks or embedded objects."
+        },
+        {
+          "text": "Confirm lug nuts are present and tight."
+        },
+        {
+          "text": "Check for uneven wear that signals alignment or suspension issues."
+        },
+        {
+          "text": "Verify the spare and tire-change tools are present and usable."
+        }
+      ]
+    },
+    {
+      "title": "Brakes and steering",
+      "items": [
+        {
+          "text": "Confirm the brake pedal is firm and braking is straight."
+        },
+        {
+          "text": "Listen for grinding or squealing that signals worn pads.",
+          "note": "Grinding brakes need immediate inspection by a mechanic."
+        },
+        {
+          "text": "Verify the parking brake holds on an incline."
+        },
+        {
+          "text": "Check the steering for excessive play or pulling."
+        },
+        {
+          "text": "Confirm ABS and brake warning lights are off."
+        },
+        {
+          "text": "Check power steering fluid and listen for suspension clunks."
+        }
+      ]
+    },
+    {
+      "title": "Lights and visibility",
+      "items": [
+        {
+          "text": "Test headlights, high beams and that they aim correctly."
+        },
+        {
+          "text": "Check brake lights, turn signals and hazard lights."
+        },
+        {
+          "text": "Verify reverse, fog and license plate lights."
+        },
+        {
+          "text": "Confirm wipers clear the glass and washers spray."
+        },
+        {
+          "text": "Clean the windshield, mirrors and lights."
+        },
+        {
+          "text": "Test the defroster and demister for clear visibility."
+        }
+      ]
+    },
+    {
+      "title": "Restraints and occupant safety",
+      "items": [
+        {
+          "text": "Confirm all seatbelts latch, retract and are undamaged."
+        },
+        {
+          "text": "Check child seats are correctly installed and within their limits.",
+          "note": "Follow the seat and vehicle manuals for correct child-seat fitting."
+        },
+        {
+          "text": "Verify airbag warning lights clear at start-up."
+        },
+        {
+          "text": "Confirm head restraints are present and adjusted."
+        },
+        {
+          "text": "Check that doors and child locks operate correctly."
+        },
+        {
+          "text": "Ensure no loose objects can become projectiles in a crash."
+        }
+      ]
+    },
+    {
+      "title": "Recalls and systems",
+      "items": [
+        {
+          "text": "Search for open recalls using your VIN and have them fixed.",
+          "note": "Recall repairs are typically free at a manufacturer's dealer."
+        },
+        {
+          "text": "Address any dashboard warning lights promptly."
+        },
+        {
+          "text": "Verify driver-assistance systems function as intended."
+        },
+        {
+          "text": "Check that the horn sounds clearly."
+        },
+        {
+          "text": "Confirm the engine and transmission show no warning faults."
+        },
+        {
+          "text": "Keep the maintenance and recall history up to date."
+        }
+      ]
+    },
+    {
+      "title": "Emergency equipment",
+      "items": [
+        {
+          "text": "Carry a warning triangle and reflective vest."
+        },
+        {
+          "text": "Pack a first-aid kit and check its contents."
+        },
+        {
+          "text": "Keep a flashlight with working batteries."
+        },
+        {
+          "text": "Carry jumper cables or a portable jump starter."
+        },
+        {
+          "text": "Stock water and seasonal emergency supplies."
+        },
+        {
+          "text": "Confirm a fire extinguisher where required and keep it accessible."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a vehicle safety checklist?",
+      "a": "It's a structured review of the safety-critical parts of a vehicle — tires, brakes, lights, seatbelts, emergency kit and recalls — checked against pass or fail standards so owners catch defects before they cause a crash."
+    },
+    {
+      "q": "How often should I do a vehicle safety check?",
+      "a": "Do a quick safety walkaround monthly and before long trips, a fuller check seasonally, and an immediate check after any incident, repair or warning light. Address a safety defect before driving the vehicle again."
+    },
+    {
+      "q": "How do I check for vehicle recalls?",
+      "a": "Use your VIN to search the manufacturer's recall lookup or your national safety authority's database. Recall repairs are usually free at a dealer, so confirm any open recall is completed promptly for safety."
+    },
+    {
+      "q": "What safety items should every vehicle carry?",
+      "a": "Keep a spare tire and tools, a warning triangle, a first-aid kit, a flashlight, jumper cables and water aboard. Confirm seatbelts and any child seats are present, undamaged and correctly fitted."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the vehicle safety checklist to work through item by item, or download the PDF to complete on your phone and log any defects."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/vehicle-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/vehicle-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Vehicle Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/vehicle-safety-checklist)",
+  "updated": "2026-10-17"
+}

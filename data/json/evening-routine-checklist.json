@@ -1,0 +1,166 @@
+{
+  "id": "evening-routine-checklist",
+  "name": "Evening Routine Checklist",
+  "description": "A relaxing nightly checklist to help you wind down, unplug, and prepare for restful sleep.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "self-care",
+    "evening-routine"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Wrap Up the Day",
+      "items": [
+        {
+          "text": "Set a gentle reminder to begin winding down before bed"
+        },
+        {
+          "text": "Finish or pause any work and close your laptop",
+          "note": "A clear stop time protects your evening from spillover stress."
+        },
+        {
+          "text": "Do a quick review of what went well today"
+        },
+        {
+          "text": "Jot down any lingering worries or to-dos to clear your mind"
+        },
+        {
+          "text": "Decide on a realistic bedtime and stick close to it"
+        }
+      ]
+    },
+    {
+      "title": "Unplug and Dim Down",
+      "items": [
+        {
+          "text": "Put your phone on charge away from the bed"
+        },
+        {
+          "text": "Switch off bright overhead lights and use soft lamps"
+        },
+        {
+          "text": "Stop screens at least 30 minutes before sleep",
+          "note": "Bright screens can make it harder for your body to feel sleepy."
+        },
+        {
+          "text": "Turn on night mode or warm lighting if you must use a device"
+        },
+        {
+          "text": "Lower the volume of the house and reduce stimulation"
+        }
+      ]
+    },
+    {
+      "title": "Tidy and Prepare for Tomorrow",
+      "items": [
+        {
+          "text": "Do a quick 10-minute tidy of shared spaces"
+        },
+        {
+          "text": "Load or run the dishwasher and wipe the kitchen counters"
+        },
+        {
+          "text": "Lay out clothes and pack your bag for tomorrow"
+        },
+        {
+          "text": "Prep or plan breakfast and any lunches"
+        },
+        {
+          "text": "Check tomorrow's calendar so mornings feel calmer"
+        }
+      ]
+    },
+    {
+      "title": "Personal Care",
+      "items": [
+        {
+          "text": "Wash your face and follow your skincare routine"
+        },
+        {
+          "text": "Brush and floss your teeth"
+        },
+        {
+          "text": "Take a warm shower or bath to relax your muscles",
+          "note": "A warm shower can help your body cool down and feel sleepy."
+        },
+        {
+          "text": "Change into comfortable sleepwear"
+        },
+        {
+          "text": "Take any evening medication or supplements"
+        }
+      ]
+    },
+    {
+      "title": "Relax and Unwind",
+      "items": [
+        {
+          "text": "Read a few pages of a book instead of scrolling"
+        },
+        {
+          "text": "Do some gentle stretching or a few yoga poses"
+        },
+        {
+          "text": "Write in a journal or note three good things from the day"
+        },
+        {
+          "text": "Listen to calm music, a podcast, or quiet sounds"
+        },
+        {
+          "text": "Practice slow breathing or a short relaxation exercise"
+        }
+      ]
+    },
+    {
+      "title": "Settle in for Sleep",
+      "items": [
+        {
+          "text": "Set tomorrow's alarm and double-check the time"
+        },
+        {
+          "text": "Make the bedroom cool, dark, and quiet"
+        },
+        {
+          "text": "Drink a small glass of water and limit late fluids"
+        },
+        {
+          "text": "Take a few slow breaths and let your body relax into the bed"
+        },
+        {
+          "text": "If your mind races, note the thought and return to your breath"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I start my evening routine?",
+      "a": "Begin winding down about 30 to 60 minutes before your target bedtime. Starting earlier gives your mind and body time to relax, dim the lights, and step away from screens so falling asleep feels natural rather than forced."
+    },
+    {
+      "q": "How can I wind down without screens?",
+      "a": "Try reading a book, gentle stretching, journaling, a warm shower, light tidying, or quiet music. Dimming lights and keeping activities calm tells your body that the day is ending, which can make it easier to drift off."
+    },
+    {
+      "q": "Why does an evening routine help with sleep?",
+      "a": "A consistent wind-down lowers stress and creates familiar cues your body links with sleep. Reducing bright light and stimulation in the last hour supports your natural rhythm, so you fall asleep faster and rest more soundly."
+    },
+    {
+      "q": "What if I get home late or feel too tired?",
+      "a": "Keep a short backup version of just two or three steps, such as brushing your teeth, a few deep breaths, and setting out tomorrow's essentials. A brief routine is better than none, and you can return to the full version the next night."
+    },
+    {
+      "q": "Can I download this evening routine checklist?",
+      "a": "Yes. This checklist is free to print and download as a PDF. Keep it on your nightstand or phone so you can tick off each step, build a calming nightly habit, and protect your sleep."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/evening-routine-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/evening-routine-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Evening Routine Checklist by ChecklistForge (https://checklistforge.com/checklist/evening-routine-checklist)",
+  "updated": "2026-10-17"
+}

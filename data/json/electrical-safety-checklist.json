@@ -1,0 +1,172 @@
+{
+  "id": "electrical-safety-checklist",
+  "name": "Electrical Safety Checklist",
+  "description": "An electrical safety checklist covering outlets, cords, GFCIs, the panel and alarm context.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "electrical",
+    "safety",
+    "homeowner"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Outlets & Switches",
+      "items": [
+        {
+          "text": "Check that outlets and switches are not warm, cracked or discolored",
+          "note": "Warmth or scorching signals a serious hazard — call an electrician"
+        },
+        {
+          "text": "Confirm outlets hold plugs snugly without falling out"
+        },
+        {
+          "text": "Install tamper-resistant outlets or covers in homes with children"
+        },
+        {
+          "text": "Avoid overloading outlets with too many high-draw devices"
+        },
+        {
+          "text": "Listen for buzzing or crackling and stop using affected outlets"
+        },
+        {
+          "text": "Hire a licensed electrician to replace any damaged outlet"
+        }
+      ]
+    },
+    {
+      "title": "GFCIs & AFCIs",
+      "items": [
+        {
+          "text": "Test GFCI outlets monthly with the test and reset buttons"
+        },
+        {
+          "text": "Confirm GFCI protection in kitchens, baths, garages and outdoors"
+        },
+        {
+          "text": "Replace GFCI outlets that fail to trip or reset"
+        },
+        {
+          "text": "Check that outdoor outlets have weatherproof covers"
+        },
+        {
+          "text": "Ask an electrician about AFCI breakers for bedroom circuits"
+        }
+      ]
+    },
+    {
+      "title": "Cords & Plugs",
+      "items": [
+        {
+          "text": "Inspect cords for fraying, cracking, cuts or exposed wires"
+        },
+        {
+          "text": "Replace or discard damaged cords instead of taping them"
+        },
+        {
+          "text": "Keep cords out from under rugs and away from foot traffic",
+          "note": "Trapped cords overheat and start fires"
+        },
+        {
+          "text": "Use extension cords only as a temporary solution"
+        },
+        {
+          "text": "Choose surge protectors rated for your devices, not daisy-chained strips"
+        },
+        {
+          "text": "Unplug space heaters and chargers when not in use"
+        }
+      ]
+    },
+    {
+      "title": "Electrical Panel (Pro Work)",
+      "items": [
+        {
+          "text": "Keep the area in front of the panel clear and accessible"
+        },
+        {
+          "text": "Label breakers clearly so circuits are easy to identify"
+        },
+        {
+          "text": "Note any frequent tripping and report it to an electrician"
+        },
+        {
+          "text": "Never open the panel cover or touch breakers and wiring yourself",
+          "note": "All panel work must be done by a licensed electrician"
+        },
+        {
+          "text": "Have an electrician inspect older fuse boxes and aluminum wiring"
+        }
+      ]
+    },
+    {
+      "title": "Appliances & Lighting",
+      "items": [
+        {
+          "text": "Match bulb wattage to fixture ratings to prevent overheating"
+        },
+        {
+          "text": "Unplug small appliances when not in use"
+        },
+        {
+          "text": "Keep heat-producing appliances clear of curtains and paper"
+        },
+        {
+          "text": "Stop using any appliance that sparks, smells or shocks you"
+        },
+        {
+          "text": "Give large appliances their own dedicated circuits where required"
+        }
+      ]
+    },
+    {
+      "title": "Alarms & Emergency Readiness",
+      "items": [
+        {
+          "text": "Test smoke and carbon-monoxide alarms monthly"
+        },
+        {
+          "text": "Replace alarm batteries yearly and units over 10 years old"
+        },
+        {
+          "text": "Keep a Class C or multipurpose fire extinguisher accessible"
+        },
+        {
+          "text": "Know how to shut off main power in an emergency"
+        },
+        {
+          "text": "Plan and practice a home fire escape route with the household"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I check electrical safety at home?",
+      "a": "Test GFCI outlets monthly, inspect cords and outlets a few times a year, and have a licensed electrician do a full inspection every few years or when buying an older home."
+    },
+    {
+      "q": "Can I download this electrical safety checklist as a PDF?",
+      "a": "Yes. You can print this electrical safety checklist or download it as a PDF and keep it handy for routine checks and for new homeowners learning their home's wiring."
+    },
+    {
+      "q": "What are warning signs of an electrical problem?",
+      "a": "Watch for flickering lights, warm or discolored outlets, burning smells, buzzing sounds, frequent tripped breakers, and shocks from switches. These signs call for a licensed electrician right away."
+    },
+    {
+      "q": "Where do I need GFCI outlets?",
+      "a": "GFCI protection is recommended anywhere water is near electricity — kitchens, bathrooms, laundry rooms, garages, basements, and outdoor outlets. Test them monthly using the built-in test and reset buttons."
+    },
+    {
+      "q": "What electrical work should I never do myself?",
+      "a": "Never open the electrical panel, replace breakers, or rewire outlets and fixtures yourself. Always hire a licensed electrician for panel work and any wiring changes to avoid serious shock and fire risks."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/electrical-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/electrical-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Electrical Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/electrical-safety-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "hydration-checklist",
+  "name": "Hydration Checklist",
+  "description": "A practical checklist of habits, warning signs and situations that help you stay properly hydrated through the day.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "family",
+    "healthy-eating",
+    "wellness",
+    "nutrition",
+    "hydration"
+  ],
+  "item_count": 27,
+  "sections": [
+    {
+      "title": "Daily Hydration Habits",
+      "items": [
+        {
+          "text": "Drink a glass of water shortly after waking up"
+        },
+        {
+          "text": "Keep a refillable water bottle within reach all day"
+        },
+        {
+          "text": "Have a drink with every meal and snack"
+        },
+        {
+          "text": "Sip steadily rather than gulping large amounts at once",
+          "note": "Spreading intake through the day helps your body absorb fluids better."
+        },
+        {
+          "text": "Set a phone or watch reminder if you tend to forget"
+        },
+        {
+          "text": "Eat water-rich foods like fruit, salad and soup"
+        }
+      ]
+    },
+    {
+      "title": "Know the Signs of Dehydration",
+      "items": [
+        {
+          "text": "Check that your urine is pale yellow, not dark"
+        },
+        {
+          "text": "Notice thirst and a dry mouth as early cues"
+        },
+        {
+          "text": "Watch for headache, tiredness or trouble concentrating"
+        },
+        {
+          "text": "Be alert to dizziness or feeling lightheaded when standing"
+        },
+        {
+          "text": "For children and older adults, watch for fewer bathroom trips or confusion",
+          "note": "These groups can dehydrate quickly and may not feel thirsty."
+        }
+      ]
+    },
+    {
+      "title": "Drink More in Heat & Humidity",
+      "items": [
+        {
+          "text": "Increase fluids on hot or humid days, even without thirst"
+        },
+        {
+          "text": "Carry extra water when spending time outdoors"
+        },
+        {
+          "text": "Take shade and water breaks during peak heat"
+        },
+        {
+          "text": "Watch for heavy sweating, cramps or feeling faint",
+          "note": "These can signal heat-related illness that needs cooling and fluids."
+        },
+        {
+          "text": "Choose cool drinks and avoid excess alcohol in the heat"
+        }
+      ]
+    },
+    {
+      "title": "Hydrate Around Exercise",
+      "items": [
+        {
+          "text": "Drink water before you start a workout"
+        },
+        {
+          "text": "Sip fluids during longer or more intense sessions"
+        },
+        {
+          "text": "Rehydrate after exercising to replace what you lost"
+        },
+        {
+          "text": "For long or sweaty sessions, consider an electrolyte drink",
+          "note": "Plain water is enough for most everyday activity under an hour."
+        },
+        {
+          "text": "Weigh up the conditions: heat and humidity raise your needs"
+        }
+      ]
+    },
+    {
+      "title": "Make It Easier",
+      "items": [
+        {
+          "text": "Add lemon, cucumber or berries to flavor water naturally"
+        },
+        {
+          "text": "Keep a glass or bottle on your desk as a visual cue"
+        },
+        {
+          "text": "Pair drinking with routines like meals or breaks"
+        },
+        {
+          "text": "Choose a marked bottle to track how much you have had"
+        },
+        {
+          "text": "Track your hydration habits with this printable checklist"
+        },
+        {
+          "text": "Important: this is general information, not medical advice",
+          "note": "If you have a condition affecting fluid intake or suspect serious dehydration, consult a doctor."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much water should I drink a day?",
+      "a": "A common guideline is around 6 to 8 cups of fluid a day, but needs vary with body size, activity, climate and health. Use thirst and pale yellow urine as everyday signs that you are drinking enough."
+    },
+    {
+      "q": "What are the early signs of dehydration?",
+      "a": "Common signs include thirst, dry mouth, dark yellow urine, tiredness, headache, dizziness and reduced concentration. In young children and older adults, watch for fewer wet diapers or trips to the bathroom and confusion."
+    },
+    {
+      "q": "Do drinks other than water count?",
+      "a": "Yes. Water is best, but milk, unsweetened tea, coffee in moderation and water-rich foods like fruit and soup all contribute to your fluid intake. Limit sugary and heavily caffeinated drinks."
+    },
+    {
+      "q": "Can I print this hydration checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then tick off your hydration habits and reminders throughout the day."
+    },
+    {
+      "q": "Is this medical advice?",
+      "a": "No. This is general information about everyday hydration, not medical advice. If you have a heart, kidney or other condition that affects fluids, or you suspect serious dehydration, contact a doctor."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hydration-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hydration-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Hydration Checklist by ChecklistForge (https://checklistforge.com/checklist/hydration-checklist)",
+  "updated": "2026-10-17"
+}

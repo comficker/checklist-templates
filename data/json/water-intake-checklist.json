@@ -1,0 +1,158 @@
+{
+  "id": "water-intake-checklist",
+  "name": "Water Intake Checklist",
+  "description": "A daily water-tracking checklist to set a target, schedule glasses through the day and reach your goal consistently.",
+  "category": "diet-nutrition",
+  "category_name": "Diet & Nutrition",
+  "tags": [
+    "family",
+    "healthy-eating",
+    "nutrition",
+    "hydration",
+    "water-tracker"
+  ],
+  "item_count": 28,
+  "sections": [
+    {
+      "title": "Set Your Target",
+      "items": [
+        {
+          "text": "Choose a realistic daily water goal in glasses or liters"
+        },
+        {
+          "text": "Note your goal at the top of the tracker"
+        },
+        {
+          "text": "Pick a glass or bottle size and count how many you need"
+        },
+        {
+          "text": "Adjust the target up on hot days or workout days",
+          "note": "Heat, exercise and altitude all increase how much you need."
+        },
+        {
+          "text": "Mark a checkbox for each glass you plan to drink"
+        }
+      ]
+    },
+    {
+      "title": "Schedule Your Glasses",
+      "items": [
+        {
+          "text": "Glass 1: right after waking up"
+        },
+        {
+          "text": "Glass 2: with or before breakfast"
+        },
+        {
+          "text": "Glass 3: mid-morning"
+        },
+        {
+          "text": "Glass 4: with lunch"
+        },
+        {
+          "text": "Glass 5: mid-afternoon",
+          "note": "Afternoon is when many people forget and fall behind."
+        },
+        {
+          "text": "Glass 6: with dinner"
+        },
+        {
+          "text": "Glass 7: early evening (taper off before bed)"
+        }
+      ]
+    },
+    {
+      "title": "Track As You Go",
+      "items": [
+        {
+          "text": "Tick off each glass the moment you finish it"
+        },
+        {
+          "text": "Refill your bottle right after emptying it"
+        },
+        {
+          "text": "Use a marked bottle so each refill equals a set amount"
+        },
+        {
+          "text": "Check your urine color as a quick reality check",
+          "note": "Pale yellow usually means you are on track."
+        },
+        {
+          "text": "Tally your total against your goal in the evening"
+        }
+      ]
+    },
+    {
+      "title": "Tips to Drink More",
+      "items": [
+        {
+          "text": "Keep a full bottle visible on your desk or counter"
+        },
+        {
+          "text": "Pair drinking with existing habits like meals or breaks"
+        },
+        {
+          "text": "Add lemon, cucumber or berries for natural flavor"
+        },
+        {
+          "text": "Drink a glass before each meal to build the routine"
+        },
+        {
+          "text": "Set hourly phone reminders until it becomes automatic",
+          "note": "Reminders help most in the first couple of weeks."
+        },
+        {
+          "text": "Swap one sugary drink for water each day"
+        }
+      ]
+    },
+    {
+      "title": "Review & Adjust",
+      "items": [
+        {
+          "text": "Compare your total to your target at day's end"
+        },
+        {
+          "text": "Note which times of day you tend to miss"
+        },
+        {
+          "text": "Raise or lower next day's target based on how you felt"
+        },
+        {
+          "text": "Reuse this printable tracker each day to build the habit"
+        },
+        {
+          "text": "Important: this is general information, not medical advice",
+          "note": "If you have been told to limit fluids, follow your doctor's guidance."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I set my daily water target?",
+      "a": "A common starting point is around 6 to 8 cups (roughly 1.5 to 2 liters) a day, adjusted for your size, activity and climate. Pick a number you can realistically hit, then fine-tune it over a week using how you feel and your urine color."
+    },
+    {
+      "q": "How should I space out my glasses?",
+      "a": "Break your target into set moments: on waking, with each meal, mid-morning, mid-afternoon and early evening. Spacing glasses through the day is easier than catching up at night and helps your body use the fluid."
+    },
+    {
+      "q": "What counts toward my water total?",
+      "a": "Plain water counts fully, and unsweetened drinks and water-rich foods contribute too. For tracking, it is simplest to focus on water and unsweetened drinks, and to limit sugary beverages."
+    },
+    {
+      "q": "Can I print this water intake checklist?",
+      "a": "Yes. You can print the tracker or download it as a PDF, then tick off each glass as you drink it and tally your total at the end of the day."
+    },
+    {
+      "q": "Is this medical advice?",
+      "a": "No. This is general information to help you track water intake, not medical advice. If you have a heart or kidney condition, or have been told to limit fluids, follow your doctor's guidance instead."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/water-intake-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/water-intake-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Water Intake Checklist by ChecklistForge (https://checklistforge.com/checklist/water-intake-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "what-to-do-when-someone-dies-checklist",
+  "name": "What to Do When Someone Dies Checklist",
+  "description": "A step-by-step US checklist for the hours, weeks and months after a loved one dies, ordered by what needs to happen first.",
+  "category": "recovery-senior-care",
+  "category_name": "Recovery & Senior Care",
+  "tags": [
+    "bereavement",
+    "death-of-a-loved-one",
+    "funeral-planning",
+    "probate",
+    "executor"
+  ],
+  "item_count": 35,
+  "sections": [
+    {
+      "title": "First 24 to 48 Hours",
+      "items": [
+        {
+          "text": "Get a legal pronouncement of death",
+          "note": "If the person was in hospice, call the hospice team. If the death was unexpected at home, call 911. In a hospital or care facility, staff will handle it."
+        },
+        {
+          "text": "Tell close family and friends, and ask one person to help spread the news"
+        },
+        {
+          "text": "Check for written funeral wishes or a prepaid funeral plan"
+        },
+        {
+          "text": "Contact a funeral home to transport the body"
+        },
+        {
+          "text": "Lock the home, secure valuables and car keys, and stop mail if no one lives there"
+        },
+        {
+          "text": "Arrange care for pets and any dependents"
+        }
+      ]
+    },
+    {
+      "title": "Funeral and Notices",
+      "items": [
+        {
+          "text": "Ask the funeral home for its itemized price list before you choose services",
+          "note": "Federal law requires funeral homes to give you this list, and you can buy a casket or urn elsewhere."
+        },
+        {
+          "text": "Plan the funeral, burial, cremation or memorial service"
+        },
+        {
+          "text": "If the person served in the military, ask about VA burial benefits at VA.gov"
+        },
+        {
+          "text": "Write and publish an obituary"
+        },
+        {
+          "text": "Notify the person's employer and ask about final pay, life insurance and retirement benefits"
+        }
+      ]
+    },
+    {
+      "title": "Death Certificates and Documents",
+      "items": [
+        {
+          "text": "Order several certified copies of the death certificate",
+          "note": "The funeral home can usually order them for you. Many agencies accept only certified copies, not photocopies."
+        },
+        {
+          "text": "Find the will, trust documents and any letter of wishes"
+        },
+        {
+          "text": "Gather the person's Social Security number, birth certificate, marriage certificate and military discharge papers"
+        },
+        {
+          "text": "Collect recent bank statements, bills and insurance policies"
+        }
+      ]
+    },
+    {
+      "title": "Government Agencies",
+      "items": [
+        {
+          "text": "Confirm the funeral home reported the death to Social Security"
+        },
+        {
+          "text": "Ask Social Security about survivor benefits and the one-time death payment",
+          "note": "Social Security doesn't pay benefits for the month of death. A payment that arrives after the death may have to be returned, so don't spend it until you check."
+        },
+        {
+          "text": "Notify the VA if the person received veterans benefits"
+        },
+        {
+          "text": "Cancel the driver's license or state ID with the DMV"
+        },
+        {
+          "text": "Forward mail with the post office if needed"
+        }
+      ]
+    },
+    {
+      "title": "Money, Accounts and Identity",
+      "items": [
+        {
+          "text": "Contact each bank and credit card company the person used"
+        },
+        {
+          "text": "Ask Equifax, Experian and TransUnion to flag the credit report as deceased",
+          "note": "This helps prevent identity theft, which often targets people who have recently died. Each bureau will ask for a copy of the death certificate."
+        },
+        {
+          "text": "File claims with life insurance companies and pension plans"
+        },
+        {
+          "text": "Cancel subscriptions, phone plans, streaming services and memberships"
+        },
+        {
+          "text": "Close or memorialize email and social media accounts"
+        },
+        {
+          "text": "Keep paying home insurance and utilities on any property until it is sold or transferred"
+        }
+      ]
+    },
+    {
+      "title": "Will and Probate",
+      "items": [
+        {
+          "text": "Give the original will to the executor"
+        },
+        {
+          "text": "Check with the county probate court whether probate is needed",
+          "note": "Many states let small estates skip full probate. The court clerk can explain your options but can't give legal advice."
+        },
+        {
+          "text": "Get an employer identification number (EIN) from the IRS if the estate needs its own bank account"
+        },
+        {
+          "text": "Make a list of the estate's assets and debts"
+        }
+      ]
+    },
+    {
+      "title": "Longer Term",
+      "items": [
+        {
+          "text": "File the person's final federal and state income tax returns",
+          "note": "The final return covers January 1 to the date of death and is due on the usual tax deadline the following year. A surviving spouse can usually file jointly for that year."
+        },
+        {
+          "text": "Ask a tax professional whether the estate must file its own income tax return"
+        },
+        {
+          "text": "Search for unclaimed money in each state where the person lived at unclaimed.org"
+        },
+        {
+          "text": "Update your own will and beneficiary forms if the person was named in them"
+        },
+        {
+          "text": "Give yourself time to grieve, and reach out for grief support if you need it"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many death certificates do I need?",
+      "a": "Many families order several certified copies, often 5 to 10, because banks, insurers, pension plans and government agencies may each ask for one. Count the accounts and policies you know about and add a few extra. You can order more later from the state or county vital records office, but it takes time."
+    },
+    {
+      "q": "Who notifies Social Security when someone dies?",
+      "a": "The funeral home usually reports the death to Social Security if you give them the person's Social Security number. You can't report a death online. To ask about survivor benefits, call Social Security at 1-800-772-1213 or contact your local office."
+    },
+    {
+      "q": "Am I responsible for a family member's debts after they die?",
+      "a": "Usually not. Debts are paid from the person's estate. You are generally only responsible if you co-signed, shared the account, or live in a community property state where different rules can apply. Don't pay a debt from your own money until you know you owe it."
+    },
+    {
+      "q": "Do you have to go through probate?",
+      "a": "Not always. Assets with a named beneficiary, jointly owned property and assets held in a trust usually pass without probate. Many states also have a simpler process for small estates. If the person owned property in their own name only, the executor may need to open probate in the county where they lived."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/what-to-do-when-someone-dies-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/what-to-do-when-someone-dies-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "What to Do When Someone Dies Checklist by ChecklistForge (https://checklistforge.com/checklist/what-to-do-when-someone-dies-checklist)",
+  "updated": "2026-10-18"
+}

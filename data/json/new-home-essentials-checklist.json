@@ -1,0 +1,174 @@
+{
+  "id": "new-home-essentials-checklist",
+  "name": "New Home Essentials Checklist",
+  "description": "Room-by-room new home essentials, from the first-night box to tools and safety items.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "new-home",
+    "essentials",
+    "first-night-box"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "First-Night Box (Open First)",
+      "items": [
+        {
+          "text": "Toilet paper, hand soap and toiletries"
+        },
+        {
+          "text": "Medications and a small first-aid kit"
+        },
+        {
+          "text": "Phone chargers and a power strip"
+        },
+        {
+          "text": "Bedding, pillows and a change of clothes"
+        },
+        {
+          "text": "Snacks, water, and a few plates, cups and utensils"
+        },
+        {
+          "text": "Basic tools, a box cutter and a flashlight"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen",
+      "items": [
+        {
+          "text": "Pots, pans and basic cooking utensils"
+        },
+        {
+          "text": "Plates, bowls, cups and cutlery"
+        },
+        {
+          "text": "Dish soap, sponges and trash bags"
+        },
+        {
+          "text": "Coffee maker or kettle"
+        },
+        {
+          "text": "Food storage containers and paper towels"
+        }
+      ]
+    },
+    {
+      "title": "Bathroom",
+      "items": [
+        {
+          "text": "Towels, bath mat and shower curtain"
+        },
+        {
+          "text": "Toilet brush and plunger"
+        },
+        {
+          "text": "Cleaning spray and toilet cleaner"
+        },
+        {
+          "text": "Shampoo, soap and a toiletry organizer"
+        }
+      ]
+    },
+    {
+      "title": "Bedroom & Living",
+      "items": [
+        {
+          "text": "Mattress, sheets and extra blankets"
+        },
+        {
+          "text": "Curtains or blinds for privacy"
+        },
+        {
+          "text": "Lamps and spare light bulbs"
+        },
+        {
+          "text": "Hangers and a laundry basket"
+        }
+      ]
+    },
+    {
+      "title": "Cleaning & Safety",
+      "items": [
+        {
+          "text": "Smoke and carbon-monoxide alarms (test or replace batteries)"
+        },
+        {
+          "text": "Fire extinguisher"
+        },
+        {
+          "text": "All-purpose and bathroom cleaners"
+        },
+        {
+          "text": "Broom, mop and vacuum"
+        },
+        {
+          "text": "Batteries, light bulbs and trash cans"
+        }
+      ]
+    },
+    {
+      "title": "Tools & Home Maintenance",
+      "items": [
+        {
+          "text": "Toolkit: hammer, screwdrivers, pliers, tape measure"
+        },
+        {
+          "text": "Cordless drill and assorted screws and nails"
+        },
+        {
+          "text": "Extension cords and power strips"
+        },
+        {
+          "text": "Step stool or small ladder"
+        },
+        {
+          "text": "Find and label the water shut-off and breaker box",
+          "note": "Do this before you need them in an emergency"
+        }
+      ]
+    },
+    {
+      "title": "Admin & Accounts",
+      "items": [
+        {
+          "text": "Confirm utilities, internet and trash service are active"
+        },
+        {
+          "text": "Change exterior locks or rekey the doors"
+        },
+        {
+          "text": "Update your address on ID, bank and subscriptions"
+        },
+        {
+          "text": "Save local emergency, doctor and handyman contacts"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be in a first-night box?",
+      "a": "Pack toilet paper, toiletries, medications, a change of clothes, bedding, phone chargers, snacks and water, basic tools, and a few plates and cups — everything you need before you unpack."
+    },
+    {
+      "q": "What are the most forgotten new home essentials?",
+      "a": "People often forget a plunger, light bulbs, batteries, a fire extinguisher, a first-aid kit, trash cans, extension cords, and basic tools. This checklist includes them so your first week runs smoothly."
+    },
+    {
+      "q": "What should I do for safety in a new home?",
+      "a": "Test or install smoke and carbon-monoxide alarms, locate the water shut-off and breaker box, consider changing the exterior locks, and keep a fire extinguisher and first-aid kit accessible."
+    },
+    {
+      "q": "Is this new home essentials checklist printable?",
+      "a": "Yes. Print it or download the PDF and tick items off room by room as you settle in."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/new-home-essentials-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/new-home-essentials-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "New Home Essentials Checklist by ChecklistForge (https://checklistforge.com/checklist/new-home-essentials-checklist)",
+  "updated": "2026-10-17"
+}

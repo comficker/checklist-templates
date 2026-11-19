@@ -1,0 +1,193 @@
+{
+  "id": "pantry-essentials-checklist",
+  "name": "Pantry Essentials Checklist",
+  "description": "A staple-foods list of grains, canned goods, oils, baking supplies, spices and condiments to always keep stocked.",
+  "category": "food-kitchen",
+  "category_name": "Food & Kitchen",
+  "tags": [
+    "budget",
+    "groceries",
+    "family",
+    "kitchen",
+    "pantry"
+  ],
+  "item_count": 39,
+  "sections": [
+    {
+      "title": "Grains and Starches",
+      "items": [
+        {
+          "text": "Rice, white or brown"
+        },
+        {
+          "text": "Pasta and noodles in a couple of shapes"
+        },
+        {
+          "text": "Oats for breakfast and baking"
+        },
+        {
+          "text": "Flour, all-purpose and a whole-grain option"
+        },
+        {
+          "text": "Quinoa, couscous, or other quick grains"
+        },
+        {
+          "text": "Breadcrumbs or panko",
+          "note": "Store opened grains in airtight containers to keep pests out."
+        }
+      ]
+    },
+    {
+      "title": "Canned and Jarred Goods",
+      "items": [
+        {
+          "text": "Canned beans: black, chickpea, and kidney"
+        },
+        {
+          "text": "Canned tomatoes, diced and crushed"
+        },
+        {
+          "text": "Tomato paste and pasta sauce"
+        },
+        {
+          "text": "Canned tuna, salmon, or chicken"
+        },
+        {
+          "text": "Stock or broth, low-sodium if possible"
+        },
+        {
+          "text": "Coconut milk for curries and soups"
+        },
+        {
+          "text": "Canned corn, beans, or vegetables for quick sides"
+        }
+      ]
+    },
+    {
+      "title": "Oils, Vinegars and Condiments",
+      "items": [
+        {
+          "text": "Olive oil for cooking and dressings"
+        },
+        {
+          "text": "A neutral oil for high-heat cooking"
+        },
+        {
+          "text": "Vinegars: balsamic, white, and apple cider"
+        },
+        {
+          "text": "Soy sauce and hot sauce"
+        },
+        {
+          "text": "Ketchup, mustard, and mayonnaise"
+        },
+        {
+          "text": "Honey or maple syrup"
+        },
+        {
+          "text": "Peanut butter or another nut butter"
+        }
+      ]
+    },
+    {
+      "title": "Baking Supplies",
+      "items": [
+        {
+          "text": "Sugar, both white and brown"
+        },
+        {
+          "text": "Baking soda and baking powder"
+        },
+        {
+          "text": "Vanilla extract"
+        },
+        {
+          "text": "Cornstarch for thickening"
+        },
+        {
+          "text": "Yeast for bread baking"
+        },
+        {
+          "text": "Cocoa powder or chocolate chips"
+        }
+      ]
+    },
+    {
+      "title": "Spices and Seasonings",
+      "items": [
+        {
+          "text": "Salt and black peppercorns"
+        },
+        {
+          "text": "Garlic powder and onion powder"
+        },
+        {
+          "text": "Paprika and chili or cayenne"
+        },
+        {
+          "text": "Cumin and curry powder"
+        },
+        {
+          "text": "Dried oregano, basil, and thyme"
+        },
+        {
+          "text": "Cinnamon and ground ginger"
+        },
+        {
+          "text": "Bay leaves and a chili flake blend",
+          "note": "Buy whole spices when you can; they keep their flavor longer."
+        }
+      ]
+    },
+    {
+      "title": "Breakfast and Snacks",
+      "items": [
+        {
+          "text": "Cereal or granola"
+        },
+        {
+          "text": "Coffee and tea"
+        },
+        {
+          "text": "Crackers and rice cakes"
+        },
+        {
+          "text": "Nuts and dried fruit"
+        },
+        {
+          "text": "Jam, jelly, or fruit spread"
+        },
+        {
+          "text": "Shelf-stable or long-life milk"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What staples should I always keep in my pantry?",
+      "a": "Keep grains like rice and pasta, canned beans and tomatoes, cooking oils, basic baking supplies, a core set of spices, and everyday condiments. These combine into countless quick meals when fresh food is low."
+    },
+    {
+      "q": "How do I stock a pantry on a budget?",
+      "a": "Buy versatile staples in bulk, choose dried beans and grains for low cost per serving, and stock up on shelf-stable basics when they're on sale. Building up gradually spreads the expense."
+    },
+    {
+      "q": "How long do pantry staples last?",
+      "a": "Most dry goods and canned items keep for months to a year or more. Check best-by dates, store everything cool and dry in airtight containers, and rotate older items to the front so nothing gets forgotten."
+    },
+    {
+      "q": "Can I print this pantry essentials checklist?",
+      "a": "Yes. You can print the checklist or download it as a PDF, then use it to check your shelves and restock anything that's running low."
+    },
+    {
+      "q": "How is this different from a kitchen essentials list?",
+      "a": "This checklist covers staple foods to keep stocked, while a kitchen essentials list covers the tools and appliances you cook with. Use both to fully set up and supply a kitchen."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/pantry-essentials-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/pantry-essentials-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Pantry Essentials Checklist by ChecklistForge (https://checklistforge.com/checklist/pantry-essentials-checklist)",
+  "updated": "2026-10-17"
+}

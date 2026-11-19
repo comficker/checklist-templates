@@ -1,0 +1,165 @@
+{
+  "id": "daily-habits-checklist",
+  "name": "Daily Habits Checklist",
+  "description": "A full daily routine of good habits spanning health, focus, and productivity.",
+  "category": "self-care-wellness",
+  "category_name": "Self-Care & Wellness",
+  "tags": [
+    "routine",
+    "wellness",
+    "self-care",
+    "daily-habits"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Start the Day Right",
+      "items": [
+        {
+          "text": "Wake up at a consistent time",
+          "note": "A steady wake time anchors the rest of your day."
+        },
+        {
+          "text": "Drink a glass of water and eat a balanced breakfast"
+        },
+        {
+          "text": "Get daylight and a few minutes of movement"
+        },
+        {
+          "text": "Take a quiet moment to set your intention for the day"
+        },
+        {
+          "text": "Avoid diving into your phone first thing"
+        }
+      ]
+    },
+    {
+      "title": "Plan and Prioritize",
+      "items": [
+        {
+          "text": "Review your calendar and commitments for the day"
+        },
+        {
+          "text": "Choose your top one to three priorities"
+        },
+        {
+          "text": "Write a short, realistic to-do list"
+        },
+        {
+          "text": "Schedule a focused block for your most important task"
+        },
+        {
+          "text": "Note any deadlines so nothing slips through"
+        }
+      ]
+    },
+    {
+      "title": "Work With Focus",
+      "items": [
+        {
+          "text": "Tackle your most important task before distractions pile up"
+        },
+        {
+          "text": "Work in focused blocks and silence non-urgent notifications"
+        },
+        {
+          "text": "Take regular short breaks to stay fresh",
+          "note": "Brief breaks help sustain focus and reduce fatigue."
+        },
+        {
+          "text": "Batch small tasks like email instead of constant checking"
+        },
+        {
+          "text": "Tidy your workspace so it supports concentration"
+        }
+      ]
+    },
+    {
+      "title": "Care for Your Body",
+      "items": [
+        {
+          "text": "Drink water steadily throughout the day"
+        },
+        {
+          "text": "Eat regular, balanced meals and snacks"
+        },
+        {
+          "text": "Move or stretch every hour or two if you sit a lot"
+        },
+        {
+          "text": "Step outside for fresh air at some point"
+        },
+        {
+          "text": "Fit in some intentional movement or exercise"
+        }
+      ]
+    },
+    {
+      "title": "Connect and Recharge",
+      "items": [
+        {
+          "text": "Reach out to a friend, partner, or family member"
+        },
+        {
+          "text": "Take a real break away from screens at some point"
+        },
+        {
+          "text": "Spend a little time on a hobby or something you enjoy"
+        },
+        {
+          "text": "Practice a few minutes of mindfulness or deep breathing"
+        },
+        {
+          "text": "Note one thing you are grateful for today"
+        }
+      ]
+    },
+    {
+      "title": "Reset for Tomorrow",
+      "items": [
+        {
+          "text": "Do a quick 10-minute tidy of your main spaces"
+        },
+        {
+          "text": "Review what you finished and what to carry over"
+        },
+        {
+          "text": "Lay out clothes and prep essentials for tomorrow"
+        },
+        {
+          "text": "Unplug from screens before your wind-down"
+        },
+        {
+          "text": "Head to bed at a consistent time for enough sleep"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a good daily routine?",
+      "a": "A balanced daily routine usually includes a steady morning start, focused work blocks, regular movement and breaks, healthy meals and water, time to connect with others, and a calm evening wind-down. The best routine is one you can realistically repeat most days."
+    },
+    {
+      "q": "How is this different from a healthy habits checklist?",
+      "a": "A healthy habits list focuses on physical and mental wellbeing. This daily habits checklist is broader: it covers wellbeing plus productivity, including planning, focused work, and tidying, so your whole day flows well, not just your health."
+    },
+    {
+      "q": "How do I actually stick to daily habits?",
+      "a": "Keep the list short, attach new habits to things you already do, and put the checklist somewhere visible. Prepare the night before, track your progress, and be flexible on busy days. Restart without guilt whenever you slip."
+    },
+    {
+      "q": "Should I do every item every day?",
+      "a": "No. Treat it as a flexible menu rather than a strict checklist to perfect. On busy days, focus on the essentials like movement, meals, water, and your top priorities. Consistency over time matters more than a perfect day."
+    },
+    {
+      "q": "Can I print this daily habits checklist?",
+      "a": "Yes. This checklist is free to print and download as a PDF. Keep it on your desk or phone so you can tick off your daily habits and build a routine that keeps you healthy and focused."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/daily-habits-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/daily-habits-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Daily Habits Checklist by ChecklistForge (https://checklistforge.com/checklist/daily-habits-checklist)",
+  "updated": "2026-10-17"
+}

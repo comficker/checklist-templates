@@ -1,0 +1,173 @@
+{
+  "id": "boat-maintenance-checklist",
+  "name": "Boat Maintenance Checklist",
+  "description": "Routine boat upkeep covering the engine, hull, bilge, electrical and fuel systems, plus seasonal winterizing tasks.",
+  "category": "vehicles",
+  "category_name": "Vehicles",
+  "tags": [
+    "maintenance",
+    "vehicles",
+    "boat",
+    "boating"
+  ],
+  "item_count": 33,
+  "sections": [
+    {
+      "title": "Before Each Outing",
+      "items": [
+        {
+          "text": "Check engine oil and coolant levels"
+        },
+        {
+          "text": "Confirm the bilge pump and float switch work"
+        },
+        {
+          "text": "Inspect the propeller for dings or fishing line"
+        },
+        {
+          "text": "Check fuel level and look for leaks or fumes"
+        },
+        {
+          "text": "Test navigation lights and electronics"
+        }
+      ]
+    },
+    {
+      "title": "Engine & Drive",
+      "items": [
+        {
+          "text": "Change engine oil and filter per the service schedule"
+        },
+        {
+          "text": "Replace the water pump impeller at the recommended interval"
+        },
+        {
+          "text": "Change lower-unit gear oil and check for water intrusion"
+        },
+        {
+          "text": "Inspect belts, hoses and clamps for wear"
+        },
+        {
+          "text": "Service spark plugs and check the cooling system flow"
+        },
+        {
+          "text": "Flush the engine with fresh water after saltwater use"
+        }
+      ]
+    },
+    {
+      "title": "Hull & Exterior",
+      "items": [
+        {
+          "text": "Inspect the hull for cracks, blisters or damage"
+        },
+        {
+          "text": "Clean the hull and check antifouling paint condition"
+        },
+        {
+          "text": "Check sacrificial anodes and replace worn ones",
+          "note": "Anodes protect metal parts from galvanic corrosion"
+        },
+        {
+          "text": "Inspect through-hull fittings and seacocks"
+        },
+        {
+          "text": "Check cleats, rails and deck hardware are secure"
+        },
+        {
+          "text": "Wax gelcoat and protect fittings from corrosion"
+        }
+      ]
+    },
+    {
+      "title": "Bilge & Plumbing",
+      "items": [
+        {
+          "text": "Clean the bilge and remove oily residue"
+        },
+        {
+          "text": "Test the bilge pump and clear the strainer"
+        },
+        {
+          "text": "Check for any unexplained water entering the boat"
+        },
+        {
+          "text": "Inspect freshwater and waste system hoses"
+        },
+        {
+          "text": "Confirm the drain plug seals correctly"
+        }
+      ]
+    },
+    {
+      "title": "Electrical & Fuel",
+      "items": [
+        {
+          "text": "Check battery charge and clean the terminals"
+        },
+        {
+          "text": "Inspect wiring for chafing, corrosion or loose connections"
+        },
+        {
+          "text": "Test all lights, gauges and electronics"
+        },
+        {
+          "text": "Inspect the fuel system for leaks and replace the filter"
+        },
+        {
+          "text": "Check fuel hoses, fittings and the tank vent"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal & Winterizing",
+      "items": [
+        {
+          "text": "Add fuel stabilizer or manage fuel per the manual"
+        },
+        {
+          "text": "Fog the engine to protect internal parts"
+        },
+        {
+          "text": "Drain cooling and water systems to prevent freezing"
+        },
+        {
+          "text": "Charge or remove the battery for storage"
+        },
+        {
+          "text": "Clean, dry and cover the boat for the off-season"
+        },
+        {
+          "text": "Inspect the trailer tires, bearings and lights if applicable"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I service my boat engine?",
+      "a": "Follow the engine manufacturer's schedule, which is usually based on engine hours and time. Common items include oil and filter changes, lower-unit gear oil, impeller and spark plug replacement, with severe or saltwater use shortening the intervals."
+    },
+    {
+      "q": "Why is the bilge so important?",
+      "a": "The bilge collects water that gets into the boat, so a working bilge pump and float switch help keep the vessel afloat. Keep the bilge clean and dry, check the pump regularly and look for any unexplained water that could signal a leak."
+    },
+    {
+      "q": "How do I protect against corrosion?",
+      "a": "Rinse with fresh water after saltwater trips, check sacrificial anodes and replace them when worn, and keep electrical connections clean and protected. Inspect through-hulls, fittings and the hull for corrosion or galvanic damage regularly."
+    },
+    {
+      "q": "What does winterizing involve?",
+      "a": "Winterizing typically means stabilizing or draining fuel, fogging the engine, draining and protecting cooling and water systems from freezing, charging or removing the battery, and covering the boat. Follow your manuals, as steps vary by engine and climate."
+    },
+    {
+      "q": "Can I print this boat maintenance checklist?",
+      "a": "Yes. Print it or download the PDF so you can keep it aboard or in the shed and log the date and engine hours each time you complete maintenance."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/boat-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/boat-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Boat Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/boat-maintenance-checklist)",
+  "updated": "2026-10-17"
+}

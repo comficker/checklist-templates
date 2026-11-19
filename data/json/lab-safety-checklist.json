@@ -1,0 +1,160 @@
+{
+  "id": "lab-safety-checklist",
+  "name": "Lab Safety Checklist",
+  "description": "A science lab safety checklist covering PPE, chemicals, equipment and emergencies.",
+  "category": "school-operations",
+  "category_name": "School Operations",
+  "tags": [
+    "ppe",
+    "teachers",
+    "lab-safety",
+    "science-lab",
+    "chemical-safety"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Personal protective equipment",
+      "items": [
+        {
+          "text": "Confirm enough safety goggles for every student."
+        },
+        {
+          "text": "Provide lab coats or aprons in working condition."
+        },
+        {
+          "text": "Stock gloves suited to the materials in use."
+        },
+        {
+          "text": "Require closed-toe shoes and tied-back hair."
+        },
+        {
+          "text": "Check goggles and gloves for damage before use."
+        },
+        {
+          "text": "Demonstrate correct fit and removal of PPE."
+        }
+      ]
+    },
+    {
+      "title": "Chemical handling and storage",
+      "items": [
+        {
+          "text": "Confirm all chemicals are labeled clearly."
+        },
+        {
+          "text": "Store reactive chemicals separated by compatibility.",
+          "note": "Never store incompatible substances together."
+        },
+        {
+          "text": "Keep chemicals locked and away from students."
+        },
+        {
+          "text": "Maintain a current chemical inventory."
+        },
+        {
+          "text": "Keep safety data sheets accessible in the lab."
+        },
+        {
+          "text": "Provide proper disposal containers for waste."
+        }
+      ]
+    },
+    {
+      "title": "Equipment and apparatus",
+      "items": [
+        {
+          "text": "Inspect glassware for cracks and chips."
+        },
+        {
+          "text": "Test burners, hot plates and heat sources."
+        },
+        {
+          "text": "Check the fume hood is working and airflow is clear."
+        },
+        {
+          "text": "Confirm electrical equipment and cords are safe."
+        },
+        {
+          "text": "Verify gas valves shut off fully."
+        },
+        {
+          "text": "Keep work surfaces clean and uncluttered."
+        }
+      ]
+    },
+    {
+      "title": "Emergency preparedness",
+      "items": [
+        {
+          "text": "Test the eyewash station and safety shower."
+        },
+        {
+          "text": "Confirm the fire extinguisher is charged and accessible."
+        },
+        {
+          "text": "Keep a fire blanket within easy reach."
+        },
+        {
+          "text": "Stock and check the first-aid kit."
+        },
+        {
+          "text": "Keep exits and emergency paths clear."
+        },
+        {
+          "text": "Post emergency procedures and contact numbers."
+        }
+      ]
+    },
+    {
+      "title": "Student conduct rules",
+      "items": [
+        {
+          "text": "Brief students on safety rules before each session."
+        },
+        {
+          "text": "Review hazards specific to the day's experiment."
+        },
+        {
+          "text": "Prohibit eating, drinking and horseplay in the lab."
+        },
+        {
+          "text": "Require following written and verbal procedures."
+        },
+        {
+          "text": "Collect signed student safety agreements."
+        },
+        {
+          "text": "Confirm students know where safety equipment is."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What PPE is required in a science lab?",
+      "a": "Standard protective equipment includes safety goggles, lab coats or aprons, and gloves suited to the materials in use. Closed-toe shoes and tied-back hair are also essential. The right PPE depends on the experiment, so match it to the specific hazards involved."
+    },
+    {
+      "q": "How should lab chemicals be stored?",
+      "a": "Store chemicals in labeled, sealed containers, separated by compatibility so reactive substances are not stored together. Keep them in a locked cabinet away from students, maintain an inventory, and keep safety data sheets accessible for every chemical on hand."
+    },
+    {
+      "q": "What emergency equipment should every lab have?",
+      "a": "Each lab needs an accessible eyewash station and safety shower, a fire extinguisher and fire blanket, a first-aid kit, and a clear path to exits. Test these regularly and make sure both staff and students know exactly where they are."
+    },
+    {
+      "q": "How do I prepare students for lab safety?",
+      "a": "Brief students on rules before any practical work, cover hazards specific to the experiment, demonstrate correct technique, and confirm they know emergency procedures. Require signed safety agreements at the start of the term and reinforce conduct rules every session."
+    },
+    {
+      "q": "Is this lab safety checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF to post in the lab for teachers and technicians, then tick off each item before class to confirm the room is safe for students."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/lab-safety-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/lab-safety-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Lab Safety Checklist by ChecklistForge (https://checklistforge.com/checklist/lab-safety-checklist)",
+  "updated": "2026-10-17"
+}

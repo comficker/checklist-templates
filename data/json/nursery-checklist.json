@@ -1,0 +1,209 @@
+{
+  "id": "nursery-checklist",
+  "name": "Nursery Checklist",
+  "description": "A room-by-room guide to setting up a safe, functional, and cozy nursery for your new baby.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "home-setup",
+    "nursery",
+    "baby-room",
+    "sleep-safety"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Plan the Layout",
+      "items": [
+        {
+          "text": "Measure the room and sketch a layout before buying furniture."
+        },
+        {
+          "text": "Choose a calm color palette or theme to guide your choices."
+        },
+        {
+          "text": "Map out zones for sleeping, changing, feeding, and storage."
+        },
+        {
+          "text": "Keep the crib away from windows, cords, and heat sources."
+        },
+        {
+          "text": "Plan clear walking paths so you can move easily in the dark.",
+          "note": "Leave room to open drawers and doors fully without obstruction."
+        },
+        {
+          "text": "Decide what is essential now versus what can be added later."
+        }
+      ]
+    },
+    {
+      "title": "Furniture Essentials",
+      "items": [
+        {
+          "text": "Choose a crib or bassinet that meets current safety standards."
+        },
+        {
+          "text": "Add a dresser or shelving for clothes and supplies."
+        },
+        {
+          "text": "Set up a sturdy changing station at a comfortable height."
+        },
+        {
+          "text": "Include a comfortable chair or glider for feeding."
+        },
+        {
+          "text": "Anchor tall furniture to the wall to prevent tipping.",
+          "note": "Use anti-tip straps on dressers and bookcases."
+        },
+        {
+          "text": "Assemble all furniture carefully and check that it is stable."
+        }
+      ]
+    },
+    {
+      "title": "Safe Sleep Setup",
+      "items": [
+        {
+          "text": "Use a firm, flat mattress that fits the crib snugly."
+        },
+        {
+          "text": "Dress the crib with a fitted sheet and keep it otherwise bare."
+        },
+        {
+          "text": "Remove pillows, blankets, bumpers, and stuffed toys from the crib."
+        },
+        {
+          "text": "Install a baby monitor if the nursery is in another room."
+        },
+        {
+          "text": "Keep cords from blinds and electronics out of reach."
+        },
+        {
+          "text": "Review current safe sleep guidelines and follow them every time."
+        }
+      ]
+    },
+    {
+      "title": "Storage and Organization",
+      "items": [
+        {
+          "text": "Sort and fold clothes by size so the next stage is easy to find."
+        },
+        {
+          "text": "Use labeled bins or baskets for diapers, wipes, and supplies."
+        },
+        {
+          "text": "Keep changing essentials within arm's reach of the table."
+        },
+        {
+          "text": "Set up a hamper for the steady stream of laundry."
+        },
+        {
+          "text": "Store rarely used items higher up and daily items low.",
+          "note": "Keep small objects and hazards well out of reach."
+        },
+        {
+          "text": "Leave a little empty space for gifts and growing supplies."
+        }
+      ]
+    },
+    {
+      "title": "Lighting and Climate",
+      "items": [
+        {
+          "text": "Add blackout curtains or shades to help with daytime naps."
+        },
+        {
+          "text": "Set up soft, dimmable lighting for nighttime feeds and changes."
+        },
+        {
+          "text": "Place a small night-light for low-glare visibility."
+        },
+        {
+          "text": "Keep the room at a comfortable, moderate temperature."
+        },
+        {
+          "text": "Add a room thermometer to monitor warmth.",
+          "note": "Aim for cool over warm and dress your baby in light layers."
+        },
+        {
+          "text": "Consider an air filter or humidifier if your space needs it."
+        }
+      ]
+    },
+    {
+      "title": "Decor and Comfort",
+      "items": [
+        {
+          "text": "Hang wall art or shelves securely and out of crib reach."
+        },
+        {
+          "text": "Add a soft, washable rug for floor time and comfort."
+        },
+        {
+          "text": "Choose calming, simple decor that grows with your baby."
+        },
+        {
+          "text": "Set up a cozy reading corner for quiet moments together."
+        },
+        {
+          "text": "Secure any heavy frames or shelves to the wall."
+        },
+        {
+          "text": "Keep decorations minimal near the crib for safety."
+        }
+      ]
+    },
+    {
+      "title": "Stock the Supplies",
+      "items": [
+        {
+          "text": "Stock diapers and wipes in the smallest size and the next size up."
+        },
+        {
+          "text": "Keep a gentle diaper cream and clean changing pad covers ready."
+        },
+        {
+          "text": "Fill a drawer with bodysuits, sleepers, socks, and swaddles."
+        },
+        {
+          "text": "Add burp cloths, bibs, and a few soft blankets for awake time."
+        },
+        {
+          "text": "Keep a basket of feeding supplies near the chair."
+        },
+        {
+          "text": "Restock essentials before they run low to avoid late errands.",
+          "note": "Do a quick weekly check of diapers and wipes."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I set up the nursery?",
+      "a": "Many parents finish the nursery a few weeks to a month before the due date. Tackle painting and big furniture early so paint can air out and assembly is done without rushing. Save supply stocking and final touches for closer to your due date, when you have a clearer sense of what you need."
+    },
+    {
+      "q": "What furniture does a nursery really need?",
+      "a": "The essentials are a safe crib or bassinet, a spot to change diapers, and somewhere comfortable to feed. Storage like a dresser or shelves keeps clothes and supplies organized. A rocker or glider is nice but optional. Start with the basics and add extras only if your space and budget allow."
+    },
+    {
+      "q": "How do I make the crib safe for sleep?",
+      "a": "Use a firm, flat mattress that fits snugly with a fitted sheet, and keep the crib bare. Skip pillows, blankets, bumpers, and stuffed toys, which are not safe for sleep. Place the crib away from windows, cords, and heaters. Follow current safety guidelines and your pediatrician's recommendations closely."
+    },
+    {
+      "q": "What is the ideal temperature for a nursery?",
+      "a": "A comfortable, moderate room temperature works best, generally cool rather than warm. Dress your baby in light layers suited to the room and avoid overheating. A simple room thermometer helps you monitor it. If you are unsure how to dress your baby for sleep, ask your pediatrician for guidance."
+    },
+    {
+      "q": "How can I set up a nursery on a budget?",
+      "a": "Focus your spending on safety items like the crib and mattress, and look for gently used or hand-me-down furniture for the rest. Always check that any used gear meets current safety standards and has no recalls. Skip trendy extras, and add decor gradually instead of buying everything at once."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/nursery-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/nursery-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Nursery Checklist by ChecklistForge (https://checklistforge.com/checklist/nursery-checklist)",
+  "updated": "2026-10-17"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "vaccination-travel-checklist",
+  "name": "Travel Vaccination Checklist",
+  "description": "A checklist for planning travel vaccines and their timing, from destination requirements to a travel clinic visit.",
+  "category": "health-medical",
+  "category_name": "Health & Medical",
+  "tags": [
+    "health",
+    "medical",
+    "travel",
+    "vaccination"
+  ],
+  "item_count": 26,
+  "sections": [
+    {
+      "title": "Research Your Destination",
+      "items": [
+        {
+          "text": "Check official destination health requirements"
+        },
+        {
+          "text": "Review recommended vaccines for the region"
+        },
+        {
+          "text": "Note any required vaccines for entry"
+        },
+        {
+          "text": "Consider your activities and length of stay"
+        },
+        {
+          "text": "Check guidance for rural or remote areas you will visit",
+          "note": "Use official sources such as the CDC for destination guidance"
+        }
+      ]
+    },
+    {
+      "title": "Visit a Travel Clinic Early",
+      "items": [
+        {
+          "text": "Book an appointment four to six weeks ahead"
+        },
+        {
+          "text": "Bring your full vaccination history"
+        },
+        {
+          "text": "Discuss your itinerary and planned activities"
+        },
+        {
+          "text": "Ask which vaccines you need and their timing"
+        },
+        {
+          "text": "Plan for any vaccines given in a series"
+        }
+      ]
+    },
+    {
+      "title": "Routine Vaccines",
+      "items": [
+        {
+          "text": "Confirm your routine immunizations are up to date"
+        },
+        {
+          "text": "Check whether any boosters are due"
+        },
+        {
+          "text": "Note your most recent tetanus booster"
+        },
+        {
+          "text": "Confirm any childhood vaccines are complete"
+        },
+        {
+          "text": "Ask the clinic to fill any gaps before you travel"
+        }
+      ]
+    },
+    {
+      "title": "Recommended Travel Vaccines",
+      "items": [
+        {
+          "text": "Review travel vaccines suggested for your destination"
+        },
+        {
+          "text": "Confirm timing so they take effect before departure"
+        },
+        {
+          "text": "Schedule any multi-dose vaccines early enough"
+        },
+        {
+          "text": "Ask about preventive medicines if relevant"
+        },
+        {
+          "text": "Note any side effects to expect",
+          "note": "Your travel clinic will confirm which vaccines apply to you"
+        }
+      ]
+    },
+    {
+      "title": "Records and Final Steps",
+      "items": [
+        {
+          "text": "Collect updated vaccination records and certificates"
+        },
+        {
+          "text": "Carry records with your travel documents"
+        },
+        {
+          "text": "Keep a digital copy on your phone"
+        },
+        {
+          "text": "Confirm timing of any final doses before you fly"
+        },
+        {
+          "text": "Note the location of clinics at your destination"
+        }
+      ]
+    },
+    {
+      "title": "Important",
+      "items": [
+        {
+          "text": "This checklist is general information only and is not medical advice; for the vaccines you need and their timing, consult a doctor or travel clinic and official sources such as the CDC, and follow their guidance",
+          "note": "Requirements and recommendations change, so confirm close to your trip"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should I get travel vaccines?",
+      "a": "Plan to visit a travel clinic about four to six weeks before departure, since some vaccines need time to take effect or come in a series. Starting early gives you room to complete any needed doses."
+    },
+    {
+      "q": "How do I know which travel vaccines I need?",
+      "a": "It depends on your destination, activities, length of stay, and health. Check official sources like the CDC for destination guidance, then confirm with a doctor or travel clinic which vaccines are right for you."
+    },
+    {
+      "q": "What is the difference between required and recommended vaccines?",
+      "a": "Some countries require proof of certain vaccines for entry, while others are recommended to protect your health. A travel clinic can explain which apply to your trip and provide any required certificates."
+    },
+    {
+      "q": "Should I carry my vaccination records when traveling?",
+      "a": "Yes. Carry your vaccination records, including any required certificates, with your travel documents. Keep a copy in your phone too, in case you need to show proof at a border or clinic."
+    },
+    {
+      "q": "Is this travel vaccination checklist printable?",
+      "a": "Yes. Print it or download the PDF, start it early, and use it to track your travel clinic visit, vaccine timing, and records before you leave."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/vaccination-travel-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/vaccination-travel-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Travel Vaccination Checklist by ChecklistForge (https://checklistforge.com/checklist/vaccination-travel-checklist)",
+  "updated": "2026-10-17"
+}

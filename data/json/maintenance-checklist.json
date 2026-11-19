@@ -1,0 +1,185 @@
+{
+  "id": "maintenance-checklist",
+  "name": "Maintenance Checklist",
+  "description": "A general maintenance checklist for keeping facilities and equipment in safe working order.",
+  "category": "maintenance-quality",
+  "category_name": "Maintenance & Quality",
+  "tags": [
+    "maintenance",
+    "inspection",
+    "facility",
+    "equipment"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Plan and prepare",
+      "items": [
+        {
+          "text": "List the buildings, systems and equipment that need maintenance."
+        },
+        {
+          "text": "Set the inspection frequency for each asset.",
+          "note": "Follow manufacturer intervals and your organization's procedures."
+        },
+        {
+          "text": "Gather manuals, service histories and asset records."
+        },
+        {
+          "text": "Confirm spare parts, consumables and tools are in stock."
+        },
+        {
+          "text": "Assign tasks to qualified staff or contractors."
+        },
+        {
+          "text": "Review safety requirements and permits before starting."
+        }
+      ]
+    },
+    {
+      "title": "Safety and lockout",
+      "items": [
+        {
+          "text": "Wear the required personal protective equipment."
+        },
+        {
+          "text": "Isolate energy sources and apply lockout/tagout before work."
+        },
+        {
+          "text": "Verify equipment is fully de-energized before servicing."
+        },
+        {
+          "text": "Check emergency stops, guards and interlocks operate correctly."
+        },
+        {
+          "text": "Test fire alarms, extinguishers and emergency lighting."
+        },
+        {
+          "text": "Confirm first aid kits and spill kits are stocked and accessible."
+        }
+      ]
+    },
+    {
+      "title": "Equipment and machinery",
+      "items": [
+        {
+          "text": "Inspect machines for wear, damage, leaks and corrosion."
+        },
+        {
+          "text": "Check belts, chains, bearings and moving parts for wear."
+        },
+        {
+          "text": "Lubricate components per the manufacturer's schedule."
+        },
+        {
+          "text": "Clean filters, vents and cooling systems."
+        },
+        {
+          "text": "Check fluid levels and top up or replace as needed."
+        },
+        {
+          "text": "Test equipment under normal operating conditions."
+        },
+        {
+          "text": "Calibrate instruments and gauges where required."
+        }
+      ]
+    },
+    {
+      "title": "Building and grounds",
+      "items": [
+        {
+          "text": "Inspect roofs, walls, doors and windows for damage."
+        },
+        {
+          "text": "Check floors, stairs and walkways for trip and slip hazards."
+        },
+        {
+          "text": "Test lighting and replace failed lamps."
+        },
+        {
+          "text": "Inspect plumbing for leaks and check water systems."
+        },
+        {
+          "text": "Check HVAC operation and replace air filters."
+        },
+        {
+          "text": "Keep entrances, exits and grounds clear and well maintained."
+        }
+      ]
+    },
+    {
+      "title": "Electrical and utilities",
+      "items": [
+        {
+          "text": "Inspect electrical panels, cables and outlets for damage."
+        },
+        {
+          "text": "Check for overheating, loose connections or burning smells."
+        },
+        {
+          "text": "Test backup generators and uninterruptible power supplies."
+        },
+        {
+          "text": "Verify metering and monitoring systems are working."
+        },
+        {
+          "text": "Inspect compressed air, gas and water utilities for leaks."
+        },
+        {
+          "text": "Confirm only qualified electricians work on live systems."
+        }
+      ]
+    },
+    {
+      "title": "Records and follow-up",
+      "items": [
+        {
+          "text": "Record each task, the date and who completed it."
+        },
+        {
+          "text": "Log any faults, readings and parts replaced."
+        },
+        {
+          "text": "Raise work orders for repairs that cannot be done immediately."
+        },
+        {
+          "text": "Track recurring issues to plan replacements or upgrades."
+        },
+        {
+          "text": "Update service histories and asset records."
+        },
+        {
+          "text": "Review the maintenance schedule and adjust intervals as needed."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is a maintenance checklist?",
+      "a": "It is a structured list of routine tasks for keeping a facility and its equipment safe and reliable, covering inspections, cleaning, lubrication, safety checks and repairs so nothing is overlooked between service intervals."
+    },
+    {
+      "q": "How often should maintenance tasks be done?",
+      "a": "It depends on the asset and how hard it works. Group tasks into daily, weekly, monthly and annual routines, and follow the intervals in the manufacturer's manual and your organization's procedures."
+    },
+    {
+      "q": "Who should use this checklist?",
+      "a": "Facility managers, maintenance technicians and equipment operators. It works as a shared routine so anyone on shift can complete and sign off the same standard checks."
+    },
+    {
+      "q": "What is the difference between this and a preventive maintenance checklist?",
+      "a": "This is a general upkeep routine for day-to-day reliability. A preventive maintenance checklist is a scheduled program of planned tasks tied to specific assets, intervals and records, often managed in a CMMS."
+    },
+    {
+      "q": "Is this available as a printable PDF?",
+      "a": "Yes. Print the maintenance checklist for the maintenance room or clipboard, or download the PDF to log completed tasks, note issues and keep signed records on file."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/maintenance-checklist)",
+  "updated": "2026-10-18"
+}

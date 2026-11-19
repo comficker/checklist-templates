@@ -1,0 +1,171 @@
+{
+  "id": "moving-day-checklist",
+  "name": "Moving Day Checklist",
+  "description": "What to do on moving day, hour by hour, from morning prep to handing over the keys.",
+  "category": "moving-relocation",
+  "category_name": "Moving & Relocation",
+  "tags": [
+    "moving",
+    "moving-day",
+    "move-out",
+    "movers"
+  ],
+  "item_count": 32,
+  "sections": [
+    {
+      "title": "Early Morning Prep",
+      "items": [
+        {
+          "text": "Wake up early, eat a real breakfast and dress in comfortable clothes"
+        },
+        {
+          "text": "Charge your phone and pack a portable charger"
+        },
+        {
+          "text": "Set aside your essentials box and load it into your own car"
+        },
+        {
+          "text": "Strip the beds and finish packing any last bags"
+        },
+        {
+          "text": "Clear a wide, unobstructed path from each room to the front door"
+        },
+        {
+          "text": "Confirm the arrival time and address with your movers",
+          "note": "Have their phone number saved in case of delays"
+        }
+      ]
+    },
+    {
+      "title": "Keep With You, Not on the Truck",
+      "items": [
+        {
+          "text": "Medications, prescriptions and a small first-aid kit"
+        },
+        {
+          "text": "Important documents, IDs and the lease or closing papers"
+        },
+        {
+          "text": "Cash, jewelry and small valuables"
+        },
+        {
+          "text": "Phone chargers, keys and a change of clothes"
+        },
+        {
+          "text": "Snacks, water and basic toiletries"
+        }
+      ]
+    },
+    {
+      "title": "As the Movers Load",
+      "items": [
+        {
+          "text": "Walk the crew through the home and point out fragile items"
+        },
+        {
+          "text": "Confirm which boxes and furniture are NOT going"
+        },
+        {
+          "text": "Keep boxes labeled by room so they unload to the right place"
+        },
+        {
+          "text": "Stay reachable to answer questions and supervise"
+        },
+        {
+          "text": "Protect floors and doorways from scratches and scuffs"
+        },
+        {
+          "text": "Do a quick inventory count as items go onto the truck"
+        }
+      ]
+    },
+    {
+      "title": "Final Walkthrough & Lock-Up",
+      "items": [
+        {
+          "text": "Open every closet, cabinet, drawer and the dishwasher"
+        },
+        {
+          "text": "Check the attic, basement, garage and behind every door"
+        },
+        {
+          "text": "Take final readings of the gas, electric and water meters",
+          "note": "Photograph each meter with the date as proof for final bills"
+        },
+        {
+          "text": "Turn off lights, lock windows and shut off the water if instructed"
+        },
+        {
+          "text": "Take photos of the empty, clean home for your records"
+        },
+        {
+          "text": "Leave keys, remotes and manuals for the new occupants or agent"
+        }
+      ]
+    },
+    {
+      "title": "Arrival at the New Home",
+      "items": [
+        {
+          "text": "Do a quick walkthrough and note any pre-existing damage with photos"
+        },
+        {
+          "text": "Confirm utilities are on and take starting meter readings"
+        },
+        {
+          "text": "Decide where large furniture goes before it comes off the truck"
+        },
+        {
+          "text": "Direct movers to place each box in its labeled room"
+        },
+        {
+          "text": "Check the inventory as items come off the truck"
+        }
+      ]
+    },
+    {
+      "title": "Wrap Up the Day",
+      "items": [
+        {
+          "text": "Inspect items for damage before the movers leave"
+        },
+        {
+          "text": "Tip the crew and sign off on the delivery paperwork"
+        },
+        {
+          "text": "Set up the beds and locate the bathroom and kitchen boxes"
+        },
+        {
+          "text": "Order food and take a break — you do not have to unpack it all today"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I do first on moving day?",
+      "a": "Get up early, eat, and set aside the box of essentials you will keep with you. Charge your phone, confirm the arrival time with your movers, and clear a path to the door before the truck arrives."
+    },
+    {
+      "q": "What should I keep with me and not load on the truck?",
+      "a": "Keep medications, important documents, valuables, chargers, snacks, water, a change of clothes, basic toiletries and your essentials box in your own vehicle, not on the moving truck."
+    },
+    {
+      "q": "What should I check in the final walkthrough?",
+      "a": "Open every closet, cabinet and drawer, check the attic, garage, basement and behind doors, take meter readings, turn off lights and water, and confirm nothing is left behind before you lock up."
+    },
+    {
+      "q": "Should I tip the movers?",
+      "a": "Tipping is customary if the crew did a good job. A common guideline is a set amount per mover based on the length and difficulty of the job; have cash ready before they finish."
+    },
+    {
+      "q": "Is this moving day checklist printable?",
+      "a": "Yes. Print it or download the PDF and follow it hour by hour through the day."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/moving-day-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/moving-day-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Moving Day Checklist by ChecklistForge (https://checklistforge.com/checklist/moving-day-checklist)",
+  "updated": "2026-10-17"
+}

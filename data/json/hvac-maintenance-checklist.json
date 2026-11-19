@@ -1,0 +1,167 @@
+{
+  "id": "hvac-maintenance-checklist",
+  "name": "HVAC Maintenance Checklist",
+  "description": "An HVAC maintenance checklist covering filters, coils, thermostat and professional service.",
+  "category": "home-maintenance",
+  "category_name": "Home Maintenance",
+  "tags": [
+    "home-maintenance",
+    "homeowner",
+    "hvac",
+    "heating",
+    "cooling"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Air Filters",
+      "items": [
+        {
+          "text": "Check the air filter monthly and replace it when dirty",
+          "note": "Replace 1-inch filters at least every 90 days"
+        },
+        {
+          "text": "Match the filter size and MERV rating to your system"
+        },
+        {
+          "text": "Replace filters more often with pets, allergies or smoke"
+        },
+        {
+          "text": "Keep spare filters on hand so you never delay a change"
+        },
+        {
+          "text": "Write the install date on the filter frame to track changes"
+        }
+      ]
+    },
+    {
+      "title": "Outdoor Condenser Unit",
+      "items": [
+        {
+          "text": "Clear leaves, grass and debris from around the unit"
+        },
+        {
+          "text": "Keep at least two feet of clearance on all sides"
+        },
+        {
+          "text": "Gently rinse the condenser fins with a hose",
+          "note": "Turn off power at the disconnect before cleaning"
+        },
+        {
+          "text": "Straighten bent fins carefully with a fin comb"
+        },
+        {
+          "text": "Check that the unit sits level on its pad"
+        }
+      ]
+    },
+    {
+      "title": "Indoor Unit & Coils",
+      "items": [
+        {
+          "text": "Vacuum dust from the blower compartment when power is off"
+        },
+        {
+          "text": "Check the evaporator coil for dirt and have a pro clean if needed"
+        },
+        {
+          "text": "Clear the condensate drain line and pan of clogs and slime"
+        },
+        {
+          "text": "Inspect the drain pan for standing water or rust"
+        },
+        {
+          "text": "Listen for unusual rattles, squeals or grinding noises"
+        }
+      ]
+    },
+    {
+      "title": "Thermostat & Controls",
+      "items": [
+        {
+          "text": "Test heating and cooling modes for correct response"
+        },
+        {
+          "text": "Replace thermostat batteries once a year"
+        },
+        {
+          "text": "Program schedules to cut runtime when you're away or asleep"
+        },
+        {
+          "text": "Confirm the displayed temperature matches a separate thermometer"
+        },
+        {
+          "text": "Update settings each season for heating or cooling"
+        }
+      ]
+    },
+    {
+      "title": "Vents & Ductwork",
+      "items": [
+        {
+          "text": "Keep supply and return vents clear of furniture and rugs"
+        },
+        {
+          "text": "Vacuum dust from registers and grilles"
+        },
+        {
+          "text": "Check accessible ducts for gaps, leaks or loose connections"
+        },
+        {
+          "text": "Seal small duct leaks with mastic or foil tape, not cloth duct tape"
+        },
+        {
+          "text": "Consider a professional duct inspection every few years"
+        }
+      ]
+    },
+    {
+      "title": "Professional Service",
+      "items": [
+        {
+          "text": "Book a cooling tune-up in spring and a heating tune-up in fall"
+        },
+        {
+          "text": "Have the technician check refrigerant levels and pressures"
+        },
+        {
+          "text": "Ask them to inspect electrical connections and tighten as needed"
+        },
+        {
+          "text": "Have the heat exchanger inspected for cracks on gas furnaces",
+          "note": "A cracked heat exchanger can leak carbon monoxide"
+        },
+        {
+          "text": "Keep service records to track repairs and warranty coverage"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should I service my HVAC system?",
+      "a": "Schedule professional service twice a year — heating in fall and cooling in spring — and check or replace the air filter monthly during heavy use to keep airflow strong and efficiency high."
+    },
+    {
+      "q": "Can I download this HVAC checklist as a PDF?",
+      "a": "Yes. You can print this HVAC maintenance checklist or download it as a PDF and keep it near the furnace so monthly and seasonal tasks are easy to track."
+    },
+    {
+      "q": "How often should I change my HVAC filter?",
+      "a": "Check 1-inch filters monthly and replace them at least every 90 days, or more often with pets, allergies or heavy use. A clean filter protects the system and lowers energy use."
+    },
+    {
+      "q": "What HVAC tasks should a professional handle?",
+      "a": "Leave refrigerant charging, electrical connections, gas components, and sealed-system repairs to a licensed HVAC technician. These involve safety hazards and specialized tools beyond routine DIY upkeep."
+    },
+    {
+      "q": "Why does HVAC maintenance save money?",
+      "a": "A clean, tuned system uses less energy, cools and heats faster, and lasts longer. Regular service also catches small issues early, before they become expensive emergency repairs."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/hvac-maintenance-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/hvac-maintenance-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "HVAC Maintenance Checklist by ChecklistForge (https://checklistforge.com/checklist/hvac-maintenance-checklist)",
+  "updated": "2026-10-18"
+}

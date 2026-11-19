@@ -1,0 +1,188 @@
+{
+  "id": "airbnb-cleaning-checklist",
+  "name": "Airbnb Cleaning Checklist",
+  "description": "A short-term rental turnover checklist for hosts to reset, restock, and inspect between guests.",
+  "category": "cleaning",
+  "category_name": "Cleaning",
+  "tags": [
+    "cleaning",
+    "airbnb",
+    "turnover",
+    "routine"
+  ],
+  "item_count": 38,
+  "sections": [
+    {
+      "title": "Arrival and Laundry First",
+      "items": [
+        {
+          "text": "Open windows to air out the space and check for odors"
+        },
+        {
+          "text": "Strip all beds and start washing sheets and pillowcases immediately",
+          "note": "Starting laundry first means it finishes while you clean the rest."
+        },
+        {
+          "text": "Gather all used towels and start a second load"
+        },
+        {
+          "text": "Collect all trash and recycling from every room"
+        },
+        {
+          "text": "Check for items left behind by the previous guest"
+        },
+        {
+          "text": "Note any damage or missing items right away"
+        }
+      ]
+    },
+    {
+      "title": "Kitchen Reset",
+      "items": [
+        {
+          "text": "Wash, dry, and put away all dishes, or run and empty the dishwasher"
+        },
+        {
+          "text": "Wipe down counters, the stovetop, and the backsplash"
+        },
+        {
+          "text": "Clean the microwave, coffee maker, and small appliances"
+        },
+        {
+          "text": "Empty the fridge of guest leftovers and wipe the shelves"
+        },
+        {
+          "text": "Scrub the sink and disinfect the faucet"
+        },
+        {
+          "text": "Check coffee, tea, and pantry staples and restock as needed"
+        },
+        {
+          "text": "Sweep and mop the floor"
+        }
+      ]
+    },
+    {
+      "title": "Bathroom Reset",
+      "items": [
+        {
+          "text": "Scrub and disinfect the toilet, shower, tub, and sink"
+        },
+        {
+          "text": "Clean the mirror and polish the fixtures"
+        },
+        {
+          "text": "Hang fresh, neatly folded towels and a bath mat"
+        },
+        {
+          "text": "Restock toilet paper, soap, shampoo, and conditioner"
+        },
+        {
+          "text": "Empty the bin and add a fresh liner"
+        },
+        {
+          "text": "Mop the floor and check for any mildew"
+        }
+      ]
+    },
+    {
+      "title": "Bedrooms and Living Areas",
+      "items": [
+        {
+          "text": "Make beds with fresh, wrinkle-free linens"
+        },
+        {
+          "text": "Dust surfaces, shelves, and decor"
+        },
+        {
+          "text": "Wipe down light switches, handles, and remotes"
+        },
+        {
+          "text": "Fluff cushions, fold throws, and stage the living space"
+        },
+        {
+          "text": "Clean mirrors, glass, and TV screens"
+        },
+        {
+          "text": "Test the TV, remote, and Wi-Fi work for the next guest"
+        },
+        {
+          "text": "Vacuum carpets and mop hard floors"
+        }
+      ]
+    },
+    {
+      "title": "Restock and Amenities",
+      "items": [
+        {
+          "text": "Restock paper towels, dish soap, and trash bags"
+        },
+        {
+          "text": "Replenish welcome amenities like coffee, snacks, or water"
+        },
+        {
+          "text": "Refill hand soap in every bathroom and the kitchen"
+        },
+        {
+          "text": "Check that the welcome guide and house rules are in place"
+        },
+        {
+          "text": "Confirm spare linens and towels are stocked"
+        },
+        {
+          "text": "Replace any burnt-out light bulbs"
+        }
+      ]
+    },
+    {
+      "title": "Final Inspection and Staging",
+      "items": [
+        {
+          "text": "Do a top-to-bottom walkthrough of every room"
+        },
+        {
+          "text": "Check that all surfaces are clean and floors are spotless"
+        },
+        {
+          "text": "Stage beds, towels, and living areas to look photo-ready"
+        },
+        {
+          "text": "Set the thermostat to a comfortable temperature"
+        },
+        {
+          "text": "Take photos to document the clean, staged condition"
+        },
+        {
+          "text": "Lock up and confirm keys or the smart lock code are ready"
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is included in an Airbnb turnover clean?",
+      "a": "A turnover includes cleaning every room, laundering all linens and towels, restocking supplies and amenities, taking out trash, inspecting for damage, and staging the space for the next guest."
+    },
+    {
+      "q": "How long should an Airbnb cleaning take?",
+      "a": "A turnover typically takes one to three hours depending on the property size and number of bedrooms. Following a consistent checklist keeps each turnover efficient and thorough."
+    },
+    {
+      "q": "What should I restock between Airbnb guests?",
+      "a": "Restock toilet paper, paper towels, soap, shampoo, coffee, dish soap, trash bags, and any welcome amenities. Always leave extras so guests don't run out mid-stay."
+    },
+    {
+      "q": "How do I keep cleaning standards consistent across turnovers?",
+      "a": "Use the same written checklist every time and share it with your cleaning team. A printable checklist ensures every turnover meets the same standard regardless of who cleans."
+    },
+    {
+      "q": "Can I download this Airbnb cleaning checklist?",
+      "a": "Yes. Print it or save the PDF so you and your cleaners follow the same turnover routine at every check-out."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/airbnb-cleaning-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/airbnb-cleaning-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Airbnb Cleaning Checklist by ChecklistForge (https://checklistforge.com/checklist/airbnb-cleaning-checklist)",
+  "updated": "2026-10-17"
+}

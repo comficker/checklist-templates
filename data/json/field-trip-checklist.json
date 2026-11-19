@@ -1,0 +1,161 @@
+{
+  "id": "field-trip-checklist",
+  "name": "Field Trip Checklist",
+  "description": "A planning and packing checklist for a school field trip.",
+  "category": "back-to-school",
+  "category_name": "Back to School",
+  "tags": [
+    "safety",
+    "field-trip",
+    "teachers",
+    "school-outing",
+    "chaperones"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Permissions and paperwork",
+      "items": [
+        {
+          "text": "Get school administration approval for the trip."
+        },
+        {
+          "text": "Send permission slips home with a clear deadline.",
+          "note": "Track which students have returned them."
+        },
+        {
+          "text": "Collect medical, allergy and emergency contact details."
+        },
+        {
+          "text": "Confirm liability and photo consent forms are signed."
+        },
+        {
+          "text": "Prepare a roster of all attending students."
+        },
+        {
+          "text": "Arrange coverage for any students staying behind."
+        }
+      ]
+    },
+    {
+      "title": "Transportation and logistics",
+      "items": [
+        {
+          "text": "Book and confirm transportation for the group."
+        },
+        {
+          "text": "Confirm the destination booking and arrival time."
+        },
+        {
+          "text": "Plan the departure and return schedule."
+        },
+        {
+          "text": "Share the itinerary with staff and chaperones."
+        },
+        {
+          "text": "Confirm meal and restroom break plans."
+        },
+        {
+          "text": "Send a detailed note home to families."
+        }
+      ]
+    },
+    {
+      "title": "Supplies to bring",
+      "items": [
+        {
+          "text": "Pack a complete first-aid kit."
+        },
+        {
+          "text": "Bring the student roster and contact list."
+        },
+        {
+          "text": "Carry printed copies of medical information."
+        },
+        {
+          "text": "Pack name tags or matching identifiers."
+        },
+        {
+          "text": "Bring any worksheets or activity materials."
+        },
+        {
+          "text": "Carry water, snacks and spare supplies."
+        }
+      ]
+    },
+    {
+      "title": "Safety and supervision",
+      "items": [
+        {
+          "text": "Confirm enough chaperones for the group size."
+        },
+        {
+          "text": "Assign each chaperone a small named group."
+        },
+        {
+          "text": "Brief everyone on rules and meeting points."
+        },
+        {
+          "text": "Plan a procedure for a separated student."
+        },
+        {
+          "text": "Take a headcount before and after each stop.",
+          "note": "Count again before boarding for return."
+        },
+        {
+          "text": "Keep a charged phone and emergency numbers ready."
+        }
+      ]
+    },
+    {
+      "title": "Wrap-up",
+      "items": [
+        {
+          "text": "Do a final headcount before leaving the site."
+        },
+        {
+          "text": "Collect all supplies and check for lost items."
+        },
+        {
+          "text": "Confirm every student is accounted for on return."
+        },
+        {
+          "text": "Release students to authorized adults only."
+        },
+        {
+          "text": "Thank chaperones and the destination staff."
+        },
+        {
+          "text": "Gather feedback and note improvements for next time."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What paperwork do I need for a school field trip?",
+      "a": "You typically need signed permission slips from every parent, medical and allergy information for each student, emergency contact details, and any liability or photo consent forms required by your school. Collect and check them well before the trip date."
+    },
+    {
+      "q": "How many chaperones do I need?",
+      "a": "Ratios vary by grade and destination, but younger students need more supervision than older ones. Follow your school's policy, assign each chaperone a small named group, and give every adult a roster, schedule, and contact list before you leave."
+    },
+    {
+      "q": "What should students bring on a field trip?",
+      "a": "Most trips call for weather-appropriate clothing, a packed lunch or money, a water bottle, and any required worksheets. Check the destination's rules on bags and devices, and remind families about specifics through a clear note home in advance."
+    },
+    {
+      "q": "How do I keep students safe during the trip?",
+      "a": "Take a roster, do frequent headcounts, assign students to chaperone groups, and brief everyone on meeting points and behavior expectations. Carry a first-aid kit and emergency information, and confirm a plan for any student who gets separated."
+    },
+    {
+      "q": "Is this field trip checklist available as a printable PDF?",
+      "a": "Yes. You can print it or download it as a PDF for teachers and chaperones to share, then tick off permissions, logistics, packing and safety steps before and during the trip."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/field-trip-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/field-trip-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Field Trip Checklist by ChecklistForge (https://checklistforge.com/checklist/field-trip-checklist)",
+  "updated": "2026-10-17"
+}

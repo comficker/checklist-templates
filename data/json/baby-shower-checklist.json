@@ -1,0 +1,208 @@
+{
+  "id": "baby-shower-checklist",
+  "name": "Baby Shower Checklist",
+  "description": "A step-by-step planning guide to organize a memorable, stress-free baby shower from start to finish.",
+  "category": "pregnancy-baby",
+  "category_name": "Pregnancy & Baby",
+  "tags": [
+    "pregnancy",
+    "celebration",
+    "baby-shower",
+    "party-planning"
+  ],
+  "item_count": 42,
+  "sections": [
+    {
+      "title": "Set the Plan and Timeline",
+      "items": [
+        {
+          "text": "Confirm the date and time with the parent-to-be before anything else."
+        },
+        {
+          "text": "Decide on a theme or color palette to guide your other choices."
+        },
+        {
+          "text": "Set a realistic budget and split costs if you are co-hosting."
+        },
+        {
+          "text": "Choose whether the shower is in-person, virtual, or a mix of both."
+        },
+        {
+          "text": "Build a rough timeline working backward from the event date.",
+          "note": "Aim to send invitations about six weeks out."
+        },
+        {
+          "text": "Assign tasks among co-hosts so no one is overloaded."
+        }
+      ]
+    },
+    {
+      "title": "Guest List and Invitations",
+      "items": [
+        {
+          "text": "Draft the guest list and confirm it with the parents."
+        },
+        {
+          "text": "Gather mailing addresses or email addresses for everyone."
+        },
+        {
+          "text": "Decide whether to host a co-ed shower or partner-inclusive event."
+        },
+        {
+          "text": "Send invitations with date, time, location, and RSVP details."
+        },
+        {
+          "text": "Include registry information or gift preferences on the invite."
+        },
+        {
+          "text": "Track RSVPs and follow up with anyone who has not replied.",
+          "note": "Confirm the final headcount about a week before."
+        }
+      ]
+    },
+    {
+      "title": "Venue and Setup",
+      "items": [
+        {
+          "text": "Choose a venue that comfortably fits your expected guest count."
+        },
+        {
+          "text": "Reserve the space or prepare the host's home well in advance."
+        },
+        {
+          "text": "Plan seating so guests can mingle and see gifts being opened."
+        },
+        {
+          "text": "Arrange tables for food, drinks, gifts, and the favor display."
+        },
+        {
+          "text": "Check for parking, restrooms, and easy access for older relatives."
+        },
+        {
+          "text": "Set up a comfortable spot for the parent-to-be to relax."
+        }
+      ]
+    },
+    {
+      "title": "Food and Drinks",
+      "items": [
+        {
+          "text": "Decide on the menu style: full meal, brunch, or light bites."
+        },
+        {
+          "text": "Plan a mix of savory snacks, fresh fruit, and a sweet treat."
+        },
+        {
+          "text": "Order or bake a cake, or set up a dessert table."
+        },
+        {
+          "text": "Offer plenty of non-alcoholic drinks like mocktails and sparkling water."
+        },
+        {
+          "text": "Account for dietary restrictions and allergies you collected with RSVPs.",
+          "note": "Label dishes so guests can spot allergens at a glance."
+        },
+        {
+          "text": "Stock plates, cups, napkins, utensils, and serving tools."
+        }
+      ]
+    },
+    {
+      "title": "Decorations and Atmosphere",
+      "items": [
+        {
+          "text": "Hang a banner, backdrop, or balloon arch as a focal point."
+        },
+        {
+          "text": "Set up table centerpieces that match your color palette."
+        },
+        {
+          "text": "Create a welcome sign or photo corner for guests."
+        },
+        {
+          "text": "Prepare a gift display table and a spot for cards."
+        },
+        {
+          "text": "Build a simple playlist for background music."
+        },
+        {
+          "text": "Have a camera or phone ready to capture candid moments."
+        }
+      ]
+    },
+    {
+      "title": "Games and Activities",
+      "items": [
+        {
+          "text": "Pick one or two easygoing games that suit your guests."
+        },
+        {
+          "text": "Print or prepare any game sheets, pens, and props in advance."
+        },
+        {
+          "text": "Gather small prizes for game winners."
+        },
+        {
+          "text": "Set out a guest book or advice cards for parents to keep."
+        },
+        {
+          "text": "Plan a meaningful keepsake activity, like signing a onesie or a wish card."
+        },
+        {
+          "text": "Build in quiet mingling time so the day never feels forced."
+        }
+      ]
+    },
+    {
+      "title": "Favors, Gifts, and Wrap-Up",
+      "items": [
+        {
+          "text": "Choose simple party favors and set them out for guests to take."
+        },
+        {
+          "text": "Designate someone to record gifts as they are opened."
+        },
+        {
+          "text": "Keep a notepad handy for thank-you note details later."
+        },
+        {
+          "text": "Arrange help to transport gifts home for the parents."
+        },
+        {
+          "text": "Prepare to-go boxes for leftover food and cake."
+        },
+        {
+          "text": "Tidy and return any rented or borrowed items promptly.",
+          "note": "Send thank-you notes within a couple of weeks."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How far in advance should I plan a baby shower?",
+      "a": "Start planning about two to three months ahead. This gives you time to pick a date, book a venue, and send invitations roughly six weeks before the event. Showers are usually held in the last trimester, often around weeks 28 to 36, so check with the parent before locking in a date."
+    },
+    {
+      "q": "Who traditionally hosts the baby shower?",
+      "a": "A close friend, sibling, or family member often hosts, though anyone can take the lead today. Co-hosting with a couple of people helps share the cost and workload. Always coordinate with the parent-to-be on the date, guest list, and any preferences before sending invitations."
+    },
+    {
+      "q": "How long should a baby shower last?",
+      "a": "Most showers run about two to three hours. That leaves enough time for guests to arrive, mingle, enjoy food, play a game or two, and watch gifts being opened. Keep the schedule loose so it feels relaxed rather than rushed, and build in a little buffer for late arrivals."
+    },
+    {
+      "q": "What should I include on the guest list?",
+      "a": "Include close family and friends the parents want to celebrate with. Confirm the guest list with the parent-to-be first, since they may want a small gathering or a large one. Note dietary needs and plus-ones early so you can plan food and seating without last-minute surprises."
+    },
+    {
+      "q": "Do I need games at a baby shower?",
+      "a": "Games are optional but help guests relax and connect, especially if not everyone knows each other. Pick one or two low-pressure activities rather than filling the whole event. Have small prizes ready, and always give guests an easy way to sit out if they prefer to just chat."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/baby-shower-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/baby-shower-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Baby Shower Checklist by ChecklistForge (https://checklistforge.com/checklist/baby-shower-checklist)",
+  "updated": "2026-10-18"
+}

@@ -1,0 +1,185 @@
+{
+  "id": "cat-sitter-checklist",
+  "name": "Cat Sitter Checklist",
+  "description": "A cat sitter checklist for owners covering litter, feeding, hiding spots, meds and vet info.",
+  "category": "pets",
+  "category_name": "Pets",
+  "tags": [
+    "pets",
+    "cats",
+    "cat-sitter",
+    "litter"
+  ],
+  "item_count": 37,
+  "sections": [
+    {
+      "title": "Feeding instructions",
+      "items": [
+        {
+          "text": "List wet and dry food types, amounts and times."
+        },
+        {
+          "text": "Show where food, treats and bowls are stored."
+        },
+        {
+          "text": "Note allergies and any unsafe foods."
+        },
+        {
+          "text": "Explain treat rules and how many are allowed."
+        },
+        {
+          "text": "Describe how to refresh water, including any fountain."
+        },
+        {
+          "text": "Mention how your cat usually behaves at mealtime."
+        }
+      ]
+    },
+    {
+      "title": "Litter box care",
+      "items": [
+        {
+          "text": "Show where each litter box is located."
+        },
+        {
+          "text": "Note the litter type and where extra is stored."
+        },
+        {
+          "text": "Explain how often to scoop and fully change litter."
+        },
+        {
+          "text": "Describe where to dispose of waste."
+        },
+        {
+          "text": "Avoid moving or changing boxes while you are away."
+        },
+        {
+          "text": "Flag litter box avoidance as a possible concern.",
+          "note": "Avoiding the box can signal stress or a health issue to mention to your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Hiding spots and behavior",
+      "items": [
+        {
+          "text": "List your cat's favorite hiding spots."
+        },
+        {
+          "text": "Explain whether to coax the cat out or leave it be."
+        },
+        {
+          "text": "Note how your cat reacts to new people."
+        },
+        {
+          "text": "Describe signs your cat is relaxed versus stressed."
+        },
+        {
+          "text": "Mention scratching posts and play preferences."
+        },
+        {
+          "text": "Warn about any escape risks near doors or windows."
+        }
+      ]
+    },
+    {
+      "title": "Medications and health",
+      "items": [
+        {
+          "text": "List each medication, dose and timing clearly."
+        },
+        {
+          "text": "Explain how to give each medication step by step."
+        },
+        {
+          "text": "Note where medications are stored."
+        },
+        {
+          "text": "Describe what to do if a dose is missed."
+        },
+        {
+          "text": "Flag symptoms that need attention, like not eating."
+        },
+        {
+          "text": "Confirm all medication details with your veterinarian."
+        }
+      ]
+    },
+    {
+      "title": "Vet and emergencies",
+      "items": [
+        {
+          "text": "Share your veterinarian's name and number."
+        },
+        {
+          "text": "Note the nearest emergency vet clinic and address."
+        },
+        {
+          "text": "Include microchip details and a recent photo."
+        },
+        {
+          "text": "List any medical conditions or allergies."
+        },
+        {
+          "text": "Authorize emergency care and note any cost limits."
+        },
+        {
+          "text": "Provide your phone number and a local backup contact."
+        }
+      ]
+    },
+    {
+      "title": "Home and notes",
+      "items": [
+        {
+          "text": "Explain how to lock up and secure the home."
+        },
+        {
+          "text": "Point out cleaning supplies for accidents."
+        },
+        {
+          "text": "Note where to find a leash or carrier if needed."
+        },
+        {
+          "text": "Flag household hazards to keep away from your cat."
+        },
+        {
+          "text": "Confirm visit times and how to send you updates."
+        },
+        {
+          "text": "Leave Wi-Fi, thermostat and basic home notes."
+        },
+        {
+          "text": "Important: This is general information, not professional advice. Confirm medication and health instructions with your veterinarian before leaving your cat with a sitter."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I tell a cat sitter about the litter box?",
+      "a": "Show where each litter box is, the type of litter used, and how often to scoop and refresh it. Note any changes that might upset your cat. Flag litter box avoidance, since it can signal stress or a health issue worth mentioning to your veterinarian."
+    },
+    {
+      "q": "How do I explain feeding to a cat sitter?",
+      "a": "List the food type, amount and feeding times, including wet and dry, plus treat rules and any allergies. Show where food and bowls are kept and how to refresh water. Note unsafe foods. Many cats prefer routine, so keeping timing consistent helps."
+    },
+    {
+      "q": "Why should I mention hiding spots?",
+      "a": "Cats often hide from new people, so telling the sitter your cat's favorite hiding spots prevents panic if the cat is not visible. Explain whether to coax the cat out or leave it be. Note signs that hiding has become concerning and may need a vet's input."
+    },
+    {
+      "q": "What vet and emergency info should I leave?",
+      "a": "Leave your veterinarian's name and number, the nearest emergency clinic, your contact details and a local backup contact. Include microchip information, medications and any medical conditions. Authorize emergency care and note any cost limits so the sitter can act fast."
+    },
+    {
+      "q": "Can I download this cat sitter checklist as a PDF?",
+      "a": "Yes. You can print it for the counter or download it as a PDF to share with your sitter, so owners can leave clear instructions for litter, feeding and care of their cat."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/cat-sitter-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/cat-sitter-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Cat Sitter Checklist by ChecklistForge (https://checklistforge.com/checklist/cat-sitter-checklist)",
+  "updated": "2026-10-17"
+}

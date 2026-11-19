@@ -1,0 +1,158 @@
+{
+  "id": "social-media-checklist",
+  "name": "Social Media Checklist",
+  "description": "A social media checklist with daily and weekly tasks plus a step-by-step routine for publishing each post.",
+  "category": "marketing",
+  "category_name": "Marketing",
+  "tags": [
+    "marketing",
+    "content",
+    "social-media",
+    "engagement"
+  ],
+  "item_count": 30,
+  "sections": [
+    {
+      "title": "Account setup and basics",
+      "items": [
+        {
+          "text": "Confirm each profile has an up-to-date bio, link and profile image."
+        },
+        {
+          "text": "Verify the link in bio points to the right current destination."
+        },
+        {
+          "text": "Switch personal accounts to business or creator profiles for analytics."
+        },
+        {
+          "text": "Document your brand voice and content pillars for reference."
+        },
+        {
+          "text": "Set up a scheduling tool and connect all your accounts."
+        }
+      ]
+    },
+    {
+      "title": "Daily tasks",
+      "items": [
+        {
+          "text": "Reply to new comments on your recent posts."
+        },
+        {
+          "text": "Respond to direct messages and questions promptly."
+        },
+        {
+          "text": "Check mentions and tags, then react or repost where relevant."
+        },
+        {
+          "text": "Publish any posts scheduled for today and confirm they went live."
+        },
+        {
+          "text": "Engage with a few relevant accounts in your niche."
+        },
+        {
+          "text": "Note any trending topics or sounds worth using soon."
+        }
+      ]
+    },
+    {
+      "title": "Weekly tasks",
+      "items": [
+        {
+          "text": "Plan and schedule next week's posts in advance."
+        },
+        {
+          "text": "Review last week's top and worst performing posts."
+        },
+        {
+          "text": "Batch-create content so you are not posting at the last minute."
+        },
+        {
+          "text": "Refresh your saved hashtag and caption templates."
+        },
+        {
+          "text": "Check follower growth and engagement rate trends."
+        },
+        {
+          "text": "Engage with current followers through stories, polls or questions."
+        }
+      ]
+    },
+    {
+      "title": "Per-post publishing checklist",
+      "items": [
+        {
+          "text": "Confirm the visual is high quality and sized for the platform."
+        },
+        {
+          "text": "Write a caption with a clear hook in the first line."
+        },
+        {
+          "text": "Add a clear call to action, such as save, comment or click."
+        },
+        {
+          "text": "Include relevant, targeted hashtags rather than generic ones."
+        },
+        {
+          "text": "Add descriptive alt text to images for accessibility."
+        },
+        {
+          "text": "Check the link works and uses tracking if needed."
+        },
+        {
+          "text": "Preview the post and proofread for typos before publishing."
+        },
+        {
+          "text": "Schedule it for your audience's most active time."
+        }
+      ]
+    },
+    {
+      "title": "Monthly review and growth",
+      "items": [
+        {
+          "text": "Pull a monthly report on reach, engagement and follower growth."
+        },
+        {
+          "text": "Identify your best-performing content format and do more of it."
+        },
+        {
+          "text": "Review which posting times drive the most engagement."
+        },
+        {
+          "text": "Audit profiles to keep links, pinned posts and bios current."
+        },
+        {
+          "text": "Set content goals and themes for the month ahead."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What goes on a daily social media checklist?",
+      "a": "Daily tasks usually include replying to comments and messages, monitoring mentions, engaging with relevant accounts and publishing any scheduled posts. The point is consistent presence without spending all day in the app."
+    },
+    {
+      "q": "How do I use the per-post publishing checklist?",
+      "a": "Run it every time you create a post. It walks you through the caption, hashtags, alt text, link, preview and posting time so each post is complete and accessible before it goes live."
+    },
+    {
+      "q": "Is this social media checklist good for beginners?",
+      "a": "Yes. It breaks social media management into small, clear steps so a beginner or small business owner can stay consistent without guessing what to do each day."
+    },
+    {
+      "q": "Can I download the social media checklist as a PDF?",
+      "a": "Yes. You can print it or download it as a PDF and share it with anyone who helps manage your accounts."
+    },
+    {
+      "q": "How often should I review my social media analytics?",
+      "a": "Check quick numbers weekly and do a deeper review monthly. The weekly and monthly sections in this checklist tell you exactly what to look at."
+    }
+  ],
+  "checklistforge": "https://checklistforge.com/checklist/social-media-checklist",
+  "pdf_and_editor": "https://checklistforge.com/checklist/social-media-checklist",
+  "license": "CC-BY-4.0",
+  "credit": "Social Media Checklist by ChecklistForge (https://checklistforge.com/checklist/social-media-checklist)",
+  "updated": "2026-10-17"
+}
